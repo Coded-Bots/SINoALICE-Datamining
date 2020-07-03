@@ -1,0 +1,57 @@
+[
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 1, 
+        "firstObjectType": 19, 
+        "targetId": 41, 
+        "num": 0, 
+        "firstObjectId": 21, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 2, 
+        "firstObjectType": 19, 
+        "targetId": 103, 
+        "num": 0, 
+        "firstObjectId": 19, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 3, 
+        "firstObjectType": 19, 
+        "targetId": 107, 
+        "num": 0, 
+        "firstObjectId": 22, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 4, 
+        "firstObjectType": 19, 
+        "targetId": 205, 
+        "num": 0, 
+        "firstObjectId": 20, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 5, 
+        "firstObjectType": 19, 
+        "targetId": 207, 
+        "num": 0, 
+        "firstObjectId": 24, 
+        "firstNum": 1, 
+        "objectType": 0
+    }
+]

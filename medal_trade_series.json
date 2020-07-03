@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Charm Medal", 
+        "startTime": 1483196400, 
+        "description": "Created by converting mystical power.", 
+        "priority": 1, 
+        "assetBundleName": "0002", 
+        "resourceName": "item1", 
+        "wayToGet": "Obtained as a Colosseum reward or by selling certain gear and Nightmares.", 
+        "endTime": 1924959599, 
+        "medalTradeSeriesMstId": 2, 
+        "medalTradeGroupMstId": 0, 
+        "isDeleted": false, 
+        "itemMstId": 2
+    }, 
+    {
+        "name": "Medal of Desire (VII)", 
+        "startTime": 1483196400, 
+        "description": "A medal that is an incidental byproduct of a Grimoire.", 
+        "priority": 3, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain Grimoire.", 
+        "endTime": 1597330799, 
+        "medalTradeSeriesMstId": 3, 
+        "medalTradeGroupMstId": 0, 
+        "isDeleted": false, 
+        "itemMstId": 155
+    }, 
+    {
+        "name": "Chrono Medal", 
+        "startTime": 1593669600, 
+        "description": "Medal collected by Parrah-Noya.", 
+        "priority": 5, 
+        "assetBundleName": "0005", 
+        "resourceName": "item1", 
+        "wayToGet": "Play an event to view.", 
+        "endTime": 1595516399, 
+        "medalTradeSeriesMstId": 5, 
+        "medalTradeGroupMstId": 0, 
+        "isDeleted": false, 
+        "itemMstId": 174
+    }, 
+    {
+        "name": "Friend Medal", 
+        "startTime": 1483196400, 
+        "description": "Awarded to those who've found true friendship.", 
+        "priority": 2, 
+        "assetBundleName": "0006", 
+        "resourceName": "item1", 
+        "wayToGet": "Earn up to 3 per day by CO-OP battling with friends and guild members.\\n*By purchasing the Royal User service, earn up to 5 per day.", 
+        "endTime": 1924959599, 
+        "medalTradeSeriesMstId": 6, 
+        "medalTradeGroupMstId": 0, 
+        "isDeleted": false, 
+        "itemMstId": 6
+    }, 
+    {
+        "name": "Royal medal", 
+        "startTime": 1593529200, 
+        "description": "Medal collected by Parrah-Noya. *Expires: 180 days after receipt", 
+        "priority": 43, 
+        "assetBundleName": "0780", 
+        "resourceName": "item20180913", 
+        "wayToGet": "Earned by buying the Royal User Service. \\n*Expires: 180 days from purchase", 
+        "endTime": 1924959599, 
+        "medalTradeSeriesMstId": 48, 
+        "medalTradeGroupMstId": 0, 
+        "isDeleted": false, 
+        "itemMstId": 780
+    }
+]

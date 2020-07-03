@@ -1,0 +1,167 @@
+[
+    {
+        "gachaSerifMstId": 1, 
+        "naviCharacter": 1, 
+        "serifType": 1, 
+        "cueName": "cv_gacha_Serif_01", 
+        "serif": "Ding ding ding, the lucky\\ncustomer gets the prize.", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 2, 
+        "naviCharacter": 2, 
+        "serifType": 1, 
+        "cueName": "cv_gacha_Serif_02", 
+        "serif": "Oh wonderful, a rare.\\nGo ahead, fulfill that desire.", 
+        "serifPosition": 2, 
+        "serifOrder": 2, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 3, 
+        "naviCharacter": 2, 
+        "serifType": 2, 
+        "cueName": "cv_gacha_Serif_03", 
+        "serif": "I lose my head, you get a rare.\\nWhat luck we're having.", 
+        "serifPosition": 2, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 4, 
+        "naviCharacter": 2, 
+        "serifType": 3, 
+        "cueName": "cv_gacha_Serif_04", 
+        "serif": "We. Want. More. Rares.", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 5, 
+        "naviCharacter": 1, 
+        "serifType": 3, 
+        "cueName": "cv_gacha_Serif_05", 
+        "serif": "Fine. I GUESS\\nI can give you more rares.", 
+        "serifPosition": 1, 
+        "serifOrder": 2, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 6, 
+        "naviCharacter": 2, 
+        "serifType": 4, 
+        "cueName": "cv_gacha_Serif_06", 
+        "serif": "Not enough goodies.\\nGive more rares.", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 7, 
+        "naviCharacter": 1, 
+        "serifType": 4, 
+        "cueName": "cv_gacha_Serif_07", 
+        "serif": "That's more than enough.\\nStop whining.", 
+        "serifPosition": 1, 
+        "serifOrder": 2, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 8, 
+        "naviCharacter": 1, 
+        "serifType": 5, 
+        "cueName": "cv_gacha_Serif_08", 
+        "serif": "Not enough.\\nOne more rare, please.", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 9, 
+        "naviCharacter": 2, 
+        "serifType": 5, 
+        "cueName": "cv_gacha_Serif_09", 
+        "serif": "We can't give them more than this.\\nHave you lost your mind?", 
+        "serifPosition": 1, 
+        "serifOrder": 2, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 10, 
+        "naviCharacter": 1, 
+        "serifType": 6, 
+        "cueName": "cv_gacha_Serif_10", 
+        "serif": "Oooh. What will it be?\\nWhat won't it be?", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 11, 
+        "naviCharacter": 2, 
+        "serifType": 6, 
+        "cueName": "cv_gacha_Serif_11", 
+        "serif": "Come on,\\ngive us the good stuff!", 
+        "serifPosition": 1, 
+        "serifOrder": 2, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 12, 
+        "naviCharacter": 1, 
+        "serifType": 7, 
+        "cueName": "cv_gacha_Serif_12", 
+        "serif": "Bad luck is not our problem.\\nIt's yours.", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 13, 
+        "naviCharacter": 2, 
+        "serifType": 7, 
+        "cueName": "cv_gacha_Serif_13", 
+        "serif": "Another murder weapon\\nto add to the pile!", 
+        "serifPosition": 1, 
+        "serifOrder": 2, 
+        "createdTime": 1593571374, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 14, 
+        "naviCharacter": 2, 
+        "serifType": 8, 
+        "cueName": "cv_gacha_Serif_14", 
+        "serif": "C'monC'monC'monC'mon\\nCOOOOME ONNNN.", 
+        "serifPosition": 1, 
+        "serifOrder": 1, 
+        "createdTime": 1593571372, 
+        "cueSeat": "cv_gacha_Serif"
+    }, 
+    {
+        "gachaSerifMstId": 15, 
+        "naviCharacter": 1, 
+        "serifType": 8, 
+        "cueName": "cv_gacha_Serif_15", 
+        "serif": "...Zip it.", 
+        "serifPosition": 1, 
+        "serifOrder": 2, 
+        "createdTime": 1593571373, 
+        "cueSeat": "cv_gacha_Serif"
+    }
+]

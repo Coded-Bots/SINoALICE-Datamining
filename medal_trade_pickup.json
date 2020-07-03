@@ -1,0 +1,24 @@
+[
+    {
+        "objectId": 107, 
+        "medalTradeSeriesMstId": 3, 
+        "num": 1, 
+        "startTime": 1483196400, 
+        "medalTradePickupMstId": 2, 
+        "endTime": 1594187999, 
+        "pickupSkillType": 3, 
+        "isDeleted": false, 
+        "objectType": 2
+    }, 
+    {
+        "objectId": 581, 
+        "medalTradeSeriesMstId": 3, 
+        "num": 1, 
+        "startTime": 1594274400, 
+        "medalTradePickupMstId": 3, 
+        "endTime": 1596779999, 
+        "pickupSkillType": 3, 
+        "isDeleted": false, 
+        "objectType": 2
+    }
+]

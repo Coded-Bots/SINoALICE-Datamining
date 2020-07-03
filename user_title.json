@@ -1,0 +1,92 @@
+[
+    {
+        "name": "1st Gran Colosseum [Overall Rank 1]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guild ranked 1st overall.", 
+        "userTitleMstId": 1, 
+        "createdTime": null, 
+        "resourceName": "0003", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Rank 2]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guild ranked 2nd overall.", 
+        "userTitleMstId": 2, 
+        "createdTime": null, 
+        "resourceName": "0003", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Rank 3]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guild ranked 3rd overall.", 
+        "userTitleMstId": 3, 
+        "createdTime": null, 
+        "resourceName": "0003", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 10]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 4th to 10th overall.", 
+        "userTitleMstId": 4, 
+        "createdTime": null, 
+        "resourceName": "0003", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 30]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 11th to 30th overall.", 
+        "userTitleMstId": 5, 
+        "createdTime": null, 
+        "resourceName": "0002", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 50]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 31st to 50th overall.", 
+        "userTitleMstId": 6, 
+        "createdTime": null, 
+        "resourceName": "0002", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 100]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 51st to 100th overall.", 
+        "userTitleMstId": 7, 
+        "createdTime": null, 
+        "resourceName": "0002", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 200]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 101st to 200th overall.", 
+        "userTitleMstId": 8, 
+        "createdTime": null, 
+        "resourceName": "0001", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 300]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 201st to 300th overall.", 
+        "userTitleMstId": 9, 
+        "createdTime": null, 
+        "resourceName": "0001", 
+        "assetBundleName": "user_title/1"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 500]", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to members in the guilds ranked 301st to 500th overall.", 
+        "userTitleMstId": 10, 
+        "createdTime": null, 
+        "resourceName": "0001", 
+        "assetBundleName": "user_title/1"
+    }
+]
