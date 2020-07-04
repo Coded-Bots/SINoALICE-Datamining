@@ -405,7 +405,7 @@
         "transitionSceneName": "", 
         "isDisplayHome": true, 
         "badgeResourceName": "", 
-        "priority": 100, 
+        "priority": 1, 
         "createdTime": 1483974000, 
         "badgeAssetBundleName": "", 
         "startTime": 1577804400, 
