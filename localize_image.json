@@ -7,11 +7,11 @@
         "JP": "召喚", 
         "VN": "Triệu hồi", 
         "KR": "소환", 
-        "TLM": 100, 
+        "ES": "Invocar", 
         "TH": "เรียก", 
         "Type": 0, 
         "id": 1, 
-        "ES": "Invocar"
+        "TLM": 100
     }, 
     {
         "FR": "Accueil", 
@@ -21,11 +21,11 @@
         "JP": "ホーム", 
         "VN": "Trang chính", 
         "KR": "홈", 
-        "TLM": 101, 
+        "ES": "Inicio", 
         "TH": "หน้าหลัก", 
         "Type": 0, 
         "id": 2, 
-        "ES": "Inicio"
+        "TLM": 101
     }, 
     {
         "FR": "Menu", 
@@ -35,11 +35,11 @@
         "JP": "メニュー", 
         "VN": "Menu", 
         "KR": "메뉴", 
-        "TLM": 102, 
+        "ES": "Menú", 
         "TH": "เมนู", 
         "Type": 0, 
         "id": 3, 
-        "ES": "Menú"
+        "TLM": 102
     }, 
     {
         "FR": "Fermer", 
@@ -49,11 +49,11 @@
         "JP": "ｘ閉じる", 
         "VN": "Đóng", 
         "KR": "× 닫기", 
-        "TLM": 103, 
+        "ES": "Cerrar", 
         "TH": "ｘปิด", 
         "Type": 0, 
         "id": 4, 
-        "ES": "Cerrar"
+        "TLM": 103
     }, 
     {
         "FR": "Récupération de PC", 
@@ -63,11 +63,11 @@
         "JP": "SP回復", 
         "VN": "Phục hồi SP", 
         "KR": "SP 회복", 
-        "TLM": 104, 
+        "ES": "Recuperación de PH", 
         "TH": "ฟื้นฟู SP", 
         "Type": 0, 
         "id": 5, 
-        "ES": "Recuperación de PH"
+        "TLM": 104
     }, 
     {
         "FR": "Combat en coop.", 
@@ -77,11 +77,11 @@
         "JP": "共闘参戦", 
         "VN": "Trận QUẦN CHIẾN", 
         "KR": "협력 전투 참전", 
-        "TLM": 105, 
+        "ES": "Combate cooperativo", 
         "TH": "การต่อสู้ CO-OP", 
         "Type": 0, 
         "id": 6, 
-        "ES": "Combate cooperativo"
+        "TLM": 105
     }, 
     {
         "FR": "Invocation utilisée", 
@@ -91,11 +91,11 @@
         "JP": "召喚済み", 
         "VN": "Đã dùng triệu hồi", 
         "KR": "소환 완료", 
-        "TLM": 106, 
+        "ES": "Invocación utilizada", 
         "TH": "เรียกแล้ว", 
         "Type": 0, 
         "id": 7, 
-        "ES": "Invocación utilizada"
+        "TLM": 106
     }, 
     {
         "FR": "Récupère", 
@@ -105,11 +105,11 @@
         "JP": "回復中", 
         "VN": "Phục hồi", 
         "KR": "회복 중", 
-        "TLM": 107, 
+        "ES": "Recuperando", 
         "TH": "กำลังฟื้นฟู", 
         "Type": 0, 
         "id": 8, 
-        "ES": "Recuperando"
+        "TLM": 107
     }, 
     {
         "FR": "En attente de récupération", 
@@ -119,11 +119,11 @@
         "JP": "回復待ち…", 
         "VN": "Đang chờ phục hồi", 
         "KR": "회복 대기…", 
-        "TLM": 108, 
+        "ES": "Esperando recuperación", 
         "TH": "รอการฟื้นฟู...", 
         "Type": 0, 
         "id": 9, 
-        "ES": "Esperando recuperación"
+        "TLM": 108
     }, 
     {
         "FR": "ATQ PHY +", 
@@ -133,11 +133,11 @@
         "JP": "物攻UP", 
         "VN": "Tăng công vật lý", 
         "KR": "물공 상승", 
-        "TLM": 109, 
+        "ES": "AUMENTO ATQ FÍS", 
         "TH": "PHY ATK UP", 
         "Type": 0, 
         "id": 10, 
-        "ES": "AUMENTO ATQ FÍS"
+        "TLM": 109
     }, 
     {
         "FR": "DÉF PHY +", 
@@ -147,11 +147,11 @@
         "JP": "物防UP", 
         "VN": "Tăng thủ vật lý", 
         "KR": "물방 상승", 
-        "TLM": 110, 
+        "ES": "AUMENTO DEF FÍS", 
         "TH": "PHY DEF UP", 
         "Type": 0, 
         "id": 11, 
-        "ES": "AUMENTO DEF FÍS"
+        "TLM": 110
     }, 
     {
         "FR": "ATQ MAG +", 
@@ -161,11 +161,11 @@
         "JP": "魔攻UP", 
         "VN": "Tăng công phép", 
         "KR": "마공 상승", 
-        "TLM": 111, 
+        "ES": "AUMENTO ATQ MÁG", 
         "TH": "MAG ATK UP", 
         "Type": 0, 
         "id": 12, 
-        "ES": "AUMENTO ATQ MÁG"
+        "TLM": 111
     }, 
     {
         "FR": "DÉF MAG +", 
@@ -175,11 +175,11 @@
         "JP": "魔防UP", 
         "VN": "Tăng thủ phép", 
         "KR": "마방 상승", 
-        "TLM": 112, 
+        "ES": "AUMENTO DEF MÁG", 
         "TH": "MAG DEF UP", 
         "Type": 0, 
         "id": 13, 
-        "ES": "AUMENTO DEF MÁG"
+        "TLM": 112
     }, 
     {
         "FR": "ATQ PHY -", 
@@ -189,11 +189,11 @@
         "JP": "物攻DOWN", 
         "VN": "Giảm công vật lý", 
         "KR": "물공 감소", 
-        "TLM": 113, 
+        "ES": "DISMINUCIÓN ATQ FÍS", 
         "TH": "PHY ATK DOWN", 
         "Type": 0, 
         "id": 14, 
-        "ES": "DISMINUCIÓN ATQ FÍS"
+        "TLM": 113
     }, 
     {
         "FR": "DÉF PHY -", 
@@ -203,11 +203,11 @@
         "JP": "物防DOWN", 
         "VN": "Giảm thủ vật lý", 
         "KR": "물방 감소", 
-        "TLM": 114, 
+        "ES": "DISMINUCIÓN DEF FÍS", 
         "TH": "PHY DEF DOWN", 
         "Type": 0, 
         "id": 15, 
-        "ES": "DISMINUCIÓN DEF FÍS"
+        "TLM": 114
     }, 
     {
         "FR": "ATQ MAG -", 
@@ -217,11 +217,11 @@
         "JP": "魔攻DOWN", 
         "VN": "Giảm công phép", 
         "KR": "마공 감소", 
-        "TLM": 115, 
+        "ES": "DISMINUCIÓN ATQ MÁG", 
         "TH": "MAG ATK DOWN", 
         "Type": 0, 
         "id": 16, 
-        "ES": "DISMINUCIÓN ATQ MÁG"
+        "TLM": 115
     }, 
     {
         "FR": "DÉF MAG -", 
@@ -231,11 +231,11 @@
         "JP": "魔防DOWN", 
         "VN": "Giảm thủ phép", 
         "KR": "마방 감소", 
-        "TLM": 116, 
+        "ES": "DISMINUCIÓN DEF MÁG", 
         "TH": "MAG DEF DOWN", 
         "Type": 0, 
         "id": 17, 
-        "ES": "DISMINUCIÓN DEF MÁG"
+        "TLM": 116
     }, 
     {
         "FR": "Recharger", 
@@ -245,11 +245,11 @@
         "JP": "武器補充", 
         "VN": "Tải lại", 
         "KR": "무기 보충", 
-        "TLM": 117, 
+        "ES": "Volver a cargar", 
         "TH": "เติมอาวุธ", 
         "Type": 0, 
         "id": 18, 
-        "ES": "Volver a cargar"
+        "TLM": 117
     }, 
     {
         "FR": "Invocation de Cauchemars", 
@@ -259,11 +259,11 @@
         "JP": "ナイトメア召喚", 
         "VN": "Triệu hồi Nightmare", 
         "KR": "나이트메어 소환", 
-        "TLM": 118, 
+        "ES": "Invocación de pesadillas", 
         "TH": "เรียกไนท์แมร์", 
         "Type": 0, 
         "id": 19, 
-        "ES": "Invocación de pesadillas"
+        "TLM": 118
     }, 
     {
         "FR": "Retour au combat", 
@@ -273,11 +273,11 @@
         "JP": "バトルに戻る", 
         "VN": "Quay lại trận chiến", 
         "KR": "전투 복귀", 
-        "TLM": 119, 
+        "ES": "Regresar al combate", 
         "TH": "กลับเข้าสู่การต่อสู้", 
         "Type": 0, 
         "id": 20, 
-        "ES": "Regresar al combate"
+        "TLM": 119
     }, 
     {
         "FR": "Chance !", 
@@ -287,11 +287,11 @@
         "JP": "チャンス！", 
         "VN": "Cơ hội!", 
         "KR": "찬스!", 
-        "TLM": 120, 
+        "ES": "Ahora", 
         "TH": "ช่วงโอกาส!", 
         "Type": 0, 
         "id": 21, 
-        "ES": "Ahora"
+        "TLM": 120
     }, 
     {
         "FR": "Refus de changer", 
@@ -301,11 +301,11 @@
         "JP": "交代拒否中", 
         "VN": "Không chuyển", 
         "KR": "교대 거부 중", 
-        "TLM": 121, 
+        "ES": "No cambia", 
         "TH": "กำลังปฏิเสธการสลับ", 
         "Type": 0, 
         "id": 22, 
-        "ES": "No cambia"
+        "TLM": 121
     }, 
     {
         "FR": "Récupération de PC", 
@@ -315,11 +315,11 @@
         "JP": "ＳＰ回復", 
         "VN": "Phục hồi SP", 
         "KR": "SP 회복", 
-        "TLM": 122, 
+        "ES": "Recuperación de PH", 
         "TH": "ฟื้นฟู SP", 
         "Type": 0, 
         "id": 23, 
-        "ES": "Recuperación de PH"
+        "TLM": 122
     }, 
     {
         "FR": "Attaque normale", 
@@ -329,11 +329,11 @@
         "JP": "通常攻撃", 
         "VN": "Tấn công thường", 
         "KR": "일반 공격", 
-        "TLM": 123, 
+        "ES": "Ataque normal", 
         "TH": "โจมตีปกติ", 
         "Type": 0, 
         "id": 24, 
-        "ES": "Ataque normal"
+        "TLM": 123
     }, 
     {
         "FR": "Ennemi à terre", 
@@ -343,11 +343,11 @@
         "JP": "撃墜成功", 
         "VN": "Đã hạ gục kẻ địch", 
         "KR": "격추 성공", 
-        "TLM": 124, 
+        "ES": "Enemigo derribado", 
         "TH": "โจมตีสำเร็จ", 
         "Type": 0, 
         "id": 25, 
-        "ES": "Enemigo derribado"
+        "TLM": 124
     }, 
     {
         "FR": "Utiliser l'arme", 
@@ -357,11 +357,11 @@
         "JP": "武器使用", 
         "VN": "Sử dụng vũ khí", 
         "KR": "무기 사용", 
-        "TLM": 125, 
+        "ES": "Usar arma", 
         "TH": "ใช้อาวุธ", 
         "Type": 0, 
         "id": 26, 
-        "ES": "Usar arma"
+        "TLM": 125
     }, 
     {
         "FR": "Invoqué", 
@@ -371,11 +371,11 @@
         "JP": "召喚中", 
         "VN": "Đã triệu hồi", 
         "KR": "소환 중", 
-        "TLM": 126, 
+        "ES": "Invocando", 
         "TH": "กำลังเรียก", 
         "Type": 0, 
         "id": 27, 
-        "ES": "Invocando"
+        "TLM": 126
     }, 
     {
         "FR": "AUTO\\\\nCombat automatique", 
@@ -385,11 +385,11 @@
         "JP": "AUTO\\\\nオートバトル", 
         "VN": "TỰ ĐỘNG\\\\nChiến đấu tự động", 
         "KR": "AUTO\\\\n자동 전투", 
-        "TLM": 127, 
+        "ES": "AUTO\\\\nCombate automático", 
         "TH": "AUTO\\\\nต่อสู้อัตโนมัติ", 
         "Type": 0, 
         "id": 28, 
-        "ES": "AUTO\\\\nCombate automático"
+        "TLM": 127
     }, 
     {
         "FR": "Journal de combat", 
@@ -399,11 +399,11 @@
         "JP": "バトルログ", 
         "VN": "Bản ghi chiến đấu", 
         "KR": "전투 기록", 
-        "TLM": 128, 
+        "ES": "Registro de combate", 
         "TH": "Battlelog", 
         "Type": 0, 
         "id": 29, 
-        "ES": "Registro de combate"
+        "TLM": 128
     }, 
     {
         "FR": "Appeler un membre", 
@@ -413,11 +413,11 @@
         "JP": "メンバー呼び出し", 
         "VN": "Kêu gọi thành viên", 
         "KR": "길드원 호출", 
-        "TLM": 129, 
+        "ES": "Llamar miembro", 
         "TH": "เรียกสมาชิก", 
         "Type": 0, 
         "id": 30, 
-        "ES": "Llamar miembro"
+        "TLM": 129
     }, 
     {
         "FR": "Changer avant/arrière", 
@@ -427,11 +427,11 @@
         "JP": "前衛後衛チェンジ", 
         "VN": "Chuyển đổi hàng trước/sau", 
         "KR": "전후방 교대", 
-        "TLM": 130, 
+        "ES": "Cambiar Vanguardia / Retaguardia", 
         "TH": "สลับแถวหน้า/หลัง", 
         "Type": 0, 
         "id": 31, 
-        "ES": "Cambiar Vanguardia / Retaguardia"
+        "TLM": 130
     }, 
     {
         "FR": "Ranimer", 
@@ -441,11 +441,11 @@
         "JP": "復活", 
         "VN": "Hồi sinh", 
         "KR": "부활", 
-        "TLM": 131, 
+        "ES": "Revivir", 
         "TH": "ฟื้นคืนชีพ", 
         "Type": 0, 
         "id": 32, 
-        "ES": "Revivir"
+        "TLM": 131
     }, 
     {
         "FR": "Ressusciter", 
@@ -455,11 +455,11 @@
         "JP": "蘇生", 
         "VN": "Hồi sinh", 
         "KR": "소생", 
-        "TLM": 132, 
+        "ES": "Resucitar", 
         "TH": "ฟื้นฟู", 
         "Type": 0, 
         "id": 33, 
-        "ES": "Resucitar"
+        "TLM": 132
     }, 
     {
         "FR": "Attaquer le vaisseau de guilde", 
@@ -469,11 +469,11 @@
         "JP": "ギルドシップ攻撃", 
         "VN": "Tấn công Hội sở", 
         "KR": "길드함 공격", 
-        "TLM": 133, 
+        "ES": "Atacar gremio", 
         "TH": "โจมตีกิลด์ชิพ", 
         "Type": 0, 
         "id": 34, 
-        "ES": "Atacar gremio"
+        "TLM": 133
     }, 
     {
         "FR": "Un démon approche...", 
@@ -483,11 +483,11 @@
         "JP": "神魔の気配を感じる…", 
         "VN": "Một ác quỷ tiến đến...", 
         "KR": "신마의 기운이 느껴진다…", 
-        "TLM": 134, 
+        "ES": "Se acerca un demonio...", 
         "TH": "รู้สึกได้ถึงกลิ่นอายปีศาจ...", 
         "Type": 0, 
         "id": 35, 
-        "ES": "Se acerca un demonio..."
+        "TLM": 134
     }, 
     {
         "FR": "Le démon s'en est allé...", 
@@ -497,11 +497,11 @@
         "JP": "神魔は去っていった…", 
         "VN": "Ác quỷ đã lìa đời.", 
         "KR": "신마는 퇴각했다……", 
-        "TLM": 135, 
+        "ES": "El demonio se ha ido...", 
         "TH": "ปีศาจไปแล้ว...", 
         "Type": 0, 
         "id": 36, 
-        "ES": "El demonio se ha ido..."
+        "TLM": 135
     }, 
     {
         "FR": "Chance d'invocation de démon", 
@@ -511,11 +511,11 @@
         "JP": "神魔召喚チャンス", 
         "VN": "Cơ hội triệu hồi ác quỷ", 
         "KR": "신마 소환 찬스", 
-        "TLM": 136, 
+        "ES": "Oportunidad de invocar un demonio", 
         "TH": "โอกาสเรียกปีศาจ", 
         "Type": 0, 
         "id": 37, 
-        "ES": "Oportunidad de invocar un demonio"
+        "TLM": 136
     }, 
     {
         "FR": "Déséquiper", 
@@ -525,11 +525,11 @@
         "JP": "装備から外す", 
         "VN": "Gỡ bỏ", 
         "KR": "장비 해제", 
-        "TLM": 137, 
+        "ES": "Retirar del equipo", 
         "TH": "ถอดออกจากอุปกรณ์", 
         "Type": 0, 
         "id": 38, 
-        "ES": "Retirar del equipo"
+        "TLM": 137
     }, 
     {
         "FR": "Impossible d'utiliser la surcharge", 
@@ -539,11 +539,11 @@
         "JP": "限界突破不可能", 
         "VN": "Không thể đột phá giới hạn", 
         "KR": "한계돌파 불가", 
-        "TLM": 138, 
+        "ES": "No se puede superar el límite", 
         "TH": "ไม่สามารถข้ามขีดจำกัดได้", 
         "Type": 0, 
         "id": 39, 
-        "ES": "No se puede superar el límite"
+        "TLM": 138
     }, 
     {
         "FR": "Évolution impossible", 
@@ -553,11 +553,11 @@
         "JP": "進化不可能", 
         "VN": "Không thể tiến hóa", 
         "KR": "진화 불가", 
-        "TLM": 139, 
+        "ES": "No se puede mejorar", 
         "TH": "ไม่สามารถวิวัฒนาการได้", 
         "Type": 0, 
         "id": 40, 
-        "ES": "No se puede mejorar"
+        "TLM": 139
     }, 
     {
         "FR": "Type d'arme", 
@@ -567,11 +567,11 @@
         "JP": "武器種", 
         "VN": "Loại vũ khí", 
         "KR": "무기 종류", 
-        "TLM": 140, 
+        "ES": "Tipo de arma", 
         "TH": "ประเภทอาวุธ", 
         "Type": 0, 
         "id": 41, 
-        "ES": "Tipo de arma"
+        "TLM": 140
     }, 
     {
         "FR": "Personnage", 
@@ -581,11 +581,11 @@
         "JP": "キャラクター", 
         "VN": "Ký tự", 
         "KR": "캐릭터", 
-        "TLM": 141, 
+        "ES": "Personaje", 
         "TH": "ตัวละคร", 
         "Type": 0, 
         "id": 42, 
-        "ES": "Personaje"
+        "TLM": 141
     }, 
     {
         "FR": "Affinité (éléments)", 
@@ -595,11 +595,11 @@
         "JP": "属性", 
         "VN": "Hệ", 
         "KR": "속성", 
-        "TLM": 142, 
+        "ES": "Afinidad", 
         "TH": "ธาตุ", 
         "Type": 0, 
         "id": 43, 
-        "ES": "Afinidad"
+        "TLM": 142
     }, 
     {
         "FR": "Rareté", 
@@ -609,11 +609,11 @@
         "JP": "レアリティ", 
         "VN": "Độ hiếm", 
         "KR": "레어도", 
-        "TLM": 143, 
+        "ES": "Rareza", 
         "TH": "ระดับความหายาก", 
         "Type": 0, 
         "id": 44, 
-        "ES": "Rareza"
+        "TLM": 143
     }, 
     {
         "FR": "Type d'armure", 
@@ -623,11 +623,11 @@
         "JP": "防具種", 
         "VN": "Loại giáp", 
         "KR": "방어구 종류", 
-        "TLM": 144, 
+        "ES": "Tipo de armadura", 
         "TH": "ประเภทชุดเกราะ", 
         "Type": 0, 
         "id": 45, 
-        "ES": "Tipo de armadura"
+        "TLM": 144
     }, 
     {
         "FR": "Verrouiller", 
@@ -637,11 +637,11 @@
         "JP": "ロック", 
         "VN": "Khóa", 
         "KR": "장비 보호", 
-        "TLM": 145, 
+        "ES": "Bloquear", 
         "TH": "ล็อก", 
         "Type": 0, 
         "id": 46, 
-        "ES": "Bloquear"
+        "TLM": 145
     }, 
     {
         "FR": "Apparence d'équipement", 
@@ -651,11 +651,11 @@
         "JP": "見た目装備", 
         "VN": "Vỏ trang bị", 
         "KR": "외형 장비", 
-        "TLM": 146, 
+        "ES": "Diseño del equipo", 
         "TH": "อุปกรณ์สกิน", 
         "Type": 0, 
         "id": 47, 
-        "ES": "Diseño del equipo"
+        "TLM": 146
     }, 
     {
         "FR": "Ensemble principal", 
@@ -665,11 +665,11 @@
         "JP": "メインセット", 
         "VN": "Bộ chính", 
         "KR": "메인 세트", 
-        "TLM": 147, 
+        "ES": "Set principal", 
         "TH": "เซ็ตหลัก", 
         "Type": 0, 
         "id": 48, 
-        "ES": "Set principal"
+        "TLM": 147
     }, 
     {
         "FR": "Messagerie", 
@@ -679,11 +679,11 @@
         "JP": "チャット", 
         "VN": "Trò chuyện", 
         "KR": "채팅", 
-        "TLM": 148, 
+        "ES": "Chat", 
         "TH": "แชท", 
         "Type": 0, 
         "id": 49, 
-        "ES": "Chat"
+        "TLM": 148
     }, 
     {
         "FR": "Équipement", 
@@ -693,11 +693,11 @@
         "JP": "装備", 
         "VN": "Trang bị", 
         "KR": "장비", 
-        "TLM": 149, 
+        "ES": "Equipo", 
         "TH": "อุปกรณ์", 
         "Type": 0, 
         "id": 50, 
-        "ES": "Equipo"
+        "TLM": 149
     }, 
     {
         "FR": "Améliorer・Vendre", 
@@ -707,11 +707,11 @@
         "JP": "強化・売却", 
         "VN": "Nâng cấp\\\\nbán", 
         "KR": "강화/판매", 
-        "TLM": 150, 
+        "ES": "Mejorar\\\\nVender", 
         "TH": "อัพเกรด-ขาย", 
         "Type": 0, 
         "id": 51, 
-        "ES": "Mejorar\\\\nVender"
+        "TLM": 150
     }, 
     {
         "FR": "Grimoire", 
@@ -721,11 +721,11 @@
         "JP": "ガチャ", 
         "VN": "Sách phép", 
         "KR": "뽑기", 
-        "TLM": 151, 
+        "ES": "Grimorio", 
         "TH": "กรีมัวร์", 
         "Type": 0, 
         "id": 52, 
-        "ES": "Grimorio"
+        "TLM": 151
     }, 
     {
         "FR": "Histoire", 
@@ -735,11 +735,11 @@
         "JP": "モノガタリ", 
         "VN": "Truyền kỳ", 
         "KR": "이야기", 
-        "TLM": 152, 
+        "ES": "Historia", 
         "TH": "เนื้อเรื่อง", 
         "Type": 0, 
         "id": 53, 
-        "ES": "Historia"
+        "TLM": 152
     }, 
     {
         "FR": "Armes", 
@@ -749,11 +749,11 @@
         "JP": "武器", 
         "VN": "Vũ khí", 
         "KR": "무기", 
-        "TLM": 153, 
+        "ES": "Arma", 
         "TH": "อาวุธ", 
         "Type": 0, 
         "id": 54, 
-        "ES": "Arma"
+        "TLM": 153
     }, 
     {
         "FR": "Cauchemars", 
@@ -763,11 +763,11 @@
         "JP": "ナイトメア", 
         "VN": "Nightmare", 
         "KR": "나이트메어", 
-        "TLM": 154, 
+        "ES": "Pesadillas", 
         "TH": "ไนท์แมร์", 
         "Type": 0, 
         "id": 55, 
-        "ES": "Pesadillas"
+        "TLM": 154
     }, 
     {
         "FR": "Passer", 
@@ -777,11 +777,11 @@
         "JP": "スキップ", 
         "VN": "Bỏ qua", 
         "KR": "스킵", 
-        "TLM": 155, 
+        "ES": "Omitir", 
         "TH": "ข้าม", 
         "Type": 0, 
         "id": 56, 
-        "ES": "Omitir"
+        "TLM": 155
     }, 
     {
         "FR": "Autorisation nécessaire", 
@@ -791,11 +791,11 @@
         "JP": "承認制", 
         "VN": "Cần phê duyệt", 
         "KR": "승인제", 
-        "TLM": 156, 
+        "ES": "Se necesita aprobación", 
         "TH": "ระบบแบบรออนุมัติ", 
         "Type": 0, 
         "id": 57, 
-        "ES": "Se necesita aprobación"
+        "TLM": 156
     }, 
     {
         "FR": "Acceptation automatique", 
@@ -805,11 +805,11 @@
         "JP": "自動承認制", 
         "VN": "Tự động phê duyệt", 
         "KR": "자동 승인제", 
-        "TLM": 157, 
+        "ES": "Aprobación automática", 
         "TH": "ระบบอนุมัติออโต้", 
         "Type": 0, 
         "id": 58, 
-        "ES": "Aprobación automática"
+        "TLM": 157
     }, 
     {
         "FR": "Recommandé", 
@@ -819,11 +819,11 @@
         "JP": "オススメ", 
         "VN": "Được đề xuất", 
         "KR": "추천", 
-        "TLM": 158, 
+        "ES": "Recomendado", 
         "TH": "แนะนำ", 
         "Type": 0, 
         "id": 59, 
-        "ES": "Recomendado"
+        "TLM": 158
     }, 
     {
         "FR": "Demande en attente", 
@@ -833,11 +833,11 @@
         "JP": "申請中", 
         "VN": "Yêu cầu", 
         "KR": "신청 중", 
-        "TLM": 159, 
+        "ES": "Solicitando", 
         "TH": "กำลังส่งคำร้อง", 
         "Type": 0, 
         "id": 60, 
-        "ES": "Solicitando"
+        "TLM": 159
     }, 
     {
         "FR": "Préférences du Colisée", 
@@ -847,11 +847,11 @@
         "JP": "コロシアム個人設定", 
         "VN": "Tùy chọn ở Đại đấu trường", 
         "KR": "콜로세움 개인 설정", 
-        "TLM": 160, 
+        "ES": "Preferencias del Coliseo", 
         "TH": "ตั้งค่าส่วนตัวโคลอสเซียม", 
         "Type": 0, 
         "id": 61, 
-        "ES": "Preferencias del Coliseo"
+        "TLM": 160
     }, 
     {
         "FR": "Préférences d'invitation de guilde", 
@@ -861,11 +861,11 @@
         "JP": "ギルド勧誘希望設定", 
         "VN": "Tùy chọn mời gia nhập hội", 
         "KR": "길드 초대 희망 설정", 
-        "TLM": 161, 
+        "ES": "Preferencias de invitación a gremio", 
         "TH": "ตั้งค่าการเชิญเข้ากิลด์", 
         "Type": 0, 
         "id": 62, 
-        "ES": "Preferencias de invitación a gremio"
+        "TLM": 161
     }, 
     {
         "FR": "Horaires du Colisée", 
@@ -875,11 +875,11 @@
         "JP": "コロシアム設定時間", 
         "VN": "Cài đặt thời gian ở Đấu trường", 
         "KR": "콜로세움 설정 시간", 
-        "TLM": 162, 
+        "ES": "Configuración horaria del Coliseo", 
         "TH": "ตั้งเวลาโคลอสเซียม", 
         "Type": 0, 
         "id": 63, 
-        "ES": "Configuración horaria del Coliseo"
+        "TLM": 162
     }, 
     {
         "FR": "Style de jeu", 
@@ -889,11 +889,11 @@
         "JP": "プレイスタイル", 
         "VN": "Phong cách chơi", 
         "KR": "플레이 스타일", 
-        "TLM": 163, 
+        "ES": "Estilo de juego", 
         "TH": "สไตล์การเล่น", 
         "Type": 0, 
         "id": 64, 
-        "ES": "Estilo de juego"
+        "TLM": 163
     }, 
     {
         "FR": "Fréquence de jeu du Colisée", 
@@ -903,11 +903,11 @@
         "JP": "コロシアム参加頻度", 
         "VN": "Tần suất chơi ở Đấu trường", 
         "KR": "콜로세움 참가 빈도", 
-        "TLM": 164, 
+        "ES": "Frecuencia de juego en el Coliseo", 
         "TH": "ความถี่ในการร่วมโคลอสเซียม", 
         "Type": 0, 
         "id": 65, 
-        "ES": "Frecuencia de juego en el Coliseo"
+        "TLM": 164
     }, 
     {
         "FR": "Rôles nécessaires", 
@@ -917,11 +917,11 @@
         "JP": "募集役割", 
         "VN": "Các vai trò cần thiết", 
         "KR": "모집 역할", 
-        "TLM": 165, 
+        "ES": "Se necesitan roles", 
         "TH": "บทบาทที่รับสมัคร", 
         "Type": 0, 
         "id": 66, 
-        "ES": "Se necesitan roles"
+        "TLM": 165
     }, 
     {
         "FR": "Rôle spécialisé", 
@@ -931,11 +931,11 @@
         "JP": "得意役割", 
         "VN": "Vai trò chuyên biệt", 
         "KR": "주력 역할", 
-        "TLM": 166, 
+        "ES": "Rol de especialidad", 
         "TH": "บทบาทที่ชำนาญ", 
         "Type": 0, 
         "id": 67, 
-        "ES": "Rol de especialidad"
+        "TLM": 166
     }, 
     {
         "FR": "Entrer dans le Colisée", 
@@ -945,11 +945,11 @@
         "JP": "コロシアム参加", 
         "VN": "Tham gia Đấu trường", 
         "KR": "콜로세움 참가", 
-        "TLM": 167, 
+        "ES": "Entrar en el Coliseo", 
         "TH": "เข้าสู่โคลอสเซียม", 
         "Type": 0, 
         "id": 68, 
-        "ES": "Entrar en el Coliseo"
+        "TLM": 167
     }, 
     {
         "FR": "Guildes recommandées", 
@@ -959,11 +959,11 @@
         "JP": "おすすめギルド", 
         "VN": "Hội được đề xuất", 
         "KR": "추천 길드", 
-        "TLM": 168, 
+        "ES": "Gremios recomendados", 
         "TH": "กิลด์แนะนำ", 
         "Type": 0, 
         "id": 69, 
-        "ES": "Gremios recomendados"
+        "TLM": 168
     }, 
     {
         "FR": "Guilde demandée", 
@@ -973,11 +973,11 @@
         "JP": "申請中ギルド", 
         "VN": "Hội đã đề nghị", 
         "KR": "가입 신청한 길드", 
-        "TLM": 169, 
+        "ES": "Gremio solicitado", 
         "TH": "กิลด์ที่กำลังส่งคำร้อง", 
         "Type": 0, 
         "id": 70, 
-        "ES": "Gremio solicitado"
+        "TLM": 169
     }, 
     {
         "FR": "Sélectionné", 
@@ -987,11 +987,11 @@
         "JP": "設定中", 
         "VN": "Đang chọn", 
         "KR": "설정 중", 
-        "TLM": 170, 
+        "ES": "Seleccionando", 
         "TH": "กำลังตั้งค่า", 
         "Type": 0, 
         "id": 71, 
-        "ES": "Seleccionando"
+        "TLM": 170
     }, 
     {
         "FR": "Rang 1", 
@@ -1001,11 +1001,11 @@
         "JP": "1位", 
         "VN": "Hạng 1", 
         "KR": "1위", 
-        "TLM": 171, 
+        "ES": "Clasificación 1", 
         "TH": "อันดับ 1", 
         "Type": 0, 
         "id": 72, 
-        "ES": "Clasificación 1"
+        "TLM": 171
     }, 
     {
         "FR": "Rang 2", 
@@ -1015,11 +1015,11 @@
         "JP": "２位", 
         "VN": "Hạng 2", 
         "KR": "2위", 
-        "TLM": 172, 
+        "ES": "Clasificación 2", 
         "TH": "อันดับ 2", 
         "Type": 0, 
         "id": 73, 
-        "ES": "Clasificación 2"
+        "TLM": 172
     }, 
     {
         "FR": "Rang 3", 
@@ -1029,11 +1029,11 @@
         "JP": "３位", 
         "VN": "Hạng 3", 
         "KR": "3위", 
-        "TLM": 173, 
+        "ES": "Clasificación 3", 
         "TH": "อันดับ 3", 
         "Type": 0, 
         "id": 74, 
-        "ES": "Clasificación 3"
+        "TLM": 173
     }, 
     {
         "FR": "Rang 4", 
@@ -1043,11 +1043,11 @@
         "JP": "４位", 
         "VN": "Hạng 4", 
         "KR": "4위", 
-        "TLM": 174, 
+        "ES": "Clasificación 4", 
         "TH": "อันดับ 4", 
         "Type": 0, 
         "id": 75, 
-        "ES": "Clasificación 4"
+        "TLM": 174
     }, 
     {
         "FR": "Rang 5", 
@@ -1057,11 +1057,11 @@
         "JP": "５位", 
         "VN": "Hạng 5", 
         "KR": "5위", 
-        "TLM": 175, 
+        "ES": "Clasificación 5", 
         "TH": "อันดับ 5", 
         "Type": 0, 
         "id": 76, 
-        "ES": "Clasificación 5"
+        "TLM": 175
     }, 
     {
         "FR": "Rang 6", 
@@ -1071,11 +1071,11 @@
         "JP": "６位", 
         "VN": "Hạng 6", 
         "KR": "6위", 
-        "TLM": 176, 
+        "ES": "Clasificación 6", 
         "TH": "อันดับ 6", 
         "Type": 0, 
         "id": 77, 
-        "ES": "Clasificación 6"
+        "TLM": 176
     }, 
     {
         "FR": "Rang 7", 
@@ -1085,11 +1085,11 @@
         "JP": "７位", 
         "VN": "Hạng 7", 
         "KR": "7위", 
-        "TLM": 177, 
+        "ES": "Clasificación 7", 
         "TH": "อันดับ 7", 
         "Type": 0, 
         "id": 78, 
-        "ES": "Clasificación 7"
+        "TLM": 177
     }, 
     {
         "FR": "Rang 8", 
@@ -1099,11 +1099,11 @@
         "JP": "８位", 
         "VN": "Hạng 8", 
         "KR": "8위", 
-        "TLM": 178, 
+        "ES": "Clasificación 8", 
         "TH": "อันดับ 8", 
         "Type": 0, 
         "id": 79, 
-        "ES": "Clasificación 8"
+        "TLM": 178
     }, 
     {
         "FR": "Rang 9", 
@@ -1113,11 +1113,11 @@
         "JP": "９位", 
         "VN": "Hạng 9", 
         "KR": "9위", 
-        "TLM": 179, 
+        "ES": "Clasificación 9", 
         "TH": "อันดับ 9", 
         "Type": 0, 
         "id": 80, 
-        "ES": "Clasificación 9"
+        "TLM": 179
     }, 
     {
         "FR": "Rang 10", 
@@ -1127,11 +1127,11 @@
         "JP": "１０位", 
         "VN": "Hạng 10", 
         "KR": "10위", 
-        "TLM": 180, 
+        "ES": "Clasificación 10", 
         "TH": "อันดับ 10", 
         "Type": 0, 
         "id": 81, 
-        "ES": "Clasificación 10"
+        "TLM": 180
     }, 
     {
         "FR": "Force vitale", 
@@ -1141,11 +1141,11 @@
         "JP": "イノチ", 
         "VN": "Sinh lực", 
         "KR": "목숨", 
-        "TLM": 181, 
+        "ES": "Fuerza vital", 
         "TH": "พลังชีวิต", 
         "Type": 0, 
         "id": 82, 
-        "ES": "Fuerza vital"
+        "TLM": 181
     }, 
     {
         "FR": "Combo", 
@@ -1155,11 +1155,11 @@
         "JP": "コンボ", 
         "VN": "Combo", 
         "KR": "콤보", 
-        "TLM": 182, 
+        "ES": "Combo", 
         "TH": "คอมโบ", 
         "Type": 0, 
         "id": 83, 
-        "ES": "Combo"
+        "TLM": 182
     }, 
     {
         "FR": "Conditions d'appel", 
@@ -1169,11 +1169,11 @@
         "JP": "呼出条件", 
         "VN": "Điều kiện kêu gọi", 
         "KR": "소환 조건", 
-        "TLM": 183, 
+        "ES": "Condiciones de llamada", 
         "TH": "เงื่อนไขการเรียก", 
         "Type": 0, 
         "id": 84, 
-        "ES": "Condiciones de llamada"
+        "TLM": 183
     }, 
     {
         "FR": "Invocation réussie", 
@@ -1183,11 +1183,11 @@
         "JP": "召喚成功", 
         "VN": "Triệu hồi thành công", 
         "KR": "소환 성공", 
-        "TLM": 184, 
+        "ES": "Invocación realizada con éxito", 
         "TH": "เรียกสำเร็จ", 
         "Type": 0, 
         "id": 85, 
-        "ES": "Invocación realizada con éxito"
+        "TLM": 184
     }, 
     {
         "FR": "Échec de l'invocation", 
@@ -1197,11 +1197,11 @@
         "JP": "召喚失敗", 
         "VN": "Triệu hồi thất bại", 
         "KR": "소환 실패", 
-        "TLM": 185, 
+        "ES": "Invocación fallida", 
         "TH": "การเรียกล้มเหลว", 
         "Type": 0, 
         "id": 86, 
-        "ES": "Invocación fallida"
+        "TLM": 185
     }, 
     {
         "FR": "Suivant", 
@@ -1211,11 +1211,11 @@
         "JP": "次回", 
         "VN": "Tiếp", 
         "KR": "다음", 
-        "TLM": 186, 
+        "ES": "Siguiente", 
         "TH": "ครั้งต่อไป", 
         "Type": 0, 
         "id": 87, 
-        "ES": "Siguiente"
+        "TLM": 186
     }, 
     {
         "FR": "Fin", 
@@ -1225,11 +1225,11 @@
         "JP": "終了", 
         "VN": "Kết thúc", 
         "KR": "종료", 
-        "TLM": 187, 
+        "ES": "Fin", 
         "TH": "จบ", 
         "Type": 0, 
         "id": 88, 
-        "ES": "Fin"
+        "TLM": 187
     }, 
     {
         "FR": "Mise à jour...", 
@@ -1239,11 +1239,11 @@
         "JP": "集計中…", 
         "VN": "Đang cập nhật...", 
         "KR": "집계 중…", 
-        "TLM": 188, 
+        "ES": "Actualizando...", 
         "TH": "กำลังประมวลผล...", 
         "Type": 0, 
         "id": 89, 
-        "ES": "Actualizando..."
+        "TLM": 188
     }, 
     {
         "FR": "Guilde adverse", 
@@ -1253,11 +1253,11 @@
         "JP": "対戦ギルド", 
         "VN": "Hội đối địch", 
         "KR": "대전 길드", 
-        "TLM": 189, 
+        "ES": "Gremio rival", 
         "TH": "กิลด์คู่ต่อสู้", 
         "Type": 0, 
         "id": 90, 
-        "ES": "Gremio rival"
+        "TLM": 189
     }, 
     {
         "FR": "Avant", 
@@ -1267,11 +1267,11 @@
         "JP": "前衛", 
         "VN": "Hàng trước", 
         "KR": "전방", 
-        "TLM": 190, 
+        "ES": "Vanguardia", 
         "TH": "แถวหน้า", 
         "Type": 0, 
         "id": 91, 
-        "ES": "Vanguardia"
+        "TLM": 190
     }, 
     {
         "FR": "Arrière", 
@@ -1281,11 +1281,11 @@
         "JP": "後衛", 
         "VN": "Hàng sau", 
         "KR": "후방", 
-        "TLM": 191, 
+        "ES": "Retaguardia", 
         "TH": "แถวหลัง", 
         "Type": 0, 
         "id": 92, 
-        "ES": "Retaguardia"
+        "TLM": 191
     }, 
     {
         "FR": "Combat dans...", 
@@ -1295,11 +1295,11 @@
         "JP": "開戦まで", 
         "VN": "Chiến đấu sau...", 
         "KR": "전투 시작까지", 
-        "TLM": 192, 
+        "ES": "Combate en...", 
         "TH": "เริ่มต่อสู้ในอีก", 
         "Type": 0, 
         "id": 93, 
-        "ES": "Combate en..."
+        "TLM": 192
     }, 
     {
         "FR": "En combat…", 
@@ -1309,11 +1309,11 @@
         "JP": "開戦中", 
         "VN": "Thời gian còn lại\\\\ntrong trận chiến:", 
         "KR": "전투 중", 
-        "TLM": 193, 
+        "ES": "Combatiendo…", 
         "TH": "กำลังเริ่มการต่อสู้", 
         "Type": 0, 
         "id": 94, 
-        "ES": "Combatiendo…"
+        "TLM": 193
     }, 
     {
         "FR": "Équipé(e)", 
@@ -1323,11 +1323,11 @@
         "JP": "装備中", 
         "VN": "Đã trang bị", 
         "KR": "착용 중", 
-        "TLM": 194, 
+        "ES": "Equipado", 
         "TH": "ติดตั้งอยู่", 
         "Type": 0, 
         "id": 95, 
-        "ES": "Equipado"
+        "TLM": 194
     }, 
     {
         "FR": "Coût", 
@@ -1337,11 +1337,11 @@
         "JP": "コスト", 
         "VN": "Tiêu hao", 
         "KR": "코스트", 
-        "TLM": 195, 
+        "ES": "Coste", 
         "TH": "คอสต์", 
         "Type": 0, 
         "id": 96, 
-        "ES": "Coste"
+        "TLM": 195
     }, 
     {
         "FR": "Cristaux crépusculaires +", 
@@ -1351,11 +1351,11 @@
         "JP": "魔晶石増量", 
         "VN": "Tăng Pha lê chạng vạng", 
         "KR": "마정석 증량", 
-        "TLM": 196, 
+        "ES": "Aumento de cristales del ocaso", 
         "TH": "เพิ่มปริมาณคริสตัลสนธยา", 
         "Type": 0, 
         "id": 97, 
-        "ES": "Aumento de cristales del ocaso"
+        "TLM": 196
     }, 
     {
         "FR": "Téléchargement des désirs...", 
@@ -1365,11 +1365,11 @@
         "JP": "ヨクボウをダウンロード中…", 
         "VN": "Đang tải xuống ước muốn...", 
         "KR": "욕망을 다운로드하는 중……", 
-        "TLM": 197, 
+        "ES": "Descargando deseo...", 
         "TH": "กำลังดาวน์โหลดความปรารถนา…", 
         "Type": 0, 
         "id": 98, 
-        "ES": "Descargando deseo..."
+        "TLM": 197
     }, 
     {
         "FR": "Téléchargement des données vidéo extraites...", 
@@ -1379,11 +1379,11 @@
         "JP": "発掘された映像記録をダウンロード中…", 
         "VN": "Đang tải xuống dữ liệu video đã tìm ra...", 
         "KR": "발굴된 영상 기록을 다운로드하는 중……", 
-        "TLM": 198, 
+        "ES": "Descargando datos de video extraídos...", 
         "TH": "กำลังดาวน์โหลดข้อมูลวีดีโอ...", 
         "Type": 0, 
         "id": 99, 
-        "ES": "Descargando datos de video extraídos..."
+        "TLM": 198
     }, 
     {
         "FR": "Le Colisée", 
@@ -1393,11 +1393,11 @@
         "JP": "コロシアム", 
         "VN": "Đấu trường", 
         "KR": "콜로세움", 
-        "TLM": 199, 
+        "ES": "Coliseo", 
         "TH": "โคลอสเซียม", 
         "Type": 0, 
         "id": 100, 
-        "ES": "Coliseo"
+        "TLM": 199
     }, 
     {
         "FR": "Soutien de Colisée", 
@@ -1407,11 +1407,11 @@
         "JP": "コロシアム補助", 
         "VN": "Hỗ trợ ở Đấu trường", 
         "KR": "콜로세움 보조", 
-        "TLM": 200, 
+        "ES": "Apoyo en el Coliseo", 
         "TH": "สนับสนุนโคลอสเซียม", 
         "Type": 0, 
         "id": 101, 
-        "ES": "Apoyo en el Coliseo"
+        "TLM": 200
     }, 
     {
         "FR": "Soutien d'histoire", 
@@ -1421,11 +1421,11 @@
         "JP": "モノガタリ補助", 
         "VN": "Hỗ trợ trong Truyền kỳ", 
         "KR": "이야기 보조", 
-        "TLM": 201, 
+        "ES": "Apoyo en la historia", 
         "TH": "สนับสนุนเนื้อเรื่อง", 
         "Type": 0, 
         "id": 102, 
-        "ES": "Apoyo en la historia"
+        "TLM": 201
     }, 
     {
         "FR": "Grimoire x1", 
@@ -1435,11 +1435,11 @@
         "JP": "1回ガチャ", 
         "VN": "Sách phép x1", 
         "KR": "1회 뽑기", 
-        "TLM": 202, 
+        "ES": "Grimorio x1", 
         "TH": "กรีมัวร์ 1 ครั้ง", 
         "Type": 0, 
         "id": 103, 
-        "ES": "Grimorio x1"
+        "TLM": 202
     }, 
     {
         "FR": "Grimoire x11", 
@@ -1449,11 +1449,11 @@
         "JP": "11回ガチャ", 
         "VN": "Sách phép x11", 
         "KR": "11회 뽑기", 
-        "TLM": 203, 
+        "ES": "Grimorio x11", 
         "TH": "กรีมัวร์ 11 ครั้ง", 
         "Type": 0, 
         "id": 104, 
-        "ES": "Grimorio x11"
+        "TLM": 203
     }, 
     {
         "FR": "Taux d'apparition +", 
@@ -1463,11 +1463,11 @@
         "JP": "出現率ＵＰ", 
         "VN": "Tăng cơ hội", 
         "KR": "획득률 UP", 
-        "TLM": 204, 
+        "ES": "Aumento de oportunidades", 
         "TH": "อัตราการปรากฎ UP", 
         "Type": 0, 
         "id": 105, 
-        "ES": "Aumento de oportunidades"
+        "TLM": 204
     }, 
     {
         "FR": "Classes débloquées", 
@@ -1477,11 +1477,11 @@
         "JP": "解放されるジョブ", 
         "VN": "Nghề đã mở khóa", 
         "KR": "오픈되는 직업", 
-        "TLM": 205, 
+        "ES": "Clases desbloqueadas", 
         "TH": "คลาสที่ปลดล็อก", 
         "Type": 0, 
         "id": 106, 
-        "ES": "Clases desbloqueadas"
+        "TLM": 205
     }, 
     {
         "FR": "+ Objet d'ensemble", 
@@ -1491,11 +1491,11 @@
         "JP": "+セットアイテム", 
         "VN": "+Vật phẩm bộ", 
         "KR": "+세트 아이템", 
-        "TLM": 206, 
+        "ES": "Objeto de set +", 
         "TH": "+ไอเท็มเซ็ต", 
         "Type": 0, 
         "id": 107, 
-        "ES": "Objeto de set +"
+        "TLM": 206
     }, 
     {
         "FR": "Classes à débloquer", 
@@ -1505,11 +1505,11 @@
         "JP": "解放ジョブ", 
         "VN": "Nghề không thể mở khóa", 
         "KR": "오픈 직업", 
-        "TLM": 207, 
+        "ES": "Clases desbloqueables", 
         "TH": "คลาสที่ปลดล็อกได้", 
         "Type": 0, 
         "id": 108, 
-        "ES": "Clases desbloqueables"
+        "TLM": 207
     }, 
     {
         "FR": "Histoire principale", 
@@ -1519,11 +1519,11 @@
         "JP": "ストーリー", 
         "VN": "Chính truyện", 
         "KR": "스토리", 
-        "TLM": 208, 
+        "ES": "Historia principal", 
         "TH": "เรื่องราว", 
         "Type": 0, 
         "id": 109, 
-        "ES": "Historia principal"
+        "TLM": 208
     }, 
     {
         "FR": "Invocation(s)\\\\nde grimoire", 
@@ -1533,11 +1533,11 @@
         "JP": "ガチャ\\\\n回目", 
         "VN": "Lần triệu hồi\\\\nSách phép", 
         "KR": "뽑기\\\\n회째", 
-        "TLM": 209, 
+        "ES": "Grimorio\\\\nInvocación(es)", 
         "TH": "กรีมัวร์ครั้งที่\\\\n", 
         "Type": 0, 
         "id": 110, 
-        "ES": "Grimorio\\\\nInvocación(es)"
+        "TLM": 209
     }, 
     {
         "FR": "Liste d'objets", 
@@ -1547,11 +1547,11 @@
         "JP": "商品一覧", 
         "VN": "Danh sách vật phẩm", 
         "KR": "상품 목록", 
-        "TLM": 210, 
+        "ES": "Lista de objetos", 
         "TH": "รายการสินค้า", 
         "Type": 0, 
         "id": 111, 
-        "ES": "Lista de objetos"
+        "TLM": 210
     }, 
     {
         "FR": "Objets en vedette", 
@@ -1561,11 +1561,11 @@
         "JP": "目玉商品", 
         "VN": "Vật phẩm nổi bật", 
         "KR": "주목 상품", 
-        "TLM": 211, 
+        "ES": "Objetos destacados", 
         "TH": "สินค้าแนะนำ", 
         "Type": 0, 
         "id": 112, 
-        "ES": "Objetos destacados"
+        "TLM": 211
     }, 
     {
         "FR": "Sang de personnage", 
@@ -1575,11 +1575,11 @@
         "JP": "キャラクターズの血", 
         "VN": "Máu nhân vật", 
         "KR": "캐릭터들의 피", 
-        "TLM": 212, 
+        "ES": "Sangre de personaje", 
         "TH": "เลือดของเหล่าตัวละคร", 
         "Type": 0, 
         "id": 113, 
-        "ES": "Sangre de personaje"
+        "TLM": 212
     }, 
     {
         "FR": "Boîte à grimoires de guilde\\\\\\n\\« Conte de l'oubli »\\", 
@@ -1589,11 +1589,11 @@
         "JP": "ギルドボックスガチャ\\\\n～忘却ノ物語～", 
         "VN": "Hộp sách phép của hội\\\\n-'Truyền kỳ bị lãng quyên'-", 
         "KR": "길드 박스 뽑기\\\\n~망각의 이야기~", 
-        "TLM": 213, 
+        "ES": "Caja de grimorio del gremio\\\\n-«La historia olvidada»-", 
         "TH": "กล่องกรีมัวร์กิลด์\\\\n-'นิทานที่ถูกลืม'-", 
         "Type": 0, 
         "id": 114, 
-        "ES": "Caja de grimorio del gremio\\\\n-«La historia olvidada»-"
+        "TLM": 213
     }, 
     {
         "FR": "Récompenses totales d'invocations de grimoire", 
@@ -1603,11 +1603,11 @@
         "JP": "ガチャ回数報酬", 
         "VN": "Tổng giải thưởng triệu hồi Sách phép", 
         "KR": "뽑기 횟수 보상", 
-        "TLM": 214, 
+        "ES": "Recompensas totales por invocación de grimorio", 
         "TH": "รางวัลจำนวนครั้งกรีมัวร์", 
         "Type": 0, 
         "id": 115, 
-        "ES": "Recompensas totales por invocación de grimorio"
+        "TLM": 214
     }, 
     {
         "FR": "Inscriptions fermées", 
@@ -1617,11 +1617,11 @@
         "JP": "受付終了", 
         "VN": "Đã đóng đăng ký", 
         "KR": "접수 마감", 
-        "TLM": 215, 
+        "ES": "Inscripción cerrada", 
         "TH": "ปิดรับแล้ว", 
         "Type": 0, 
         "id": 116, 
-        "ES": "Inscripción cerrada"
+        "TLM": 215
     }, 
     {
         "FR": "Grand colisée", 
@@ -1631,11 +1631,11 @@
         "JP": "グランコロシアム", 
         "VN": "Đại đấu trường", 
         "KR": "그랑 콜로세움", 
-        "TLM": 216, 
+        "ES": "Gran Coliseo", 
         "TH": "แกรนโคลอสเซียม", 
         "Type": 0, 
         "id": 117, 
-        "ES": "Gran Coliseo"
+        "TLM": 216
     }, 
     {
         "FR": "Classement déterminé selon les points de valeur (PdV)", 
@@ -1645,11 +1645,11 @@
         "JP": "グランpt(ポイント)をもとに順位が決定", 
         "VN": "Thứ hạng được xác định bởi Điểm chiến hội (GP)", 
         "KR": "그랑 pt(포인트)를 기준으로 순위 결정", 
-        "TLM": 217, 
+        "ES": "La clasificación se determina por los Gran puntos (GP).", 
         "TH": "จัดอันดับด้วยแกรนpt(พ้อยต์)", 
         "Type": 0, 
         "id": 118, 
-        "ES": "La clasificación se determina por los Gran puntos (GP)."
+        "TLM": 217
     }, 
     {
         "FR": "Titre", 
@@ -1659,11 +1659,11 @@
         "JP": "称号", 
         "VN": "Danh hiệu", 
         "KR": "칭호", 
-        "TLM": 218, 
+        "ES": "Título", 
         "TH": "ยศ", 
         "Type": 0, 
         "id": 119, 
-        "ES": "Título"
+        "TLM": 218
     }, 
     {
         "FR": "Récompenses", 
@@ -1673,11 +1673,11 @@
         "JP": "報酬", 
         "VN": "Phần thưởng", 
         "KR": "보상", 
-        "TLM": 219, 
+        "ES": "Recompensa", 
         "TH": "รางวัล", 
         "Type": 0, 
         "id": 120, 
-        "ES": "Recompensa"
+        "TLM": 219
     }, 
     {
         "FR": "Classements", 
@@ -1687,11 +1687,11 @@
         "JP": "ランキング", 
         "VN": "Thứ hạng", 
         "KR": "랭킹", 
-        "TLM": 220, 
+        "ES": "Clasificación", 
         "TH": "การจัดอันดับ", 
         "Type": 0, 
         "id": 121, 
-        "ES": "Clasificación"
+        "TLM": 220
     }, 
     {
         "FR": "Liste des combats", 
@@ -1701,11 +1701,11 @@
         "JP": "対戦リスト", 
         "VN": "Danh sách trận chiến", 
         "KR": "대진표", 
-        "TLM": 221, 
+        "ES": "Lista de combates", 
         "TH": "รายการต่อสู้", 
         "Type": 0, 
         "id": 122, 
-        "ES": "Lista de combates"
+        "TLM": 221
     }, 
     {
         "FR": "Résultats du combat", 
@@ -1715,11 +1715,11 @@
         "JP": "Battle Result", 
         "VN": "Kết quả trận chiến", 
         "KR": "전투 결과", 
-        "TLM": 222, 
+        "ES": "Resultados del combate", 
         "TH": "ผลการต่อสู้", 
         "Type": 0, 
         "id": 123, 
-        "ES": "Resultados del combate"
+        "TLM": 222
     }, 
     {
         "FR": "Prochaines qualifications", 
@@ -1729,11 +1729,11 @@
         "JP": "次回予選", 
         "VN": "Vòng loại tiếp theo", 
         "KR": "다음 예선", 
-        "TLM": 223, 
+        "ES": "Siguientes clasificatorias", 
         "TH": "ต่อไปรอบคัดเลือก", 
         "Type": 0, 
         "id": 124, 
-        "ES": "Siguientes clasificatorias"
+        "TLM": 223
     }, 
     {
         "FR": "Les qualifications sont terminées", 
@@ -1743,11 +1743,11 @@
         "JP": "今回の予選は終了しました", 
         "VN": "Vòng loại hiện đã kết thúc", 
         "KR": "이번 대회 예선은 종료되었습니다.", 
-        "TLM": 224, 
+        "ES": "Esta clasificatoria ha terminado", 
         "TH": "รอบคัดเลือกครั้งนี้จบแล้ว", 
         "Type": 0, 
         "id": 125, 
-        "ES": "Esta clasificatoria ha terminado"
+        "TLM": 224
     }, 
     {
         "FR": "Début du combat", 
@@ -1757,11 +1757,11 @@
         "JP": "本戦開催", 
         "VN": "Bắt đầu trận chiến", 
         "KR": "본선 개최", 
-        "TLM": 225, 
+        "ES": "Inicio del combate", 
         "TH": "เริ่มการต่อสู้หลัก", 
         "Type": 0, 
         "id": 126, 
-        "ES": "Inicio del combate"
+        "TLM": 225
     }, 
     {
         "FR": "Avis", 
@@ -1771,11 +1771,11 @@
         "JP": "予告", 
         "VN": "Thông báo", 
         "KR": "예고", 
-        "TLM": 226, 
+        "ES": "Aviso", 
         "TH": "ประกาศล่วงหน้า", 
         "Type": 0, 
         "id": 127, 
-        "ES": "Aviso"
+        "TLM": 226
     }, 
     {
         "FR": "Nbre de victoires", 
@@ -1785,11 +1785,11 @@
         "JP": "勝利数", 
         "VN": "Chiến thắng", 
         "KR": "승리 횟수", 
-        "TLM": 227, 
+        "ES": "Victorias", 
         "TH": "จำนวนชัยชนะ", 
         "Type": 0, 
         "id": 128, 
-        "ES": "Victorias"
+        "TLM": 227
     }, 
     {
         "FR": "Classement qualificatif", 
@@ -1799,11 +1799,11 @@
         "JP": "予選ランキング", 
         "VN": "Thứ hạng đủ tiêu chuẩn", 
         "KR": "예선 랭킹", 
-        "TLM": 228, 
+        "ES": "Posiciones en la clasificación", 
         "TH": "การจัดอันดับรอบคัดเลือก", 
         "Type": 0, 
         "id": 129, 
-        "ES": "Posiciones en la clasificación"
+        "TLM": 228
     }, 
     {
         "FR": "Programme", 
@@ -1813,11 +1813,11 @@
         "JP": "スケジュール", 
         "VN": "Lịch trình", 
         "KR": "일정표", 
-        "TLM": 229, 
+        "ES": "Horario", 
         "TH": "กำหนดการ", 
         "Type": 0, 
         "id": 130, 
-        "ES": "Horario"
+        "TLM": 229
     }, 
     {
         "FR": "Classe débloquée", 
@@ -1827,11 +1827,11 @@
         "JP": "ジョブ解放", 
         "VN": "Đã mở khóa nghề", 
         "KR": "오픈 직업", 
-        "TLM": 230, 
+        "ES": "Clase desbloqueada", 
         "TH": "ปลดล็อกคลาส", 
         "Type": 0, 
         "id": 131, 
-        "ES": "Clase desbloqueada"
+        "TLM": 230
     }, 
     {
         "FR": "SR x1 garanti", 
@@ -1841,11 +1841,11 @@
         "JP": "SS1点確定", 
         "VN": "Bảo đảm S2 x1", 
         "KR": "SR 1개 확정", 
-        "TLM": 231, 
+        "ES": "SR x1 Garantizada", 
         "TH": "การันดีได้รับ SR x1", 
         "Type": 0, 
         "id": 132, 
-        "ES": "SR x1 Garantizada"
+        "TLM": 231
     }, 
     {
         "FR": "S+ x1 garanti", 
@@ -1855,11 +1855,11 @@
         "JP": "S以上一点確定", 
         "VN": "Bảo đảm S+ x1", 
         "KR": "S 이상 1개 확정", 
-        "TLM": 232, 
+        "ES": "S+ x1 Garantizada", 
         "TH": "การันดีได้รับ S+ x1", 
         "Type": 0, 
         "id": 133, 
-        "ES": "S+ x1 Garantizada"
+        "TLM": 232
     }, 
     {
         "FR": "SR x2 garantis", 
@@ -1869,11 +1869,11 @@
         "JP": "SS２点確定", 
         "VN": "Bảo đảm S3 x2", 
         "KR": "SR 2개 확정", 
-        "TLM": 233, 
+        "ES": "SR x2 Garantizada", 
         "TH": "การันดีได้รับ SR x2", 
         "Type": 0, 
         "id": 134, 
-        "ES": "SR x2 Garantizada"
+        "TLM": 233
     }, 
     {
         "FR": "S+ x2 garantis", 
@@ -1883,11 +1883,11 @@
         "JP": "S以上２点確定", 
         "VN": "Bảo đảm S+ x2", 
         "KR": "S 이상 2개 확정", 
-        "TLM": 234, 
+        "ES": "S+ x2 Garantizada", 
         "TH": "การันดีได้รับ S+ x2", 
         "Type": 0, 
         "id": 135, 
-        "ES": "S+ x2 Garantizada"
+        "TLM": 234
     }, 
     {
         "FR": "Obtenez des points de victoire", 
@@ -1897,11 +1897,11 @@
         "JP": "勝ち点を獲得セヨ", 
         "VN": "Giành điểm chiến thắng", 
         "KR": "승점을 획득하라", 
-        "TLM": 235, 
+        "ES": "Consigue puntos de victoria", 
         "TH": "คว้าคะแนนชัยชนะ", 
         "Type": 0, 
         "id": 136, 
-        "ES": "Consigue puntos de victoria"
+        "TLM": 235
     }, 
     {
         "FR": "Obtenez des points de victoire en sortant vainqueur du Colisée.\\\\nLes points de victoire obtenus pendant l'évènement déterminent votre classement !", 
@@ -1911,11 +1911,11 @@
         "JP": "コロシアムに勝利し、勝ち点を獲得しよう。\\\\n期間中に獲得した勝ち点でランキングが決まるぞ。", 
         "VN": "Giành điểm bằng chiến thắng. Chiến thắng trong Đấu trường để giành điểm.\\nĐiểm giành được trong sự kiện sẽ xác định thứ hạng của bạn.", 
         "KR": "콜로세움에서 승리하여 승점을 획득하세요.\\\\n기간 내에 얻은 승점을 기준으로 랭킹이 매겨집니다.", 
-        "TLM": 236, 
+        "ES": "Gana puntos mediante victorias. Gana en el Coliseo para obtener puntos.\\nLos puntos obtenidos durante el evento determinan tu clasificación.", 
         "TH": "คว้าคะแนนชัยชนะ ด้วยการชนะโคลอสเซียม\\\\nคะแนนชัยชนะที่ได้รับในระหว่างช่วงจัดกิจกรรมจะช่วยในการจัดอันดับ", 
         "Type": 0, 
         "id": 137, 
-        "ES": "Gana puntos mediante victorias. Gana en el Coliseo para obtener puntos.\\nLos puntos obtenidos durante el evento determinan tu clasificación."
+        "TLM": 236
     }, 
     {
         "FR": "Débloquez des classes avec des médailles de valeur.", 
@@ -1925,11 +1925,11 @@
         "JP": "グランメダルでジョブを解放セヨ", 
         "VN": "Mở khóa nghề bằng Huy hiệu chiến hội", 
         "KR": "그랑 메달로 직업을 오픈하라", 
-        "TLM": 237, 
+        "ES": "¡Desbloquea clases con medallas Gran!", 
         "TH": "ปลดล็อกคลาสด้วยเหรียญแกรน", 
         "Type": 0, 
         "id": 138, 
-        "ES": "¡Desbloquea clases con medallas Gran!"
+        "TLM": 237
     }, 
     {
         "FR": "Vendez vos médailles dans le menu Échange pour obtenir de formidables récompenses.", 
@@ -1939,11 +1939,11 @@
         "JP": "メダル交換所で豪華報酬と交換", 
         "VN": "Giao dịch huy hiệu tại sự kiện Trao đổi phần thưởng thần thoại.", 
         "KR": "메달 교환소에서 호화 보상으로 교환", 
-        "TLM": 238, 
+        "ES": "Cambia medallas por recompensas increíbles en la zona de intercambio.", 
         "TH": "แลกเปลี่ยนกับรางวัลพิเศษได้ที่ที่แลกเปลี่ยนเหรียญ", 
         "Type": 0, 
         "id": 139, 
-        "ES": "Cambia medallas por recompensas increíbles en la zona de intercambio."
+        "TLM": 238
     }, 
     {
         "FR": "Vous obtiendrez des médailles de valeur en fonction de votre rang.\\\\nLes médailles de valeur peuvent être échangées contre des récompenses prestigieuses.", 
@@ -1953,11 +1953,11 @@
         "JP": "ランキングに応じてグランメダルが獲得できるぞ。\\\\n集めたグランメダルで豪華報酬と交換しよう。", 
         "VN": "Bạn sẽ nhận được Huy hiệu chiến hội dựa trên thứ hạng của mình.\\\\nCó thể trao đổi huy hiệu chiến hội cho các phần thưởng hàng đầu.", 
         "KR": "랭킹에 따라 그랑 메달이 지급됩니다.\\\\n그랑 메달을 모아서 호화 보상과 교환하세요.", 
-        "TLM": 239, 
+        "ES": "Recibirás medallas Gran según tu clasificación.\\\\nLas medallas Gran se pueden cambiar por recompensas extraordinarias.", 
         "TH": "ได้รับเหรียญแกรนตามการจัดอันดับ\\\\nเหรียญแกรนสามารถแลกเปลี่ยนกับรางวัลพิเศษได้", 
         "Type": 0, 
         "id": 140, 
-        "ES": "Recibirás medallas Gran según tu clasificación.\\\\nLas medallas Gran se pueden cambiar por recompensas extraordinarias."
+        "TLM": 239
     }, 
     {
         "FR": "Remportez une place dans l'Arène principale", 
@@ -1967,11 +1967,11 @@
         "JP": "本戦に出場セヨ", 
         "VN": "Giành chỗ trong Võ đài chính", 
         "KR": "본선에 진출하라", 
-        "TLM": 240, 
+        "ES": "¡Vuélvete leyenda en la Arena principal!", 
         "TH": "เข้าร่วมการต่อสู้หลัก", 
         "Type": 0, 
         "id": 141, 
-        "ES": "¡Vuélvete leyenda en la Arena principal!"
+        "TLM": 240
     }, 
     {
         "FR": "Grand colisée\\\\nArène principale", 
@@ -1981,11 +1981,11 @@
         "JP": "グランコロシアム\\\\n本戦出場", 
         "VN": "Võ đài chính\\\\nở Đại đấu trường", 
         "KR": "그랑 콜로세움\\\\n본선 진출", 
-        "TLM": 241, 
+        "ES": "Gran Coliseo\\\\nArena principal", 
         "TH": "แกรนโคลอสเซียม\\\\nร่วมการต่อสู้จริง", 
         "Type": 0, 
         "id": 142, 
-        "ES": "Gran Coliseo\\\\nArena principal"
+        "TLM": 241
     }, 
     {
         "FR": "Seules les guildes les mieux classées peuvent entrer dans l'Arène principale.\\\\nObtenez un maximum de points pendant les qualifications pour participer.", 
@@ -1995,11 +1995,11 @@
         "JP": "ランキング上位ギルドのみ本戦へ出場できるぞ。\\\\n予選でできるだけ勝ち点を稼ぎ出場を目指そう。", 
         "VN": "Chỉ những hội xếp hạng cao nhất mới đủ tiêu chuẩn vào Võ đài chính.\\\\nHãy kiếm nhiều điểm nhất có thể để đủ điều kiện tham gia.", 
         "KR": "상위 랭킹 길드만이 본선에 진출할 수 있습니다.\\\\n예선에서 최대한 승점을 쌓아서 본선 진출을 노려보세요.", 
-        "TLM": 242, 
+        "ES": "Solo los gremios mejor clasificados pasarán a la Arena principal.\\\\nPara participar, gana tantos puntos como puedas en las clasificatorias.", 
         "TH": "กิลด์อันดับต้นๆเท่านั้นที่สามารถเข้าร่วมการต่อสู้จริงได้\\\\nพยายามเข้าร่วมการต่อสู้จริงโดยเร่งเก็บคะแนนชัยชนะจากรอบคัดเลือกให้ได้มากที่สุดเท่าที่ทำได้", 
         "Type": 0, 
         "id": 143, 
-        "ES": "Solo los gremios mejor clasificados pasarán a la Arena principal.\\\\nPara participar, gana tantos puntos como puedas en las clasificatorias."
+        "TLM": 242
     }, 
     {
         "FR": "Rejoignez une guilde\\\\nen plein cœur du « match à mort »", 
@@ -2009,11 +2009,11 @@
         "JP": "ギルド加入で\\\\n真の”殺し合い”の場", 
         "VN": "Tham gia hội để mở khóa\\\\nnhững vùng giết chóc được gọi là", 
         "KR": "길드 가입 시\\\\n진정한 \"살육\"의 장", 
-        "TLM": 243, 
+        "ES": "Únete a un gremio para desbloquear\\\\nla mortífera ubicación conocida como el", 
         "TH": "เข้าร่วมกิลด์เพื่อ\\\\nสถานที่แห่งการ\"เข่นฆ่ากัน\"ที่แท้จริง", 
         "Type": 0, 
         "id": 144, 
-        "ES": "Únete a un gremio para desbloquear\\\\nla mortífera ubicación conocida como el"
+        "TLM": 243
     }, 
     {
         "FR": "Colisée débloqué", 
@@ -2023,11 +2023,11 @@
         "JP": "コロシアム解放", 
         "VN": "Đấu trường", 
         "KR": "콜로세움 오픈", 
-        "TLM": 244, 
+        "ES": "Coliseo", 
         "TH": "เปิดโคลอสเซียม", 
         "Type": 0, 
         "id": 145, 
-        "ES": "Coliseo"
+        "TLM": 244
     }, 
     {
         "FR": "Utiliser 100 fois.", 
@@ -2037,11 +2037,11 @@
         "JP": "を100回使用", 
         "VN": "Sử dụng 100 lần.", 
         "KR": "을(를) 100회 사용", 
-        "TLM": 245, 
+        "ES": "Usar 100 veces.", 
         "TH": "ใช้-　100 ครั้ง", 
         "Type": 0, 
         "id": 146, 
-        "ES": "Usar 100 veces."
+        "TLM": 245
     }, 
     {
         "FR": "Échange de médailles", 
@@ -2051,11 +2051,11 @@
         "JP": "メダル交換所", 
         "VN": "Trao đổi huy hiệu", 
         "KR": "메달 교환소", 
-        "TLM": 246, 
+        "ES": "Intercambio de medallas", 
         "TH": "ที่แลกเปลี่ยนเหรียญ", 
         "Type": 0, 
         "id": 147, 
-        "ES": "Intercambio de medallas"
+        "TLM": 246
     }, 
     {
         "FR": "Vendez des médailles pour obtenir des objets", 
@@ -2065,11 +2065,11 @@
         "JP": "メダルをアイテムと交換", 
         "VN": "Trao đổi huy hiệu lấy các vật phẩm", 
         "KR": "메달로 아이템 교환 가능", 
-        "TLM": 247, 
+        "ES": "Cambia medallas por objetos", 
         "TH": "แลกเหรียญกับไอเท็ม", 
         "Type": 0, 
         "id": 148, 
-        "ES": "Cambia medallas por objetos"
+        "TLM": 247
     }, 
     {
         "FR": "Échanger contre des objets", 
@@ -2079,11 +2079,11 @@
         "JP": "アイテムと交換しよう", 
         "VN": "Trao đổi vật phẩm", 
         "KR": "아이템으로 교환하세요.", 
-        "TLM": 248, 
+        "ES": "Intercambiar por objetos", 
         "TH": "แลกเปลี่ยนเป็นไอเท็มเถอะ", 
         "Type": 0, 
         "id": 149, 
-        "ES": "Intercambiar por objetos"
+        "TLM": 248
     }, 
     {
         "FR": "Date d'utilisation/But/Payé/Gratuit", 
@@ -2093,11 +2093,11 @@
         "JP": "利用日時/用途/有償分/無償分", 
         "VN": "Ngày sử dụng/Mục đích/Trả phí/Miễn phí", 
         "KR": "사용 일시/용도/유료분/무료분", 
-        "TLM": 249, 
+        "ES": "Fecha de uso / Objetivo / Pagado / Gratuito", 
         "TH": "วันเวลาที่ใช้/ใช้เพื่อ/ส่วนที่ซื้อ/ส่วนที่ฟรี", 
         "Type": 0, 
         "id": 150, 
-        "ES": "Fecha de uso / Objetivo / Pagado / Gratuito"
+        "TLM": 249
     }, 
     {
         "FR": "Fermer", 
@@ -2107,11 +2107,11 @@
         "JP": "閉じる", 
         "VN": "Đóng", 
         "KR": "닫기", 
-        "TLM": 250, 
+        "ES": "Cerrar", 
         "TH": "ปิด", 
         "Type": 0, 
         "id": 151, 
-        "ES": "Cerrar"
+        "TLM": 250
     }, 
     {
         "FR": "Félicitations, vous avez obtenu un objet de qualité SR !", 
@@ -2121,11 +2121,11 @@
         "JP": "SS獲得おめでとうございます！", 
         "VN": "Chúc mừng vì đã đạt được vật phẩm S2!", 
         "KR": "SR 획득을 축하드립니다!", 
-        "TLM": 251, 
+        "ES": "Has obtenido un objeto SR ¡Felicidades!", 
         "TH": "ได้รับไอเท็ม SR ยินดีด้วย!", 
         "Type": 0, 
         "id": 152, 
-        "ES": "Has obtenido un objeto SR ¡Felicidades!"
+        "TLM": 251
     }, 
     {
         "FR": "Laissez-nous vos commentaires pour nous aider à améliorer encore votre expérience !", 
@@ -2135,11 +2135,11 @@
         "JP": "レビューを書いて応援していただけると\\\\n開発の励みになります！", 
         "VN": "Viết bài đánh giá sẽ giúp chúng tôi phát triển trải nghiệm tốt hơn nữa!", 
         "KR": "리뷰를 적어 응원해 주시면\\\\n개발에 힘이 됩니다.", 
-        "TLM": 252, 
+        "ES": "¡Tus opiniones nos ayudan a ofrecerte una experiencia mucho mejor!", 
         "TH": "การเขียนรีวิวสนับสนุน\\\\nจะช่วยเป็นกำลังใจให้ทีมงานพัฒนา!", 
         "Type": 0, 
         "id": 153, 
-        "ES": "¡Tus opiniones nos ayudan a ofrecerte una experiencia mucho mejor!"
+        "TLM": 252
     }, 
     {
         "FR": "150 % d'EXP !", 
@@ -2149,11 +2149,11 @@
         "JP": "EXP 1.5倍！", 
         "VN": "150% EXP!", 
         "KR": "EXP 1.5배!", 
-        "TLM": 253, 
+        "ES": "¡150% EXP !", 
         "TH": "EXP1.5เท่า!", 
         "Type": 0, 
         "id": 154, 
-        "ES": "¡150% EXP !"
+        "TLM": 253
     }, 
     {
         "FR": "Fusion terminé(e)", 
@@ -2163,11 +2163,11 @@
         "JP": "合成完了", 
         "VN": "Hoàn thành", 
         "KR": "합성 완료", 
-        "TLM": 254, 
+        "ES": "Realizado", 
         "TH": "เสร็จสิ้น", 
         "Type": 0, 
         "id": 155, 
-        "ES": "Realizado"
+        "TLM": 254
     }, 
     {
         "FR": "Succès retentissant", 
@@ -2177,11 +2177,11 @@
         "JP": "大成功", 
         "VN": "Đại thành công", 
         "KR": "대성공", 
-        "TLM": 255, 
+        "ES": "Todo un éxito", 
         "TH": "สำเร็จครั้งใหญ่", 
         "Type": 0, 
         "id": 156, 
-        "ES": "Todo un éxito"
+        "TLM": 255
     }, 
     {
         "FR": "Surcharges", 
@@ -2191,11 +2191,11 @@
         "JP": "限界突破", 
         "VN": "Đột phá giới hạn", 
         "KR": "한계돌파", 
-        "TLM": 256, 
+        "ES": "Superaciones de límite", 
         "TH": "ข้ามขีดจำกัด", 
         "Type": 0, 
         "id": 157, 
-        "ES": "Superaciones de límite"
+        "TLM": 256
     }, 
     {
         "FR": "Acte de réalité", 
@@ -2205,11 +2205,11 @@
         "JP": "現実篇", 
         "VN": "Hồi Hiện thực", 
         "KR": "현실편", 
-        "TLM": 257, 
+        "ES": "Acto de realidad", 
         "TH": "บทแห่งความจริง", 
         "Type": 0, 
         "id": 158, 
-        "ES": "Acto de realidad"
+        "TLM": 257
     }, 
     {
         "FR": "Histoire principale", 
@@ -2219,11 +2219,11 @@
         "JP": "メインストーリー", 
         "VN": "Chính truyện", 
         "KR": "메인 스토리", 
-        "TLM": 258, 
+        "ES": "Historia principal", 
         "TH": "เรื่องราวหลัก", 
         "Type": 0, 
         "id": 159, 
-        "ES": "Historia principal"
+        "TLM": 258
     }, 
     {
         "FR": "Acte d'élan", 
@@ -2233,11 +2233,11 @@
         "JP": "衝動篇", 
         "VN": "Hồi Sự bốc đồng", 
         "KR": "충동편", 
-        "TLM": 259, 
+        "ES": "Acto de impulso", 
         "TH": "บทแห่งแรงกระตุ้น", 
         "Type": 0, 
         "id": 160, 
-        "ES": "Acto de impulso"
+        "TLM": 259
     }, 
     {
         "FR": "Acte de haine", 
@@ -2247,11 +2247,11 @@
         "JP": "憎悪篇", 
         "VN": "Hồi Sự thù hận", 
         "KR": "증오편", 
-        "TLM": 260, 
+        "ES": "Acto de odio", 
         "TH": "บทความเกลียดชัง", 
         "Type": 0, 
         "id": 161, 
-        "ES": "Acto de odio"
+        "TLM": 260
     }, 
     {
         "FR": "Petit Chaperon rouge", 
@@ -2261,11 +2261,11 @@
         "JP": "赤ずきん", 
         "VN": "Cô Bé Quàng Khăn Đỏ", 
         "KR": "빨간 모자", 
-        "TLM": 261, 
+        "ES": "Caperucita Roja", 
         "TH": "หนูน้อยหมวกแดง", 
         "Type": 0, 
         "id": 162, 
-        "ES": "Caperucita Roja"
+        "TLM": 261
     }, 
     {
         "FR": "Alice", 
@@ -2275,11 +2275,11 @@
         "JP": "アリス", 
         "VN": "Alice", 
         "KR": "앨리스", 
-        "TLM": 262, 
+        "ES": "Alicia", 
         "TH": "อลิซ", 
         "Type": 0, 
         "id": 163, 
-        "ES": "Alicia"
+        "TLM": 262
     }, 
     {
         "FR": "Cendrillon", 
@@ -2289,11 +2289,11 @@
         "JP": "シンデレラ", 
         "VN": "Lọ Lem", 
         "KR": "신데렐라", 
-        "TLM": 263, 
+        "ES": "Cenicienta", 
         "TH": "ซินเดอเรลลา", 
         "Type": 0, 
         "id": 164, 
-        "ES": "Cenicienta"
+        "TLM": 263
     }, 
     {
         "FR": "Dorothée", 
@@ -2303,11 +2303,11 @@
         "JP": "ドロシー", 
         "VN": "Dorothy", 
         "KR": "도로시", 
-        "TLM": 264, 
+        "ES": "Dorothy", 
         "TH": "โดโรธี", 
         "Type": 0, 
         "id": 165, 
-        "ES": "Dorothy"
+        "TLM": 264
     }, 
     {
         "FR": "Gretel", 
@@ -2317,11 +2317,11 @@
         "JP": "グレーテル", 
         "VN": "Gretel", 
         "KR": "그레텔", 
-        "TLM": 265, 
+        "ES": "Gretel", 
         "TH": "เกรเทล", 
         "Type": 0, 
         "id": 166, 
-        "ES": "Gretel"
+        "TLM": 265
     }, 
     {
         "FR": "Belle au bois dormant", 
@@ -2331,11 +2331,11 @@
         "JP": "いばら姫", 
         "VN": "Công Chúa Ngủ Trong Rừng", 
         "KR": "잠자는 숲속의 공주", 
-        "TLM": 266, 
+        "ES": "La Bella Durmiente", 
         "TH": "เจ้าหญิงนิทรา", 
         "Type": 0, 
         "id": 167, 
-        "ES": "La Bella Durmiente"
+        "TLM": 266
     }, 
     {
         "FR": "Princesse Kaguya", 
@@ -2345,11 +2345,11 @@
         "JP": "かぐや姫", 
         "VN": "Công chúa Kaguya", 
         "KR": "카구야 공주", 
-        "TLM": 267, 
+        "ES": "Princesa Kaguya", 
         "TH": "เจ้าหญิงคางูยะ", 
         "Type": 0, 
         "id": 168, 
-        "ES": "Princesa Kaguya"
+        "TLM": 267
     }, 
     {
         "FR": "Petite Sirène", 
@@ -2359,11 +2359,11 @@
         "JP": "人魚姫", 
         "VN": "Nàng Tiên Cá", 
         "KR": "인어 공주", 
-        "TLM": 268, 
+        "ES": "Sirenita", 
         "TH": "เจ้าหญิงเงือกน้อย", 
         "Type": 0, 
         "id": 169, 
-        "ES": "Sirenita"
+        "TLM": 268
     }, 
     {
         "FR": "Pinocchio", 
@@ -2373,11 +2373,11 @@
         "JP": "ピノキオ", 
         "VN": "Pinocchio", 
         "KR": "피노키오", 
-        "TLM": 269, 
+        "ES": "Pinocho", 
         "TH": "พินอคคิโอ", 
         "Type": 0, 
         "id": 170, 
-        "ES": "Pinocho"
+        "TLM": 269
     }, 
     {
         "FR": "Blanche-Neige", 
@@ -2387,11 +2387,11 @@
         "JP": "スノウホワイト", 
         "VN": "Bạch Tuyết", 
         "KR": "백설공주", 
-        "TLM": 270, 
+        "ES": "Blancanieves", 
         "TH": "สโนว์ไวท์", 
         "Type": 0, 
         "id": 171, 
-        "ES": "Blancanieves"
+        "TLM": 270
     }, 
     {
         "FR": "Dans une guilde", 
@@ -2401,11 +2401,11 @@
         "JP": "ギルド内", 
         "VN": "Trong hội", 
         "KR": "길드 내", 
-        "TLM": 271, 
+        "ES": "En un gremio", 
         "TH": "ภายในกิลด์", 
         "Type": 0, 
         "id": 172, 
-        "ES": "En un gremio"
+        "TLM": 271
     }, 
     {
         "FR": "Campagne", 
@@ -2415,11 +2415,11 @@
         "JP": "キャンペーン", 
         "VN": "Sự kiện", 
         "KR": "이벤트", 
-        "TLM": 272, 
+        "ES": "Evento", 
         "TH": "แคมเปญ", 
         "Type": 0, 
         "id": 173, 
-        "ES": "Evento"
+        "TLM": 272
     }, 
     {
         "FR": "Mission", 
@@ -2429,11 +2429,11 @@
         "JP": "ミッション", 
         "VN": "Nhiệm vụ", 
         "KR": "미션", 
-        "TLM": 273, 
+        "ES": "Misión", 
         "TH": "ภารกิจ", 
         "Type": 0, 
         "id": 174, 
-        "ES": "Misión"
+        "TLM": 273
     }, 
     {
         "FR": "Compétences incluses", 
@@ -2443,11 +2443,11 @@
         "JP": "注目スキル", 
         "VN": "Kỹ năng nổi bật", 
         "KR": "주목 스킬", 
-        "TLM": 274, 
+        "ES": "Habilidades destacadas", 
         "TH": "สกิลเด่น", 
         "Type": 0, 
         "id": 175, 
-        "ES": "Habilidades destacadas"
+        "TLM": 274
     }, 
     {
         "FR": "En attente...", 
@@ -2457,11 +2457,11 @@
         "JP": "待機中…", 
         "VN": "Đang chờ...", 
         "KR": "대기 중…", 
-        "TLM": 275, 
+        "ES": "Esperando...", 
         "TH": "กำลังรอ…", 
         "Type": 0, 
         "id": 176, 
-        "ES": "Esperando..."
+        "TLM": 275
     }, 
     {
         "FR": "Extermination", 
@@ -2471,11 +2471,11 @@
         "JP": "殲滅", 
         "VN": "Hủy diệt", 
         "KR": "섬멸", 
-        "TLM": 276, 
+        "ES": "Aniquilar", 
         "TH": "ทำลายล้าง", 
         "Type": 0, 
         "id": 177, 
-        "ES": "Aniquilar"
+        "TLM": 276
     }, 
     {
         "FR": "PU", 
@@ -2485,11 +2485,11 @@
         "JP": "オ", 
         "VN": "TH", 
         "KR": "청", 
-        "TLM": 277, 
+        "ES": "L", 
         "TH": "P", 
         "Type": 0, 
         "id": 178, 
-        "ES": "L"
+        "TLM": 277
     }, 
     {
         "FR": "RI", 
@@ -2499,11 +2499,11 @@
         "JP": "ソ", 
         "VN": "A", 
         "KR": "소", 
-        "TLM": 278, 
+        "ES": "I", 
         "TH": "U", 
         "Type": 0, 
         "id": 179, 
-        "ES": "I"
+        "TLM": 278
     }, 
     {
         "FR": "FI", 
@@ -2513,11 +2513,11 @@
         "JP": "ウ", 
         "VN": "NH", 
         "KR": "시", 
-        "TLM": 279, 
+        "ES": "M", 
         "TH": "R", 
         "Type": 0, 
         "id": 180, 
-        "ES": "M"
+        "TLM": 279
     }, 
     {
         "FR": "CA", 
@@ -2527,11 +2527,11 @@
         "JP": "ジ", 
         "VN": "T", 
         "KR": "작", 
-        "TLM": 280, 
+        "ES": "P", 
         "TH": "I", 
         "Type": 0, 
         "id": 181, 
-        "ES": "P"
+        "TLM": 280
     }, 
     {
         "FR": "TI", 
@@ -2541,11 +2541,11 @@
         "JP": "開", 
         "VN": "Ẩ", 
         "KR": "하", 
-        "TLM": 281, 
+        "ES": "I", 
         "TH": "F", 
         "Type": 0, 
         "id": 182, 
-        "ES": "I"
+        "TLM": 281
     }, 
     {
         "FR": "ON", 
@@ -2555,11 +2555,11 @@
         "JP": "始", 
         "VN": "Y", 
         "KR": "기", 
-        "TLM": 282, 
+        "ES": "A", 
         "TH": "Y", 
         "Type": 0, 
         "id": 183, 
-        "ES": "A"
+        "TLM": 282
     }, 
     {
         "FR": "Commencer la purification", 
@@ -2569,11 +2569,11 @@
         "JP": "オソウジ開始", 
         "VN": "Bắt đầu Thanh tẩy", 
         "KR": "청소 시작하기", 
-        "TLM": 283, 
+        "ES": "Comenzar purificación", 
         "TH": "เริ่มการชะล้าง", 
         "Type": 0, 
         "id": 184, 
-        "ES": "Comenzar purificación"
+        "TLM": 283
     }, 
     {
         "FR": "Compétence", 
@@ -2583,11 +2583,11 @@
         "JP": "スキル", 
         "VN": "Kỹ năng", 
         "KR": "스킬", 
-        "TLM": 284, 
+        "ES": "Habilidad", 
         "TH": "สกิล", 
         "Type": 0, 
         "id": 185, 
-        "ES": "Habilidad"
+        "TLM": 284
     }, 
     {
         "FR": "Coût en PA réduit de moitié", 
@@ -2597,11 +2597,11 @@
         "JP": "AP消費1/2", 
         "VN": "AP tiêu hao một nửa", 
         "KR": "AP 소비 1/2", 
-        "TLM": 285, 
+        "ES": "50% consumo de PA", 
         "TH": "ใช้AP ครึ่งหนึ่ง", 
         "Type": 0, 
         "id": 186, 
-        "ES": "50% consumo de PA"
+        "TLM": 285
     }, 
     {
         "FR": "Taux de butin +", 
@@ -2611,11 +2611,11 @@
         "JP": "DROP率UP", 
         "VN": "Tăng tỷ lệ rơi", 
         "KR": "드롭률 상승", 
-        "TLM": 286, 
+        "ES": "Aumento de frecuencia de aparición", 
         "TH": "อัตราดร็อป UP", 
         "Type": 0, 
         "id": 187, 
-        "ES": "Aumento de frecuencia de aparición"
+        "TLM": 286
     }, 
     {
         "FR": "EXP +", 
@@ -2625,11 +2625,11 @@
         "JP": "獲得EXPUP", 
         "VN": "Tăng EXP", 
         "KR": "획득 EXP 상승", 
-        "TLM": 287, 
+        "ES": "Aumento de EXP", 
         "TH": "รับEXP UP", 
         "Type": 0, 
         "id": 188, 
-        "ES": "Aumento de EXP"
+        "TLM": 287
     }, 
     {
         "FR": "Double butin", 
@@ -2639,11 +2639,11 @@
         "JP": "DROP2倍", 
         "VN": "Tỷ lệ rơi gấp đôi", 
         "KR": "드롭 2배", 
-        "TLM": 288, 
+        "ES": "Aparición doble", 
         "TH": "ดร็อป 2เท่า", 
         "Type": 0, 
         "id": 189, 
-        "ES": "Aparición doble"
+        "TLM": 288
     }, 
     {
         "FR": "Double EXP", 
@@ -2653,11 +2653,11 @@
         "JP": "EXP2倍", 
         "VN": "EXP gấp đôi", 
         "KR": "EXP 2배", 
-        "TLM": 289, 
+        "ES": "Doble EXP", 
         "TH": "EXP 2เท่า", 
         "Type": 0, 
         "id": 190, 
-        "ES": "Doble EXP"
+        "TLM": 289
     }, 
     {
         "FR": "EXP obtenue", 
@@ -2667,11 +2667,11 @@
         "JP": "獲得EXP", 
         "VN": "EXP kiếm được", 
         "KR": "획득 EXP", 
-        "TLM": 290, 
+        "ES": "EXP obtenida", 
         "TH": "ได้รับ EXP", 
         "Type": 0, 
         "id": 191, 
-        "ES": "EXP obtenida"
+        "TLM": 290
     }, 
     {
         "FR": "Or obtenu", 
@@ -2681,11 +2681,11 @@
         "JP": "獲得GOLD", 
         "VN": "Vàng kiếm được", 
         "KR": "획득 골드", 
-        "TLM": 291, 
+        "ES": "Oro obtenido", 
         "TH": "ได้รับ GOLD", 
         "Type": 0, 
         "id": 192, 
-        "ES": "Oro obtenido"
+        "TLM": 291
     }, 
     {
         "FR": "Maîtrise obtenue", 
@@ -2695,11 +2695,11 @@
         "JP": "獲得熟練度", 
         "VN": "Độ thinh thông kiếm được", 
         "KR": "획득 숙련도", 
-        "TLM": 292, 
+        "ES": "Maestría obtenida", 
         "TH": "ได้รับความเชี่ยวชาญ", 
         "Type": 0, 
         "id": 193, 
-        "ES": "Maestría obtenida"
+        "TLM": 292
     }, 
     {
         "FR": "Double or", 
@@ -2709,11 +2709,11 @@
         "JP": "GOLD2倍", 
         "VN": "Vàng gấp đôi", 
         "KR": "골드 2배", 
-        "TLM": 293, 
+        "ES": "Oro doble", 
         "TH": "GOLD 2เท่า", 
         "Type": 0, 
         "id": 194, 
-        "ES": "Oro doble"
+        "TLM": 293
     }, 
     {
         "FR": "Choisissez une histoire", 
@@ -2723,11 +2723,11 @@
         "JP": "ストーリー選択", 
         "VN": "Chọn Truyền kỳ", 
         "KR": "스토리 선택", 
-        "TLM": 294, 
+        "ES": "Selecciona una historia", 
         "TH": "เลือกเรื่องราว", 
         "Type": 0, 
         "id": 195, 
-        "ES": "Selecciona una historia"
+        "TLM": 294
     }, 
     {
         "FR": "Combat en coop.", 
@@ -2737,11 +2737,11 @@
         "JP": "共闘", 
         "VN": "Trận QUẦN CHIẾN", 
         "KR": "협력 전투", 
-        "TLM": 295, 
+        "ES": "Combate cooperativo", 
         "TH": "การต่อสู้ CO-OP", 
         "Type": 0, 
         "id": 196, 
-        "ES": "Combate cooperativo"
+        "TLM": 295
     }, 
     {
         "FR": "Toutes les missions bonus terminées", 
@@ -2751,11 +2751,11 @@
         "JP": "ボーナスミッション全達成", 
         "VN": "Đã hoàn thành tất cả nhiệm vụ thưởng", 
         "KR": "보너스 미션 컴플리트", 
-        "TLM": 296, 
+        "ES": "Has completado todas las misiones adicionales", 
         "TH": "สำเร็จภารกิจโบนัสทั้งหมด", 
         "Type": 0, 
         "id": 197, 
-        "ES": "Has completado todas las misiones adicionales"
+        "TLM": 296
     }, 
     {
         "FR": "Récompense de premier accomplissement", 
@@ -2765,11 +2765,11 @@
         "JP": "初回クリア報酬獲得", 
         "VN": "Phần thưởng hoàn thành lần đầu", 
         "KR": "최초 클리어 보상 획득", 
-        "TLM": 297, 
+        "ES": "Recompensa por primera finalización", 
         "TH": "รับรางวัลการผ่านครั้งแรก", 
         "Type": 0, 
         "id": 198, 
-        "ES": "Recompensa por primera finalización"
+        "TLM": 297
     }, 
     {
         "FR": "Paramètres de\\ncombat en coop.", 
@@ -2779,11 +2779,11 @@
         "JP": "共闘設定", 
         "VN": "Cài đặt trận QUẦN CHIẾN", 
         "KR": "협력 전투 설정", 
-        "TLM": 298, 
+        "ES": "Configuración de combate cooperativo", 
         "TH": "ตั้งค่าการต่อสู้ CO-OP", 
         "Type": 0, 
         "id": 199, 
-        "ES": "Configuración de combate cooperativo"
+        "TLM": 298
     }, 
     {
         "FR": "Effet actif", 
@@ -2793,11 +2793,11 @@
         "JP": "発動中効果", 
         "VN": "Hiệu ứng hoạt động", 
         "KR": "발동 중인 효과", 
-        "TLM": 299, 
+        "ES": "Efecto activo", 
         "TH": "เอฟเฟกต์ตอนเปิดใช้งาน", 
         "Type": 0, 
         "id": 200, 
-        "ES": "Efecto activo"
+        "TLM": 299
     }, 
     {
         "FR": "Effacer la\\\\nsélection", 
@@ -2807,11 +2807,11 @@
         "JP": "選択を\\\\n解除する", 
         "VN": "Xóa\\\\nlựa chọn", 
         "KR": "선택\\\\n해제", 
-        "TLM": 300, 
+        "ES": "Borrar\\\\nselección", 
         "TH": "ปลด\\\\nที่เลือก", 
         "Type": 0, 
         "id": 201, 
-        "ES": "Borrar\\\\nselección"
+        "TLM": 300
     }, 
     {
         "FR": "Envoyez-nous vos résultats sur Twitter pour obtenir 100 Cristaux crépusculaires gratuits\\\\nDiagnostic facial\\\\nde Parrah-Noya", 
@@ -2821,11 +2821,11 @@
         "JP": "結果をツイートで魔晶石100個プレゼント \\\\nギシン\\\\nアンキ 顔診断", 
         "VN": "Đăng kết quả của bạn lên Tweeter để nhận được 100 Pha lê chạng vạng miễn phí\\\\nNhận diện\\\\nParrah-Noya", 
         "KR": "결과를 트윗하면 마정석 100개 지급\\\\n니키푸키\\\\n얼굴 진단", 
-        "TLM": 301, 
+        "ES": "Tuitea tus resultados para obtener 100 cristales del ocaso gratis\\\\nParrah-Noya\\\\nDiagnóstico facial", 
         "TH": "ทวีตผลลัพธ์เพื่อรับของขวัญคริสตัลสนธยาฟรี 100 ชิ้น\\\\nพาราห์\\\\nโนยา ตรวจสอบใบหน้า", 
         "Type": 0, 
         "id": 202, 
-        "ES": "Tuitea tus resultados para obtener 100 cristales del ocaso gratis\\\\nParrah-Noya\\\\nDiagnóstico facial"
+        "TLM": 301
     }, 
     {
         "FR": "Choix du taux de précision", 
@@ -2835,11 +2835,11 @@
         "JP": "命中率選択", 
         "VN": "Chọn Tỷ lệ chính xác", 
         "KR": "명중률 선택", 
-        "TLM": 302, 
+        "ES": "Seleccionando índice de precisión", 
         "TH": "เลือกค่าความแม่นยำ", 
         "Type": 0, 
         "id": 203, 
-        "ES": "Seleccionando índice de precisión"
+        "TLM": 302
     }, 
     {
         "FR": "Liste de récompenses", 
@@ -2849,11 +2849,11 @@
         "JP": "報酬一覧", 
         "VN": "Danh sách phần thưởng", 
         "KR": "보상 목록", 
-        "TLM": 303, 
+        "ES": "Lista de recompensas", 
         "TH": "รายการรางวัล", 
         "Type": 0, 
         "id": 204, 
-        "ES": "Lista de recompensas"
+        "TLM": 303
     }, 
     {
         "FR": "Grimoire", 
@@ -2863,11 +2863,11 @@
         "JP": "ガチャ", 
         "VN": "Sách phép", 
         "KR": "뽑기", 
-        "TLM": 304, 
+        "ES": "Grimorio", 
         "TH": "กรีมัวร์", 
         "Type": 0, 
         "id": 205, 
-        "ES": "Grimorio"
+        "TLM": 304
     }, 
     {
         "FR": "Choisi", 
@@ -2877,11 +2877,11 @@
         "JP": "設定中", 
         "VN": "Chọn", 
         "KR": "설정 중", 
-        "TLM": 305, 
+        "ES": "Selec.", 
         "TH": "ตั้งค่า", 
         "Type": 0, 
         "id": 206, 
-        "ES": "Selec."
+        "TLM": 305
     }, 
     {
         "FR": "Objets de récompense", 
@@ -2891,11 +2891,11 @@
         "JP": "当たりアイテム", 
         "VN": "Vật phẩm giải thưởng", 
         "KR": "대박 아이템", 
-        "TLM": 306, 
+        "ES": "Objetos de premio", 
         "TH": "ไอเท็มรางวัล", 
         "Type": 0, 
         "id": 207, 
-        "ES": "Objetos de premio"
+        "TLM": 306
     }, 
     {
         "FR": "Changer\\\\nd'ensemble d'équipement", 
@@ -2905,11 +2905,11 @@
         "JP": "装備セット\\\\n変更", 
         "VN": "Thay đổi\\\\nbộ trang bị", 
         "KR": "장비 세트\\\\n변경", 
-        "TLM": 307, 
+        "ES": "Cambiar\\\\nSet de equipos", 
         "TH": "เปลี่ยน\\\\nเซ็ตอุปกรณ์", 
         "Type": 0, 
         "id": 208, 
-        "ES": "Cambiar\\\\nSet de equipos"
+        "TLM": 307
     }, 
     {
         "FR": "Ranimer", 
@@ -2919,11 +2919,11 @@
         "JP": "復活", 
         "VN": "Hồi sinh", 
         "KR": "부활", 
-        "TLM": 308, 
+        "ES": "Revivir", 
         "TH": "ฟื้นคืนชีพ", 
         "Type": 0, 
         "id": 209, 
-        "ES": "Revivir"
+        "TLM": 308
     }, 
     {
         "FR": "Ressusciter", 
@@ -2933,11 +2933,11 @@
         "JP": "蘇生", 
         "VN": "Hồi sinh", 
         "KR": "소생", 
-        "TLM": 309, 
+        "ES": "Resucitar", 
         "TH": "ฟื้นฟู", 
         "Type": 0, 
         "id": 210, 
-        "ES": "Resucitar"
+        "TLM": 309
     }, 
     {
         "FR": "Attaquer le vaisseau de guilde", 
@@ -2947,11 +2947,11 @@
         "JP": "ギルドシップ攻撃", 
         "VN": "Tấn công Hội sở", 
         "KR": "길드함 공격", 
-        "TLM": 310, 
+        "ES": "Atacar gremio", 
         "TH": "โจมตีกิลด์ชิพ", 
         "Type": 0, 
         "id": 211, 
-        "ES": "Atacar gremio"
+        "TLM": 310
     }, 
     {
         "FR": "Ensemble principal", 
@@ -2961,11 +2961,11 @@
         "JP": "メインセット", 
         "VN": "Bộ chính", 
         "KR": "메인 세트", 
-        "TLM": 311, 
+        "ES": "Set principal", 
         "TH": "เซ็ตหลัก", 
         "Type": 0, 
         "id": 212, 
-        "ES": "Set principal"
+        "TLM": 311
     }, 
     {
         "FR": "Ensemble équipé", 
@@ -2975,11 +2975,11 @@
         "JP": "使用中セット", 
         "VN": "Đã trang bị bộ", 
         "KR": "사용 중인 세트", 
-        "TLM": 312, 
+        "ES": "Set equipado", 
         "TH": "เซ็ตที่สวมอยู่", 
         "Type": 0, 
         "id": 213, 
-        "ES": "Set equipado"
+        "TLM": 312
     }, 
     {
         "FR": "Résultats du diagnostic facial", 
@@ -2989,11 +2989,11 @@
         "JP": "顔診断結果", 
         "VN": "Kết quả nhận diện", 
         "KR": "얼굴 진단 결과", 
-        "TLM": 313, 
+        "ES": "Resultado de diagnóstico facial", 
         "TH": "ผลลัพธ์การตรวจสอบใบหน้า", 
         "Type": 0, 
         "id": 214, 
-        "ES": "Resultado de diagnóstico facial"
+        "TLM": 313
     }, 
     {
         "FR": "Rendu(es)", 
@@ -3003,11 +3003,11 @@
         "JP": "帰還済み", 
         "VN": "Đã trở lại", 
         "KR": "복귀 완료", 
-        "TLM": 314, 
+        "ES": "Devuelto", 
         "TH": "กลับมาแล้ว", 
         "Type": 0, 
         "id": 215, 
-        "ES": "Devuelto"
+        "TLM": 314
     }, 
     {
         "FR": "EXP obtenue", 
@@ -3017,11 +3017,11 @@
         "JP": "獲得EXP", 
         "VN": "EXP kiếm được", 
         "KR": "획득 EXP", 
-        "TLM": 315, 
+        "ES": "EXP obtenida", 
         "TH": "ได้รับ EXP", 
         "Type": 0, 
         "id": 216, 
-        "ES": "EXP obtenida"
+        "TLM": 315
     }, 
     {
         "FR": "Envoyé", 
@@ -3031,11 +3031,11 @@
         "JP": "派遣中", 
         "VN": "Điều động", 
         "KR": "파견 중", 
-        "TLM": 316, 
+        "ES": "Enviar", 
         "TH": "กำลังถูกส่งไปปฏิบัติหน้าที่", 
         "Type": 0, 
         "id": 217, 
-        "ES": "Enviar"
+        "TLM": 316
     }, 
     {
         "FR": "Objets obtenus", 
@@ -3045,11 +3045,11 @@
         "JP": "獲得アイテム", 
         "VN": "Vật phẩm nhận được", 
         "KR": "획득 아이템", 
-        "TLM": 317, 
+        "ES": "Objetos adquiridos", 
         "TH": "ไอเท็มที่ได้รับ", 
         "Type": 0, 
         "id": 218, 
-        "ES": "Objetos adquiridos"
+        "TLM": 317
     }, 
     {
         "FR": "Travaillez DUR et\\\\\\nrenforcez-vous.", 
@@ -3059,11 +3059,11 @@
         "JP": "しっかり働いて\\\\n成長してクダサイ", 
         "VN": "Nỗ lực và\\\\ntrở nên mạnh mẽ.", 
         "KR": "열심히 일해서\\\\n성장하세요.", 
-        "TLM": 318, 
+        "ES": "Trabaja duro y\\\\nhazte fuerte.", 
         "TH": "ทำงานอย่างหนักแล้ว\\\\nจะแข็งแกร่งขึ้น", 
         "Type": 0, 
         "id": 219, 
-        "ES": "Trabaja duro y\\\\nhazte fuerte."
+        "TLM": 318
     }, 
     {
         "FR": "DÉJÀ de retour ?\\\\\\nVous devriez vérifier.", 
@@ -3073,11 +3073,11 @@
         "JP": "帰還してマス？\\\\n確認は大事デス", 
         "VN": "Đã trở lại ư?\\\\nBạn nên kiểm tra.", 
         "KR": "복귀했으면\\\\n꼭 확인하세요.", 
-        "TLM": 319, 
+        "ES": "¿Está de vuelta?\\\\nDeberías revisar.", 
         "TH": "กลับมาแล้วเหรอ?\\\\nการตรวจเช็คนั้นสำคัญ", 
         "Type": 0, 
         "id": 220, 
-        "ES": "¿Está de vuelta?\\\\nDeberías revisar."
+        "TLM": 319
     }, 
     {
         "FR": "Envoyé", 
@@ -3087,11 +3087,11 @@
         "JP": "派遣中", 
         "VN": "Điều động", 
         "KR": "파견 중", 
-        "TLM": 320, 
+        "ES": "Enviar", 
         "TH": "กำลังถูกส่งไปปฏิบัติหน้าที่", 
         "Type": 0, 
         "id": 221, 
-        "ES": "Enviar"
+        "TLM": 320
     }, 
     {
         "FR": "Histoire", 
@@ -3101,11 +3101,11 @@
         "JP": "モノガタリ", 
         "VN": "Truyền kỳ", 
         "KR": "이야기", 
-        "TLM": 321, 
+        "ES": "Historia", 
         "TH": "เนื้อเรื่อง", 
         "Type": 0, 
         "id": 222, 
-        "ES": "Historia"
+        "TLM": 321
     }, 
     {
         "FR": "Tous les évènements", 
@@ -3115,11 +3115,11 @@
         "JP": "イベントごと", 
         "VN": "Mọi sự kiện", 
         "KR": "이벤트별", 
-        "TLM": 322, 
+        "ES": "Todos los eventos", 
         "TH": "ทุกอีเว้นท์", 
         "Type": 0, 
         "id": 223, 
-        "ES": "Todos los eventos"
+        "TLM": 322
     }, 
     {
         "FR": "Forte affinité", 
@@ -3129,11 +3129,11 @@
         "JP": "優先属性", 
         "VN": "Hệ mạnh", 
         "KR": "우선 속성", 
-        "TLM": 323, 
+        "ES": "Afinidad fuerte", 
         "TH": "ธาตุหลัก", 
         "Type": 0, 
         "id": 224, 
-        "ES": "Afinidad fuerte"
+        "TLM": 323
     }, 
     {
         "FR": "Attaque principale", 
@@ -3143,11 +3143,11 @@
         "JP": "優先攻撃", 
         "VN": "Đòn tấn công chính", 
         "KR": "우선 공격", 
-        "TLM": 324, 
+        "ES": "Ataque principal", 
         "TH": "การโจมตีหลัก", 
         "Type": 0, 
         "id": 225, 
-        "ES": "Ataque principal"
+        "TLM": 324
     }, 
     {
         "FR": "Par type d'arme", 
@@ -3157,11 +3157,11 @@
         "JP": "武器種絞り込み", 
         "VN": "Theo loại vũ khí", 
         "KR": "무기 종류 필터", 
-        "TLM": 325, 
+        "ES": "Por tipo de arma", 
         "TH": "คัดตามประเภทอาวุธ", 
         "Type": 0, 
         "id": 226, 
-        "ES": "Por tipo de arma"
+        "TLM": 325
     }, 
     {
         "FR": "Sous-ensemble", 
@@ -3171,11 +3171,11 @@
         "JP": "サブセット", 
         "VN": "Bộ phụ trợ", 
         "KR": "서브 세트", 
-        "TLM": 326, 
+        "ES": "2º Set", 
         "TH": "เซ็ตรอง", 
         "Type": 0, 
         "id": 227, 
-        "ES": "2º Set"
+        "TLM": 326
     }, 
     {
         "FR": "Assistance", 
@@ -3185,11 +3185,11 @@
         "JP": "サポート", 
         "VN": "Hỗ trợ", 
         "KR": "고객 지원", 
-        "TLM": 327, 
+        "ES": "Soporte", 
         "TH": "ซัพพอร์ต", 
         "Type": 0, 
         "id": 228, 
-        "ES": "Soporte"
+        "TLM": 327
     }, 
     {
         "FR": "Bonus d'effet", 
@@ -3199,11 +3199,11 @@
         "JP": "効果ボーナス", 
         "VN": "Thưởng tác dụng", 
         "KR": "효과 보너스", 
-        "TLM": 328, 
+        "ES": "Bonificación de efecto", 
         "TH": "โบนัสประสิทธิภาพ", 
         "Type": 0, 
         "id": 229, 
-        "ES": "Bonificación de efecto"
+        "TLM": 328
     }, 
     {
         "FR": "Écran des votes", 
@@ -3213,11 +3213,11 @@
         "JP": "投票画面へ", 
         "VN": "Màn hình bình chọn", 
         "KR": "투표 화면", 
-        "TLM": 22426, 
+        "ES": "Pantalla de votación", 
         "TH": "สู่หน้าจอโหวต", 
         "Type": 0, 
         "id": 230, 
-        "ES": "Pantalla de votación"
+        "TLM": 22426
     }, 
     {
         "FR": "Points de valeur actuels par groupe", 
@@ -3227,11 +3227,11 @@
         "JP": "現在の各グループ獲得グランｐｔ", 
         "VN": "Điểm chiến hội hiện tại của từng nhóm", 
         "KR": "현재 그룹별 획득 그랑 pt", 
-        "TLM": 22427, 
+        "ES": "Puntos Gran actuales por grupo", 
         "TH": "แกรนpt ปัจจุบันแต่ละกลุ่ม", 
         "Type": 0, 
         "id": 231, 
-        "ES": "Puntos Gran actuales por grupo"
+        "TLM": 22427
     }, 
     {
         "FR": "1 groupe", 
@@ -3241,11 +3241,11 @@
         "JP": "1グループ", 
         "VN": "Nhóm 1", 
         "KR": "1그룹", 
-        "TLM": 22428, 
+        "ES": "1 grupo", 
         "TH": "กลุ่ม 1", 
         "Type": 0, 
         "id": 232, 
-        "ES": "1 grupo"
+        "TLM": 22428
     }, 
     {
         "FR": "3 groupes", 
@@ -3255,11 +3255,11 @@
         "JP": "3グループ", 
         "VN": "Nhóm 3", 
         "KR": "3그룹", 
-        "TLM": 22429, 
+        "ES": "3 grupos", 
         "TH": "กลุ่ม 3", 
         "Type": 0, 
         "id": 233, 
-        "ES": "3 grupos"
+        "TLM": 22429
     }, 
     {
         "FR": "Sans affiliation", 
@@ -3269,11 +3269,11 @@
         "JP": "未所属", 
         "VN": "Không liên kết", 
         "KR": "미가입", 
-        "TLM": 22430, 
+        "ES": "No afiliado", 
         "TH": "ไม่ได้เข้าร่วม", 
         "Type": 0, 
         "id": 234, 
-        "ES": "No afiliado"
+        "TLM": 22430
     }, 
     {
         "FR": "Cœur", 
@@ -3283,11 +3283,11 @@
         "JP": "ハート", 
         "VN": "Cơ", 
         "KR": "하트", 
-        "TLM": 22431, 
+        "ES": "Corazones", 
         "TH": "โพธิ์แดง", 
         "Type": 0, 
         "id": 235, 
-        "ES": "Corazones"
+        "TLM": 22431
     }, 
     {
         "FR": "Carreau", 
@@ -3297,11 +3297,11 @@
         "JP": "ダイヤ", 
         "VN": "Rô", 
         "KR": "다이아몬드", 
-        "TLM": 22432, 
+        "ES": "Diamantes", 
         "TH": "ข้าวหลามตัด", 
         "Type": 0, 
         "id": 236, 
-        "ES": "Diamantes"
+        "TLM": 22432
     }, 
     {
         "FR": "Pique", 
@@ -3311,11 +3311,11 @@
         "JP": "スペード", 
         "VN": "Bích", 
         "KR": "스페이드", 
-        "TLM": 22433, 
+        "ES": "Espadas", 
         "TH": "โพธิ์ดำ", 
         "Type": 0, 
         "id": 237, 
-        "ES": "Espadas"
+        "TLM": 22433
     }, 
     {
         "FR": "Trèfle", 
@@ -3325,11 +3325,11 @@
         "JP": "クラブ", 
         "VN": "Nhép", 
         "KR": "클로버", 
-        "TLM": 22434, 
+        "ES": "Tréboles", 
         "TH": "ดอกจิก", 
         "Type": 0, 
         "id": 238, 
-        "ES": "Tréboles"
+        "TLM": 22434
     }, 
     {
         "FR": "Points de valeur totaux", 
@@ -3339,11 +3339,11 @@
         "JP": "最終獲得グランｐｔ", 
         "VN": "Điểm chiến hội cuối cùng", 
         "KR": "최종 획득 그랑 pt", 
-        "TLM": 22435, 
+        "ES": "Últimos puntos Gran obtenidos", 
         "TH": "ได้รับแกรนpt สุดท้าย", 
         "Type": 0, 
         "id": 239, 
-        "ES": "Últimos puntos Gran obtenidos"
+        "TLM": 22435
     }, 
     {
         "FR": "En préparation...", 
@@ -3353,11 +3353,11 @@
         "JP": "準備中…", 
         "VN": "Sắp ra mắt...", 
         "KR": "준비 중…", 
-        "TLM": 22436, 
+        "ES": "Preparando...", 
         "TH": "กำลังติดตั้ง...", 
         "Type": 0, 
         "id": 240, 
-        "ES": "Preparando..."
+        "TLM": 22436
     }, 
     {
         "FR": "Disponible", 
@@ -3367,11 +3367,11 @@
         "JP": "入手可能", 
         "VN": "Có sẵn", 
         "KR": "획득 가능", 
-        "TLM": 22437, 
+        "ES": "Disponible", 
         "TH": "สามารถรับได้", 
         "Type": 0, 
         "id": 241, 
-        "ES": "Disponible"
+        "TLM": 22437
     }, 
     {
         "FR": "Timbre sélectionné", 
@@ -3381,11 +3381,11 @@
         "JP": "選択中スタンプ", 
         "VN": "Dấu đã chọn", 
         "KR": "선택한 이모티콘", 
-        "TLM": 22438, 
+        "ES": "Sello seleccionado", 
         "TH": "สติกเกอร์ที่กำลังเลือก", 
         "Type": 0, 
         "id": 242, 
-        "ES": "Sello seleccionado"
+        "TLM": 22438
     }, 
     {
         "FR": "Compétence actuelle", 
@@ -3395,11 +3395,11 @@
         "JP": "現在のスキル", 
         "VN": "Kỹ năng hiện tại", 
         "KR": "현재 스킬", 
-        "TLM": 22439, 
+        "ES": "Habilidad actual", 
         "TH": "สกิลปัจจุบัน", 
         "Type": 0, 
         "id": 243, 
-        "ES": "Habilidad actual"
+        "TLM": 22439
     }, 
     {
         "FR": "Tirage au sort", 
@@ -3409,11 +3409,11 @@
         "JP": "抽選リスト", 
         "VN": "Danh sách xổ số", 
         "KR": "후보 목록", 
-        "TLM": 22440, 
+        "ES": "Lista de sorteo", 
         "TH": "รายการจับฉลาก", 
         "Type": 0, 
         "id": 244, 
-        "ES": "Lista de sorteo"
+        "TLM": 22440
     }, 
     {
         "FR": "Grimoire x5", 
@@ -3423,11 +3423,11 @@
         "JP": "5回ガチャ", 
         "VN": "Sách phép x5", 
         "KR": "5회 뽑기", 
-        "TLM": 22441, 
+        "ES": "Grimorio x5", 
         "TH": "กรีมัวร์ 5 ครั้ง", 
         "Type": 0, 
         "id": 245, 
-        "ES": "Grimorio x5"
+        "TLM": 22441
     }, 
     {
         "FR": "Grimoire x20", 
@@ -3437,11 +3437,11 @@
         "JP": "20回ガチャ", 
         "VN": "Sách phép x20", 
         "KR": "20회 뽑기", 
-        "TLM": 22442, 
+        "ES": "Grimorio x20", 
         "TH": "กรีมัวร์ 20 ครั้ง", 
         "Type": 0, 
         "id": 246, 
-        "ES": "Grimorio x20"
+        "TLM": 22442
     }, 
     {
         "FR": "Sélection de matériaux de rang S", 
@@ -3451,11 +3451,11 @@
         "JP": "S素材選択", 
         "VN": "Chọn vật liệu S", 
         "KR": "S 재료 선택", 
-        "TLM": 22443, 
+        "ES": "Selección de material de rango S", 
         "TH": "เลือกวัตถุดิบอันดับ S", 
         "Type": 0, 
         "id": 247, 
-        "ES": "Selección de material de rango S"
+        "TLM": 22443
     }, 
     {
         "FR": "Sélection de matériaux de rang SR", 
@@ -3465,11 +3465,11 @@
         "JP": "SS素材選択", 
         "VN": "Chọn vật liệu S2", 
         "KR": "SR 재료 선택", 
-        "TLM": 22444, 
+        "ES": "Selección de material de rango SR", 
         "TH": "เลือกวัตถุดิบอันดับ SR", 
         "Type": 0, 
         "id": 248, 
-        "ES": "Selección de material de rango SR"
+        "TLM": 22444
     }, 
     {
         "FR": "*Le type d’arme sélectionné sera exclu\\nde la liste des récompenses possibles.", 
@@ -3479,11 +3479,11 @@
         "JP": "※素材に選択している武器種の為\\n　出現しません。", 
         "VN": "*Sẽ không xuất hiện\\ndo loại vũ khí đã được chọn làm vật liệu.", 
         "KR": "※재료 무기와 동일한 종류이므로\\n 등장하지 않습니다.", 
-        "TLM": 22445, 
+        "ES": "* El tipo de arma seleccionado será excluido de la lista de posibles recompensas. \\n", 
         "TH": "*เนื่องจากเป็นประเภทอาวุธที่เลือกเป็นวัตถุดิบ\\nจึงไม่ปรากฏ", 
         "Type": 0, 
         "id": 249, 
-        "ES": "* El tipo de arma seleccionado será excluido de la lista de posibles recompensas. \\n"
+        "TLM": 22445
     }, 
     {
         "FR": "Réserve", 
@@ -3493,11 +3493,11 @@
         "JP": "ストック", 
         "VN": "Kho", 
         "KR": "재고", 
-        "TLM": 22446, 
+        "ES": "Abastecimiento", 
         "TH": "สต็อก", 
         "Type": 0, 
         "id": 250, 
-        "ES": "Abastecimiento"
+        "TLM": 22446
     }, 
     {
         "FR": "+Clé", 
@@ -3507,11 +3507,11 @@
         "JP": "鍵付", 
         "VN": "+Chìa khóa", 
         "KR": "열쇠 포함", 
-        "TLM": 22447, 
+        "ES": "Llave", 
         "TH": "+กุญแจ", 
         "Type": 0, 
         "id": 251, 
-        "ES": "Llave"
+        "TLM": 22447
     }, 
     {
         "FR": "+Arme SR", 
@@ -3521,11 +3521,11 @@
         "JP": "SS武器付", 
         "VN": "+Vũ khí S2", 
         "KR": "SR 무기 포함", 
-        "TLM": 22448, 
+        "ES": "Arma SR", 
         "TH": "+อาวุธ SR", 
         "Type": 0, 
         "id": 252, 
-        "ES": "Arma SR"
+        "TLM": 22448
     }, 
     {
         "FR": "+Classe", 
@@ -3535,11 +3535,11 @@
         "JP": "ジョブ付", 
         "VN": "+Nghề", 
         "KR": "직업 포함", 
-        "TLM": 22449, 
+        "ES": "Clase", 
         "TH": "+คลาส", 
         "Type": 0, 
         "id": 253, 
-        "ES": "Clase"
+        "TLM": 22449
     }, 
     {
         "FR": "+Nouvelle Classe", 
@@ -3549,11 +3549,11 @@
         "JP": "新ジョブ付", 
         "VN": "+Nghề mới", 
         "KR": "신규 직업 포함", 
-        "TLM": 22450, 
+        "ES": "Nueva clase", 
         "TH": "+คลาสใหม่", 
         "Type": 0, 
         "id": 254, 
-        "ES": "Nueva clase"
+        "TLM": 22450
     }, 
     {
         "FR": "+Cauchemar", 
@@ -3563,11 +3563,11 @@
         "JP": "ナイトメア付", 
         "VN": "+Nightmare", 
         "KR": "나이트메어 포함", 
-        "TLM": 22451, 
+        "ES": "Pesadilla", 
         "TH": "+ไนท์แมร์", 
         "Type": 0, 
         "id": 255, 
-        "ES": "Pesadilla"
+        "TLM": 22451
     }, 
     {
         "FR": "Surcharge de rang A", 
@@ -3577,11 +3577,11 @@
         "JP": "A限界突破", 
         "VN": "Đột phá giới hạn A", 
         "KR": "A 한계돌파", 
-        "TLM": 22452, 
+        "ES": "Superación de límite A", 
         "TH": "ข้ามขีดจำกัดอันดับ A", 
         "Type": 0, 
         "id": 256, 
-        "ES": "Superación de límite A"
+        "TLM": 22452
     }, 
     {
         "FR": "Matériaux", 
@@ -3591,11 +3591,11 @@
         "JP": "素材", 
         "VN": "Vật liệu", 
         "KR": "재료", 
-        "TLM": 22453, 
+        "ES": "Materiales", 
         "TH": "วัตถุดิบ", 
         "Type": 0, 
         "id": 257, 
-        "ES": "Materiales"
+        "TLM": 22453
     }, 
     {
         "FR": "Évènement", 
@@ -3605,11 +3605,11 @@
         "JP": "イベント", 
         "VN": "Sự kiện", 
         "KR": "이벤트", 
-        "TLM": 22454, 
+        "ES": "Evento", 
         "TH": "อีเว้นท์", 
         "Type": 0, 
         "id": 258, 
-        "ES": "Evento"
+        "TLM": 22454
     }, 
     {
         "FR": "Armure", 
@@ -3619,11 +3619,11 @@
         "JP": "防具", 
         "VN": "Giáp", 
         "KR": "방어구", 
-        "TLM": 22455, 
+        "ES": "Armadura", 
         "TH": "ชุดเกราะ", 
         "Type": 0, 
         "id": 259, 
-        "ES": "Armadura"
+        "TLM": 22455
     }, 
     {
         "FR": "Divers", 
@@ -3633,11 +3633,11 @@
         "JP": "その他", 
         "VN": "Khác", 
         "KR": "기타", 
-        "TLM": 22456, 
+        "ES": "Varios", 
         "TH": "อื่นๆ", 
         "Type": 0, 
         "id": 260, 
-        "ES": "Varios"
+        "TLM": 22456
     }, 
     {
         "FR": "Terminé", 
@@ -3647,11 +3647,11 @@
         "JP": "達成済み", 
         "VN": "Đã hoàn thành", 
         "KR": "달성 완료", 
-        "TLM": 22457, 
+        "ES": "Completado", 
         "TH": "เสร็จแล้ว", 
         "Type": 0, 
         "id": 261, 
-        "ES": "Completado"
+        "TLM": 22457
     }, 
     {
         "FR": "Esprit invoqué", 
@@ -3661,11 +3661,11 @@
         "JP": "精霊召喚中", 
         "VN": "Đã triệu hồi tinh linh", 
         "KR": "정령 소환 중", 
-        "TLM": 22458, 
+        "ES": "Espíritu invocado", 
         "TH": "กำลังเรียกวิญญาณ", 
         "Type": 0, 
         "id": 262, 
-        "ES": "Espíritu invocado"
+        "TLM": 22458
     }, 
     {
         "FR": "Ligue affiliée 1", 
@@ -3675,11 +3675,11 @@
         "JP": "所属リーグ1部", 
         "VN": "Giải đấu liên kết 1", 
         "KR": "소속 리그 1부", 
-        "TLM": 22459, 
+        "ES": "Liga afiliada 1", 
         "TH": "ลีกที่สังกัด หน่วยที่ 1 ", 
         "Type": 0, 
         "id": 263, 
-        "ES": "Liga afiliada 1"
+        "TLM": 22459
     }, 
     {
         "FR": "Ligue affiliée 2", 
@@ -3689,11 +3689,11 @@
         "JP": "所属リーグ2部", 
         "VN": "Giải đấu liên kết 2", 
         "KR": "소속 리그 2부", 
-        "TLM": 22460, 
+        "ES": "Liga afiliada 2", 
         "TH": "ลีกที่สังกัด หน่วยที่ 2 ", 
         "Type": 0, 
         "id": 264, 
-        "ES": "Liga afiliada 2"
+        "TLM": 22460
     }, 
     {
         "FR": "Ligue affiliée 3", 
@@ -3703,11 +3703,11 @@
         "JP": "所属リーグ3部", 
         "VN": "Giải đấu liên kết 3", 
         "KR": "소속 리그 3부", 
-        "TLM": 22461, 
+        "ES": "Liga afiliada 3", 
         "TH": "ลีกที่สังกัด หน่วยที่ 3 ", 
         "Type": 0, 
         "id": 265, 
-        "ES": "Liga afiliada 3"
+        "TLM": 22461
     }, 
     {
         "FR": "Massacre spirituel", 
@@ -3717,11 +3717,11 @@
         "JP": "精霊屠葬", 
         "VN": "Biển máu tinh linh", 
         "KR": "정령 말살", 
-        "TLM": 22462, 
+        "ES": "Masacre de espíritus", 
         "TH": "สังหารวิญญาณ", 
         "Type": 0, 
         "id": 266, 
-        "ES": "Masacre de espíritus"
+        "TLM": 22462
     }, 
     {
         "FR": "Événement de raid", 
@@ -3731,11 +3731,11 @@
         "JP": "レイドイベント", 
         "VN": "Sự kiện đột kích", 
         "KR": "레이드 이벤트", 
-        "TLM": 22463, 
+        "ES": "Evento de asalto", 
         "TH": "อีเว้นท์เหรด", 
         "Type": 0, 
         "id": 267, 
-        "ES": "Evento de asalto"
+        "TLM": 22463
     }, 
     {
         "FR": "Comment jouer", 
@@ -3745,11 +3745,11 @@
         "JP": "遊び方", 
         "VN": "Cách chơi", 
         "KR": "플레이 방법", 
-        "TLM": 22464, 
+        "ES": "Cómo jugar", 
         "TH": "วิธีการเล่น", 
         "Type": 0, 
         "id": 268, 
-        "ES": "Cómo jugar"
+        "TLM": 22464
     }, 
     {
         "FR": "Esprits agités", 
@@ -3759,11 +3759,11 @@
         "JP": "精霊招来", 
         "VN": "Triệu hồi tinh linh", 
         "KR": "정령 소환", 
-        "TLM": 22465, 
+        "ES": "Invocación de espíritus", 
         "TH": "การเชิญวิญญาณ", 
         "Type": 0, 
         "id": 269, 
-        "ES": "Invocación de espíritus"
+        "TLM": 22465
     }, 
     {
         "FR": "Cristaux à rassembler", 
@@ -3773,11 +3773,11 @@
         "JP": "結晶収集", 
         "VN": "Thu thập Pha lê", 
         "KR": "결정 수집", 
-        "TLM": 22466, 
+        "ES": "Recolección de cristales", 
         "TH": "รวบรวมคริสตัล", 
         "Type": 0, 
         "id": 270, 
-        "ES": "Recolección de cristales"
+        "TLM": 22466
     }, 
     {
         "FR": "La caLaMité rUgiT…", 
@@ -3787,11 +3787,11 @@
         "JP": "禍ノ唸リガ、始マッタ･･････", 
         "VN": "Tai ương nay đã cận kề...", 
         "KR": "재앙의 울부짖음이 시작되었다……", 
-        "TLM": 22467, 
+        "ES": "La calamidad aúllAaAaA...", 
         "TH": "หายนะกำลังมาเยือน……", 
         "Type": 0, 
         "id": 271, 
-        "ES": "La calamidad aúllAaAaA..."
+        "TLM": 22467
     }, 
     {
         "FR": "Obstruction de la corrosion", 
@@ -3801,11 +3801,11 @@
         "JP": "浸蝕阻止", 
         "VN": "và dập tắt sự hủ bại của nó.", 
         "KR": "침식 저지", 
-        "TLM": 22468, 
+        "ES": "Prevenir la corrosión", 
         "TH": "หยุดยั้งการกัดเซาะ", 
         "Type": 0, 
         "id": 272, 
-        "ES": "Prevenir la corrosión"
+        "TLM": 22468
     }, 
     {
         "FR": "StOpPeZ la cAtAsTroPhe iMmiNeNte.", 
@@ -3815,11 +3815,11 @@
         "JP": "”逢禍ノ刻”ヲ阻止セヨ", 
         "VN": "Ngăn chặn Thời đại tai ương", 
         "KR": "\"재앙의 시간\"을 저지하라", 
-        "TLM": 22469, 
+        "ES": "FrenA lA invAsión cAtastróficA", 
         "TH": "หยุดยั้ง\"การลุกลามของหายนะ\"", 
         "Type": 0, 
         "id": 273, 
-        "ES": "FrenA lA invAsión cAtastróficA"
+        "TLM": 22469
     }, 
     {
         "FR": "Sélectionner la tranche horaire du Colisée", 
@@ -3829,11 +3829,11 @@
         "JP": "コロシアム時間帯指定", 
         "VN": "Thời gian Đấu trường chỉ định", 
         "KR": "콜로세움 시간대 지정", 
-        "TLM": 22470, 
+        "ES": "Selecciona la configuración horaria del Coliseo", 
         "TH": "เลือกเวลาโคลอสเซียม", 
         "Type": 0, 
         "id": 274, 
-        "ES": "Selecciona la configuración horaria del Coliseo"
+        "TLM": 22470
     }, 
     {
         "FR": "Affiliation de guilde", 
@@ -3843,11 +3843,11 @@
         "JP": "ギルド所属", 
         "VN": "Hội liên kết", 
         "KR": "길드 소속", 
-        "TLM": 22471, 
+        "ES": "Afiliación de gremio", 
         "TH": "สังกัดกิลด์", 
         "Type": 0, 
         "id": 275, 
-        "ES": "Afiliación de gremio"
+        "TLM": 22471
     }, 
     {
         "FR": "Points totaux", 
@@ -3857,11 +3857,11 @@
         "JP": "総合値", 
         "VN": "Tổng điểm", 
         "KR": "전투력", 
-        "TLM": 22472, 
+        "ES": "Puntos totales", 
         "TH": "คะแนนรวม", 
         "Type": 0, 
         "id": 276, 
-        "ES": "Puntos totales"
+        "TLM": 22472
     }, 
     {
         "FR": "Confirmer", 
@@ -3871,11 +3871,11 @@
         "JP": "承認", 
         "VN": "Chấp nhận", 
         "KR": "승인", 
-        "TLM": 22473, 
+        "ES": "Confirmar", 
         "TH": "อนุมัติ", 
         "Type": 0, 
         "id": 277, 
-        "ES": "Confirmar"
+        "TLM": 22473
     }, 
     {
         "FR": "Rang de guilde", 
@@ -3885,11 +3885,11 @@
         "JP": "ギルドランク", 
         "VN": "Hạng hội", 
         "KR": "길드 랭크", 
-        "TLM": 22474, 
+        "ES": "Clasificación de gremio", 
         "TH": "ระดับกิลด์", 
         "Type": 0, 
         "id": 278, 
-        "ES": "Clasificación de gremio"
+        "TLM": 22474
     }, 
     {
         "FR": "Gratuit 1 fois par jour", 
@@ -3899,11 +3899,11 @@
         "JP": "毎日1回無料", 
         "VN": "Tặng 1 lần mỗi ngày", 
         "KR": "매일 1회 무료", 
-        "TLM": 22475, 
+        "ES": "Uno gratis diariamente", 
         "TH": "ฟรีวันละ 1ครั้ง", 
         "Type": 0, 
         "id": 279, 
-        "ES": "Uno gratis diariamente"
+        "TLM": 22475
     }, 
     {
         "FR": "Gratuit 1 fois par jour *Jusqu’à 20 fois durant l’évènement", 
@@ -3913,11 +3913,11 @@
         "JP": "毎日無料1日1回※期間中20回まで", 
         "VN": "Tặng 1 lần mỗi ngày (Tối đa 20 lần trong sự kiện)", 
         "KR": "매일 무료 1일 1회 ※기간 내 최대 20회", 
-        "TLM": 22476, 
+        "ES": "Uno gratis diariamente. * Hasta 20 veces durante la duración del evento", 
         "TH": "ฟรีทุกวัน 1วัน1ครั้ง *ระหว่างช่วงกิจกรรมได้สูงสุด 20 ครั้ง", 
         "Type": 0, 
         "id": 280, 
-        "ES": "Uno gratis diariamente. * Hasta 20 veces durante la duración del evento"
+        "TLM": 22476
     }, 
     {
         "FR": "10 S+ garantis", 
@@ -3927,11 +3927,11 @@
         "JP": "S以上10点確定", 
         "VN": "Bảo đảm S+ x10", 
         "KR": "S 이상 10개 확정", 
-        "TLM": 22477, 
+        "ES": "S x10  garantizado", 
         "TH": "การันตีได้รับ S+ x10", 
         "Type": 0, 
         "id": 281, 
-        "ES": "S x10  garantizado"
+        "TLM": 22477
     }, 
     {
         "FR": "Vous pouvez participer à la loterie du jour.", 
@@ -3941,11 +3941,11 @@
         "JP": "本日の抽選キャンペーンへ参加可能になりました", 
         "VN": "Giờ bạn có thể tham gia Sự kiện xổ số hôm nay.", 
         "KR": "오늘의 추첨 이벤트에 참가할 수 있습니다.", 
-        "TLM": 22478, 
+        "ES": "Eres apto para participar en la campaña de sorteo de hoy.", 
         "TH": "แคมเปญจับฉลากของวันนี้สามารถเข้าร่วมได้แล้ว", 
         "Type": 0, 
         "id": 282, 
-        "ES": "Eres apto para participar en la campaña de sorteo de hoy."
+        "TLM": 22478
     }, 
     {
         "FR": "Sélectionné", 
@@ -3955,11 +3955,11 @@
         "JP": "選択中", 
         "VN": "Đã chọn", 
         "KR": "선택 중", 
-        "TLM": 22479, 
+        "ES": "Seleccionado", 
         "TH": "กำลังเลือก", 
         "Type": 0, 
         "id": 283, 
-        "ES": "Seleccionado"
+        "TLM": 22479
     }, 
     {
         "FR": "1 SR coût 18+ garanti", 
@@ -3969,11 +3969,11 @@
         "JP": "コスト18以上SS1点確定", 
         "VN": "Bảo đảm S2 x1 với phí tiêu hao 18+", 
         "KR": "코스트 18 이상 SR 1개 확정", 
-        "TLM": 22480, 
+        "ES": "SR x1 coste 18+ garantizado", 
         "TH": "การันดีได้รับ SR คอสต์18+ x1", 
         "Type": 0, 
         "id": 284, 
-        "ES": "SR x1 coste 18+ garantizado"
+        "TLM": 22480
     }, 
     {
         "FR": "2 SR coût 18+ garantis", 
@@ -3983,11 +3983,11 @@
         "JP": "コスト18以上SS2点確定", 
         "VN": "Bảo đảm S2 x1 với phí tiêu hao 18+", 
         "KR": "코스트 18 이상 SR 2개 확정", 
-        "TLM": 22481, 
+        "ES": "SR x2 coste 18+ garantizado", 
         "TH": "การันดีได้รับ SR คอสต์18+ x2", 
         "Type": 0, 
         "id": 285, 
-        "ES": "SR x2 coste 18+ garantizado"
+        "TLM": 22481
     }, 
     {
         "FR": "Alice/Mage obtenue", 
@@ -3997,11 +3997,11 @@
         "JP": "アリス/メイジ獲得", 
         "VN": "Đã nhận được Alice (Pháp sư).", 
         "KR": "앨리스/메이지 획득", 
-        "TLM": 22482, 
+        "ES": "Alicia / Mago obtenida", 
         "TH": "ได้รับอลิซ/เมจ", 
         "Type": 0, 
         "id": 286, 
-        "ES": "Alicia / Mago obtenida"
+        "TLM": 22482
     }, 
     {
         "FR": "Aladdin", 
@@ -4011,11 +4011,11 @@
         "JP": "アラジン", 
         "VN": "Aladdin", 
         "KR": "알라딘", 
-        "TLM": 22483, 
+        "ES": "Aladin", 
         "TH": "อาลาดิน", 
         "Type": 0, 
         "id": 287, 
-        "ES": "Aladin"
+        "TLM": 22483
     }, 
     {
         "FR": "Important", 
@@ -4025,11 +4025,11 @@
         "JP": "注意事項", 
         "VN": "Quan trọng", 
         "KR": "주의 사항", 
-        "TLM": 22484, 
+        "ES": "Nota:", 
         "TH": "ข้อควรระวัง", 
         "Type": 0, 
         "id": 288, 
-        "ES": "Nota:"
+        "TLM": 22484
     }, 
     {
         "FR": "Résultats de la loterie", 
@@ -4039,11 +4039,11 @@
         "JP": "抽選結果", 
         "VN": "Kết quả xổ số", 
         "KR": "추첨 결과", 
-        "TLM": 22485, 
+        "ES": "Resultados del sorteo", 
         "TH": "ผลการจับฉลาก", 
         "Type": 0, 
         "id": 289, 
-        "ES": "Resultados del sorteo"
+        "TLM": 22485
     }, 
     {
         "FR": "Casse-Noisette ", 
@@ -4053,11 +4053,11 @@
         "JP": "くるみ割り人形 ", 
         "VN": "Nutcracker ", 
         "KR": "호두까기 인형 ", 
-        "TLM": 22486, 
+        "ES": "Cascanueces ", 
         "TH": "นัทแครกเกอร์ ", 
         "Type": 0, 
         "id": 290, 
-        "ES": "Cascanueces "
+        "TLM": 22486
     }, 
     {
         "FR": "Les Trois Petits Cochons", 
@@ -4067,11 +4067,11 @@
         "JP": "三匹の子豚", 
         "VN": "Ba chú lợn con", 
         "KR": "아기 돼지 삼형제", 
-        "TLM": 22487, 
+        "ES": "Los tres cerditos", 
         "TH": "ลูกหมูสามตัว", 
         "Type": 0, 
         "id": 291, 
-        "ES": "Los tres cerditos"
+        "TLM": 22487
     }, 
     {
         "FR": "Total", 
@@ -4081,11 +4081,11 @@
         "JP": "総合", 
         "VN": "Tổng", 
         "KR": "종합", 
-        "TLM": 22488, 
+        "ES": "Total", 
         "TH": "ทั้งหมด", 
         "Type": 0, 
         "id": 292, 
-        "ES": "Total"
+        "TLM": 22488
     }, 
     {
         "FR": "Sondages", 
@@ -4095,11 +4095,11 @@
         "JP": "投票所", 
         "VN": "Khu vực bình chọn", 
         "KR": "투표소", 
-        "TLM": 22489, 
+        "ES": "Encuestas", 
         "TH": "สถานที่โหวต", 
         "Type": 0, 
         "id": 293, 
-        "ES": "Encuestas"
+        "TLM": 22489
     }, 
     {
         "FR": "Utilisation\\nde l'objet", 
@@ -4109,11 +4109,11 @@
         "JP": "アイテム\\n使用", 
         "VN": "Dùng\\nvật phẩm", 
         "KR": "아이템\\n사용", 
-        "TLM": 22490, 
+        "ES": "Usar objeto", 
         "TH": "ใช้\\nไอเท็ม", 
         "Type": 0, 
         "id": 294, 
-        "ES": "Usar objeto"
+        "TLM": 22490
     }, 
     {
         "FR": "Film", 
@@ -4123,11 +4123,11 @@
         "JP": "ムービー", 
         "VN": "Phim", 
         "KR": "동영상", 
-        "TLM": 22491, 
+        "ES": "Película", 
         "TH": "มูฟวี่", 
         "Type": 0, 
         "id": 295, 
-        "ES": "Película"
+        "TLM": 22491
     }, 
     {
         "FR": "Évolution", 
@@ -4137,11 +4137,11 @@
         "JP": "進化", 
         "VN": "Tiến hóa", 
         "KR": "진화", 
-        "TLM": 22492, 
+        "ES": "Mejorar", 
         "TH": "วิวัฒนาการ", 
         "Type": 0, 
         "id": 296, 
-        "ES": "Mejorar"
+        "TLM": 22492
     }, 
     {
         "FR": "Historique de conquête", 
@@ -4151,11 +4151,11 @@
         "JP": "討伐履歴", 
         "VN": "\"VN\": null", 
         "KR": "토벌 이력", 
-        "TLM": 23254, 
+        "ES": "Historial de conquistas", 
         "TH": "ประวัติการพิชิต", 
         "Type": 0, 
         "id": 297, 
-        "ES": "Historial de conquistas"
+        "TLM": 23254
     }, 
     {
         "FR": "Guide pour débutant", 
@@ -4165,11 +4165,11 @@
         "JP": "初心者ナビ", 
         "VN": "\"VN\": null", 
         "KR": "초보자 길잡이", 
-        "TLM": 50377, 
+        "ES": "Guía para principiantes", 
         "TH": "นำทางผู้เล่นใหม่", 
         "Type": 0, 
         "id": 298, 
-        "ES": "Guía para principiantes"
+        "TLM": 50377
     }, 
     {
         "FR": "<size=47>T</size>OUCHEZ POUR <size=47>C</size>OMMENCER", 
@@ -4179,11 +4179,11 @@
         "JP": "<size=47>T</size>AP TO <size=47>S</size>TART", 
         "VN": "\"VN\": null", 
         "KR": "<size=47>터</size>치하여 <size=47>시</size>작", 
-        "TLM": 50495, 
+        "ES": "<size=47>T</size>OCA PARA <size=47>I</size>NICIAR", 
         "TH": "<size=47>แ</size>ตะเพื่อ<size=47>เ</size>ริ่มต้น", 
         "Type": 0, 
         "id": 299, 
-        "ES": "<size=47>T</size>OCA PARA <size=47>I</size>NICIAR"
+        "TLM": 50495
     }, 
     {
         "FR": "-TOUCHEZ POUR COMMENCER-", 
@@ -4193,11 +4193,11 @@
         "JP": "-TAP TO START-", 
         "VN": "\"VN\": null", 
         "KR": "-터치하여 시작-", 
-        "TLM": 50496, 
+        "ES": "-TOCA PARA INICIAR-", 
         "TH": "-แตะเพื่อเริ่มต้น-", 
         "Type": 0, 
         "id": 300, 
-        "ES": "-TOCA PARA INICIAR-"
+        "TLM": 50496
     }, 
     {
         "FR": "<size=28>E</size>N <size=28>V</size>EDETTE", 
@@ -4207,11 +4207,11 @@
         "JP": "<size=28>P</size>ICK <size=28>U</size>P", 
         "VN": "\"VN\": null", 
         "KR": "<size=28>P</size>ICK <size=28>U</size>P", 
-        "TLM": 50514, 
+        "ES": "<size=28>DES</size>TA<size=28>CA</size>DO", 
         "TH": "<size=28>พิ</size>ค<size=28>อั</size>พ", 
         "Type": 0, 
         "id": 301, 
-        "ES": "<size=28>DES</size>TA<size=28>CA</size>DO"
+        "TLM": 50514
     }, 
     {
         "FR": "<size=30>I</size>NFOS", 
@@ -4221,11 +4221,11 @@
         "JP": "<size=30>I</size>NFO", 
         "VN": "\"VN\": null", 
         "KR": "<size=30>I</size>NFO", 
-        "TLM": 50515, 
+        "ES": "<size=30>I</size>NFORMACIÓN", 
         "TH": "<size=30>ข้</size>อมูล", 
         "Type": 0, 
         "id": 302, 
-        "ES": "<size=30>I</size>NFORMACIÓN"
+        "TLM": 50515
     }, 
     {
         "FR": "Vérification des désirs…", 
@@ -4235,11 +4235,11 @@
         "JP": "욕망을 확인하는 중…..", 
         "VN": "\"VN\": null", 
         "KR": "욕망을 확인하는 중…..", 
-        "TLM": 50516, 
+        "ES": "Revisar el deseo…", 
         "TH": "กำลังตรวจสอบความต้องการ…", 
         "Type": 0, 
         "id": 303, 
-        "ES": "Revisar el deseo…"
+        "TLM": 50516
     }, 
     {
         "FR": "TERMINÉ", 
@@ -4249,11 +4249,11 @@
         "JP": "COMPLETE", 
         "VN": "\"VN\": null", 
         "KR": "COMPLETE", 
-        "TLM": 50519, 
+        "ES": "COMPLETADO", 
         "TH": "เสร็จสิ้น", 
         "Type": 0, 
         "id": 304, 
-        "ES": "COMPLETADO"
+        "TLM": 50519
     }, 
     {
         "FR": "Normal", 
@@ -4263,11 +4263,11 @@
         "JP": "Normal", 
         "VN": "\"VN\": null", 
         "KR": "Normal", 
-        "TLM": 50532, 
+        "ES": "Normal", 
         "TH": "Normal", 
         "Type": 0, 
         "id": 305, 
-        "ES": "Normal"
+        "TLM": 50532
     }, 
     {
         "FR": "Difficile", 
@@ -4277,11 +4277,11 @@
         "JP": "Hard", 
         "VN": "\"VN\": null", 
         "KR": "Hard", 
-        "TLM": 50533, 
+        "ES": "Difícil", 
         "TH": "Hard", 
         "Type": 0, 
         "id": 306, 
-        "ES": "Difícil"
+        "TLM": 50533
     }, 
     {
         "FR": "AUTO", 
@@ -4291,11 +4291,11 @@
         "JP": "AUTO", 
         "VN": "\"VN\": null", 
         "KR": "자동 전투", 
-        "TLM": 50535, 
+        "ES": "AUTOMÁTICO", 
         "TH": "AUTO", 
         "Type": 0, 
         "id": 307, 
-        "ES": "AUTOMÁTICO"
+        "TLM": 50535
     }, 
     {
         "FR": "MODE AUTO…", 
@@ -4305,11 +4305,11 @@
         "JP": "AUTO MODE…", 
         "VN": "\"VN\": null", 
         "KR": "자동 전투 모드…", 
-        "TLM": 50536, 
+        "ES": "MODO AUTOMÁTICO…", 
         "TH": "โหมดอัตโนมัติ…", 
         "Type": 0, 
         "id": 308, 
-        "ES": "MODO AUTOMÁTICO…"
+        "TLM": 50536
     }, 
     {
         "FR": "Bonus de fin", 
@@ -4319,11 +4319,11 @@
         "JP": "Clear Bonus", 
         "VN": "\"VN\": null", 
         "KR": "Clear Bonus", 
-        "TLM": 50537, 
+        "ES": "Completar bonificación", 
         "TH": "ผ่านโบนัส", 
         "Type": 0, 
         "id": 309, 
-        "ES": "Completar bonificación"
+        "TLM": 50537
     }, 
     {
         "FR": "Suivant", 
@@ -4333,11 +4333,11 @@
         "JP": "Next", 
         "VN": "\"VN\": null", 
         "KR": "Next", 
-        "TLM": 50538, 
+        "ES": "Siguiente", 
         "TH": "ต่อไป", 
         "Type": 0, 
         "id": 310, 
-        "ES": "Siguiente"
+        "TLM": 50538
     }, 
     {
         "FR": "Résultat", 
@@ -4347,11 +4347,11 @@
         "JP": "Result", 
         "VN": "\"VN\": null", 
         "KR": "Result", 
-        "TLM": 50539, 
+        "ES": "Resultado", 
         "TH": "ผลลัพธ์", 
         "Type": 0, 
         "id": 311, 
-        "ES": "Resultado"
+        "TLM": 50539
     }, 
     {
         "FR": "Mission terminée", 
@@ -4361,11 +4361,11 @@
         "JP": "Mission Complete", 
         "VN": "\"VN\": null", 
         "KR": "Mission Complete", 
-        "TLM": 50540, 
+        "ES": "Misión completada", 
         "TH": "ภารกิจเสร็จสิ้น", 
         "Type": 0, 
         "id": 312, 
-        "ES": "Misión completada"
+        "TLM": 50540
     }, 
     {
         "FR": "Monter en rang", 
@@ -4375,11 +4375,11 @@
         "JP": "Rank Up", 
         "VN": "\"VN\": null", 
         "KR": "Rank Up", 
-        "TLM": 50541, 
+        "ES": "Subida de rango", 
         "TH": "Rank Up", 
         "Type": 0, 
         "id": 313, 
-        "ES": "Subida de rango"
+        "TLM": 50541
     }, 
     {
         "FR": "GAME OVER", 
@@ -4389,11 +4389,11 @@
         "JP": "GAME OVER", 
         "VN": "\"VN\": null", 
         "KR": "GAME OVER", 
-        "TLM": 50550, 
+        "ES": "FIN DEL JUEGO", 
         "TH": "GAME OVER", 
         "Type": 0, 
         "id": 314, 
-        "ES": "FIN DEL JUEGO"
+        "TLM": 50550
     }, 
     {
         "FR": "VAGUE", 
@@ -4403,11 +4403,11 @@
         "JP": "WAVE", 
         "VN": "\"VN\": null", 
         "KR": "WAVE", 
-        "TLM": 50551, 
+        "ES": "OLA", 
         "TH": "WAVE", 
         "Type": 0, 
         "id": 315, 
-        "ES": "OLA"
+        "TLM": 50551
     }, 
     {
         "FR": "TEMPS ÉCOULÉ", 
@@ -4417,11 +4417,11 @@
         "JP": "TIME UP", 
         "VN": "\"VN\": null", 
         "KR": "TIME UP", 
-        "TLM": 50552, 
+        "ES": "SE ACABÓ EL TIEMPO", 
         "TH": "หมดเวลา", 
         "Type": 0, 
         "id": 316, 
-        "ES": "SE ACABÓ EL TIEMPO"
+        "TLM": 50552
     }, 
     {
         "FR": "NIVEAU TERMINÉ", 
@@ -4431,11 +4431,11 @@
         "JP": "STAGE CLEAR", 
         "VN": "\"VN\": null", 
         "KR": "STAGE CLEAR", 
-        "TLM": 50553, 
+        "ES": "ETAPA COMPLETADA", 
         "TH": "ผ่านด่าน", 
         "Type": 0, 
         "id": 317, 
-        "ES": "ETAPA COMPLETADA"
+        "TLM": 50553
     }, 
     {
         "FR": "APPARITION DU BOSS", 
@@ -4445,11 +4445,11 @@
         "JP": "BOSS APPEARED", 
         "VN": "\"VN\": null", 
         "KR": "BOSS APPEARED", 
-        "TLM": 50554, 
+        "ES": "APARECE EL JEFE", 
         "TH": "บอสปรากฏตัว", 
         "Type": 0, 
         "id": 318, 
-        "ES": "APARECE EL JEFE"
+        "TLM": 50554
     }, 
     {
         "FR": "DÉBUT DU COMBAT", 
@@ -4459,11 +4459,11 @@
         "JP": "BATTLE START", 
         "VN": "\"VN\": null", 
         "KR": "BATTLE START", 
-        "TLM": 50555, 
+        "ES": "INICIO DEL COMBATE", 
         "TH": "เริ่มการต่อสู้", 
         "Type": 0, 
         "id": 319, 
-        "ES": "INICIO DEL COMBATE"
+        "TLM": 50555
     }, 
     {
         "FR": "Nouv.", 
@@ -4473,11 +4473,11 @@
         "JP": "New", 
         "VN": "\"VN\": null", 
         "KR": "New", 
-        "TLM": 50556, 
+        "ES": "Nue", 
         "TH": "ใหม่", 
         "Type": 0, 
         "id": 320, 
-        "ES": "Nue"
+        "TLM": 50556
     }, 
     {
         "FR": "Nouvel objet", 
@@ -4487,11 +4487,11 @@
         "JP": "New Item", 
         "VN": "\"VN\": null", 
         "KR": "New Item", 
-        "TLM": 50560, 
+        "ES": "Nuevo objeto", 
         "TH": "ไอเท็มใหม่", 
         "Type": 0, 
         "id": 321, 
-        "ES": "Nuevo objeto"
+        "TLM": 50560
     }, 
     {
         "FR": "Coups", 
@@ -4501,11 +4501,11 @@
         "JP": "Hits", 
         "VN": "\"VN\": null", 
         "KR": "Hits", 
-        "TLM": 50570, 
+        "ES": "Golpes", 
         "TH": "Hits", 
         "Type": 0, 
         "id": 322, 
-        "ES": "Golpes"
+        "TLM": 50570
     }, 
     {
         "FR": "Offre spéciale", 
@@ -4515,11 +4515,11 @@
         "JP": "Sale", 
         "VN": "\"VN\": null", 
         "KR": "Sale", 
-        "TLM": 50573, 
+        "ES": "Venta", 
         "TH": "ลดราคา", 
         "Type": 0, 
         "id": 323, 
-        "ES": "Venta"
+        "TLM": 50573
     }, 
     {
         "FR": "Combat", 
@@ -4529,11 +4529,11 @@
         "JP": "Battle", 
         "VN": "\"VN\": null", 
         "KR": "Battle", 
-        "TLM": 50574, 
+        "ES": "Combatir", 
         "TH": "ต่อสู้", 
         "Type": 0, 
         "id": 324, 
-        "ES": "Combatir"
+        "TLM": 50574
     }, 
     {
         "FR": "ÉTAPE 1", 
@@ -4543,11 +4543,11 @@
         "JP": "STEP1", 
         "VN": "\"VN\": null", 
         "KR": "STEP 1", 
-        "TLM": 50591, 
+        "ES": "PASO1", 
         "TH": "ขั้นที่1", 
         "Type": 0, 
         "id": 325, 
-        "ES": "PASO1"
+        "TLM": 50591
     }, 
     {
         "FR": "ÉTAPE 5", 
@@ -4557,11 +4557,11 @@
         "JP": "STEP5", 
         "VN": "\"VN\": null", 
         "KR": "STEP 5", 
-        "TLM": 50592, 
+        "ES": "PASO5", 
         "TH": "ขั้นที่5", 
         "Type": 0, 
         "id": 326, 
-        "ES": "PASO5"
+        "TLM": 50592
     }, 
     {
         "FR": "ÉTAPE 2", 
@@ -4571,11 +4571,11 @@
         "JP": "STEP2", 
         "VN": "\"VN\": null", 
         "KR": "STEP 2", 
-        "TLM": 50593, 
+        "ES": "PASO2", 
         "TH": "ขั้นที่2", 
         "Type": 0, 
         "id": 327, 
-        "ES": "PASO2"
+        "TLM": 50593
     }, 
     {
         "FR": "ÉTAPE 3", 
@@ -4585,11 +4585,11 @@
         "JP": "STEP3", 
         "VN": "\"VN\": null", 
         "KR": "STEP 3", 
-        "TLM": 50594, 
+        "ES": "PASO3", 
         "TH": "ขั้นที่3", 
         "Type": 0, 
         "id": 328, 
-        "ES": "PASO3"
+        "TLM": 50594
     }, 
     {
         "FR": "ÉTAPE 4", 
@@ -4599,11 +4599,11 @@
         "JP": "STEP4", 
         "VN": "\"VN\": null", 
         "KR": "STEP 4", 
-        "TLM": 50595, 
+        "ES": "PASO4", 
         "TH": "ขั้นที่4", 
         "Type": 0, 
         "id": 329, 
-        "ES": "PASO4"
+        "TLM": 50595
     }, 
     {
         "FR": "ÉTAPE", 
@@ -4613,11 +4613,11 @@
         "JP": "STEP", 
         "VN": "\"VN\": null", 
         "KR": "STEP", 
-        "TLM": 50596, 
+        "ES": "PASO", 
         "TH": "ขั้น", 
         "Type": 0, 
         "id": 330, 
-        "ES": "PASO"
+        "TLM": 50596
     }, 
     {
         "FR": "<size=28>PRO</size>GRE<size=28>S</size>SION", 
@@ -4627,11 +4627,11 @@
         "JP": "<size=28>S</size>TEP  <size=28>U</size>P", 
         "VN": "\"VN\": null", 
         "KR": "<size=28>S</size>TEP  <size=28>U</size>P", 
-        "TLM": 50615, 
+        "ES": "<size=28>P</size>ROGRESAR", 
         "TH": "<size=28>เ</size>ลื่อน<size=28>ขั้</size>น", 
         "Type": 0, 
         "id": 331, 
-        "ES": "<size=28>P</size>ROGRESAR"
+        "TLM": 50615
     }, 
     {
         "FR": "Victoire", 
@@ -4641,11 +4641,11 @@
         "JP": "勝利", 
         "VN": "Thắng", 
         "KR": "승리", 
-        "TLM": 50632, 
+        "ES": "Victoria", 
         "TH": "ชนะ", 
         "Type": 0, 
         "id": 332, 
-        "ES": "Victoria"
+        "TLM": 50632
     }, 
     {
         "FR": "Match nul", 
@@ -4655,11 +4655,11 @@
         "JP": "引き分け", 
         "VN": "Hòa", 
         "KR": "무승부", 
-        "TLM": 50633, 
+        "ES": "Empate", 
         "TH": "เสมอ", 
         "Type": 0, 
         "id": 333, 
-        "ES": "Empate"
+        "TLM": 50633
     }, 
     {
         "FR": "Défaite", 
@@ -4669,11 +4669,11 @@
         "JP": "敗北", 
         "VN": "Thua", 
         "KR": "패배", 
-        "TLM": 50634, 
+        "ES": "Derrota", 
         "TH": "แพ้", 
         "Type": 0, 
         "id": 334, 
-        "ES": "Derrota"
+        "TLM": 50634
     }, 
     {
         "FR": "Obtenir l'objet", 
@@ -4683,10 +4683,10 @@
         "JP": "Get Item", 
         "VN": "\"VN\": null", 
         "KR": "아이템 GET", 
-        "TLM": 50644, 
+        "ES": "Obtener objeto", 
         "TH": "รับไอเท็มใหม่", 
         "Type": 0, 
         "id": 335, 
-        "ES": "Obtener objeto"
+        "TLM": 50644
     }
 ]

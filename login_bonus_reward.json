@@ -6,8 +6,8 @@
         "loginBonusRewardMstId": 1, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -15,7 +15,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -24,8 +24,8 @@
         "loginBonusRewardMstId": 2, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -33,7 +33,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -42,8 +42,8 @@
         "loginBonusRewardMstId": 3, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -51,7 +51,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -60,8 +60,8 @@
         "loginBonusRewardMstId": 4, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -69,7 +69,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -78,8 +78,8 @@
         "loginBonusRewardMstId": 5, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -87,7 +87,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -96,8 +96,8 @@
         "loginBonusRewardMstId": 6, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -105,7 +105,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -114,8 +114,8 @@
         "loginBonusRewardMstId": 7, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -123,7 +123,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -132,8 +132,8 @@
         "loginBonusRewardMstId": 8, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -141,7 +141,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -150,8 +150,8 @@
         "loginBonusRewardMstId": 9, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -159,7 +159,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -168,8 +168,8 @@
         "loginBonusRewardMstId": 10, 
         "objectType2": 5, 
         "objectType3": 0, 
+        "num1": 5, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -177,7 +177,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 20000, 
-        "num1": 5
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -186,8 +186,8 @@
         "loginBonusRewardMstId": 11, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -195,7 +195,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -204,8 +204,8 @@
         "loginBonusRewardMstId": 12, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -213,7 +213,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -222,8 +222,8 @@
         "loginBonusRewardMstId": 13, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -231,7 +231,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -240,8 +240,8 @@
         "loginBonusRewardMstId": 14, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -249,7 +249,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -258,8 +258,8 @@
         "loginBonusRewardMstId": 15, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -267,7 +267,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -276,8 +276,8 @@
         "loginBonusRewardMstId": 16, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -285,7 +285,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -294,8 +294,8 @@
         "loginBonusRewardMstId": 17, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -303,7 +303,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -312,8 +312,8 @@
         "loginBonusRewardMstId": 18, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -321,7 +321,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -330,8 +330,8 @@
         "loginBonusRewardMstId": 19, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 30, 
         "num3": 0, 
-        "objectType1": 14, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 0, 
@@ -339,7 +339,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 30
+        "objectType1": 14
     }, 
     {
         "objectType4": 0, 
@@ -348,8 +348,8 @@
         "loginBonusRewardMstId": 20, 
         "objectType2": 0, 
         "objectType3": 0, 
+        "num1": 1, 
         "num3": 0, 
-        "objectType1": 2, 
         "objectId3": 0, 
         "objectId2": 0, 
         "objectId1": 345, 
@@ -357,7 +357,7 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 0, 
-        "num1": 1
+        "objectType1": 2
     }, 
     {
         "objectType4": 0, 
@@ -366,8 +366,8 @@
         "loginBonusRewardMstId": 900001, 
         "objectType2": 11, 
         "objectType3": 0, 
+        "num1": 3, 
         "num3": 0, 
-        "objectType1": 11, 
         "objectId3": 0, 
         "objectId2": 10, 
         "objectId1": 900001, 
@@ -375,6 +375,6 @@
         "objectId4": 0, 
         "message": "0", 
         "num2": 1, 
-        "num1": 3
+        "objectType1": 11
     }
 ]
