@@ -1320,6 +1320,126 @@
         "cardDetailType": 4
     }, 
     {
+        "name": "Tome +10% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 133, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 134, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.DEF +50", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 135, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 136, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 137, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.ATK +50", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 138, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 139, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.ATK +50", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 140, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 141, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 142, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +20% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 143, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 144, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 12, 
+        "cardDetailType": 2
+    }, 
+    {
         "name": "Polearm +10% (Pinocchio+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

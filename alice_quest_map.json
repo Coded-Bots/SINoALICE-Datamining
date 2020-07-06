@@ -61,6 +61,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Cinderella/Sorcerer Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 7, 
+        "createdTime": 1580961600, 
+        "mapGroup": 3, 
+        "name": "Incarnation of Envy"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Late May Medal Event", 
         "announceUrl": "", 
         "mapType": 1, 

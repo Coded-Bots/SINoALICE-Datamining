@@ -1294,6 +1294,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Incarnation of Envy", 
+        "collectItemId": 0, 
+        "questAreaMstId": 144, 
+        "isComingSoon": true, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 7, 
+        "assetBundleName": "questareabackground/11", 
+        "createdTime": 1580961600, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0011", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "Shattered Memories", 
         "collectItemId": 174, 
         "questAreaMstId": 154, 

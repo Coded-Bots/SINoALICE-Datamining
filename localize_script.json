@@ -2702,7 +2702,7 @@
         "TLM": 20887
     }, 
     {
-        "FR": "On les appelle des \\\"PC\\\", c'est plus pratique !", 
+        "FR": "On les appelle des \"PC\", c'est plus pratique !", 
         "EN": "We'll call it SP to make things easier!", 
         "GameKey": "SCRIPT/0194", 
         "DE": "Wir nennen sie SP, der Einfachheit halber!", 
@@ -4662,7 +4662,7 @@
         "TLM": 21027
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nAlice : \\\"Je les purifierai tous.\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nAlice : \"Je les purifierai tous.", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nAlice: \"I'll Purify them all.\"", 
         "GameKey": "SCRIPT/0334", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nAlice: „Ich werde sie alle läutern.“", 
@@ -4676,7 +4676,7 @@
         "TLM": 21028
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nCendrillon : \\\"Admirez le travail.\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nCendrillon : \"Admirez le travail.", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nCinderella: \"Just watch me.\"", 
         "GameKey": "SCRIPT/0335", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nAschenputtel: „Sieh mir nur zu.“", 
@@ -4690,7 +4690,7 @@
         "TLM": 21029
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nBelle au bois dormant : \\\"J'ai trop sommeil...\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nBelle au bois dormant : \"J'ai trop sommeil...", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nSleeping Beauty: \"Too sleepy...\"", 
         "GameKey": "SCRIPT/0336", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nDornröschen: „Viel zu müde …“", 
@@ -4704,7 +4704,7 @@
         "TLM": 21030
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nPetit Chaperon rouge : \\\"Je veillerai à ce que ça fasse mal. Hé hé !\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nPetit Chaperon rouge : \"Je veillerai à ce que ça fasse mal. Hé hé !", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nRed Riding Hood: \"I'll make sure it hurts. Hehe!\"", 
         "GameKey": "SCRIPT/0337", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nRotkäppchen: „Ich werde dafür sorgen, dass es wehtut.“", 
@@ -4718,7 +4718,7 @@
         "TLM": 21031
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nBlanche : \\\"Pour la Justice, quel que soit le combat.\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nBlanche : \"Pour la Justice, quel que soit le combat.", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nSnow: \"Justice, no matter the fight.\"", 
         "GameKey": "SCRIPT/0338", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nSchneewittchen: „Gerechtigkeit, egal in welchem Kampf.“", 
@@ -4732,7 +4732,7 @@
         "TLM": 21032
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nGretel : \\\"Nous les purifierons avec notre amour.\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nGretel : \"Nous les purifierons avec notre amour.", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nGretel: \"We'll Purify them with our love.\"", 
         "GameKey": "SCRIPT/0339", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nGretel: „Wir läutern sie mit unserer Liebe.“", 
@@ -4746,7 +4746,7 @@
         "TLM": 21033
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nPrincesse Kaguya : \\\"Mon corps brûle d'impatience...\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nPrincesse Kaguya : \"Mon corps brûle d'impatience...", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nPrincess Kaguya: \"My body burns with anticipation...\"", 
         "GameKey": "SCRIPT/0340", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nPrinzessin Kaguya: „Mein Körper brennt voller Erwartung …“", 
@@ -4760,7 +4760,7 @@
         "TLM": 21034
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nPinocchio : \\\"Puis-je compter sur vous ?\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nPinocchio : \"Puis-je compter sur vous ?", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nPinocchio: \"Can I depend on you?\"", 
         "GameKey": "SCRIPT/0341", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nPinocchio: „Kann ich auf dich zählen?“", 
@@ -4774,7 +4774,7 @@
         "TLM": 21035
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nPetite Sirène : \\\"Si j'inflige la détresse, alors pourquoi pas ?\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nPetite Sirène : \"Si j'inflige la détresse, alors pourquoi pas ?", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nLittle Mermaid: \"If it brings misery, then why not?\"", 
         "GameKey": "SCRIPT/0342", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nKleine Meerjungfrau: „Wenn es dich klagen lässt, warum nicht?“", 
@@ -4788,7 +4788,7 @@
         "TLM": 21036
     }, 
     {
-        "FR": "Noya : \\\"Venez purifier, et plus vite que ça !\\\"\\\\nDorothy : \\\"Valeur limite de détection localisée !\\", 
+        "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nDorothy : \"Valeur limite de détection localisée !", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nDorothy: \"Detection limit value found!\"", 
         "GameKey": "SCRIPT/0343", 
         "DE": "Noya: „Komm her und läutere endlich!“\\\\nDorothy: „Erkennungsgrenzwert gefunden!“", 
@@ -5169,7 +5169,7 @@
         "FR": ", pour combattre, il vous faut du sang...", 
         "EN": ", to fight, you need blood...", 
         "GameKey": "SCRIPT/0370", 
-        "DE": "Zum Kämpfen brauchst du Blut …", 
+        "DE": ", zum Kämpfen brauchst du Blut …", 
         "JP": "様ガ戦うには『血』ガ必要なのデス……", 
         "VN": "Để chiến đấu, ngươi cần Máu...", 
         "KR": " 님이 싸우기 위해서는 \"피\"가 필요합니다……", 
@@ -5197,7 +5197,7 @@
         "FR": ", vous allez devoir vous retrousser les manches !", 
         "EN": ", you're gonna have to work.", 
         "GameKey": "SCRIPT/0372", 
-        "DE": " , ich hab Arbeit für dich.", 
+        "DE": ", ich hab Arbeit für dich.", 
         "JP": "様には働いてイタダキたい。", 
         "VN": "Ngươi cần làm việc.", 
         "KR": " 님이 일을 해 주셔야 합니다.", 
@@ -5642,7 +5642,7 @@
         "TLM": 21097
     }, 
     {
-        "FR": "Participation possible après avoir terminé l'étape \\\"{0}\\", 
+        "FR": "Participation possible après avoir terminé l'étape \"{0}", 
         "EN": "Participation possible after clearing Stage {0}", 
         "GameKey": "SCRIPT/0404", 
         "DE": "Teilnahme nach Abschluss von Phase „{0}“ möglich", 
@@ -7630,7 +7630,7 @@
         "TLM": 21239
     }, 
     {
-        "FR": "dans {0}", 
+        "FR": " {0}", 
         "EN": "until {0}", 
         "GameKey": "SCRIPT/0546", 
         "DE": "bis {0}", 
@@ -7700,7 +7700,7 @@
         "TLM": 21244
     }, 
     {
-        "FR": "*Vous avez {0} achat(s) restant(s).", 
+        "FR": "*Il vous reste {0} achat(s).", 
         "EN": "Note: You have {0} purchase(s) remaining.", 
         "GameKey": "SCRIPT/0551", 
         "DE": "*Du hast noch {0} Kauf/Käufe übrig.", 
@@ -9254,7 +9254,7 @@
         "TLM": 21355
     }, 
     {
-        "FR": "votre appareil Android dans \\\"Paramètres\\\" -> \\\"Applications\\\" -> \\\"SINoALICE\\\" -> \\\"Autorisation\\\".", 
+        "FR": "votre appareil Android dans \"Paramètres\" -> \"Applications\" -> \"SINoALICE\" -> \"Autorisation\".", 
         "EN": "Go to Settings >Apps > SINoALICE > Permission to change.", 
         "GameKey": "SCRIPT/0662", 
         "DE": "Android-Gerät unter „Einstellungen“ -> „Apps“ -> „SINoALICE“ -> „Berechtigungen“.", 
@@ -10122,7 +10122,7 @@
         "TLM": 21417
     }, 
     {
-        "FR": "L'option \\\"Autoriser les invitations\\\" a été activée.\\\\nVous recevrez une notification sur l'écran d'accueil si vous recevez une invitation.", 
+        "FR": "L'option \"Autoriser les invitations\" a été activée.\\\\nVous recevrez une notification sur l'écran d'accueil si vous recevez une invitation.", 
         "EN": "Invites Wanted has been turned ON.\\\\nYou will get a notification on the home screen if you receive an invitation.", 
         "GameKey": "SCRIPT/0724", 
         "DE": "„Einladung erwünscht“ wurde eingestellt.\\\\nDu erhältst eine Benachrichtigung auf dem Startbildschirm, wenn du eine Einladung erhältst.", 
@@ -10304,7 +10304,7 @@
         "TLM": 21430
     }, 
     {
-        "FR": "Guilde créée !\\\\nNom de la guilde : \\\"RemplissageRemplissageRemplissage\\", 
+        "FR": "Guilde créée !\\\\nNom de la guilde : \"RemplissageRemplissageRemplissage", 
         "EN": "Created a guild!\\\\nGuild Name: FillerFillerFiller", 
         "GameKey": "SCRIPT/0737", 
         "DE": "Erstelle eine Gilde!\\\\nGildenname: „Lückenfüller“", 
@@ -11670,7 +11670,7 @@
         "VN": "Đã hủy liên kết", 
         "KR": "미가입", 
         "ES": "No afiliado", 
-        "TH": "ยังไม่ได้เข้าร่วม", 
+        "TH": "ไม่ได้เข้าร่วม", 
         "Type": 0, 
         "id": 834, 
         "TLM": 21528
@@ -11690,7 +11690,7 @@
         "TLM": 21529
     }, 
     {
-        "FR": "Nom changé : \\\"{0}\\\" est devenu\\\\n<color=yellow>\\\"{1}\\\"</color>.", 
+        "FR": "Nom changé : \"{0}\" est devenu\\\\n<color=yellow>\"{1}\"</color>.", 
         "EN": "Name changed from \"{0}\" to\\\\n<color=yellow>\"{1}\"</color>.", 
         "GameKey": "SCRIPT/0836", 
         "DE": "Name von „{0}“ zu\\\\n<color=yellow>„{1}“</color> geändert.", 
@@ -11803,7 +11803,7 @@
     }, 
     {
         "FR": "ràz.", 
-        "EN": "", 
+        "EN": "Update", 
         "GameKey": "SCRIPT/0844", 
         "DE": "neu", 
         "JP": "更新", 
@@ -12111,7 +12111,7 @@
     }, 
     {
         "FR": "Merci de votre compréhension.", 
-        "EN": "Thank you for your understanding.", 
+        "EN": "<br>Thank you for your understanding.", 
         "GameKey": "SCRIPT/0866", 
         "DE": "Danke für dein Verständnis.", 
         "JP": "ご了承ください。", 
@@ -14378,7 +14378,7 @@
         "TLM": 22827
     }, 
     {
-        "FR": "Utilisable :", 
+        "FR": "Expire le :", 
         "EN": "Duration: ", 
         "GameKey": "SCRIPT/1119", 
         "DE": "Gültig: ", 
@@ -15911,7 +15911,7 @@
         "JP": "ステップアップガチャ", 
         "VN": "Sách phép tăng cường", 
         "KR": "스텝업 뽑기", 
-        "ES": "Aumentar grimorios", 
+        "ES": "Grimorio de avance", 
         "TH": "StepUpกรีมัวร์", 
         "Type": 0, 
         "id": 1137, 
@@ -17388,7 +17388,7 @@
         "TLM": 50572
     }, 
     {
-        "FR": "Niv. J", 
+        "FR": "Niv. Classe", 
         "EN": "CLv.", 
         "GameKey": "SCRIPT/1246", 
         "DE": "Klassen St.", 
@@ -17865,7 +17865,7 @@
     }, 
     {
         "FR": "Tps passé comme utilisateur royal : ", 
-        "EN": "Royal User History:", 
+        "EN": "Royal User History: ", 
         "GameKey": "SCRIPT", 
         "DE": "Königlicher Benutzer Verlauf:", 
         "JP": "ロイヤルユーザー歴：", 

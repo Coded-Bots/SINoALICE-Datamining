@@ -1442,7 +1442,7 @@
         "TLM": 20275
     }, 
     {
-        "FR": "\\\"Désirs reçus. <size=24\\\">Connexion en cours...</size>\\", 
+        "FR": "\"Désirs reçus. <size=24\\\">Connexion en cours...</size>", 
         "EN": "Desire received. <size=24\\\">Logging in...</size>", 
         "GameKey": "SCENE/0103", 
         "DE": "„Verlangen empfangen. <size=24\\\">Logge ein …</size>“", 
@@ -2478,7 +2478,7 @@
         "TLM": 20349
     }, 
     {
-        "FR": "Récompenses d'apparition", 
+        "FR": "Récompenses de butin", 
         "EN": "Drop Rewards", 
         "GameKey": "SCENE/0177", 
         "DE": "Beutebelohnungen", 
@@ -4914,7 +4914,7 @@
         "TLM": 20523
     }, 
     {
-        "FR": "Récompenses d'apparition principales", 
+        "FR": "Récompenses de butin principales", 
         "EN": "Main Drop Rewards", 
         "GameKey": "SCENE/0351", 
         "DE": "Primäre Beutebelohnungen", 
@@ -6370,7 +6370,7 @@
         "TLM": 20627
     }, 
     {
-        "FR": "\\\"Didacticiel\\\"\\\\ndes quêtes", 
+        "FR": "\"Didacticiel\"\\\\ndes quêtes", 
         "EN": "Quest\\\\nTutorial", 
         "GameKey": "SCENE/0455", 
         "DE": "Quest\\\\n„Tutorial“", 
