@@ -6433,5 +6433,14 @@
         "isEveryTimeDownload": false, 
         "androidHash": "03dba88c143771cb719cb6f436cc2726", 
         "resourceName": "cri/se_tutorial.acb"
+    }, 
+    {
+        "iosHash": "c0d86ac89b81fcbc65956d71d3fd6dcf", 
+        "iosFileSize": 16800032, 
+        "androidFileSize": 16800032, 
+        "resourceFileMstId": 716, 
+        "isEveryTimeDownload": false, 
+        "androidHash": "c0d86ac89b81fcbc65956d71d3fd6dcf", 
+        "resourceName": "cri/QuestHartedMovie_Global.usm"
     }
 ]
