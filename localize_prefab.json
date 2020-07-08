@@ -3088,7 +3088,7 @@
         "VN": "Đặt lại đặc tính", 
         "KR": "주력 무기", 
         "ES": "Espec. Arma", 
-        "TH": "อาวุธที่เชี่ยวชาญ", 
+        "TH": "อาวุธถนัด", 
         "Type": 0, 
         "id": 221, 
         "TLM": 19430
@@ -4942,7 +4942,7 @@
         "TLM": 19562
     }, 
     {
-        "FR": "Concentré sur l'histoire", 
+        "FR": "Axé sur l'histoire", 
         "EN": "Story Focused", 
         "GameKey": "PREFAB/0713", 
         "DE": "Fokus auf Geschichte", 
@@ -4956,7 +4956,7 @@
         "TLM": 19563
     }, 
     {
-        "FR": "Concentré sur le Killisée", 
+        "FR": "Axé sur le Killisée", 
         "EN": "Killosseum Focused", 
         "GameKey": "PREFAB/0714", 
         "DE": "Fokus auf Killosseum", 
@@ -4970,7 +4970,7 @@
         "TLM": 19564
     }, 
     {
-        "FR": "Concentré sur le Colisée", 
+        "FR": "Axé sur le Colisée", 
         "EN": "Colosseum Focused", 
         "GameKey": "PREFAB/0715", 
         "DE": "Fokus auf Kolosseum", 
@@ -10417,7 +10417,7 @@
     }, 
     {
         "FR": "Impossible de confirmer l'avis\\\\npour cause de maintenance.\\\\n\\\\nVeuillez nous excuser pour la gêne occasionnée.\\\\nMerci de visiter le compte Twitter officiel\\\\nde SINoALICE pour plus d'informations.", 
-        "EN": "Cannot confirm notice\\\\ndue to maintenance.\\\\n\\\\nWe apologize for any inconvenience.\\\\nPlease visit the official SINoALICE Twitter\\\\naccount for further details.", 
+        "EN": "SINoALICE is currently undergoing maintenance.\\\\nDue to this maintenance in-game notices are also\\\\ncurrently unavailable. For more information please\\\\ncheck the official SINoALICE twitter account.", 
         "GameKey": "PREFAB/0162", 
         "DE": "Bestätigen der Nachricht\\\\naufgrund von Wartungsarbeiten nicht möglich.\\\\n\\\\nWir entschuldigen uns für die Unannehmlichkeiten.\\\\nBitte besuche den offiziellen Twitter-Account\\\\nvon SINoALICE für weitere Details.", 
         "JP": "ただいまお知らせが確認できない\\\\nメンテナンスを実施中です。\\\\n\\\\nご迷惑をおかけし大変申し訳ございません。\\\\n詳細に関しまして「シノアリスTwitter公式アカウント」\\\\nをご確認ください。", 
@@ -10760,7 +10760,7 @@
         "VN": "Đặc tính", 
         "KR": "주력 무기", 
         "ES": "Espec. Arma", 
-        "TH": "อาวุธที่เชี่ยวชาญ", 
+        "TH": "อาวุธถนัด", 
         "Type": 0, 
         "id": 769, 
         "TLM": 19978

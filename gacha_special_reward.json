@@ -53,5 +53,27 @@
         "firstObjectId": 24, 
         "firstNum": 1, 
         "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 6, 
+        "firstObjectType": 19, 
+        "targetId": 581, 
+        "num": 0, 
+        "firstObjectId": 17, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 7, 
+        "firstObjectType": 19, 
+        "targetId": 585, 
+        "num": 0, 
+        "firstObjectId": 25, 
+        "firstNum": 1, 
+        "objectType": 0
     }
 ]

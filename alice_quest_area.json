@@ -1324,5 +1324,22 @@
         "bgResourceName": "0002", 
         "cueSheetName": "bgm_mypage", 
         "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
+        "name": "Nightmare in the Chapel", 
+        "collectItemId": 0, 
+        "questAreaMstId": 155, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 18, 
+        "assetBundleName": "questareabackground/38", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0038", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
     }
 ]

@@ -24121,5 +24121,104 @@
         "questStageMstId": 1410, 
         "createdTime": 1483974000, 
         "description": "Clear using a water skill 3+ times"
+    }, 
+    {
+        "missionType": 7, 
+        "questMissionMstId": 4231, 
+        "name": "Clear with 5m+ remaining", 
+        "level": 1, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1411, 
+        "createdTime": 1483974000, 
+        "description": "Clear with 5m+ remaining"
+    }, 
+    {
+        "missionType": 9, 
+        "questMissionMstId": 4232, 
+        "name": "Clear using a wind skill 10+ times", 
+        "level": 2, 
+        "missionValue": 3, 
+        "missionValue2": 10, 
+        "questStageMstId": 1411, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a wind skill 10+ times"
+    }, 
+    {
+        "missionType": 10, 
+        "questMissionMstId": 4233, 
+        "name": "Clear using an ATK debuff skill 5+ times", 
+        "level": 3, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1411, 
+        "createdTime": 1483974000, 
+        "description": "Clear using an ATK debuff skill 5+ times"
+    }, 
+    {
+        "missionType": 7, 
+        "questMissionMstId": 4234, 
+        "name": "Clear with 5m+ remaining", 
+        "level": 1, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1412, 
+        "createdTime": 1483974000, 
+        "description": "Clear with 5m+ remaining"
+    }, 
+    {
+        "missionType": 9, 
+        "questMissionMstId": 4235, 
+        "name": "Clear using a wind skill 10+ times", 
+        "level": 2, 
+        "missionValue": 3, 
+        "missionValue2": 10, 
+        "questStageMstId": 1412, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a wind skill 10+ times"
+    }, 
+    {
+        "missionType": 10, 
+        "questMissionMstId": 4236, 
+        "name": "Clear using an ATK debuff skill 5+ times", 
+        "level": 3, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1412, 
+        "createdTime": 1483974000, 
+        "description": "Clear using an ATK debuff skill 5+ times"
+    }, 
+    {
+        "missionType": 7, 
+        "questMissionMstId": 4237, 
+        "name": "Clear with 5m+ remaining", 
+        "level": 1, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1413, 
+        "createdTime": 1483974000, 
+        "description": "Clear with 5m+ remaining"
+    }, 
+    {
+        "missionType": 9, 
+        "questMissionMstId": 4238, 
+        "name": "Clear using a wind skill 10+ times", 
+        "level": 2, 
+        "missionValue": 3, 
+        "missionValue2": 10, 
+        "questStageMstId": 1413, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a wind skill 10+ times"
+    }, 
+    {
+        "missionType": 10, 
+        "questMissionMstId": 4239, 
+        "name": "Clear using an ATK debuff skill 5+ times", 
+        "level": 3, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1413, 
+        "createdTime": 1483974000, 
+        "description": "Clear using an ATK debuff skill 5+ times"
     }
 ]

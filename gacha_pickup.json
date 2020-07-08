@@ -88,5 +88,50 @@
         "endTime": 1917824400, 
         "pickupSkillType": 1, 
         "objectType": 1
+    }, 
+    {
+        "pickupBgAssetBundleName": "", 
+        "positionX": 0, 
+        "positionY": 0, 
+        "createdTime": 1580914800, 
+        "objectId": 581, 
+        "pickupBgResourceName": "", 
+        "priority": 1, 
+        "gachaPickupMstId": 7, 
+        "startTime": 1594188000, 
+        "gachaSeriesMstId": 3, 
+        "endTime": 1595397599, 
+        "pickupSkillType": 1, 
+        "objectType": 1
+    }, 
+    {
+        "pickupBgAssetBundleName": "", 
+        "positionX": 0, 
+        "positionY": 0, 
+        "createdTime": 1580914800, 
+        "objectId": 557, 
+        "pickupBgResourceName": "", 
+        "priority": 2, 
+        "gachaPickupMstId": 8, 
+        "startTime": 1594188000, 
+        "gachaSeriesMstId": 3, 
+        "endTime": 1595397599, 
+        "pickupSkillType": 1, 
+        "objectType": 2
+    }, 
+    {
+        "pickupBgAssetBundleName": "", 
+        "positionX": 0, 
+        "positionY": 0, 
+        "createdTime": 1580914800, 
+        "objectId": 585, 
+        "pickupBgResourceName": "", 
+        "priority": 3, 
+        "gachaPickupMstId": 9, 
+        "startTime": 1594188000, 
+        "gachaSeriesMstId": 3, 
+        "endTime": 1595397599, 
+        "pickupSkillType": 1, 
+        "objectType": 1
     }
 ]

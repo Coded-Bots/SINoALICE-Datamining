@@ -78,5 +78,15 @@
         "createdTime": 1483974000, 
         "mapGroup": 4, 
         "name": "Shattered Memories"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "June Conquest Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 18, 
+        "createdTime": 1483974000, 
+        "mapGroup": 5, 
+        "name": "Nightmare in the Chapel"
     }
 ]

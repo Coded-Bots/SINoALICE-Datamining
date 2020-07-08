@@ -4061,7 +4061,7 @@
     }, 
     {
         "FR": "Le serveur de connexion est en cours de maintenance.", 
-        "EN": "Maintenance is being performed on the login server.", 
+        "EN": "Maintenance is being conducted on the login server.", 
         "GameKey": "SCRIPT/0291", 
         "DE": "Auf dem Login-Server werden Wartungsarbeiten durchgeführt.", 
         "JP": "ログインサーバーがメンテナンス中です。", 
@@ -6056,7 +6056,7 @@
         "VN": "Dùng {0} để tăng hiệu quả dùng kỹ năng cho các vũ khí đặc biệt.", 
         "KR": "[{0}] 사용 시 주력 무기의 스킬 효과 상승", 
         "ES": "Usa {0} para aumentar el efecto de la habilidad de las armas especializadas.", 
-        "TH": "ใช้\"{0}\" เพื่อเพิ่มประสิทธิภาพสกิลอาวุธที่เชี่ยวชาญ", 
+        "TH": "ใช้\"{0}\" เพื่อเพิ่มประสิทธิภาพสกิลอาวุธถนัด", 
         "Type": 0, 
         "id": 433, 
         "TLM": 21127
@@ -7638,7 +7638,7 @@
         "VN": "sau {0}", 
         "KR": "{0}까지", 
         "ES": "en {0}", 
-        "TH": "ถึง {0}", 
+        "TH": "{0}", 
         "Type": 0, 
         "id": 546, 
         "TLM": 21240
@@ -12111,7 +12111,7 @@
     }, 
     {
         "FR": "Merci de votre compréhension.", 
-        "EN": "<br>Thank you for your understanding.", 
+        "EN": " Thank you for your understanding.", 
         "GameKey": "SCRIPT/0866", 
         "DE": "Danke für dein Verständnis.", 
         "JP": "ご了承ください。", 
@@ -14224,7 +14224,7 @@
         "TLM": 22816
     }, 
     {
-        "FR": "*Vous pouvez l'acheter à nouveau dans le(s) {0} jour(s) restant(s).", 
+        "FR": "*Vous pouvez l'acheter à nouveau dans {0} jour(s).", 
         "EN": "Note: You can purchase this again after {0} day(s).", 
         "GameKey": "SCRIPT/1028", 
         "DE": "Kann in {0} Tag(en) erneut gekauft werden.", 
@@ -14238,7 +14238,7 @@
         "TLM": 22817
     }, 
     {
-        "FR": "*Vous pouvez l'acheter à nouveau dans le(s) {0}:{1}:{2} restant(s).", 
+        "FR": "*Vous pouvez l'acheter à nouveau dans {0}:{1}:{2}.", 
         "EN": "Note: You can purchase this again after {0}:{1}:{2}.", 
         "GameKey": "SCRIPT/1029", 
         "DE": "Kann in {0}:{1}:{2} erneut gekauft werden.", 
@@ -14283,11 +14283,11 @@
         "FR": "Le {0} de {1}", 
         "EN": "Expand {0} {1} by ", 
         "GameKey": "SCRIPT/1113", 
-        "DE": "{0}{1} um", 
+        "DE": "{0}: {1} um", 
         "JP": "{0}の{1}を", 
         "VN": "{1} của {0}", 
         "KR": "{0}의 {1}을(를)", 
-        "ES": "El {0} del {1}", 
+        "ES": "{0} del {1}", 
         "TH": "{0} ของ {1}", 
         "Type": 0, 
         "id": 1021, 
@@ -15904,7 +15904,7 @@
         "TLM": 22936
     }, 
     {
-        "FR": "Grimoires step-up", 
+        "FR": "Grimoire de rang supérieur", 
         "EN": "Step-Up Grimoire", 
         "GameKey": "SCRIPT/1080", 
         "DE": "Step-Up Grimoire", 
