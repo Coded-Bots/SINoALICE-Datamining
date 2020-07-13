@@ -320,3 +320,325 @@
         "queueSheetName": "bgm_gvg4"
     }
 ]
+[
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 1, 
+        "queueName": "bgm_gvg@008", 
+        "uniqueId": 1, 
+        "statusType": 0, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 1200, 
+        "gvgBgmMstId": 2, 
+        "queueName": "bgm_gvg@010", 
+        "uniqueId": 1, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 1000, 
+        "gvgBgmMstId": 3, 
+        "queueName": "bgm_gvg@011", 
+        "uniqueId": 1, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 800, 
+        "gvgBgmMstId": 4, 
+        "queueName": "bgm_gvg@012", 
+        "uniqueId": 1, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 600, 
+        "gvgBgmMstId": 5, 
+        "queueName": "bgm_gvg@013", 
+        "uniqueId": 1, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 220, 
+        "gvgBgmMstId": 6, 
+        "queueName": "bgm_gvg@014", 
+        "uniqueId": 1, 
+        "statusType": 2, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 7, 
+        "queueName": "bgm_gvg@001", 
+        "uniqueId": 1, 
+        "statusType": 3, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 8, 
+        "queueName": "bgm_gvg@005", 
+        "uniqueId": 1, 
+        "statusType": 4, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 9, 
+        "queueName": "bgm_gvg@008", 
+        "uniqueId": 2, 
+        "statusType": 0, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 1200, 
+        "gvgBgmMstId": 10, 
+        "queueName": "bgm_gvg_Special@010", 
+        "uniqueId": 2, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg_Special"
+    }, 
+    {
+        "sectionSecond": 1000, 
+        "gvgBgmMstId": 11, 
+        "queueName": "bgm_gvg_Special@011", 
+        "uniqueId": 2, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg_Special"
+    }, 
+    {
+        "sectionSecond": 800, 
+        "gvgBgmMstId": 12, 
+        "queueName": "bgm_gvg_Special@012", 
+        "uniqueId": 2, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg_Special"
+    }, 
+    {
+        "sectionSecond": 600, 
+        "gvgBgmMstId": 13, 
+        "queueName": "bgm_gvg_Special@013", 
+        "uniqueId": 2, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg_Special"
+    }, 
+    {
+        "sectionSecond": 259, 
+        "gvgBgmMstId": 14, 
+        "queueName": "bgm_gvg_Special@014", 
+        "uniqueId": 2, 
+        "statusType": 2, 
+        "queueSheetName": "bgm_gvg_Special"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 15, 
+        "queueName": "bgm_gvg@001", 
+        "uniqueId": 2, 
+        "statusType": 3, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 16, 
+        "queueName": "bgm_gvg@005", 
+        "uniqueId": 2, 
+        "statusType": 4, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 1200, 
+        "gvgBgmMstId": 17, 
+        "queueName": "bgm_gvg5@001", 
+        "uniqueId": 3, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg5"
+    }, 
+    {
+        "sectionSecond": 1000, 
+        "gvgBgmMstId": 18, 
+        "queueName": "bgm_gvg5@002", 
+        "uniqueId": 3, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg5"
+    }, 
+    {
+        "sectionSecond": 800, 
+        "gvgBgmMstId": 19, 
+        "queueName": "bgm_gvg5@003", 
+        "uniqueId": 3, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg5"
+    }, 
+    {
+        "sectionSecond": 500, 
+        "gvgBgmMstId": 20, 
+        "queueName": "bgm_gvg5@004", 
+        "uniqueId": 3, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg5"
+    }, 
+    {
+        "sectionSecond": 131, 
+        "gvgBgmMstId": 21, 
+        "queueName": "bgm_gvg5@010", 
+        "uniqueId": 3, 
+        "statusType": 2, 
+        "queueSheetName": "bgm_gvg5"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 22, 
+        "queueName": "bgm_gvg@001", 
+        "uniqueId": 3, 
+        "statusType": 3, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 23, 
+        "queueName": "bgm_gvg@005", 
+        "uniqueId": 3, 
+        "statusType": 4, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 24, 
+        "queueName": "bgm_gvg5@000", 
+        "uniqueId": 3, 
+        "statusType": 0, 
+        "queueSheetName": "bgm_gvg5"
+    }, 
+    {
+        "sectionSecond": 1200, 
+        "gvgBgmMstId": 25, 
+        "queueName": "bgm_gvg3@001", 
+        "uniqueId": 4, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg3"
+    }, 
+    {
+        "sectionSecond": 1000, 
+        "gvgBgmMstId": 26, 
+        "queueName": "bgm_gvg3@002", 
+        "uniqueId": 4, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg3"
+    }, 
+    {
+        "sectionSecond": 800, 
+        "gvgBgmMstId": 27, 
+        "queueName": "bgm_gvg3@003", 
+        "uniqueId": 4, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg3"
+    }, 
+    {
+        "sectionSecond": 500, 
+        "gvgBgmMstId": 28, 
+        "queueName": "bgm_gvg3@004", 
+        "uniqueId": 4, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg3"
+    }, 
+    {
+        "sectionSecond": 120, 
+        "gvgBgmMstId": 29, 
+        "queueName": "bgm_gvg3@010", 
+        "uniqueId": 4, 
+        "statusType": 2, 
+        "queueSheetName": "bgm_gvg3"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 30, 
+        "queueName": "bgm_gvg@001", 
+        "uniqueId": 4, 
+        "statusType": 3, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 31, 
+        "queueName": "bgm_gvg@005", 
+        "uniqueId": 4, 
+        "statusType": 4, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 32, 
+        "queueName": "bgm_gvg3@000", 
+        "uniqueId": 4, 
+        "statusType": 0, 
+        "queueSheetName": "bgm_gvg3"
+    }, 
+    {
+        "sectionSecond": 1200, 
+        "gvgBgmMstId": 33, 
+        "queueName": "bgm_gvg4@002", 
+        "uniqueId": 5, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg4"
+    }, 
+    {
+        "sectionSecond": 1000, 
+        "gvgBgmMstId": 34, 
+        "queueName": "bgm_gvg4@001", 
+        "uniqueId": 5, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg4"
+    }, 
+    {
+        "sectionSecond": 800, 
+        "gvgBgmMstId": 35, 
+        "queueName": "bgm_gvg4@003", 
+        "uniqueId": 5, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg4"
+    }, 
+    {
+        "sectionSecond": 500, 
+        "gvgBgmMstId": 36, 
+        "queueName": "bgm_gvg4@004", 
+        "uniqueId": 5, 
+        "statusType": 1, 
+        "queueSheetName": "bgm_gvg4"
+    }, 
+    {
+        "sectionSecond": 103, 
+        "gvgBgmMstId": 37, 
+        "queueName": "bgm_gvg4@010", 
+        "uniqueId": 5, 
+        "statusType": 2, 
+        "queueSheetName": "bgm_gvg4"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 38, 
+        "queueName": "bgm_gvg@001", 
+        "uniqueId": 5, 
+        "statusType": 3, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 39, 
+        "queueName": "bgm_gvg@005", 
+        "uniqueId": 5, 
+        "statusType": 4, 
+        "queueSheetName": "bgm_gvg"
+    }, 
+    {
+        "sectionSecond": 0, 
+        "gvgBgmMstId": 40, 
+        "queueName": "bgm_gvg4@000", 
+        "uniqueId": 5, 
+        "statusType": 0, 
+        "queueSheetName": "bgm_gvg4"
+    }
+]

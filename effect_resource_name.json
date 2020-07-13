@@ -161,3 +161,166 @@
         "fireElementEffectName": ""
     }
 ]
+[
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 1, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_FreezingWave", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 2, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Active_04_Bird_WhirlWind", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 3, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Active_common_Howl", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 4, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_04_Bird_SoundWave", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 5, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_Gravity", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 6, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_01_Beast_Bite", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 7, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_01_Beast_Claw", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 8, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "common_MagicWind_weak", 
+        "effectResourceNameMstId": 9, 
+        "waterElementEffectName": "common_MagicWater_weak", 
+        "noElementEffectName": "common_MagicFire_weak", 
+        "fireElementEffectName": "common_MagicFire_weak"
+    }, 
+    {
+        "windElementEffectName": "common_MagicWind", 
+        "effectResourceNameMstId": 10, 
+        "waterElementEffectName": "common_MagicWater", 
+        "noElementEffectName": "common_MagicFire", 
+        "fireElementEffectName": "common_MagicFire"
+    }, 
+    {
+        "windElementEffectName": "common_MagicWind_strong", 
+        "effectResourceNameMstId": 11, 
+        "waterElementEffectName": "common_MagicWater_strong", 
+        "noElementEffectName": "common_MagicFire_strong", 
+        "fireElementEffectName": "common_MagicFire_strong"
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 12, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_grapple_weak", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 13, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_grapple_strong", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 14, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_heal_weak", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 15, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_heal_strong", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 16, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_Buff_weak", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 17, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_Buff_strong", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 18, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_DeBuff_weak", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 19, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "Hit_common_DeBuff_strong", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 20, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "13_NightmareAlice_Slash", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 21, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "13_NightmareAlice_Shadow \r\nHand", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 22, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "NightMareSummon_Buff", 
+        "fireElementEffectName": ""
+    }, 
+    {
+        "windElementEffectName": "", 
+        "effectResourceNameMstId": 23, 
+        "waterElementEffectName": "", 
+        "noElementEffectName": "NightMareSummon_DeBuff", 
+        "fireElementEffectName": ""
+    }
+]

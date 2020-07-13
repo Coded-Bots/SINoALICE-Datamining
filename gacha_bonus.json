@@ -32,3 +32,37 @@
         "objectType": 1
     }
 ]
+[
+    {
+        "objectId": 155, 
+        "gachaMstId": 1, 
+        "gachaBonusMstId": 1, 
+        "num": 10, 
+        "createdTime": 1580914800, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 155, 
+        "gachaMstId": 2, 
+        "gachaBonusMstId": 2, 
+        "num": 100, 
+        "createdTime": 1580914800, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 155, 
+        "gachaMstId": 4, 
+        "gachaBonusMstId": 3, 
+        "num": 10, 
+        "createdTime": 1580914800, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 155, 
+        "gachaMstId": 5, 
+        "gachaBonusMstId": 4, 
+        "num": 100, 
+        "createdTime": 1580914800, 
+        "objectType": 1
+    }
+]
