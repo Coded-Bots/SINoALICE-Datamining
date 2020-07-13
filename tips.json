@@ -185,5 +185,16 @@
         "resourceName": "010", 
         "tips": "Press and hold a weapon's icon to read its weapon story.", 
         "type": 1
+    }, 
+    {
+        "title": "", 
+        "tipsMstId": 19, 
+        "rate": 0, 
+        "akbMemberMstId": 0, 
+        "characterMstId": 9, 
+        "assetBundleName": "tips3", 
+        "resourceName": "009", 
+        "tips": "", 
+        "type": 4
     }
 ]

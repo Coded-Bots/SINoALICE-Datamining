@@ -2787,9 +2787,9 @@
     }, 
     {
         "FR": "Effet actif", 
-        "EN": "Effect Active", 
+        "EN": "Active Effect", 
         "GameKey": "Image/0200", 
-        "DE": "Effekt aktiv", 
+        "DE": "Aktive Effekte", 
         "JP": "発動中効果", 
         "VN": "Hiệu ứng hoạt động", 
         "KR": "발동 중인 효과", 

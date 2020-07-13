@@ -24,6 +24,18 @@
         "pickupSkillType": 3
     }, 
     {
+        "loginBonusMstId": 3, 
+        "assetBundleName": "", 
+        "title": "1 Million Player Celebration Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1594620000, 
+        "resourceName": "1", 
+        "endTime": 1594961999, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 900001, 
         "assetBundleName": "", 
         "title": "RU Bonus", 
