@@ -30,39 +30,37 @@
         "num": 100, 
         "createdTime": 1580914800, 
         "objectType": 1
-    }
-]
-[
+    }, 
     {
-        "objectId": 155, 
-        "gachaMstId": 1, 
-        "gachaBonusMstId": 1, 
+        "objectId": 246, 
+        "gachaMstId": 22, 
+        "gachaBonusMstId": 21, 
         "num": 10, 
-        "createdTime": 1580914800, 
+        "createdTime": 1498802400, 
         "objectType": 1
     }, 
     {
-        "objectId": 155, 
-        "gachaMstId": 2, 
-        "gachaBonusMstId": 2, 
+        "objectId": 246, 
+        "gachaMstId": 23, 
+        "gachaBonusMstId": 22, 
         "num": 100, 
-        "createdTime": 1580914800, 
+        "createdTime": 1498802400, 
         "objectType": 1
     }, 
     {
-        "objectId": 155, 
-        "gachaMstId": 4, 
-        "gachaBonusMstId": 3, 
+        "objectId": 246, 
+        "gachaMstId": 24, 
+        "gachaBonusMstId": 23, 
         "num": 10, 
-        "createdTime": 1580914800, 
+        "createdTime": 1498802400, 
         "objectType": 1
     }, 
     {
-        "objectId": 155, 
-        "gachaMstId": 5, 
-        "gachaBonusMstId": 4, 
+        "objectId": 246, 
+        "gachaMstId": 25, 
+        "gachaBonusMstId": 24, 
         "num": 100, 
-        "createdTime": 1580914800, 
+        "createdTime": 1498802400, 
         "objectType": 1
     }
 ]

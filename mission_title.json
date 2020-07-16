@@ -10,19 +10,17 @@
         "startTime": 1451574000, 
         "missionTitleMstId": 2, 
         "title": "Running Start Mission"
-    }
-]
-[
-    {
-        "endTime": 1609426799, 
-        "startTime": 1451574000, 
-        "missionTitleMstId": 1, 
-        "title": "Daily Mission"
     }, 
     {
-        "endTime": 1924959599, 
-        "startTime": 1451574000, 
-        "missionTitleMstId": 2, 
-        "title": "Running Start Mission"
+        "endTime": 1596693599, 
+        "startTime": 1594879200, 
+        "missionTitleMstId": 4, 
+        "title": "NieR: Automata Collaboration Mission"
+    }, 
+    {
+        "endTime": 1596693599, 
+        "startTime": 1594879200, 
+        "missionTitleMstId": 5, 
+        "title": "NieR:Automata追加ミッション"
     }
 ]

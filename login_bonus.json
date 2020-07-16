@@ -36,53 +36,15 @@
         "pickupSkillType": 1
     }, 
     {
-        "loginBonusMstId": 900001, 
+        "loginBonusMstId": 9, 
         "assetBundleName": "", 
-        "title": "RU Bonus", 
-        "akbMemberMstId": 0, 
-        "displayType": 2, 
-        "cycleType": 100, 
-        "startTime": 1577804400, 
-        "resourceName": "1", 
-        "endTime": 1924959599, 
-        "pickupSkillType": 1
-    }
-]
-[
-    {
-        "loginBonusMstId": 1, 
-        "assetBundleName": "", 
-        "title": "Standard Login Bonus", 
-        "akbMemberMstId": 0, 
-        "displayType": 1, 
-        "cycleType": 1, 
-        "startTime": 1478790000, 
-        "resourceName": "1", 
-        "endTime": 1924959599, 
-        "pickupSkillType": 1
-    }, 
-    {
-        "loginBonusMstId": 2, 
-        "assetBundleName": "", 
-        "title": "Running Start Bonus", 
+        "title": "NieR Collaboration Event ①", 
         "akbMemberMstId": 0, 
         "displayType": 2, 
         "cycleType": 2, 
-        "startTime": 1478790000, 
+        "startTime": 1594879500, 
         "resourceName": "1", 
-        "endTime": 1924959599, 
-        "pickupSkillType": 3
-    }, 
-    {
-        "loginBonusMstId": 3, 
-        "assetBundleName": "", 
-        "title": "1 Million Player Celebration Bonus", 
-        "akbMemberMstId": 0, 
-        "displayType": 2, 
-        "cycleType": 2, 
-        "startTime": 1594620000, 
-        "resourceName": "1", 
-        "endTime": 1594961999, 
+        "endTime": 1596689999, 
         "pickupSkillType": 1
     }, 
     {
