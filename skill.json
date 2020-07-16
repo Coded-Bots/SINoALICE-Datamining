@@ -2278,6 +2278,23 @@
         "description": "Increases the effectiveness of skills against dragons."
     }, 
     {
+        "category": 0, 
+        "sp": 0, 
+        "name": "Machine Lifeform and Emil’s Hunting Spirit", 
+        "type": 0, 
+        "attackEffect": 0, 
+        "primaryIcon": 0, 
+        "skillMstId": 580, 
+        "rangeIcon": 0, 
+        "secondaryIcon": 0, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "own", 
+        "maxLevel": 0, 
+        "autoSkillPercentageType": 0, 
+        "description": "This skill is more effective on machine lifeform and Emil type enemies."
+    }, 
+    {
         "category": 1, 
         "sp": 20, 
         "name": "Inferno of Leeching (I)", 
