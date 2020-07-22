@@ -36,7 +36,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 3, 
         "isComingSoon": false, 
@@ -70,7 +70,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 5, 
         "isComingSoon": false, 
@@ -121,7 +121,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 8, 
         "isComingSoon": false, 
@@ -155,7 +155,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 10, 
         "isComingSoon": false, 
@@ -274,7 +274,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 17, 
         "isComingSoon": false, 
@@ -376,7 +376,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 23, 
         "isComingSoon": false, 
@@ -512,7 +512,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 31, 
         "isComingSoon": false, 
@@ -546,7 +546,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 33, 
         "isComingSoon": false, 
@@ -597,7 +597,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 36, 
         "isComingSoon": false, 
@@ -631,7 +631,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 38, 
         "isComingSoon": false, 
@@ -750,7 +750,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 45, 
         "isComingSoon": false, 
@@ -852,7 +852,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 51, 
         "isComingSoon": false, 
@@ -988,7 +988,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 59, 
         "isComingSoon": false, 
@@ -1056,7 +1056,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 64, 
         "isComingSoon": false, 
@@ -1090,7 +1090,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 66, 
         "isComingSoon": false, 
@@ -1209,7 +1209,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "Crossover Tale", 
+        "name": "Collaboration Story", 
         "collectItemId": 0, 
         "questAreaMstId": 73, 
         "isComingSoon": false, 
@@ -1510,6 +1510,23 @@
         "exchangesSceneName": "MedalTradeMain", 
         "bgResourceName": "0046", 
         "cueSheetName": "bgm_quest", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
+        "name": "Experimental Weapon's Resolve", 
+        "collectItemId": 0, 
+        "questAreaMstId": 291, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 119, 
+        "assetBundleName": "questareabackground/87", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0087", 
+        "cueSheetName": "bgm_mypage", 
         "description": ""
     }
 ]

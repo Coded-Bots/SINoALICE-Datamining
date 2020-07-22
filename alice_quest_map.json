@@ -108,5 +108,15 @@
         "createdTime": 1483974000, 
         "mapGroup": 14, 
         "name": "Memory of Dolls"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "Disembodied Emil", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 119, 
+        "createdTime": 1483974000, 
+        "mapGroup": 71, 
+        "name": "Experimental Weapon's Resolve"
     }
 ]

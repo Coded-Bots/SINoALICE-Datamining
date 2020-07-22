@@ -3120,6 +3120,126 @@
         "cardDetailType": 1
     }, 
     {
+        "name": "Tome +30% (Alice+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 371, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 372, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 373, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 374, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Alice+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 375, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 376, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 377, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 378, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Alice+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 379, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 380, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 381, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 382, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 32, 
+        "cardDetailType": 2
+    }, 
+    {
         "name": "Blade +10% (NieR+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

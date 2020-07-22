@@ -62,7 +62,7 @@
         "isDeleted": false, 
         "assetBundleName": "246", 
         "resourceName": "item20200716_medal_nierautomata", 
-        "wayToGet": "Earned by joining the NieR: Automata Crossover Event. ", 
+        "wayToGet": "Earned by joining the NieR:Automata collaboration event. ", 
         "endTime": 1597330799, 
         "medalTradeSeriesMstId": 11, 
         "medalTradeGroupMstId": 0, 
@@ -84,7 +84,7 @@
         "description": "Medal from a collaboration grimoire."
     }, 
     {
-        "name": "Royal medal", 
+        "name": "Royal Medal", 
         "startTime": 1593529200, 
         "priority": 43, 
         "isDeleted": false, 
