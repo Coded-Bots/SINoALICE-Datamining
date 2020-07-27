@@ -5830,5 +5830,32 @@
         "createdTime": 1483196400, 
         "endTime": 1596812399, 
         "isParameterCustom": false
+    }, 
+    {
+        "effectTime": 0, 
+        "isDisplay": 1, 
+        "limitBreakCharacterMstId": 0, 
+        "effectValue": 0, 
+        "noticeDescription": "", 
+        "assetBundleName": "item20200701_release", 
+        "resourceName": "900005", 
+        "plusParameterValue": 0, 
+        "itemMstId": 900006, 
+        "canUse": 1, 
+        "effectType": 100, 
+        "priority": 1, 
+        "limitBreakCount": 0, 
+        "validDays": 0, 
+        "type": 100, 
+        "description": "You can use this ticket to skip battles. It can be used on stages of completed story missions. Note: Cannot be used on some stages.", 
+        "startTime": 1595829600, 
+        "transitionSceneTargetId": 0, 
+        "maxNum": 999999999, 
+        "name": "Skip Ticket (VIII)", 
+        "transitionSceneName": "QuestMenu", 
+        "rarity": 1, 
+        "createdTime": 1483196400, 
+        "endTime": 1599490799, 
+        "isParameterCustom": false
     }
 ]
