@@ -799,7 +799,7 @@
     }, 
     {
         "FR": "Nombre total de connexions {0} jours", 
-        "EN": "Total Logins: {0} Days", 
+        "EN": "Total Logins: {0} Day(s)", 
         "GameKey": "SCRIPT/0058", 
         "DE": "Gesamte Anmeldungen {0} Tage", 
         "JP": "累計ログイン　{0}日目", 
@@ -1281,7 +1281,7 @@
         "JP": "{0}位", 
         "VN": "Hạng {0}", 
         "KR": "{0}위", 
-        "ES": "Clasificación {0}", 
+        "ES": "Clasif. {0}", 
         "TH": "อันดับ {0}", 
         "Type": 0, 
         "id": 92, 
@@ -2220,7 +2220,7 @@
         "VN": "Điều kiện điều động khu vực", 
         "KR": "　지역 파견 조건", 
         "ES": "Condiciones de envío por área", 
-        "TH": "เงื่อนไขจัดส่งพื้นที่", 
+        "TH": "เงื่อนไขการจัดส่งพื้นที่", 
         "Type": 0, 
         "id": 159, 
         "TLM": 20853
@@ -3340,7 +3340,7 @@
         "VN": "{0}-{1} Lên tới {2} một ngày", 
         "KR": "{0}~{1}  매일 {2}개까지", 
         "ES": "{0}-{1} Hasta {2} por día", 
-        "TH": "{0}-{1} ทุกวัน ได้สูงสุดถึง x{2}", 
+        "TH": "{0}-{1} ทุกวัน สูงสุด x{2}", 
         "Type": 0, 
         "id": 239, 
         "TLM": 20933
@@ -3368,7 +3368,7 @@
         "VN": "{0}-{1} Lên tới {2} một tháng", 
         "KR": "{0}~{1}  매월 {2}개까지", 
         "ES": "{0}-{1} Hasta {2} por mes", 
-        "TH": "{0}-{1} ทุกเดือนละ ได้สูงสุดถึง x{2}", 
+        "TH": "{0}-{1} ทุกเดือน สูงสุด x{2}", 
         "Type": 0, 
         "id": 241, 
         "TLM": 20935
@@ -3724,7 +3724,7 @@
         "TLM": 20960
     }, 
     {
-        "FR": "Aller à : Histoire principale", 
+        "FR": "Aller à : Histoire", 
         "EN": "Go to Main Story", 
         "GameKey": "SCRIPT/0267", 
         "DE": "Zur Hauptgeschichte", 
@@ -5405,7 +5405,7 @@
     }, 
     {
         "FR": "Durée de l'effet :", 
-        "EN": "Duration:", 
+        "EN": "Duration: ", 
         "GameKey": "SCRIPT/0387", 
         "DE": "Effektdauer:", 
         "JP": "有効時間：", 
@@ -6049,7 +6049,7 @@
     }, 
     {
         "FR": "Utilisez {0} pour augmenter l'effet de la capacité des armes spécialisées.", 
-        "EN": "Play as {0} to boost specialty weapon skill effectiveness.", 
+        "EN": "Play as {0} to increase specialty weapon skill effectiveness.", 
         "GameKey": "SCRIPT/0433", 
         "DE": "Verwende {0}, um den Fertigkeitseffekt von Spezialwaffen zu erhöhen.", 
         "JP": "【{0}】使用で得意武器のスキル効果アップ", 
@@ -6350,7 +6350,7 @@
         "VN": "Không sở hữu {0}.\\\\nĐi tới Cửa hàng vật phẩm?", 
         "KR": "{0}이(가) 없습니다.\\\\n아이템 상점으로 이동하시겠습니까?", 
         "ES": "No se posee: {0}.\\\\n¿Ir a la tienda de objetos?", 
-        "TH": "{0}ไม่มี\\\\nไปยังร้านค้าหรือไม่?", 
+        "TH": "ไม่มี{0}อยู่\\\\nไปยังร้านค้าหรือไม่?", 
         "Type": 0, 
         "id": 454, 
         "TLM": 21148
@@ -13315,7 +13315,7 @@
     }, 
     {
         "FR": "<color=white>Coût en PC :</color>", 
-        "EN": "<color=white>SP Cost:</color>", 
+        "EN": "<color=white>SP Cost: </color>", 
         "GameKey": "SCRIPT/0952", 
         "DE": "<color=white>SP-Kosten:</color>", 
         "JP": "<color=white> 消費SP：</color>", 
@@ -17571,7 +17571,7 @@
     }, 
     {
         "FR": "Cristal(aux) crépusculaire(s) x {0}", 
-        "EN": "Twilight Crystal x {0}", 
+        "EN": "Twilight Crystal x{0}", 
         "GameKey": "SCRIPT/1259", 
         "DE": "Zwielichtkristall(e) x {0}", 
         "JP": "「魔晶石×{0}」を", 
@@ -17895,7 +17895,7 @@
         "FR": "utilisés <color={0}>{1} fois</color> accomplissent une invocation.", 
         "EN": "Use these weapons <color={0}>{1} times</color> total to summon.", 
         "GameKey": "SCRIPT", 
-        "DE": "duch die Nutzung von <color={0}>x{1} </color>Beschwörungserfolg", 
+        "DE": "druch die Nutzung von <color={0}>x{1} </color>Beschwörungserfolg", 
         "JP": "を<color={0}>{1}回</color>使用で召喚成功", 
         "VN": "", 
         "KR": "을(를) <color={0}>{1}회</color> 사용 시 소환 성공", 
@@ -17965,7 +17965,7 @@
         "FR": "Débloqué au niveau {0}.", 
         "EN": "Unlock at level {0}", 
         "GameKey": "SCRIPT", 
-        "DE": "", 
+        "DE": "Wird bei Stufe {0} freigeschaltet.", 
         "JP": "レベル{0}で解放", 
         "VN": "", 
         "KR": "레벨 {0}에 해금", 
@@ -17979,14 +17979,42 @@
         "FR": "Débloqué au niveau {0} après évolution.", 
         "EN": "Unlock at post-evolution level {0}", 
         "GameKey": "SCRIPT", 
-        "DE": "", 
+        "DE": "Wird bei Stufe {0} nach Entwicklung freigeschaltet.", 
         "JP": "進化後レベル{0}で解放", 
         "VN": "", 
         "KR": "진화 후 레벨 {0}에 해금", 
-        "ES": "Por desbloquear el nivel {0}", 
-        "TH": "หลังวิวัฒนาการปลดล็อกที่เลเวล{0}", 
+        "ES": "Por desbloquear el nivel {0} después de una mejora.", 
+        "TH": "หลังวิวัฒนาการ ปลดล็อกที่เลเวล{0}", 
         "Type": 0, 
         "id": 1285, 
         "TLM": 51132
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "予選のマッチングについて", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1286, 
+        "TLM": 51159
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "・グランコロシアム予選初日は、リーグ分けをした上で通常のコロシアムで実施しているマッチングを採用しております。\\n・グランコロシアム予選2日目以降は、リーグ毎に総獲得グランptを用いた特別マッチングとなっております。\\n<color=#B42F00>※2日目以降は総獲得グランptが近い相手とマッチングしやすくなっております</color>", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1287, 
+        "TLM": 51160
     }
 ]

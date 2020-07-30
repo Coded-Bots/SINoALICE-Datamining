@@ -1481,6 +1481,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Records of Vengeance", 
+        "collectItemId": 0, 
+        "questAreaMstId": 156, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 19, 
+        "assetBundleName": "questareabackground/38", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0038", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "Memory of Dolls", 
         "collectItemId": 220, 
         "questAreaMstId": 164, 

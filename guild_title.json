@@ -81,10 +81,10 @@
         "resourceName": "0001"
     }, 
     {
-        "name": "1st Gran Colosseum [Overall Top 500]", 
+        "name": "第壱次グランコロシアム[総合Top500]", 
         "limitTime": 1893423600, 
         "guildTitleMstId": 10, 
-        "detail": "Title given to guilds ranked 301st to 500th overall.", 
+        "detail": "総合ランキング301～500位のギルドに与えられる称号", 
         "assetBundleName": "guild_title/1", 
         "createdTime": null, 
         "resourceName": "0001"

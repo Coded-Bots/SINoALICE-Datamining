@@ -6756,7 +6756,7 @@
     {
         "missionType": 3, 
         "activeView": 1, 
-        "description": "You can use weapons or upgrade swords to upgrade your weapons. Upgrade swords can be earned in guerrilla events. \n", 
+        "description": "You can use weapons or upgrade swords to upgrade your weapons. Upgrade swords can be earned in guerrilla events. \r\n", 
         "objectId": 365, 
         "title": "Upgrade a weapon 1 time", 
         "conditionsType": 52, 

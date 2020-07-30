@@ -56,6 +56,20 @@
         "description": "Awarded to those who've found true friendship."
     }, 
     {
+        "name": "Medal of Desire (VIII)", 
+        "startTime": 1596088800, 
+        "priority": 3, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain Grimoire.", 
+        "endTime": 1599749999, 
+        "medalTradeSeriesMstId": 8, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 156, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
+    }, 
+    {
         "name": "NieR Medal", 
         "startTime": 1594879200, 
         "priority": 22, 

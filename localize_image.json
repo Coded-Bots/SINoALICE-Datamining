@@ -3419,7 +3419,7 @@
         "FR": "Grimoire x5", 
         "EN": "Grimoire x5", 
         "GameKey": "Image/0245", 
-        "DE": "Grimoire x5", 
+        "DE": "5x Grimoire", 
         "JP": "5回ガチャ", 
         "VN": "Sách phép x5", 
         "KR": "5회 뽑기", 
@@ -3433,7 +3433,7 @@
         "FR": "Grimoire x20", 
         "EN": "Grimoire x20", 
         "GameKey": "Image/0246", 
-        "DE": "Grimoire x20", 
+        "DE": "20x Grimoire", 
         "JP": "20回ガチャ", 
         "VN": "Sách phép x20", 
         "KR": "20회 뽑기", 
@@ -3822,7 +3822,7 @@
         "TLM": 22469
     }, 
     {
-        "FR": "Sélectionner la tranche horaire du Colisée", 
+        "FR": "Sélectionner le fuseau horaire du Colisée", 
         "EN": "Set Colosseum Time", 
         "GameKey": "Image/0274", 
         "DE": "Kolosseum-Zeit festelgen", 

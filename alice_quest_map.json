@@ -91,6 +91,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Late June Scouting Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 19, 
+        "createdTime": 1483974000, 
+        "mapGroup": 6, 
+        "name": "Records of Vengeance"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Memory of Dolls (Normal)", 
         "announceUrl": "", 
         "mapType": 1, 
