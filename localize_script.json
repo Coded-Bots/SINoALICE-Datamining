@@ -106,7 +106,7 @@
         "VN": "Họ sẽ không còn là -.\\\\nBạn có chắc không?", 
         "KR": "] 권한을\\\\n해제하시겠습니까?", 
         "ES": "Ya no será -.\\\\n¿Seguro?", 
-        "TH": "ยกเลิกอำนาจ\" -\\\\nคุณแน่ใจหรือไม่?", 
+        "TH": "ยกเลิกอำนาจ \"\\\\nคุณแน่ใจหรือไม่?", 
         "Type": 0, 
         "id": 8, 
         "TLM": 20702
@@ -498,7 +498,7 @@
         "VN": "Họ sẽ trở thành -.\\\\nBạn có chắc không?", 
         "KR": "] 권한을\\\\n부여하시겠습니까?", 
         "ES": "Se convertirá en -.\\\\n¿Seguro?", 
-        "TH": "นี่จะเป็นการให้สิทธิ \"-\\\\nคุณแน่ใจหรือไม่?", 
+        "TH": "นี่จะเป็นการให้สิทธิ \"\\\\nคุณแน่ใจหรือไม่?", 
         "Type": 0, 
         "id": 36, 
         "TLM": 20730
@@ -507,7 +507,7 @@
         "FR": "Rang de départ", 
         "EN": "From Rank", 
         "GameKey": "SCRIPT/0037", 
-        "DE": "Vom Rang", 
+        "DE": "Ab Rang", 
         "JP": "位～", 
         "VN": "Từ hạng", 
         "KR": "위~", 
@@ -868,7 +868,7 @@
         "TLM": 20756
     }, 
     {
-        "FR": "Signaler le commentaire de {0} ?", 
+        "FR": "{0} : signaler le commentaire ?", 
         "EN": "Report {0}'s message?", 
         "GameKey": "SCRIPT/0063", 
         "DE": "Kommentar von {0} melden?", 
@@ -1471,7 +1471,7 @@
     }, 
     {
         "FR": "Pièces d'or", 
-        "EN": "Gold", 
+        "EN": "Gold ", 
         "GameKey": "SCRIPT/0106", 
         "DE": "Gold", 
         "JP": "ゴールド", 
@@ -1534,7 +1534,7 @@
         "VN": "x", 
         "KR": "\"을(를)", 
         "ES": "x", 
-        "TH": "\"", 
+        "TH": "ใช้\"", 
         "Type": 0, 
         "id": 110, 
         "TLM": 20804
@@ -2212,15 +2212,15 @@
         "TLM": 20852
     }, 
     {
-        "FR": "Conditions de répartition de zone", 
+        "FR": "　", 
         "EN": "　Area Dispatch Conditions", 
         "GameKey": "SCRIPT/0159", 
-        "DE": "Entsendungsbedingungen des Gebiets", 
+        "DE": "　", 
         "JP": "　エリア派遣条件", 
         "VN": "Điều kiện điều động khu vực", 
         "KR": "　지역 파견 조건", 
-        "ES": "Condiciones de envío por área", 
-        "TH": "เงื่อนไขการจัดส่งพื้นที่", 
+        "ES": "　", 
+        "TH": "　", 
         "Type": 0, 
         "id": 159, 
         "TLM": 20853
@@ -2290,7 +2290,7 @@
         "VN": "<Player Name>", 
         "KR": "<플레이어명>", 
         "ES": "<Nombre del jugador>", 
-        "TH": "＜ชื่อผู้เล่น＞", 
+        "TH": "<ชื่อผู้เล่น>", 
         "Type": 0, 
         "id": 164, 
         "TLM": 20858
@@ -3514,15 +3514,15 @@
         "TLM": 20945
     }, 
     {
-        "FR": "Le dernier RPG de combat publié par Square Enix et Pokelabo, développé par une équipe de créateurs 5 étoiles ! #SINoALICE http://sinoalice.jp", 
-        "EN": "\\nThe latest fantasy battle RPG by Square Enix and Pokelabo, brought to you by an all-star lineup of creators! #SINoALICE http://sinoalice.jp", 
+        "FR": "　", 
+        "EN": "　", 
         "GameKey": "SCRIPT/0252", 
-        "DE": "\\nDas neueste Fantasy-Kampf-RPG von Square Enix und Pokelabo, präsentiert von einem Star-Entwicklerensemble! #SINoALICE http://sinoalice.jp", 
+        "DE": "　", 
         "JP": "　豪華クリエイターが贈るスクエニ×ポケラボ最新作バトルファンタジーRPG #シノアリス http://sinoalice.jp", 
         "VN": "\\nTrò chơi nhập vai chiến đấu mang tính tưởng tượng mới nhất của Square Enix và Pokelabo, được cung cấp bởi một đội ngũ người sáng tạo nổi tiếng! #SINoALICE http://sinoalice.jp", 
         "KR": "　호화 제작진이 선사하는 SQUARE ENIX×POKELABO 최신작 배틀 판타지 RPG #시노앨리스 http://sinoalice.jp", 
-        "ES": "\\n¡El último juego de rol de combate de fantasía de Square Enix y Pokelabo a tu alcance gracias a unos creadores de primera! #«SINoALICE» http://«sinoalice».jp", 
-        "TH": "เกม RPG แฟนตาซีต่อสู้ ผลงานล่าสุดจาก Sqare Enix และ Pokelabo โดยครีเอทเตอร์ชื่อดัง #ชิโนอลิซ http://sinoalice.jp", 
+        "ES": "　", 
+        "TH": "　", 
         "Type": 0, 
         "id": 252, 
         "TLM": 20946
@@ -4158,14 +4158,14 @@
         "TLM": 20991
     }, 
     {
-        "FR": "pour obtenir \\\\n{0} grimoires ?", 
+        "FR": " pour obtenir \\\\n{0} grimoires ?", 
         "EN": "and summon {0} grimoire(s)?", 
         "GameKey": "SCRIPT/0298", 
         "DE": " {0} Grimoire(s) zu beschwören?", 
         "JP": "\\\\n{0}回ガチャを引きますか？", 
         "VN": "để triệu hồi {0} Sách phép {1} ?", 
         "KR": "\\\\n{0}회 뽑기를 하시겠습니까?", 
-        "ES": "¿Usarás \\\\n{0}grimorios?", 
+        "ES": "para tirar de \\\\n{0} grimorio(s)?", 
         "TH": "\\\\nดึงกรีมัวร์{0} ครั้งหรือไม่?", 
         "Type": 0, 
         "id": 298, 
@@ -7064,7 +7064,7 @@
         "VN": "đã mở rộng {0} ô chứa trong hòm đồ.", 
         "KR": "{0} 보유 한도를 확장하였습니다.", 
         "ES": "Se crearon {0} espacios de inventario.", 
-        "TH": "ขยายช่องเก็บ{0}แล้ว", 
+        "TH": "ขยายความจุช่องเก็บ{0}แล้ว", 
         "Type": 0, 
         "id": 505, 
         "TLM": 21199
@@ -10382,7 +10382,7 @@
         "VN": "Cài đặt danh hiệu cá nhân", 
         "KR": "개인 칭호 설정", 
         "ES": "Configuración de título personal", 
-        "TH": "ตั้งค่ายศส่วนบุคคล", 
+        "TH": "ตั้งค่ายศส่วนตัว", 
         "Type": 0, 
         "id": 742, 
         "TLM": 21436
@@ -10461,7 +10461,7 @@
         "FR": "Ceci supprimera -.\\\\nConfirmer ?", 
         "EN": "This will remove -.\\\\nProceed?", 
         "GameKey": "SCRIPT/0748", 
-        "DE": "Dadurch wird - entfernt.\\\\nBist du sicher?", 
+        "DE": "wird entfernt.\\\\nBist du sicher?", 
         "JP": "から\\\\n削除します。\\\\nよろしいですか？", 
         "VN": "Thao tác này sẽ xóa -.\\\\nBạn có chắc không?", 
         "KR": "에서\\\\n내보내시겠습니까?", 
@@ -10472,7 +10472,7 @@
         "TLM": 21442
     }, 
     {
-        "FR": "La messagerie sera dissoute si\\\\nle maître de guilde la quitte.\\\\nConfirmer ?", 
+        "FR": "La messagerie sera dissoute si\\\\nvous quittez le groupe.\\\\nConfirmer ?", 
         "EN": "This chat will end if\\\\nthe master leaves.\\\\nProceed?", 
         "GameKey": "SCRIPT/0749", 
         "DE": "Dieser Chat wird beendet,\\\\nwenn der Gildenmeister fort ist.\\\\nBist du sicher?", 
@@ -10998,7 +10998,7 @@
         "VN": "Cấp sau khi tiến hóa", 
         "KR": "진화 후 레벨 ", 
         "ES": "Nv. después de evolucionar ", 
-        "TH": "เลเวลหลังวิวัฒนาการ ", 
+        "TH": "เลเวลหลังวิวัฒนาการ", 
         "Type": 0, 
         "id": 786, 
         "TLM": 21480
@@ -11091,7 +11091,7 @@
         "FR": "\\\\bEnvoyer le timbre\\\\f", 
         "EN": "\\\\bSend Stamp\\\\f", 
         "GameKey": "SCRIPT/0793", 
-        "DE": "\\\\bSende Stempel\\\\f", 
+        "DE": "\\\\bSende Chatsticker\\\\f", 
         "JP": "\\\\bスタンプ送信\\\\f", 
         "VN": "\\\\bGửi dấu\\\\f", 
         "KR": "\\\\b이모티콘 전송\\\\f", 
@@ -12096,7 +12096,7 @@
         "TLM": 21558
     }, 
     {
-        "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits.\\n", 
+        "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits. \\n", 
         "EN": "any paid twilight crystals will become free twilight crystals.\\\\n", 
         "GameKey": "SCRIPT/0865", 
         "DE": "werden alle bezahlten Zwielichtkristalle zu kostenlosen Zwielichtkristallen. ", 
@@ -12153,7 +12153,7 @@
     }, 
     {
         "FR": "Comme votre guilde n'a pas été qualifiée,\\\\nvous ne pouvez pas aller dans l'Arène principale.", 
-        "EN": "As your guild was not in the top preliminary ranks,\\\\nyou cannot proceed to the finals.", 
+        "EN": "As your guild was not in the top\\\\npreliminary ranks, you cannot\\\\nproceed to the finals.", 
         "GameKey": "SCRIPT/0869", 
         "DE": "Da deine Gilde nicht unter den besten Qualifikationsrängen war,\\\\nkannst du nicht zur Hauptarena vorrücken.", 
         "JP": "予選で上位入賞できなかったため、\\\\n残念ながら本戦に出場できませんでした", 
@@ -13664,7 +13664,7 @@
         "TLM": 22776
     }, 
     {
-        "FR": "Service des utilisateurs royaux (", 
+        "FR": "Serv. utilis. royaux", 
         "EN": "Royal User Service (", 
         "GameKey": "SCRIPT/0988", 
         "DE": "Königlicher Kundendienst (", 
@@ -13678,7 +13678,7 @@
         "TLM": 22777
     }, 
     {
-        "FR": "médailles de bonus d’achat.", 
+        "FR": "(médailles en bonus d’achat)", 
         "EN": " purchase bonus medals.", 
         "GameKey": "SCRIPT/0989", 
         "DE": " Extramedaillen, die bei Kauf erhalten wurden.", 
@@ -14274,7 +14274,7 @@
         "VN": "Đã mở rộng {0} {1}.", 
         "KR": "{0} {1}을(를) 확장하였습니다.", 
         "ES": "{1} de {0} aumentados.", 
-        "TH": "ขยาย{0} {1}แล้ว", 
+        "TH": "ขยาย{1}{0}แล้ว", 
         "Type": 0, 
         "id": 1020, 
         "TLM": 22820
@@ -14288,7 +14288,7 @@
         "VN": "{1} của {0}", 
         "KR": "{0}의 {1}을(를)", 
         "ES": "{0} del {1}", 
-        "TH": "{0} ของ {1}", 
+        "TH": "ขยาย{1}ของ{0}", 
         "Type": 0, 
         "id": 1021, 
         "TLM": 22821
@@ -14302,7 +14302,7 @@
         "VN": "{0} {1} hiện tại:", 
         "KR": "현재 {0} {1} 수: ", 
         "ES": "{0}{1}:", 
-        "TH": "จำนวน{0}{1}ปัจจุบัน:", 
+        "TH": "จำนวน{1}{0}ในปัจจุบัน: ", 
         "Type": 0, 
         "id": 1022, 
         "TLM": 22822
@@ -14952,7 +14952,7 @@
         "TLM": 22868
     }, 
     {
-        "FR": "Signaler le commentaire de ?", 
+        "FR": ": signaler le commentaire ?", 
         "EN": " -- Report this user's comment?", 
         "GameKey": "SCRIPT/1056", 
         "DE": "Kommentar von  melden?", 
@@ -15067,7 +15067,7 @@
         "FR": "Classement", 
         "EN": "Ranking", 
         "GameKey": "SCRIPT/1142", 
-        "DE": "Rangliste", 
+        "DE": "Rangliste ", 
         "JP": "ランキング【", 
         "VN": "Thứ hạng (", 
         "KR": "랭킹 [", 
@@ -16304,7 +16304,7 @@
         "VN": "Ô kho đồ", 
         "KR": " 보유 한도", 
         "ES": "Inventario", 
-        "TH": "ความจุช่องเก็บของ", 
+        "TH": "ความจุช่องเก็บ", 
         "Type": 0, 
         "id": 1165, 
         "TLM": 22965
@@ -16453,7 +16453,7 @@
         "FR": "Ligue)", 
         "EN": "League)", 
         "GameKey": "SCRIPT/1069", 
-        "DE": "Liga)", 
+        "DE": ". Liga", 
         "JP": "部】", 
         "VN": "Giải đấu \\", 
         "KR": "부]", 
@@ -17374,14 +17374,14 @@
         "TLM": 50571
     }, 
     {
-        "FR": "Souhaitez-vous utiliser <color=#B42F00>{0}</color>cristaux crépusculaires", 
+        "FR": "Souhaitez-vous utiliser <color=#B42F00>{0}</color> cristaux crépusculaires", 
         "EN": "Use <color=#B42F00>{0}</color> twilight crystals,\\\\n", 
         "GameKey": "SCRIPT/1245", 
         "DE": "<color=#B42F00>{0}</color> Zwielichtkristalle verwenden, um ", 
         "JP": "魔晶石を<color=#B42F00>{0}個</color>消費して", 
         "VN": "\"VN\": null", 
         "KR": "마정석을 <color=#B42F00>{0}개</color> 사용하여 ", 
-        "ES": "Consume <color=#B42F00>{0}</color> cristales del ocaso", 
+        "ES": "¿Consumir <color=#B42F00>{0}</color> cristales del ocaso ", 
         "TH": "ใช้คริสตัลสนธยา<color=#B42F00>{0}</color>ชิ้น", 
         "Type": 0, 
         "id": 1242, 
@@ -17578,7 +17578,7 @@
         "VN": "\"VN\": null", 
         "KR": "\"마정석x{0}\"을(를) ", 
         "ES": "{0} X cristal(es) del ocaso", 
-        "TH": "\"คริสตัลสนธยา x{0}\"", 
+        "TH": "ใช้ \"คริสตัลสนธยา x{0}\"", 
         "Type": 0, 
         "id": 1256, 
         "TLM": 50647
@@ -17606,7 +17606,7 @@
         "VN": "\"VN\": null", 
         "KR": "\"{0}골드\"를 ", 
         "ES": "{0} x de oro", 
-        "TH": "\"ทอง{0}\"", 
+        "TH": "ใช้\"ทอง{0}\"", 
         "Type": 0, 
         "id": 1258, 
         "TLM": 50649
@@ -17696,7 +17696,7 @@
         "TLM": 50918
     }, 
     {
-        "FR": "Jusqu'au {1}dd {0}mm à {2} h{3}", 
+        "FR": "{1}dd {0}mm à {2} h{3}", 
         "EN": "Until {0}/{1} {2}:{3}", 
         "GameKey": "SCRIPT", 
         "DE": "Bis {1}.{0}. {2}:{3}", 
@@ -17990,31 +17990,129 @@
         "TLM": 51132
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "À propos de l'appariement des Qualifications :", 
+        "EN": "Preliminary Matching", 
         "GameKey": "SCRIPT", 
-        "DE": "", 
+        "DE": "Über das Matching in der Qualifikation", 
         "JP": "予選のマッチングについて", 
         "VN": "", 
-        "KR": "", 
-        "ES": "", 
-        "TH": "", 
+        "KR": "예선 매칭에 관하여", 
+        "ES": "Sobre el emparejamiento por clasificatorias:", 
+        "TH": "รอบคัดเลือกกับการจับคู่", 
         "Type": 0, 
         "id": 1286, 
         "TLM": 51159
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "・Le 1er jour des Qualifications du Grand colisée, les appariements sont ceux d'un colisée ordinaire avec répartition par ligues.\\n・À partir du 2ème jour, les Qualifications du Grand colisée, l'appariement se fait en fonction du nombre de points de valeur totaux obtenus par ligue.\\n<color=#B42F00>*À partir du 2ème jour, il est plus facile de trouver d'autres joueurs plus proches en termes de total de PdV obtenus.</color>", 
+        "EN": "-On the first day of preliminaries for the Gran Colosseum, guilds of the same league will be matched the same way they would be in regular Colosseum events.\\n-On the second day of preliminaries and onward, a special matching will occur within each league based on the total amount of gran points earned.\\n<color=#B42F00>Note: From the second day of preliminaries onward, guilds with similar total gran points will be matched together.</color>", 
         "GameKey": "SCRIPT", 
-        "DE": "", 
+        "DE": "・Am ersten Tag der Qualifikation von Großes Kolosseum neben der Aufteilung in Ligen, auch das Matching aus dem normalen Kolosseum übernommen.\\n・Ab dem zweiten Tag der Qualifikation von Großes Kolosseum gibt es ein spezielles Matching basierend auf den erhaltenen Prestigepunkten in jeder Liga.\\n<color=#B42F00>*Nach dem zweiten Tag wird es einfacher ein Matching mit einem Gegner zu bekommen, der eine ähnliche Anzahl an Prestigepunkten hat.</color>", 
         "JP": "・グランコロシアム予選初日は、リーグ分けをした上で通常のコロシアムで実施しているマッチングを採用しております。\\n・グランコロシアム予選2日目以降は、リーグ毎に総獲得グランptを用いた特別マッチングとなっております。\\n<color=#B42F00>※2日目以降は総獲得グランptが近い相手とマッチングしやすくなっております</color>", 
         "VN": "", 
-        "KR": "", 
-        "ES": "", 
-        "TH": "", 
+        "KR": "・그랑 콜로세움 예선 첫날은 리그 배치 후 일반 콜로세움에서 실시 중인 방법으로 매칭이 이루어집니다.\\n・그랑 콜로세움 예선 2일차 이후에는 리그별로 총 획득 그랑 pt를 이용한 특별 매칭이 이루어집니다.\\n<color=#B42F00>※2일차 이후에는 총 획득 그랑 pt가 비슷한 상대와 매칭될 확률이 높습니다.</color>", 
+        "ES": "- El primer día de las clasificatorias en el Gran Coliseo, dividiremos las ligas para emparejarlas del mismo modo que en el Coliseo.\\n- A partir del 2º día del Gran Coliseo, cada día las ligas iran cambiando de posición usando los Gran puntos para ser emparejadas en las clasificaciones globales.\\n<color=#B42F00>*A partir del 2º día será más fácil emparejar en las clasificaciones globales.</color>", 
+        "TH": "・ในวันแรกของรอบคัดเลือกแกรนโคลอสเซียม เมื่อแบ่งลีกแล้วจะใช้การจับคู่แบบเดียวกับที่ใช้ในโคลอสเซียมปกติ\\n・รอบคัดเลือกแกรนโคลอสเซียมวันที่ 2 เป็นต้นไป จะเปลี่ยนเป็นการจับคู่แบบพิเศษ โดยจับตามแกรน pt รวมที่ได้รับตามลีก\\n<color=#B42F00>*วันที่ 2 เป็นต้นไป จะได้จับคู่กับฝ่ายตรงข้ามที่มีแกรน pt รวมที่ใกล้เคียงกันได้ง่ายขึ้น</color>", 
         "Type": 0, 
         "id": 1287, 
         "TLM": 51160
+    }, 
+    {
+        "FR": "Étape {1}", 
+        "EN": "STEP {1}", 
+        "GameKey": "SCRIPT", 
+        "DE": "Step {1}", 
+        "JP": "「Step{1}」", 
+        "VN": "", 
+        "KR": "\"STEP {1}\"", 
+        "ES": "[Paso {1}]", 
+        "TH": "\"Step{1}\"", 
+        "Type": 0, 
+        "id": 1288, 
+        "TLM": 51161
+    }, 
+    {
+        "FR": "Classements [Ligue {0}]", 
+        "EN": "Ranking [League {0}]", 
+        "GameKey": "SCRIPT", 
+        "DE": "Rangliste Liga {0}", 
+        "JP": "ランキング【{0}部】", 
+        "VN": "", 
+        "KR": "랭킹 [{0}부]", 
+        "ES": "Clasificación [Liga {0}]", 
+        "TH": "อันดับ \"ลีกหน่วย{0}\"", 
+        "Type": 0, 
+        "id": 1289, 
+        "TLM": 51164
+    }, 
+    {
+        "FR": "Liste des combats [Ligue {0}]", 
+        "EN": "Battle List [League {0}]", 
+        "GameKey": "SCRIPT", 
+        "DE": "Kampfliste Liga {0}", 
+        "JP": "対戦リスト【{0}部】", 
+        "VN": "", 
+        "KR": "대진표 [{0}부]", 
+        "ES": "Lista de combate [Liga {0}]", 
+        "TH": "รายการต่อสู้ \"ลีกหน่วย{0}\"", 
+        "Type": 0, 
+        "id": 1290, 
+        "TLM": 51165
+    }, 
+    {
+        "FR": "Ligue {0}", 
+        "EN": "League {0}", 
+        "GameKey": "SCRIPT", 
+        "DE": "Liga {0}", 
+        "JP": "{0}部", 
+        "VN": "", 
+        "KR": "{0}부", 
+        "ES": "Liga {0}", 
+        "TH": "ลีกหน่วย {0}", 
+        "Type": 0, 
+        "id": 1291, 
+        "TLM": 51166
+    }, 
+    {
+        "FR": "Rang {0}", 
+        "EN": "Rank {0}", 
+        "GameKey": "SCRIPT", 
+        "DE": "{0}. Rang", 
+        "JP": "{0}位", 
+        "VN": "", 
+        "KR": "{0}위", 
+        "ES": "{0}º", 
+        "TH": "อันดับ {0}", 
+        "Type": 0, 
+        "id": 1292, 
+        "TLM": 51167
+    }, 
+    {
+        "FR": "Tous les rangs après {0}", 
+        "EN": "From Rank {0}", 
+        "GameKey": "SCRIPT", 
+        "DE": "Ab dem {0}. Rang", 
+        "JP": "{0}位～", 
+        "VN": "", 
+        "KR": "{0}위~", 
+        "ES": "{0}º ~", 
+        "TH": "อันดับ {0} เป็นต้นไป", 
+        "Type": 0, 
+        "id": 1293, 
+        "TLM": 51168
+    }, 
+    {
+        "FR": "Du rang {0} au rang {1}", 
+        "EN": "Rank {0} to Rank {1}", 
+        "GameKey": "SCRIPT", 
+        "DE": "{0}. - {1}. Rang", 
+        "JP": "{0}〜{1}位", 
+        "VN": "", 
+        "KR": "{0}~{1}위", 
+        "ES": "{0}º ~ {1}º", 
+        "TH": "อันดับ {0}〜{1}", 
+        "Type": 0, 
+        "id": 1294, 
+        "TLM": 51170
     }
 ]

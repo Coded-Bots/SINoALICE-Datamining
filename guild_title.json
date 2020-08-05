@@ -81,10 +81,811 @@
         "resourceName": "0001"
     }, 
     {
-        "name": "第壱次グランコロシアム[総合Top500]", 
+        "name": "1st Gran Colosseum [Overall Top 400]", 
         "limitTime": 1893423600, 
         "guildTitleMstId": 10, 
-        "detail": "総合ランキング301～500位のギルドに与えられる称号", 
+        "detail": "Title given to guilds ranked 301st to 400th overall.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Overall Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 11, 
+        "detail": "Title given to guilds ranked 401st to 700th overall.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 12, 
+        "detail": "Title given to guild ranked 1st in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 13, 
+        "detail": "Title given to guild ranked 2nd in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 14, 
+        "detail": "Title given to guild ranked 3rd in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 15, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 16, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 17, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 18, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 19, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 20, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 21, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 22, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 1.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 23, 
+        "detail": "Title given to guild ranked 1st in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 24, 
+        "detail": "Title given to guild ranked 2nd in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 25, 
+        "detail": "Title given to guild ranked 3rd in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 26, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 27, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 28, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 29, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 30, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 31, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 32, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 33, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 2.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 34, 
+        "detail": "Title given to guild ranked 1st in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 35, 
+        "detail": "Title given to guild ranked 2nd in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 36, 
+        "detail": "Title given to guild ranked 3rd in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 37, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 38, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 39, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 40, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 41, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 42, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 43, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 44, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 3.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 45, 
+        "detail": "Title given to guild ranked 1st in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 46, 
+        "detail": "Title given to guild ranked 2nd in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 47, 
+        "detail": "Title given to guild ranked 3rd in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 48, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 49, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 50, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 51, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 52, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 53, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 54, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 55, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 4.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 56, 
+        "detail": "Title given to guild ranked 1st in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 57, 
+        "detail": "Title given to guild ranked 2nd in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 58, 
+        "detail": "Title given to guild ranked 3rd for in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 59, 
+        "detail": "Title given to guilds ranked 4th to 10th in. time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 60, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 61, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 62, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 63, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 64, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 65, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 66, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 5.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 67, 
+        "detail": "Title given to guild ranked 1st in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 68, 
+        "detail": "Title given to guild ranked 2nd in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 69, 
+        "detail": "Title given to guild ranked 3rd in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 70, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 71, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 72, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 73, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 74, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 75, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 76, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 77, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 6.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 78, 
+        "detail": "Title given to guild ranked 1st for in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 79, 
+        "detail": "Title given to guild ranked 2nd in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 80, 
+        "detail": "Title given to guild ranked 3rd in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 81, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 82, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 83, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 84, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 85, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 86, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 87, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 88, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 7.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 1]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 89, 
+        "detail": "Title given to guild ranked 1st in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 2]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 90, 
+        "detail": "Title given to guild ranked 2nd in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Rank 3]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 91, 
+        "detail": "Title given to guild ranked 3rd in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 10]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 92, 
+        "detail": "Title given to guilds ranked 4th to 10th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 30]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 93, 
+        "detail": "Title given to guilds ranked 11th to 30th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 50]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 94, 
+        "detail": "Title given to guilds ranked 31st to 50th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 100]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 95, 
+        "detail": "Title given to guilds ranked 51st to 100th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 200]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 96, 
+        "detail": "Title given to guilds ranked 101st to 200th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 300]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 97, 
+        "detail": "Title given to guilds ranked 201st to 300th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 400]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 98, 
+        "detail": "Title given to guilds ranked 301st to 400th in time slot 8.", 
+        "assetBundleName": "guild_title/1", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "1st Gran Colosseum [Time Slot Top 700]", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 99, 
+        "detail": "Title given to guilds ranked 401st to 700th in time slot 8.", 
         "assetBundleName": "guild_title/1", 
         "createdTime": null, 
         "resourceName": "0001"

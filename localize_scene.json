@@ -1233,7 +1233,7 @@
     }, 
     {
         "FR": "Le maître ou le sous-maître de la guilde écrivent pour expliquer l'ordre d'utilisation des actions spéciales et des stratégies de combats de guilde, ou pour partager des messages importants avec tous les membres.", 
-        "EN": "Text written by the guild master or submaster. A place to discuss guild battle strategies, such as which techniques to use and when to use them, or any other important messages for all members.", 
+        "EN": "Text written by the guild master or sub guild master. A place to discuss guild battle strategies, such as which techniques to use and when to use them, or any other important messages for all members.", 
         "GameKey": "SCENE/0088", 
         "DE": "Am besten sollte dies der Gildenmeister oder der erste Offizier schreiben. Diese Beschreibung dient dazu, die Reihenfolge der Verwendung von Spezialaktionen und anderen Strategien für Gildenkämpfe zu erklären oder um wichtige Neuigkeiten mit allen Mitglie", 
         "JP": "ギルドマスター及びサブマスターが記載できます。奥義を出す順番等のギルドバトルでの戦略やメンバー全員に共有したい重要なことを記載しましょう。", 
@@ -1366,7 +1366,7 @@
         "VN": "----/--/-- Khớp x kết quả", 
         "KR": "----/--/-- 제-경기 결과", 
         "ES": "----/--/-- Partida x resultados", 
-        "TH": "----/--/-- ผลลัพธ์ การแข่งขันครั้งที่ -", 
+        "TH": "--/--/---- ผลลัพธ์ การแข่งขันครั้งที่ -", 
         "Type": 0, 
         "id": 98, 
         "TLM": 20270
@@ -3923,7 +3923,7 @@
         "FR": "Statut de l'inscription", 
         "EN": "Entry Status", 
         "GameKey": "SCENE/0280", 
-        "DE": "Zutrittsstaus", 
+        "DE": "Zutrittstatus", 
         "JP": "エントリー状況", 
         "VN": "Trạng thái tham gia", 
         "KR": "참가 등록 상황", 
@@ -3948,15 +3948,15 @@
         "TLM": 20454
     }, 
     {
-        "FR": "Durée de participation", 
-        "EN": "Participation Time", 
+        "FR": "Durée de participation(UTC+9)", 
+        "EN": "Participation Time(UTC+9)", 
         "GameKey": "SCENE/0282", 
-        "DE": "Anmeldefrist", 
-        "JP": "参加時間", 
+        "DE": "Anmeldefrist(UTC+9)", 
+        "JP": "参加時間 (UTC+9)", 
         "VN": "Thời gian tham gia", 
-        "KR": "참가 시간", 
-        "ES": "Tiempo de participación", 
-        "TH": "เวลาในการเข้าร่วม", 
+        "KR": "참가 시간 (UTC+9)", 
+        "ES": "Tiempo de participación(UTC+9)", 
+        "TH": "เวลาในการเข้าร่วม(UTC+9)", 
         "Type": 0, 
         "id": 283, 
         "TLM": 20455
@@ -3998,7 +3998,7 @@
         "VN": "Thứ hạng tổng thể sẽ được cập nhật vào ngày hôm sau, từ 0 đến 1 giờ sáng.", 
         "KR": "(종합 랭킹은 다음 날 {0}~{1} 사이에 갱신됩니다)", 
         "ES": "(La Clasificación general se actualiza entre las {0} ~ {1}.", 
-        "TH": "(อันดับทั้งหมดจะถูกอัปเดตในระหว่าง {0} - {1})", 
+        "TH": "(อันดับรวมทั้งหมดจะถูกอัปเดตในระหว่าง {0} - {1})", 
         "Type": 0, 
         "id": 286, 
         "TLM": 20458
@@ -4026,7 +4026,7 @@
         "VN": "*Thứ hạng sẽ không có sẵn cho đến DD/MM/YYYY.", 
         "KR": "(※⚪︎99월 99일 이후에 랭킹을 확인할 수 있습니다)", 
         "ES": "*Las clasificaciones no estarán disponibles hasta el DD/MM/AAAA.", 
-        "TH": "(*⚪︎การจัดอันดับไม่สามารถใช้ได้จนถึง 99DD/99MM/YYYY)", 
+        "TH": "(*⚪︎การจัดอันดับไม่สามารถใช้ได้จนถึง 99DD/99MM)", 
         "Type": 0, 
         "id": 288, 
         "TLM": 20460
@@ -4074,7 +4074,7 @@
         "TLM": 20463
     }, 
     {
-        "FR": "Classement par fuseau horaire", 
+        "FR": "Class. fus. hor.", 
         "EN": "Time Slot Rankings", 
         "GameKey": "SCENE/0291", 
         "DE": "Zeitzonenrangliste", 
@@ -5124,7 +5124,7 @@
         "TLM": 20538
     }, 
     {
-        "FR": "Recrutement : OUI", 
+        "FR": "Recrutement : NON", 
         "EN": "Recruiting: No", 
         "GameKey": "SCENE/0366", 
         "DE": "Rekrutierung: AN", 
@@ -5138,7 +5138,7 @@
         "TLM": 20539
     }, 
     {
-        "FR": "Recrutement : NON", 
+        "FR": "Recrutement : OUI", 
         "EN": "Recruiting: Yes", 
         "GameKey": "SCENE/0367", 
         "DE": "Rekrutierung: AUS", 
@@ -6336,7 +6336,7 @@
         "VN": "Menu trao đổi huy hiệu", 
         "KR": "[메달 교환소] 메인", 
         "ES": "Menú de intercambio de medallas", 
-        "TH": "หน้าเมนู[ที่แลกเปลี่ยนเหรียญ]", 
+        "TH": "หน้าหลัก[ที่แลกเปลี่ยนเหรียญ]", 
         "Type": 0, 
         "id": 453, 
         "TLM": 20625
@@ -6937,7 +6937,7 @@
         "JP": "射的ガチャ", 
         "VN": "Sách phép Bộ sưu tập vũ khí bắn", 
         "KR": "사격 뽑기", 
-        "ES": "Grimorio de la galería de tiro", 
+        "ES": "Grimorio de tiro ", 
         "TH": "ยิงเป้ากรีมัวร์", 
         "Type": 0, 
         "id": 496, 
@@ -7896,8 +7896,8 @@
         "TLM": 22680
     }, 
     {
-        "FR": "Changer de ligues", 
-        "EN": "Switch Leagues", 
+        "FR": "Chg. ligue", 
+        "EN": "Switch", 
         "GameKey": "SCENE/0529", 
         "DE": "Liga wechseln", 
         "JP": "リーグ切替", 

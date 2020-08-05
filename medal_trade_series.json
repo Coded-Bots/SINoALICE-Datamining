@@ -28,6 +28,20 @@
         "description": "A medal that is an incidental byproduct of a Grimoire."
     }, 
     {
+        "name": "Gran Medal", 
+        "startTime": 1596603600, 
+        "priority": 4, 
+        "isDeleted": false, 
+        "assetBundleName": "0004", 
+        "resourceName": "item1", 
+        "wayToGet": "Earn as rewards in the Gran Colosseum.", 
+        "endTime": 1924959599, 
+        "medalTradeSeriesMstId": 4, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 4, 
+        "description": "Awarded to the Gran Colosseum's best warriors."
+    }, 
+    {
         "name": "Chrono Medal", 
         "startTime": 1593669600, 
         "priority": 5, 
@@ -48,7 +62,7 @@
         "isDeleted": false, 
         "assetBundleName": "0006", 
         "resourceName": "item1", 
-        "wayToGet": "Earn up to 3 per day by CO-OP battling with friends and guild members.\\n*By purchasing the Royal User service, earn up to 5 per day.", 
+        "wayToGet": "Earn up to 3 per day by Co-Op battling with friends and guild members.\\nNote: By purchasing the Royal User service, earn up to 5 per day.", 
         "endTime": 1924959599, 
         "medalTradeSeriesMstId": 6, 
         "medalTradeGroupMstId": 0, 

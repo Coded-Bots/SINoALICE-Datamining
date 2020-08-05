@@ -1429,7 +1429,7 @@
     }, 
     {
         "FR": "Grimoire x1", 
-        "EN": "Grimoire x1", 
+        "EN": "Shoot x1", 
         "GameKey": "Image/0103", 
         "DE": "1x Grimoire", 
         "JP": "1回ガチャ", 
@@ -1610,10 +1610,10 @@
         "TLM": 214
     }, 
     {
-        "FR": "Inscriptions fermées", 
+        "FR": "Accepté", 
         "EN": "Registration Closed", 
         "GameKey": "Image/0116", 
-        "DE": "Registrierung beendet", 
+        "DE": "beendet", 
         "JP": "受付終了", 
         "VN": "Đã đóng đăng ký", 
         "KR": "접수 마감", 
@@ -1918,10 +1918,10 @@
         "TLM": 236
     }, 
     {
-        "FR": "Débloquez des classes avec des médailles de valeur.", 
+        "FR": "Des classes avec des médailles de valeur.", 
         "EN": "Unlock Classes with gran medals", 
         "GameKey": "Image/0138", 
-        "DE": "Schalte Klassen mit Großmedaillen frei", 
+        "DE": "Erhalte Klassen mit Großmedaillen", 
         "JP": "グランメダルでジョブを解放セヨ", 
         "VN": "Mở khóa nghề bằng Huy hiệu chiến hội", 
         "KR": "그랑 메달로 직업을 오픈하라", 
@@ -1963,7 +1963,7 @@
         "FR": "Remportez une place dans l'Arène principale", 
         "EN": "Win a spot in the finals", 
         "GameKey": "Image/0141", 
-        "DE": "Verdiene dir einen Platz in der Hauptarena", 
+        "DE": "Ziehe in die Hauptarena ein", 
         "JP": "本戦に出場セヨ", 
         "VN": "Giành chỗ trong Võ đài chính", 
         "KR": "본선에 진출하라", 
@@ -3227,7 +3227,7 @@
         "JP": "現在の各グループ獲得グランｐｔ", 
         "VN": "Điểm chiến hội hiện tại của từng nhóm", 
         "KR": "현재 그룹별 획득 그랑 pt", 
-        "ES": "Puntos Gran actuales por grupo", 
+        "ES": "Gran puntos actuales por grupo", 
         "TH": "แกรนpt ปัจจุบันแต่ละกลุ่ม", 
         "Type": 0, 
         "id": 231, 
@@ -3339,7 +3339,7 @@
         "JP": "最終獲得グランｐｔ", 
         "VN": "Điểm chiến hội cuối cùng", 
         "KR": "최종 획득 그랑 pt", 
-        "ES": "Últimos puntos Gran obtenidos", 
+        "ES": "Últimos Gran puntos obtenidos", 
         "TH": "ได้รับแกรนpt สุดท้าย", 
         "Type": 0, 
         "id": 239, 
@@ -3417,7 +3417,7 @@
     }, 
     {
         "FR": "Grimoire x5", 
-        "EN": "Grimoire x5", 
+        "EN": "Shoot x5", 
         "GameKey": "Image/0245", 
         "DE": "5x Grimoire", 
         "JP": "5回ガチャ", 
@@ -4025,7 +4025,7 @@
         "JP": "注意事項", 
         "VN": "Quan trọng", 
         "KR": "주의 사항", 
-        "ES": "Nota:", 
+        "ES": "Notas", 
         "TH": "ข้อควรระวัง", 
         "Type": 0, 
         "id": 288, 
@@ -4536,7 +4536,7 @@
         "TLM": 50574
     }, 
     {
-        "FR": "ÉTAPE 1", 
+        "FR": "ÉTAPE ", 
         "EN": "STEP 1", 
         "GameKey": "Image/0325", 
         "DE": "STEP 1", 
@@ -4544,7 +4544,7 @@
         "VN": "\"VN\": null", 
         "KR": "STEP 1", 
         "ES": "PASO1", 
-        "TH": "ขั้นที่1", 
+        "TH": "STEP1", 
         "Type": 0, 
         "id": 325, 
         "TLM": 50591
