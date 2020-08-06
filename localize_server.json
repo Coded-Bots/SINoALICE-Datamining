@@ -16170,20 +16170,6 @@
         "TLM": 51011
     }, 
     {
-        "FR": "306 cristaux crépusculaires payés + Livre du délire, 1e fois seulement + Gretel/Sorcier. ", 
-        "EN": "Paid Twilight Crystal x306 & Book of Delusion (First time only) & Gretel/Sorcerer", 
-        "GameKey": "Server/com.global.sinoalice.campaign04.tier25a/description", 
-        "DE": "306 bezahlte Zwielichtkristalle + Buch des Wahns, beim 1. Mal Gretel/Zauberer", 
-        "JP": "有償魔晶石306個＋「虚妄の書」、初回のみ＋「グレーテル/ソーサラー」。", 
-        "VN": "", 
-        "KR": "유료 마정석 306개+\"허망의 서\", 첫 회 한정+\"그레텔/소서러\".", 
-        "ES": "Al comprar Crist. del ocaso x306 + 1º vez «Libro del Delirio» + «Gretel/Hechicero»", 
-        "TH": "คริสตัลจ่ายเงิน 306ชิ้น+\"หนังสือแห่งการหลงผิด\", ครั้งแรกเท่านั้น+\"เกรเทล/ซอร์เซอเรอร์\"", 
-        "Type": 0, 
-        "id": 1156, 
-        "TLM": 51012
-    }, 
-    {
         "FR": "306 cristaux crépus. + Arme A", 
         "EN": "T.Crys. x306 & Weapon A", 
         "GameKey": "Server/com.global.sinoalice.campaign04.tier25b/title", 
