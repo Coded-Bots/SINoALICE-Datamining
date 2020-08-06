@@ -124,5 +124,19 @@
         "medalTradeGroupMstId": 0, 
         "itemMstId": 780, 
         "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt"
+    }, 
+    {
+        "name": "Replicant medal", 
+        "startTime": 1596693600, 
+        "priority": 44, 
+        "isDeleted": false, 
+        "assetBundleName": "1039", 
+        "resourceName": "item20200806_gacha_nierreplicant", 
+        "wayToGet": "Earned by summoning certain Grimoire.", 
+        "endTime": 1598540399, 
+        "medalTradeSeriesMstId": 69, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 1039, 
+        "description": "Medal from a collaboration grimoire."
     }
 ]

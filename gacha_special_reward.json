@@ -112,6 +112,28 @@
     {
         "targetType": 1, 
         "objectId": 0, 
+        "gachaSpecialRewardMstId": 13, 
+        "firstObjectType": 19, 
+        "targetId": 787, 
+        "num": 0, 
+        "firstObjectId": 34, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 14, 
+        "firstObjectType": 19, 
+        "targetId": 799, 
+        "num": 0, 
+        "firstObjectId": 35, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
         "gachaSpecialRewardMstId": 15, 
         "firstObjectType": 19, 
         "targetId": 813, 
@@ -150,6 +172,39 @@
         "targetId": 927, 
         "num": 0, 
         "firstObjectId": 40, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 107, 
+        "firstObjectType": 19, 
+        "targetId": 3095, 
+        "num": 0, 
+        "firstObjectId": 159, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 108, 
+        "firstObjectType": 19, 
+        "targetId": 3097, 
+        "num": 0, 
+        "firstObjectId": 160, 
+        "firstNum": 1, 
+        "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 109, 
+        "firstObjectType": 19, 
+        "targetId": 3099, 
+        "num": 0, 
+        "firstObjectId": 161, 
         "firstNum": 1, 
         "objectType": 0
     }

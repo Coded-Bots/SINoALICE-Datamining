@@ -48,6 +48,42 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 104, 
+        "assetBundleName": "", 
+        "title": "Event Bonus ①", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1596693600, 
+        "resourceName": "1", 
+        "endTime": 1597899599, 
+        "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 105, 
+        "assetBundleName": "", 
+        "title": "Event Bonus ②", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1597294800, 
+        "resourceName": "1", 
+        "endTime": 1597899599, 
+        "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 106, 
+        "assetBundleName": "", 
+        "title": "NieR RepliCant Collaboration", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1596693600, 
+        "resourceName": "1", 
+        "endTime": 1597899599, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 900001, 
         "assetBundleName": "", 
         "title": "RU Bonus", 

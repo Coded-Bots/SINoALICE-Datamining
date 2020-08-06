@@ -2212,15 +2212,15 @@
         "TLM": 20852
     }, 
     {
-        "FR": "　", 
+        "FR": "　Conditions de zone d'expédition ", 
         "EN": "　Area Dispatch Conditions", 
         "GameKey": "SCRIPT/0159", 
-        "DE": "　", 
+        "DE": "　Entsendungsbedingungen des Gebiets", 
         "JP": "　エリア派遣条件", 
         "VN": "Điều kiện điều động khu vực", 
         "KR": "　지역 파견 조건", 
-        "ES": "　", 
-        "TH": "　", 
+        "ES": "　Condiciones de envío por área", 
+        "TH": "　เงื่อนไขการจัดส่งพื้นที่", 
         "Type": 0, 
         "id": 159, 
         "TLM": 20853
@@ -3514,15 +3514,15 @@
         "TLM": 20945
     }, 
     {
-        "FR": "　", 
-        "EN": "　", 
+        "FR": "　Le dernier RPG de combat publié par Square Enix et Pokelabo, développé par une équipe de créateurs 5 étoiles ! #SINoALICE http://sinoalice.jp", 
+        "EN": "　The latest fantasy battle RPG by Square Enix and Pokelabo, brought to you by an all-star lineup of creators! #SINoALICE http://sinoalice.jp", 
         "GameKey": "SCRIPT/0252", 
-        "DE": "　", 
+        "DE": "　Das neueste Fantasy-Kampf-RPG von Square Enix und Pokelabo, präsentiert von einem Star-Entwicklerensemble! #SINoALICE http://sinoalice.jp", 
         "JP": "　豪華クリエイターが贈るスクエニ×ポケラボ最新作バトルファンタジーRPG #シノアリス http://sinoalice.jp", 
         "VN": "\\nTrò chơi nhập vai chiến đấu mang tính tưởng tượng mới nhất của Square Enix và Pokelabo, được cung cấp bởi một đội ngũ người sáng tạo nổi tiếng! #SINoALICE http://sinoalice.jp", 
         "KR": "　호화 제작진이 선사하는 SQUARE ENIX×POKELABO 최신작 배틀 판타지 RPG #시노앨리스 http://sinoalice.jp", 
-        "ES": "　", 
-        "TH": "　", 
+        "ES": "　\\n¡El último juego de rol de combate de fantasía de Square Enix y Pokelabo a tu alcance gracias a unos creadores de primera! #«SINoALICE» http://«sinoalice».jp", 
+        "TH": "　เกม RPG แฟนตาซีต่อสู้ ผลงานล่าสุดจาก Sqare Enix และ Pokelabo โดยครีเอทเตอร์ชื่อดัง #ชิโนอลิซ http://sinoalice.jp", 
         "Type": 0, 
         "id": 252, 
         "TLM": 20946

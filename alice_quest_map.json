@@ -101,6 +101,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "July Conquest Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 21, 
+        "createdTime": 1581519600, 
+        "mapGroup": 8, 
+        "name": "Dragon of the Depths"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Memory of Dolls (Normal)", 
         "announceUrl": "", 
         "mapType": 1, 
@@ -128,5 +138,25 @@
         "createdTime": 1483974000, 
         "mapGroup": 71, 
         "name": "Experimental Weapon's Resolve"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "NieR RepliCant (Normal)", 
+        "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 178, 
+        "createdTime": 1483974000, 
+        "mapGroup": 104, 
+        "name": "Dreams Under Missing Pages"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "NieR RepliCant (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 179, 
+        "createdTime": 1483974000, 
+        "mapGroup": 104, 
+        "name": "Dreams Under Missing Pages (Hard)"
     }
 ]
