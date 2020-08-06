@@ -1276,11 +1276,11 @@
     {
         "transitionCaption": "", 
         "createdTime": 1483196400, 
-        "title": "着せ替え", 
+        "title": "Change Outfits", 
         "mainCategoryId": 6, 
         "transitionSceneName": "", 
         "updatedTime": 1483196400, 
-        "content": "一部ジョブには着せ替え機能を持っているジョブが存在します。\r\n「着せ替え」が設定されているジョブはジョブ詳細より「切替」ボタンを押すことでジョブの着せ替えが完了します。\r\n\r\n着せ替えることでモノガタリやコロシアムを、設定したジョブの見た目で遊ぶことができます。\r\n着せ替えが設定されていないジョブには切替ボタンが表示されません。\r\n\r\n◆着せ替え反映時間\r\n着せ替えはコロシアム開始30分前までに設定したジョブの見た目がコロシアムのバトル上に反映されます。\r\n30分を過ぎ、着せ替えを行った場合は反映されないのでご注意ください。\r\n", 
+        "content": "Some classes allow you to change your character’s outfit.\r\nBy tapping Change from the class details screen, your character’s outfit will change.\r\n\r\nAfter confirming the change, players can see their character in that outfit while playing through the story and Colosseum.\r\nClasses that cannot change outfits will not have this feature available.\r\n\r\nTime Required to Display Outfit\r\nFor outfit changes to display in the Colosseum, the change must be set at least 30 minutes prior to the start of the Colosseum.\r\nOutfits will not display if settings were changed under 30 minutes prior.\\n", 
         "helpMstId": 98, 
         "subCategoryOrder": 5, 
         "mainCategoryOrder": 0, 
