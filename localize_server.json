@@ -16156,48 +16156,6 @@
         "TLM": 51010
     }, 
     {
-        "FR": "306 cr. + Classe débl. + Arme", 
-        "EN": "T.Crys. x306 & Class & Weapon", 
-        "GameKey": "Server/com.global.sinoalice.campaign04.tier25a/title", 
-        "DE": "Zwielichtkr. x306+Klasse+Waffe", 
-        "JP": "魔晶石306個＋ジョブ＋武器", 
-        "VN": "", 
-        "KR": "마정석 306개+직업+무기", 
-        "ES": "Cris. x306 + Lib. clase + Arma", 
-        "TH": "คริสตัล306+คลาส+อาวุธ", 
-        "Type": 0, 
-        "id": 1155, 
-        "TLM": 51011
-    }, 
-    {
-        "FR": "306 cristaux crépus. + Arme A", 
-        "EN": "T.Crys. x306 & Weapon A", 
-        "GameKey": "Server/com.global.sinoalice.campaign04.tier25b/title", 
-        "DE": "Zwielichtkristalle x306+WaffeA", 
-        "JP": "魔晶石306個＋武器A", 
-        "VN": "", 
-        "KR": "마정석 306개+무기 A", 
-        "ES": "Crist. del ocaso x306 + Arma A", 
-        "TH": "คริสตัลสนธยา306ชิ้น+อาวุธA", 
-        "Type": 0, 
-        "id": 1157, 
-        "TLM": 51013
-    }, 
-    {
-        "FR": "306 cristaux crépusculaires payés + Livre du délire", 
-        "EN": "Paid T.Crys. x306 & Book of Delusion", 
-        "GameKey": "Server/com.global.sinoalice.campaign04.tier25b/description", 
-        "DE": "306 bezahlte Zwielichtkristalle + Buch des Wahns", 
-        "JP": "有償魔晶石306個＋「虚妄の書」。", 
-        "VN": "", 
-        "KR": "유료 마정석 306개+\"허망의 서\".", 
-        "ES": "Cristales del ocaso x306 + «Libro del Delirio»", 
-        "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"หนังสือแห่งการหลงผิด\"", 
-        "Type": 0, 
-        "id": 1158, 
-        "TLM": 51014
-    }, 
-    {
         "FR": "306 cristaux crépus. + Arme", 
         "EN": "T.Crys. x306 & Weapon B", 
         "GameKey": "Server/com.global.sinoalice.campaign05.tier25/title", 
