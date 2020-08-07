@@ -16166,7 +16166,7 @@
         "ES": "Crist. del ocaso x306 + Arma B", 
         "TH": "คริสตัลสนธยา306ชิ้น+อาวุธB", 
         "Type": 0, 
-        "id": 1159, 
+        "id": 1155, 
         "TLM": 51015
     }, 
     {
@@ -16180,7 +16180,7 @@
         "ES": "Cristales del ocaso x306 + Arma B", 
         "TH": "คริสตัลสนธยาจ่ายเงิน306ชิ้น+อาวุธB", 
         "Type": 0, 
-        "id": 1160, 
+        "id": 1156, 
         "TLM": 51016
     }, 
     {
@@ -16194,7 +16194,7 @@
         "ES": "Crist. ocaso x502 + Pesadilla", 
         "TH": "คริสตัลสนธยา502ชิ้น+ไนท์แมร์", 
         "Type": 0, 
-        "id": 1161, 
+        "id": 1157, 
         "TLM": 51017
     }, 
     {
@@ -16208,7 +16208,7 @@
         "ES": "Cristales del ocaso x502 + Pesadilla", 
         "TH": "คริสตัลสนธยาจ่ายเงิน502ชิ้น+ไนท์แมร์", 
         "Type": 0, 
-        "id": 1162, 
+        "id": 1158, 
         "TLM": 51018
     }, 
     {
@@ -16222,7 +16222,7 @@
         "ES": "Cr. x306+ Espada ref. S + Oro", 
         "TH": "คริสตัล306+ดาบแข็งแกร่งS+ทอง", 
         "Type": 0, 
-        "id": 1163, 
+        "id": 1159, 
         "TLM": 51019
     }, 
     {
@@ -16236,7 +16236,7 @@
         "ES": "Cristales x306+ Espada (S) x30+ 500mil Oro", 
         "TH": "คริสตัลสนธยา306+ดาบแข็งแกร่ง(S)x30+ทอง5แสน", 
         "Type": 0, 
-        "id": 1164, 
+        "id": 1160, 
         "TLM": 51020
     }, 
     {
@@ -16250,7 +16250,7 @@
         "ES": "Cr. x502+ Espada ref. SR+Oro", 
         "TH": "คริสตัล502+ดาบแข็งแกร่งSR+ทอง", 
         "Type": 0, 
-        "id": 1165, 
+        "id": 1161, 
         "TLM": 51021
     }, 
     {
@@ -16264,7 +16264,7 @@
         "ES": "Cristales  x502+ Espada de refuerzo (SR) x30 + 1mill. Oro", 
         "TH": "คริสตัลสนธยา502+ดาบแข็งแกร่ง(SR)x30+ทอง1ล้าน", 
         "Type": 0, 
-        "id": 1166, 
+        "id": 1162, 
         "TLM": 51022
     }, 
     {
@@ -16278,7 +16278,7 @@
         "ES": "Código de cupón", 
         "TH": "รหัสคูปอง", 
         "Type": 0, 
-        "id": 1167, 
+        "id": 1163, 
         "TLM": 50936
     }, 
     {
@@ -16292,7 +16292,7 @@
         "ES": "Error de comunicación.\\nPor favor, compruebe el estado de red e inténtalo de nuevo.", 
         "TH": "การส่งข้อมูลสื่อสารล้มเหลว\\nโปรดลองอีกครั้งในสถานที่ที่มีการเชื่อมต่อดี", 
         "Type": 0, 
-        "id": 1168, 
+        "id": 1164, 
         "TLM": 50937
     }, 
     {
@@ -16306,7 +16306,7 @@
         "ES": "El código de cupón no es correcto.", 
         "TH": "รหัสคูปองไม่ถูกต้อง", 
         "Type": 0, 
-        "id": 1169, 
+        "id": 1165, 
         "TLM": 50938
     }, 
     {
@@ -16320,7 +16320,7 @@
         "ES": "Desc. 1º uso ser. Usuario real", 
         "TH": "บริการรอยัล ส่วนลดครั้งแรก", 
         "Type": 0, 
-        "id": 1170, 
+        "id": 1166, 
         "TLM": 50939
     }, 
     {
@@ -16334,7 +16334,7 @@
         "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Servicio de usuario real", 
         "TH": "รับคริสตัลสนธยาจ่ายเงิน 25ชิ้น+คริสตัลสนธยาฟรี 24ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล 7วัน", 
         "Type": 0, 
-        "id": 1171, 
+        "id": 1167, 
         "TLM": 50940
     }, 
     {
@@ -16348,7 +16348,7 @@
         "ES": "Servicio de usuario real", 
         "TH": "บริการผู้ใช้รอยัล", 
         "Type": 0, 
-        "id": 1172, 
+        "id": 1168, 
         "TLM": 50941
     }, 
     {
@@ -16362,7 +16362,7 @@
         "ES": "Al comprar Cristales del ocaso x49 + 7 días de Servicio de usuario real", 
         "TH": "รับคริสตัลสนธยาจ่ายเงิน 49ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล 7วัน", 
         "Type": 0, 
-        "id": 1173, 
+        "id": 1169, 
         "TLM": 50942
     }, 
     {
@@ -16376,7 +16376,7 @@
         "ES": "Serv. Usu. real, Set 4 semanas", 
         "TH": "บริการผู้ใช้รอยัลเซ็ต4สัปดาห์", 
         "Type": 0, 
-        "id": 1174, 
+        "id": 1170, 
         "TLM": 50943
     }, 
     {
@@ -16390,7 +16390,7 @@
         "ES": "Al comprar Cristales del ocaso x148 (+48 gratis) + 28 días de Servicio de usuario real", 
         "TH": "รับคริสตัลสนธยาจ่ายเงิน 148ชิ้น+คริสตัลสนธยาฟรี 48ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล 28วัน", 
         "Type": 0, 
-        "id": 1175, 
+        "id": 1171, 
         "TLM": 50944
     }, 
     {
@@ -16404,7 +16404,7 @@
         "ES": "Se enviaron objetos a tu caja de regalos.", 
         "TH": "ไอเท็มถูกส่งไปที่กล่องของขวัญของคุณแล้ว", 
         "Type": 0, 
-        "id": 1176, 
+        "id": 1172, 
         "TLM": 50945
     }, 
     {
@@ -16418,7 +16418,7 @@
         "ES": "Introduce el código de cupón.", 
         "TH": "กรุณากรอกรหัสคูปอง", 
         "Type": 0, 
-        "id": 1177, 
+        "id": 1173, 
         "TLM": 50947
     }, 
     {
@@ -16432,7 +16432,7 @@
         "ES": "Introducir código de cupón", 
         "TH": "กรอกรหัสคูปอง", 
         "Type": 0, 
-        "id": 1178, 
+        "id": 1174, 
         "TLM": 50948
     }, 
     {
@@ -16446,7 +16446,7 @@
         "ES": "Enviar", 
         "TH": "ส่ง", 
         "Type": 0, 
-        "id": 1179, 
+        "id": 1175, 
         "TLM": 50949
     }, 
     {
@@ -16460,7 +16460,7 @@
         "ES": "* El código de cupón se podra usar solo una vez", 
         "TH": "*รหัสคูปองสามารถใช้ได้เพียง1ครั้งเท่านั้น", 
         "Type": 0, 
-        "id": 1180, 
+        "id": 1176, 
         "TLM": 50950
     }, 
     {
@@ -16474,7 +16474,7 @@
         "ES": "Primera vez", 
         "TH": "ครั้งแรก", 
         "Type": 0, 
-        "id": 1181, 
+        "id": 1177, 
         "TLM": 51073
     }, 
     {
@@ -16488,7 +16488,7 @@
         "ES": "Misión", 
         "TH": "ภารกิจ", 
         "Type": 0, 
-        "id": 1182, 
+        "id": 1178, 
         "TLM": 51074
     }, 
     {
@@ -16502,7 +16502,7 @@
         "ES": "COMPLETADO", 
         "TH": "เสร็จสิ้น", 
         "Type": 0, 
-        "id": 1183, 
+        "id": 1179, 
         "TLM": 51075
     }, 
     {
@@ -16516,7 +16516,7 @@
         "ES": "Desc. 1º uso ser. Usuario real", 
         "TH": "บริการรอยัล ส่วนลดครั้งแรก", 
         "Type": 0, 
-        "id": 1184, 
+        "id": 1180, 
         "TLM": 51076
     }, 
     {
@@ -16530,7 +16530,7 @@
         "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Servicio de usuario real", 
         "TH": "รับคริสตัลสนธยาจ่ายเงิน 25ชิ้น+คริสตัลสนธยาฟรี 24ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล 7วัน", 
         "Type": 0, 
-        "id": 1185, 
+        "id": 1181, 
         "TLM": 51077
     }, 
     {
@@ -16544,7 +16544,7 @@
         "ES": "Servicio de usuario real", 
         "TH": "บริการผู้ใช้รอยัล", 
         "Type": 0, 
-        "id": 1186, 
+        "id": 1182, 
         "TLM": 51078
     }, 
     {
@@ -16558,7 +16558,7 @@
         "ES": "Al comprar Cristales del ocaso x49 + 7 días de Servicio de usuario real", 
         "TH": "รับคริสตัลสนธยาจ่ายเงิน 49ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล 7วัน", 
         "Type": 0, 
-        "id": 1187, 
+        "id": 1183, 
         "TLM": 51079
     }, 
     {
@@ -16572,7 +16572,7 @@
         "ES": "Serv. Usu. real, Set 4 semanas", 
         "TH": "บริการผู้ใช้รอยัลเซ็ต4สัปดาห์", 
         "Type": 0, 
-        "id": 1188, 
+        "id": 1184, 
         "TLM": 51080
     }, 
     {
@@ -16586,7 +16586,7 @@
         "ES": "Al comprar Cristales del ocaso x148 (+48 gratis) + 28 días de Servicio de usuario real", 
         "TH": "รับคริสตัลสนธยาจ่ายเงิน 148ชิ้น+คริสตัลสนธยาฟรี 48ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล 28วัน", 
         "Type": 0, 
-        "id": 1189, 
+        "id": 1185, 
         "TLM": 51081
     }, 
     {
@@ -16600,7 +16600,7 @@
         "ES": "Cri. x306 + Caperucita/Clérigo", 
         "TH": "คริสตัลสนธยา306+หนูน้อย/เคลริค", 
         "Type": 0, 
-        "id": 1190, 
+        "id": 1186, 
         "TLM": 51082
     }, 
     {
@@ -16614,7 +16614,7 @@
         "ES": "Cristales del ocaso x306 + Caperucita/Clérigo", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"หนูน้อยหมวกแดง/เคลริค\"", 
         "Type": 0, 
-        "id": 1191, 
+        "id": 1187, 
         "TLM": 51083
     }, 
     {
@@ -16628,7 +16628,7 @@
         "ES": "Crist. del ocaso x208 + Arma", 
         "TH": "คริสตัลสนธยา 208ชิ้น+อาวุธ", 
         "Type": 0, 
-        "id": 1192, 
+        "id": 1188, 
         "TLM": 51089
     }, 
     {
@@ -16642,7 +16642,7 @@
         "ES": "Cristales del ocaso x502 + obt. «Brazo derecho del gigante»", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+รับ \"แขนขวาของยักษ์\"", 
         "Type": 0, 
-        "id": 1193, 
+        "id": 1189, 
         "TLM": 51090
     }, 
     {
@@ -16656,7 +16656,7 @@
         "ES": "Cristales del ocaso x354 + Pesadilla", 
         "TH": "คริสตัลสนธยา 354ชิ้น+ไนท์แมร์", 
         "Type": 0, 
-        "id": 1194, 
+        "id": 1190, 
         "TLM": 51091
     }, 
     {
@@ -16670,7 +16670,7 @@
         "ES": "Crist. del ocaso x354 + «Cecilia, Exilio Carmesí»", 
         "TH": "คริสตัลจ่ายเงิน 354 +\"เซซิเลียผู้ขับไล่สีแดง\"", 
         "Type": 0, 
-        "id": 1195, 
+        "id": 1191, 
         "TLM": 51092
     }, 
     {
@@ -16684,7 +16684,7 @@
         "ES": "m", 
         "TH": "นาที", 
         "Type": 0, 
-        "id": 1196, 
+        "id": 1192, 
         "TLM": 51100
     }, 
     {
@@ -16698,7 +16698,7 @@
         "ES": "s", 
         "TH": "วิ", 
         "Type": 0, 
-        "id": 1197, 
+        "id": 1193, 
         "TLM": 51101
     }, 
     {
@@ -16712,7 +16712,7 @@
         "ES": "C. ocaso x148 + Espada ref. SR", 
         "TH": "คริสตัล 148+ดาบแข็งแกร่ง(SR)", 
         "Type": 0, 
-        "id": 1198, 
+        "id": 1194, 
         "TLM": 51102
     }, 
     {
@@ -16726,7 +16726,7 @@
         "ES": "Al comprar Cris. del ocaso x148 + Espada de refuerzo (SR) x7", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+ดาบแข็งแกร่ง(SR) 7ชิ้น", 
         "Type": 0, 
-        "id": 1199, 
+        "id": 1195, 
         "TLM": 51103
     }, 
     {
@@ -16740,7 +16740,7 @@
         "ES": "C. ocaso x148 + Escudo ref. SR", 
         "TH": "คริสตัล 148+โล่แข็งแกร่ง(SR)", 
         "Type": 0, 
-        "id": 1200, 
+        "id": 1196, 
         "TLM": 51104
     }, 
     {
@@ -16754,7 +16754,7 @@
         "ES": "Al comprar Cris. del ocaso x148 + Escudo de refuerzo (SR) x7", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+โล่แข็งแกร่ง(SR) 7ชิ้น", 
         "Type": 0, 
-        "id": 1201, 
+        "id": 1197, 
         "TLM": 51105
     }, 
     {
@@ -16768,7 +16768,7 @@
         "ES": "C. ocaso x148 + Losa ref. SR", 
         "TH": "คริสตัล 148+ศิลาแข็งแกร่ง(SR)", 
         "Type": 0, 
-        "id": 1202, 
+        "id": 1198, 
         "TLM": 51106
     }, 
     {
@@ -16782,7 +16782,7 @@
         "ES": "Al comprar Cris. del ocaso x148 + Losa de refuerzo (SR) x4", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+ศิลาจารึกแข็งแกร่ง(SR) 4ชิ้น", 
         "Type": 0, 
-        "id": 1203, 
+        "id": 1199, 
         "TLM": 51107
     }, 
     {
@@ -16796,7 +16796,7 @@
         "ES": "C. ocaso x354 + Mat. mejora SR", 
         "TH": "คริสตัล 354+วัตถุดิบอัพเกรดSR", 
         "Type": 0, 
-        "id": 1204, 
+        "id": 1200, 
         "TLM": 51108
     }, 
     {
@@ -16810,7 +16810,7 @@
         "ES": "Al comprar Cris. del ocaso x354 + Espada de refuerzo (SR) x7 + Escudo de refuerzo (SR) x7 + Losa de refuerzo (SR) x4", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+ดาบแข็งแกร่ง(SR) 7ชิ้น+โล่แข็งแกร่ง(SR) 7ชิ้น+ศิลาจารึกแข็งแกร่ง(SR) 4ชิ้น", 
         "Type": 0, 
-        "id": 1205, 
+        "id": 1201, 
         "TLM": 51109
     }, 
     {
@@ -16824,7 +16824,7 @@
         "ES": "C. ocaso x110+M. mej. armad.SR", 
         "TH": "คริสตัล110+วัตถุดิบวิวัฒฯเกราะ", 
         "Type": 0, 
-        "id": 1206, 
+        "id": 1202, 
         "TLM": 51110
     }, 
     {
@@ -16838,7 +16838,7 @@
         "ES": "Al comprar Cristales del ocaso x110 + Pluma de ave x45 + Ala de ave x30 + Cresta de ave x15 + Máscara de ave x1", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 110ชิ้น+ขนของนก 45ชิ้น+ปีกของนก 30ชิ้น+หงอนของนก 15ชิ้น+หน้ากากของนก 1ชิ้น", 
         "Type": 0, 
-        "id": 1207, 
+        "id": 1203, 
         "TLM": 51111
     }, 
     {
@@ -16852,7 +16852,7 @@
         "ES": "C. ocaso 160+M. mej. Arma fueg", 
         "TH": "คริสตัล 160+วัตถุวิวัฒฯอาวุธไฟ", 
         "Type": 0, 
-        "id": 1208, 
+        "id": 1204, 
         "TLM": 51112
     }, 
     {
@@ -16866,7 +16866,7 @@
         "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (fuego) x45 + Escama de dragón (fuego) x40 + Ojo de dragón (fuego) x15 + Cadena de dragón x5", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(ไฟ)45ชิ้น+เกล็ดมังกร(ไฟ)40ชิ้น+แก้วตามังกร(ไฟ)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น", 
         "Type": 0, 
-        "id": 1209, 
+        "id": 1205, 
         "TLM": 51113
     }, 
     {
@@ -16880,7 +16880,7 @@
         "ES": "C. ocaso 160+M. mej. Arma agua", 
         "TH": "คริสตัล160+วัตถุวิวัฒฯอาวุธน้ำ", 
         "Type": 0, 
-        "id": 1210, 
+        "id": 1206, 
         "TLM": 51114
     }, 
     {
@@ -16894,7 +16894,7 @@
         "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (agua) x45 + Escama de dragón (agua) x40 + Ojo de dragón (agua) x15 + Cadena de dragón x5", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(น้ำ)45ชิ้น+เกล็ดมังกร(น้ำ)40ชิ้น+แก้วตามังกร(น้ำ)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น", 
         "Type": 0, 
-        "id": 1211, 
+        "id": 1207, 
         "TLM": 51115
     }, 
     {
@@ -16908,7 +16908,7 @@
         "ES": "C. ocaso 160+M. mej. Arma vien", 
         "TH": "คริสตัล160+วัตถุวิวัฒฯอาวุธลม", 
         "Type": 0, 
-        "id": 1212, 
+        "id": 1208, 
         "TLM": 51116
     }, 
     {
@@ -16922,7 +16922,7 @@
         "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (viento) x45 + Escama de dragón (viento) x40 + Ojo de dragón (viento) x15 + Cadena de dragón x5", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(ลม)45ชิ้น+เกล็ดมังกร(ลม)40ชิ้น+แก้วตามังกร(ลม)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น", 
         "Type": 0, 
-        "id": 1213, 
+        "id": 1209, 
         "TLM": 51117
     }, 
     {
@@ -16936,7 +16936,7 @@
         "ES": "C. ocaso 208+M. evo. Pesadilla", 
         "TH": "คริสตัล208+วัตถุวิวัฒฯไนท์แมร์", 
         "Type": 0, 
-        "id": 1214, 
+        "id": 1210, 
         "TLM": 51118
     }, 
     {
@@ -16950,7 +16950,7 @@
         "ES": "Al comprar Cris. del ocaso x208 + Aceite de bestia x45 + Mucosa de planta x40 + Sangre fresca de serpiente x15 +  Sangre fresca de dragón x5", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+ไขมันสัตว์ป่า45+เมือกของพืช40+เลือดงูสด15+เลือดมังกรสด5", 
         "Type": 0, 
-        "id": 1215, 
+        "id": 1211, 
         "TLM": 51119
     }, 
     {
@@ -16964,7 +16964,7 @@
         "ES": "Cris. ocaso x306 + Clase", 
         "TH": "คริสตัล306+คลาส", 
         "Type": 0, 
-        "id": 1216, 
+        "id": 1212, 
         "TLM": 51120
     }, 
     {
@@ -16978,7 +16978,7 @@
         "ES": "Al comprar Crist. del ocaso x306 + «Gretel/Hechicero»", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"เกรเทล/ซอร์เซอเรอร์\"", 
         "Type": 0, 
-        "id": 1217, 
+        "id": 1213, 
         "TLM": 51121
     }, 
     {
@@ -16992,7 +16992,7 @@
         "ES": "C. ocaso x208 + Tickets", 
         "TH": "คริสตัลสนธยา 208ชิ้น+ตั๋ว", 
         "Type": 0, 
-        "id": 1218, 
+        "id": 1214, 
         "TLM": 51124
     }, 
     {
@@ -17006,7 +17006,7 @@
         "ES": "Al comprar Cristales del ocaso x208 +Tickets de purificación x5 + Tickets de evasión x10 (Real)", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น + ตั๋วชะล้าง 5ใบ + ตั๋วข้าม (Royal) 10 ใบ", 
         "Type": 0, 
-        "id": 1219, 
+        "id": 1215, 
         "TLM": 51125
     }, 
     {
@@ -17020,7 +17020,7 @@
         "ES": "1º Gran Coliseo, %s recompensa en la %s Arena principal.", 
         "TH": "แกรนโคลอสเซียม ครั้งที่ 1 %s รางวัล%sการต่อสู้หลัก", 
         "Type": 0, 
-        "id": 1220, 
+        "id": 1216, 
         "TLM": 51127
     }, 
     {
@@ -17034,7 +17034,7 @@
         "ES": "1º Gran Coliseo, %s recompensa por quedar el %d.", 
         "TH": "แกรนโคลอสเซียม ครั้งที่ 1 %s รางวัลสำหรับอันดับ%d", 
         "Type": 0, 
-        "id": 1221, 
+        "id": 1217, 
         "TLM": 51128
     }, 
     {
@@ -17048,7 +17048,7 @@
         "ES": "1º Gran Coliseo, %s recompensa por obtener %d victorias.", 
         "TH": "แกรนโคลอสเซียม ครั้งที่ 1 %s รางวัลสำหรับชัยชนะ%dครั้ง", 
         "Type": 0, 
-        "id": 1222, 
+        "id": 1218, 
         "TLM": 51129
     }, 
     {
@@ -17062,7 +17062,7 @@
         "ES": "d. m.", 
         "TH": "วันที่ d เดือน m", 
         "Type": 0, 
-        "id": 1223, 
+        "id": 1219, 
         "TLM": 51139
     }, 
     {
@@ -17076,7 +17076,7 @@
         "ES": "Recompensa por logro del gremio por obtener %s [%s].", 
         "TH": "รางวัลความสำเร็จกิลด์จากการได้รับ[%s] x%s", 
         "Type": 0, 
-        "id": 1224, 
+        "id": 1220, 
         "TLM": 51140
     }, 
     {
@@ -17090,7 +17090,7 @@
         "ES": "Recompensa por logro individual del gremio por obtener %s [%s].", 
         "TH": "รางวัลความสำเร็จส่วนตัวจากการได้รับ[%s] x%s", 
         "Type": 0, 
-        "id": 1225, 
+        "id": 1221, 
         "TLM": 51141
     }, 
     {
@@ -17104,7 +17104,7 @@
         "ES": "%s Recompensa por logro por [%s] puntos de conquista.", 
         "TH": "รางวัลความสำเร็จ%sคะแนนพิชิต[%s]", 
         "Type": 0, 
-        "id": 1226, 
+        "id": 1222, 
         "TLM": 51142
     }, 
     {
@@ -17118,7 +17118,7 @@
         "ES": "[%s] Recompensa por Clasificación de Medallas de gremio al quedar %s.", 
         "TH": "รางวัลอันดับเหรียญกิลด์[%s] อันดับที่%s", 
         "Type": 0, 
-        "id": 1227, 
+        "id": 1223, 
         "TLM": 51143
     }, 
     {
@@ -17132,7 +17132,7 @@
         "ES": "[%s] Recompensa por Clasificación de conquista del gremio al quedar %s.", 
         "TH": "รางวัลอันดับพิชิตกิลด์[%s] อันดับที่%s", 
         "Type": 0, 
-        "id": 1228, 
+        "id": 1224, 
         "TLM": 51145
     }, 
     {
@@ -17146,7 +17146,7 @@
         "ES": "*Hasta 1.000.000 de recompensa por logro de gremio, hasta un máx. de 5.000.000 + 10 Cristales del ocaso por cada 200.000.", 
         "TH": "*รางวัลสำเร็จกิลด์ที่ได้รับเกิน 1ล้านขึ้นไปนั้น สูงสุดได้ถึง 5ล้าน+รับคริสตัลสนธยา 10ชิ้นทุกๆ2แสน", 
         "Type": 0, 
-        "id": 1229, 
+        "id": 1225, 
         "TLM": 51146
     }, 
     {
@@ -17160,7 +17160,7 @@
         "ES": "Sueño bajo las páginas perdidas", 
         "TH": "หน้าที่หายไปของความฝัน", 
         "Type": 0, 
-        "id": 1230, 
+        "id": 1226, 
         "TLM": 51138
     }, 
     {
@@ -17174,7 +17174,7 @@
         "ES": "Cristales del ocaso x306 + Liberación de clase + Obtención de arma", 
         "TH": "คริสตัล306ชิ้น+ปลดคลาส+อาวุธ", 
         "Type": 0, 
-        "id": 1231, 
+        "id": 1227, 
         "TLM": 51147
     }, 
     {
@@ -17185,10 +17185,10 @@
         "JP": "有償魔晶石306個＋「白の書」、初回のみ「少年ニーア/ソーサラー」", 
         "VN": "", 
         "KR": "유료 마정석 306개+\"백의 서\", 첫 회 한정+\"소년 니어/소서러\"", 
-        "ES": "Al comprar Crist. del ocaso x306 + 1º vez «Libro del Libro Blanco» + «Nier (niño) /Hechicero/Hechicero»", 
+        "ES": "Al comprar Crist. del ocaso x306 + 1º vez «Libro Blanco» + «Nier (niño) /Hechicero/Hechicero»", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"หนังสือสีขาว\", ครั้งแรกเท่านั้น+\"เนียร์เด็ก/ซอร์เซอเรอร์\"", 
         "Type": 0, 
-        "id": 1232, 
+        "id": 1228, 
         "TLM": 51148
     }, 
     {
@@ -17202,7 +17202,7 @@
         "ES": "Aumento de Tasa de obtención de tickets", 
         "TH": "UP อัตราได้รับตั๋ว", 
         "Type": 0, 
-        "id": 1233, 
+        "id": 1229, 
         "TLM": 51150
     }, 
     {
@@ -17216,7 +17216,7 @@
         "ES": "Eficacia de tickets", 
         "TH": "ตั๋วเอฟเฟกต์พิเศษ", 
         "Type": 0, 
-        "id": 1234, 
+        "id": 1230, 
         "TLM": 51151
     }, 
     {
@@ -17230,7 +17230,7 @@
         "ES": "Tickets obtenidos", 
         "TH": "จำนวนตั๋วที่ได้รับ", 
         "Type": 0, 
-        "id": 1235, 
+        "id": 1231, 
         "TLM": 51152
     }, 
     {
@@ -17244,7 +17244,7 @@
         "ES": "Tickets", 
         "TH": "ตั๋ว", 
         "Type": 0, 
-        "id": 1236, 
+        "id": 1232, 
         "TLM": 51153
     }, 
     {
@@ -17258,7 +17258,7 @@
         "ES": "Medalla", 
         "TH": "เหรียญ", 
         "Type": 0, 
-        "id": 1237, 
+        "id": 1233, 
         "TLM": 51154
     }, 
     {
@@ -17272,7 +17272,7 @@
         "ES": "Tipo demonio", 
         "TH": "ประเภทปีศาจ", 
         "Type": 0, 
-        "id": 1238, 
+        "id": 1234, 
         "TLM": 51157
     }, 
     {
@@ -17286,7 +17286,7 @@
         "ES": "Tipo bestia", 
         "TH": "ประเภทอสูรกาย", 
         "Type": 0, 
-        "id": 1239, 
+        "id": 1235, 
         "TLM": 51158
     }, 
     {
@@ -17300,21 +17300,21 @@
         "ES": "Crist. del ocaso x306 + Obt. Arma", 
         "TH": "คริสตัลสนธยา 306ชิ้น+ได้รับอาวุธ", 
         "Type": 0, 
-        "id": 1240, 
+        "id": 1236, 
         "TLM": 51171
     }, 
     {
-        "FR": "306 cristaux crépus. + Arme", 
-        "EN": "T.Crys. x306 & Weapon", 
+        "FR": "306 cristaux crépusculaires payés. + Grimoire Weiss", 
+        "EN": "Paid T.Crys. x306 & Grimoire Weiss", 
         "GameKey": "Server/com.global.sinoalice.campaign04.tier25b/description", 
-        "DE": "Erhalte Zwielichtkristalle x306 + Waffe", 
-        "JP": "魔晶石306個＋武器獲得", 
+        "DE": "Erhalte bezahlte Zwielichtkristalle x306 + „Weißes Buch“", 
+        "JP": "有償魔晶石306個＋「白の書」の獲得", 
         "VN": "", 
-        "KR": "마정석 306개+무기 획득", 
-        "ES": "Crist. del ocaso x306 + Obt. Arma", 
-        "TH": "คริสตัลสนธยา 306ชิ้น+ได้รับอาวุธ", 
+        "KR": "유료 마정석 306개+\"백의 서\" 획득", 
+        "ES": "Al comprar Cristales del ocaso x306 + Obt. «Libro Blanco»", 
+        "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+รับ \"หนังสือสีขาว\"", 
         "Type": 0, 
-        "id": 1241, 
+        "id": 1237, 
         "TLM": 51172
     }, 
     {
@@ -17328,7 +17328,7 @@
         "ES": "Crist. del ocaso x208 + Arma", 
         "TH": "คริสตัลสนธยา 208ชิ้น+อาวุธ", 
         "Type": 0, 
-        "id": 1242, 
+        "id": 1238, 
         "TLM": 51173
     }, 
     {
@@ -17342,7 +17342,7 @@
         "ES": "Al comprar Cristales del ocaso x502 + Obt. «Bastón de la telaraña»", 
         "TH": "คริสตัลสนธยา 208ชิ้น+รับ \"ไม้เท้าใยแมงมุม\"", 
         "Type": 0, 
-        "id": 1243, 
+        "id": 1239, 
         "TLM": 51174
     }
 ]

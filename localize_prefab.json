@@ -16420,5 +16420,33 @@
         "Type": 0, 
         "id": 1173, 
         "TLM": 51175
+    }, 
+    {
+        "FR": "Durée de participation", 
+        "EN": "Participation Time", 
+        "GameKey": "PREFAB", 
+        "DE": "Anmeldefrist", 
+        "JP": "参加時間", 
+        "VN": "", 
+        "KR": "참가 시간", 
+        "ES": "Tiempo de participación", 
+        "TH": "เวลาในการเข้าร่วม", 
+        "Type": 0, 
+        "id": 1174, 
+        "TLM": 51180
+    }, 
+    {
+        "FR": "Prochaines qualifications", 
+        "EN": "Next Preliminaries", 
+        "GameKey": "PREFAB", 
+        "DE": "Nächste Qualifikation", 
+        "JP": "次回予選", 
+        "VN": "", 
+        "KR": "다음 예선", 
+        "ES": "Siguientes clasificatorias", 
+        "TH": "ต่อไปรอบคัดเลือก", 
+        "Type": 0, 
+        "id": 1175, 
+        "TLM": 51181
     }
 ]
