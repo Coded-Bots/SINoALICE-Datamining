@@ -518,5 +518,83 @@
         "gvgRewardMstId": 40, 
         "endTime": 1893423599, 
         "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 444 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 8, 
+        "createdTime": null, 
+        "num": 4, 
+        "result": 1, 
+        "startTime": 1512658800, 
+        "gvgRewardMstId": 201, 
+        "endTime": 1893423599, 
+        "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 555 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 8, 
+        "createdTime": null, 
+        "num": 5, 
+        "result": 2, 
+        "startTime": 1512658800, 
+        "gvgRewardMstId": 202, 
+        "endTime": 1893423599, 
+        "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 666 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 8, 
+        "createdTime": null, 
+        "num": 6, 
+        "result": 3, 
+        "startTime": 1512658800, 
+        "gvgRewardMstId": 203, 
+        "endTime": 1893423599, 
+        "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 777 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 8, 
+        "createdTime": null, 
+        "num": 7, 
+        "result": 4, 
+        "startTime": 1512658800, 
+        "gvgRewardMstId": 204, 
+        "endTime": 1893423599, 
+        "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 888 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 9, 
+        "createdTime": null, 
+        "num": 9, 
+        "result": 5, 
+        "startTime": 1596949200, 
+        "gvgRewardMstId": 205, 
+        "endTime": 1597640399, 
+        "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 999 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 9, 
+        "createdTime": null, 
+        "num": 12, 
+        "result": 6, 
+        "startTime": 1596949200, 
+        "gvgRewardMstId": 206, 
+        "endTime": 1597640399, 
+        "objectType": 1
     }
 ]
