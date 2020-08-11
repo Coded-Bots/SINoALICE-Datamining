@@ -12264,7 +12264,7 @@
         "TLM": 23130
     }, 
     {
-        "FR": "Utilisez %s pour améliorer l’efficacité de la compétence d’arme.", 
+        "FR": "Utilisez %s pour augmenter l'efficacité des compétences des armes de spécialité.", 
         "EN": "Use %s to increase specialty weapon skill effectiveness.", 
         "GameKey": "ServerParam/message.areaBoostCharacterText", 
         "DE": "Verwende %s um die Effektivität der Waffenfertigkeiten zu erhöhen.", 
@@ -17312,7 +17312,7 @@
         "VN": "", 
         "KR": "유료 마정석 306개+\"백의 서\" 획득", 
         "ES": "Al comprar Cristales del ocaso x306 + Obt. «Libro Blanco»", 
-        "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+รับ \"หนังสือสีขาว\"", 
+        "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+รับ \"หนังสือสีขาว", 
         "Type": 0, 
         "id": 1237, 
         "TLM": 51172

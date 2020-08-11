@@ -1429,7 +1429,7 @@
     }, 
     {
         "FR": "Grimoire x1", 
-        "EN": "Shoot x1", 
+        "EN": "Grimoire x1", 
         "GameKey": "Image/0103", 
         "DE": "1x Grimoire", 
         "JP": "1回ガチャ", 
@@ -1611,13 +1611,13 @@
     }, 
     {
         "FR": "Accepté", 
-        "EN": "Registration Closed", 
+        "EN": "Closed", 
         "GameKey": "Image/0116", 
         "DE": "beendet", 
         "JP": "受付終了", 
         "VN": "Đã đóng đăng ký", 
         "KR": "접수 마감", 
-        "ES": "Inscripción cerrada", 
+        "ES": "Terminado", 
         "TH": "ปิดรับแล้ว", 
         "Type": 0, 
         "id": 116, 
@@ -1918,14 +1918,14 @@
         "TLM": 236
     }, 
     {
-        "FR": "Des classes avec des médailles de valeur.", 
+        "FR": "Classes et médailles de valeur.", 
         "EN": "Unlock Classes with gran medals", 
         "GameKey": "Image/0138", 
         "DE": "Erhalte Klassen mit Großmedaillen", 
         "JP": "グランメダルでジョブを解放セヨ", 
         "VN": "Mở khóa nghề bằng Huy hiệu chiến hội", 
         "KR": "그랑 메달로 직업을 오픈하라", 
-        "ES": "¡Desbloquea clases con medallas Gran!", 
+        "ES": "¡Desbl. clases con med. Gran!", 
         "TH": "ปลดล็อกคลาสด้วยเหรียญแกรน", 
         "Type": 0, 
         "id": 138, 
@@ -1967,7 +1967,7 @@
         "JP": "本戦に出場セヨ", 
         "VN": "Giành chỗ trong Võ đài chính", 
         "KR": "본선에 진출하라", 
-        "ES": "¡Vuélvete leyenda en la Arena principal!", 
+        "ES": "¡Dalo todo en la Arena principal!", 
         "TH": "เข้าร่วมการต่อสู้หลัก", 
         "Type": 0, 
         "id": 141, 
@@ -3417,7 +3417,7 @@
     }, 
     {
         "FR": "Grimoire x5", 
-        "EN": "Shoot x5", 
+        "EN": "Grimoire x5", 
         "GameKey": "Image/0245", 
         "DE": "5x Grimoire", 
         "JP": "5回ガチャ", 
@@ -4688,5 +4688,33 @@
         "Type": 0, 
         "id": 335, 
         "TLM": 50644
+    }, 
+    {
+        "FR": "Grimoire x1", 
+        "EN": "Shoot x1", 
+        "GameKey": "Image", 
+        "DE": "1x Grimoire", 
+        "JP": "1回ガチャ", 
+        "VN": "", 
+        "KR": "1회 뽑기", 
+        "ES": "Grimorio x1", 
+        "TH": "กรีมัวร์ 1 ครั้ง", 
+        "Type": 0, 
+        "id": 336, 
+        "TLM": 51182
+    }, 
+    {
+        "FR": "Grimoire x5", 
+        "EN": "Shoot x5", 
+        "GameKey": "Image", 
+        "DE": "5x Grimoire", 
+        "JP": "5回ガチャ", 
+        "VN": "", 
+        "KR": "5회 뽑기", 
+        "ES": "Grimorio x5", 
+        "TH": "กรีมัวร์ 5 ครั้ง", 
+        "Type": 0, 
+        "id": 337, 
+        "TLM": 51183
     }
 ]

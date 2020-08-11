@@ -3240,6 +3240,126 @@
         "cardDetailType": 1
     }, 
     {
+        "name": "Blade +10% (Princess Kaguya+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 325, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 326, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +50", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 327, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 328, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Princess Kaguya+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 329, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 330, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 331, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 332, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Princess Kaguya+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 333, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 334, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +20% (Princess Kaguya+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 335, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +200", 
+        "effectType": 3, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 336, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 28, 
+        "cardDetailType": 5
+    }, 
+    {
         "name": "Tome +30% (Alice+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

@@ -6048,7 +6048,7 @@
         "TLM": 21126
     }, 
     {
-        "FR": "Utilisez {0} pour augmenter l'effet de la capacité des armes spécialisées.", 
+        "FR": "Utilisez {0} pour augmenter l'efficacité des compétences des armes de spécialité.", 
         "EN": "Play as {0} to increase specialty weapon skill effectiveness.", 
         "GameKey": "SCRIPT/0433", 
         "DE": "Verwende {0}, um den Fertigkeitseffekt von Spezialwaffen zu erhöhen.", 
@@ -17690,7 +17690,7 @@
         "VN": "", 
         "KR": "{0}일차", 
         "ES": "Día {0}", 
-        "TH": " วันที่{0}", 
+        "TH": "วันที่{0}", 
         "Type": 0, 
         "id": 1264, 
         "TLM": 50918

@@ -101,6 +101,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Early July Encounter Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 20, 
+        "createdTime": 1581001200, 
+        "mapGroup": 7, 
+        "name": "Incarnation of Solitude"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "July Conquest Event", 
         "announceUrl": "", 
         "mapType": 1, 

@@ -110,5 +110,101 @@
         "num": 100, 
         "createdTime": 1498802400, 
         "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 33, 
+        "gachaBonusMstId": 32, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 34, 
+        "gachaBonusMstId": 33, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 35, 
+        "gachaBonusMstId": 34, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 36, 
+        "gachaBonusMstId": 35, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 37, 
+        "gachaBonusMstId": 36, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 38, 
+        "gachaBonusMstId": 37, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 39, 
+        "gachaBonusMstId": 38, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 40, 
+        "gachaBonusMstId": 39, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 41, 
+        "gachaBonusMstId": 40, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 42, 
+        "gachaBonusMstId": 41, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 43, 
+        "gachaBonusMstId": 42, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 156, 
+        "gachaMstId": 44, 
+        "gachaBonusMstId": 43, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
     }
 ]
