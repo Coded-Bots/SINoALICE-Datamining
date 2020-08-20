@@ -4170,7 +4170,7 @@
         "voiceQueueSheet": "cv_03"
     }, 
     {
-        "storyText": "I can't wait to play with my Author!", 
+        "storyText": "I can't wait to play with my author!", 
         "thumbResourceName": "BossStoryRedHood", 
         "storyEndTime": 20, 
         "storyViewTime": 2000, 

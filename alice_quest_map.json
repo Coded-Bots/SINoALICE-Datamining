@@ -141,6 +141,46 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Clam Digging Event (Route A)", 
+        "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 94, 
+        "createdTime": 1483974000, 
+        "mapGroup": 54, 
+        "name": "An End to Summer Dreams"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "Clam Digging Event (Route B)", 
+        "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 95, 
+        "createdTime": 1483974000, 
+        "mapGroup": 55, 
+        "name": "An End to Summer Dreams"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "Clam Digging Event (Route C)", 
+        "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 96, 
+        "createdTime": 1483974000, 
+        "mapGroup": 56, 
+        "name": "An End to Summer Dreams"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Clam Digging Event", 
+        "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 97, 
+        "createdTime": 1483974000, 
+        "mapGroup": 56, 
+        "name": "An End to Summer Dreams (Hard)"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Disembodied Emil", 
         "announceUrl": "", 
         "mapType": 1, 

@@ -1568,8 +1568,8 @@
         "TLM": 211
     }, 
     {
-        "FR": "Sang de personnage", 
-        "EN": "Characters Blood", 
+        "FR": "Sang de personnages", 
+        "EN": "Character Blood", 
         "GameKey": "Image/0113", 
         "DE": "Blut der Charaktere", 
         "JP": "キャラクターズの血", 
@@ -1583,7 +1583,7 @@
     }, 
     {
         "FR": "Boîte à grimoires de guilde\\\\n« Conte de l'oubli »", 
-        "EN": "Guild box o' grimoire\\\\n-The Forgotten Tale-", 
+        "EN": "Guild Box o' Grimoire\\\\nThe Forgotten Records", 
         "GameKey": "Image/0114", 
         "DE": "Gildenkiste Grimoire\\\\n-Die vergessene Geschichte-", 
         "JP": "ギルドボックスガチャ\\\\n～忘却ノ物語～", 
@@ -1725,12 +1725,12 @@
         "FR": "Prochaines qualifications(UTC+9)", 
         "EN": "Next Preliminaries(UTC+9)", 
         "GameKey": "Image/0124", 
-        "DE": "Nächste Qualifikation(UTC+9)", 
+        "DE": "Nächste Qualifikation (UTC+9)", 
         "JP": "次回予選 (UTC+9)", 
         "VN": "Vòng loại tiếp theo", 
         "KR": "다음 예선 (UTC+9)", 
         "ES": "Siguientes clasificatorias(UTC+9)", 
-        "TH": "ต่อไปรอบคัดเลือก(UTC+9)", 
+        "TH": "รอบคัดเลือกครั้งต่อไป(UTC+9)", 
         "Type": 0, 
         "id": 124, 
         "TLM": 223

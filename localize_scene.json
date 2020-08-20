@@ -140,14 +140,14 @@
         "TLM": 20182
     }, 
     {
-        "FR": "*Ce grimoire n'est disponible que pour les membres de guilde.", 
-        "EN": "Note: This grimoire is only available to guild members.", 
+        "FR": "*Membres uniq.", 
+        "EN": "Note: Must be a guild member to draw.", 
         "GameKey": "SCENE/0010", 
-        "DE": "*Dieses Grimoire ist nur für Gildenmitglieder erhältlich.", 
+        "DE": "*Dieses Grimoire ist nur für Gildenmitglieder.", 
         "JP": "※ギルド未加入の為ガチャを引けません。", 
         "VN": "*Sách phép này chỉ có sẵn cho hội viên.", 
         "KR": "※길드에 소속되지 않아 뽑기를 할 수 없습니다.", 
-        "ES": "* Este grimorio solo está disponible para miembros de gremios.", 
+        "ES": "*Solo grem.", 
         "TH": "*กรีมัวร์นี้สามารถใช้ได้เฉพาะสมาชิกกิลด์", 
         "Type": 0, 
         "id": 11, 
@@ -2640,7 +2640,7 @@
         "VN": "Xếp hạng hội", 
         "KR": "길드 랭킹", 
         "ES": "Clasificación del gremio", 
-        "TH": "ระดับกิลด์", 
+        "TH": "การจัดอันดับกิลด์", 
         "Type": 0, 
         "id": 189, 
         "TLM": 20361
@@ -3951,12 +3951,12 @@
         "FR": "Durée de participation(UTC+9)", 
         "EN": "Participation Time(UTC+9)", 
         "GameKey": "SCENE/0282", 
-        "DE": "Anmeldefrist(UTC+9)", 
+        "DE": "Anmeldefrist (UTC+9)", 
         "JP": "参加時間(UTC+9)", 
         "VN": "Thời gian tham gia", 
         "KR": "참가 시간(UTC+9)", 
         "ES": "Tiempo de participación(UTC+9)", 
-        "TH": "เวลาในการเข้าร่วม(UTC+9)", 
+        "TH": "เวลาเข้าร่วม(UTC+9)", 
         "Type": 0, 
         "id": 283, 
         "TLM": 20455
@@ -6217,7 +6217,7 @@
     }, 
     {
         "FR": "*Les titres sont remis aux membres de guilde et aux non-membres.", 
-        "EN": "Note: Titles are awarded to both guild members and individuals.", 
+        "EN": "Note: Titles are awarded to both guild members and individual players.", 
         "GameKey": "SCENE/0444", 
         "DE": "*Titel werden sowohl an Gildenmitglieder als auch an Einzelpersonen vergeben.", 
         "JP": "※称号はギルドと個人双方に配布されます", 
@@ -7918,7 +7918,7 @@
         "VN": "Giải đấu 1", 
         "KR": "1부", 
         "ES": "Liga 1", 
-        "TH": "ลีกที่ 1", 
+        "TH": "หน่วยที่ 1", 
         "Type": 0, 
         "id": 566, 
         "TLM": 22682
@@ -7932,7 +7932,7 @@
         "VN": "Giải đấu 2", 
         "KR": "2부", 
         "ES": "Liga 2", 
-        "TH": "ลีกที่ 2", 
+        "TH": "หน่วยที่ 2", 
         "Type": 0, 
         "id": 567, 
         "TLM": 22683
@@ -7946,7 +7946,7 @@
         "VN": "Giải đấu 3", 
         "KR": "3부", 
         "ES": "Liga 3", 
-        "TH": "ลีกที่ 3", 
+        "TH": "หน่วยที่ 3", 
         "Type": 0, 
         "id": 568, 
         "TLM": 22684
@@ -8148,7 +8148,7 @@
         "TLM": 22698
     }, 
     {
-        "FR": "Événement envahisseur", 
+        "FR": "Événement Envahisseur", 
         "EN": "Invader Collaboration", 
         "GameKey": "SCENE/0593", 
         "DE": "Invasoren-Event", 

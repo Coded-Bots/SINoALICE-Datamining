@@ -7488,6 +7488,166 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "[Clam-Digging Days, Day 1] \\nThese clams just won’t go to sleep! \\nThey keep pestering me\\nto tell them what it’s like in the Library.", 
+        "cardStoryMstId": 1909, 
+        "cardMstId": 1919, 
+        "step": 1, 
+        "cardUniqueId": 913, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 2] \\nWhen the sun goes down, the clams spit water at me…\\nAnd of course I can’t get any sleep, because it’s freezing!\\n—Ugh, these clams are two pranks away from being my next meal.", 
+        "cardStoryMstId": 1910, 
+        "cardMstId": 1919, 
+        "step": 2, 
+        "cardUniqueId": 913, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 3] \\nZzz…… Zzz… \\nLet me sleep, you little brats…\\nOr I’ll make you regret it.", 
+        "cardStoryMstId": 1911, 
+        "cardMstId": 1920, 
+        "step": 3, 
+        "cardUniqueId": 913, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 4] \\n“Little Mermaid! Lammy! Wait for us!” \\nI hate this soggy beach. Sand keeps getting \\nin my mouth, and these \\nsea birds won’t shut up…… But I guess it wouldn’t hurt to stay one more day.", 
+        "cardStoryMstId": 1912, 
+        "cardMstId": 1920, 
+        "step": 4, 
+        "cardUniqueId": 913, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 1] \\nI got shoved in some weird getup,\\ndoing some weird job. \\nNow I’m sad.", 
+        "cardStoryMstId": 1913, 
+        "cardMstId": 1921, 
+        "step": 1, 
+        "cardUniqueId": 914, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 2] \\nHere I am, looking for clams,\\nbut I’m digging up anything but. \\nNow I’m sad.", 
+        "cardStoryMstId": 1914, 
+        "cardMstId": 1921, 
+        "step": 2, 
+        "cardUniqueId": 914, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 3] \\nA headache for a daughter, and a pain for a son. \\n……Wait, daughter and son? \\nWhy aren’t I the daughter? Great, now I’m sad.", 
+        "cardStoryMstId": 1915, 
+        "cardMstId": 1922, 
+        "step": 3, 
+        "cardUniqueId": 914, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Clam-Digging Days, Day 4] \\nLife here is so peaceful and nice…… \\nThat’s nothing to be sad about. \\nBut I suppose the sadness hits when you least expect it.", 
+        "cardStoryMstId": 1916, 
+        "cardMstId": 1922, 
+        "step": 4, 
+        "cardUniqueId": 914, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The body of a young woman lay in the scorched field. \\nShe had been part of the relief squadron,\\nbut when the command came to retreat, she was thrown to the wolves as a distraction. \\nNow, she lay in a puddle of blood too deep to fathom,\\nher body discarded, having already been imprisoned and made into the enemy soldiers’ plaything.", 
+        "cardStoryMstId": 1917, 
+        "cardMstId": 1923, 
+        "step": 1, 
+        "cardUniqueId": 915, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A young man eventually came across the woman and took her into his arms. \\nThey had grown up together, and pledged their love to one another.\\nA small book rested next to his beloved’s lifeless body.\\nThe man reached for it with trembling fingers, and leafed through its bloodstained pages. \\n[Sunny / Sunny / overcast / thunderstorm / sunny / rain / sunny……]", 
+        "cardStoryMstId": 1918, 
+        "cardMstId": 1923, 
+        "step": 2, 
+        "cardUniqueId": 915, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was a record of the recent weather. \\nReading this, the man recalled a certain saying. \\n“After a hundred unbroken days of sun, the next night will be a meteor shower.”\\nShe always loved the stars. \\nIn this book, she counted down the sunny days, hoping for the day she’d finally see her first shooting star.", 
+        "cardStoryMstId": 1919, 
+        "cardMstId": 1924, 
+        "step": 3, 
+        "cardUniqueId": 915, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Many years later, the invading nation found itself under siege by a barrage of carpet bombs. \\nAs the shells rained down, spitting fire in their wake, it almost resembled… \\n“Look,” whispered the bomb master. “I made a meteor shower just for you.”\\nHe clutched a small book to his chest as a broad smile split his face.", 
+        "cardStoryMstId": 1920, 
+        "cardMstId": 1924, 
+        "step": 4, 
+        "cardUniqueId": 915, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The timber that sings from the hills carries with it a cool breeze.", 
+        "cardStoryMstId": 1921, 
+        "cardMstId": 1925, 
+        "step": 1, 
+        "cardUniqueId": 916, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The cool breeze soothes the heat that rises against it, swiftly blowing it away.", 
+        "cardStoryMstId": 1922, 
+        "cardMstId": 1925, 
+        "step": 2, 
+        "cardUniqueId": 916, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It sweeps through the farthest corners of the world, chilling all who call it home.", 
+        "cardStoryMstId": 1923, 
+        "cardMstId": 1926, 
+        "step": 3, 
+        "cardUniqueId": 916, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The world sleeps, at peace with the breeze’s advent. \\nNever need they rise again.", 
+        "cardStoryMstId": 1924, 
+        "cardMstId": 1926, 
+        "step": 4, 
+        "cardUniqueId": 916, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There once a soldier who aspired to be the strongest blademaster alive.\\nNone could perceive the sharp, swift strike of her naginata as it issued forth from her hands.", 
+        "cardStoryMstId": 1925, 
+        "cardMstId": 1913, 
+        "step": 1, 
+        "cardUniqueId": 910, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Many admired this man in his dauntless pursuit of strength and entreated him to take them under his wing. \\nBut he turned them all away, retreating to the mountains to dedicate himself to his training instead.", 
+        "cardStoryMstId": 1926, 
+        "cardMstId": 1913, 
+        "step": 2, 
+        "cardUniqueId": 910, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "He used his naginata to show would-be challengers their limitations, \\nand coldly refused lords who came to make him their vassal.", 
+        "cardStoryMstId": 1927, 
+        "cardMstId": 1914, 
+        "step": 3, 
+        "cardUniqueId": 910, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One stormy day, the warrior vanished as he arduously trained at the mountain’s summit, leaving only his naginata behind. \\nLegend has it that the gods were so enamored with his noble soul that demons spirited him off to the heavens…… but ultimately, the truth is unknown.", 
+        "cardStoryMstId": 1928, 
+        "cardMstId": 1914, 
+        "step": 4, 
+        "cardUniqueId": 910, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "A sacred bird lived on a holy mountain.\\nThis bird was considered an angel of god and was said to watch over the earth from the edge of the heavens.", 
         "cardStoryMstId": 2033, 
         "cardMstId": 2042, 

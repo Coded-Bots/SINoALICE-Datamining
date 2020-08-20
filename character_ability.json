@@ -4540,6 +4540,366 @@
         "cardDetailType": 8
     }, 
     {
+        "name": "Staff +10% (Clam-digging+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1059, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1060, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.ATK +50", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1061, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1062, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Clam-digging+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1063, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1064, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1065, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1066, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Clam-digging+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1067, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1068, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +20% (Clam-digging+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1069, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +200", 
+        "effectType": 3, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1070, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 87, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Heavy +30% (Sleeping Beauty+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1107, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1108, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1109, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1110, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1111, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1112, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1113, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1114, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1115, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1116, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1117, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1118, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 91, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Polearm +30% (Little Mermaid+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1119, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1120, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1121, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1122, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10% (Little Mermaid+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1123, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1124, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1125, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1126, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10% (Little Mermaid+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1127, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1128, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1129, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1130, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 92, 
+        "cardDetailType": 8
+    }, 
+    {
         "name": "Artifact +30% (Alice+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 
