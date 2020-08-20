@@ -1211,7 +1211,7 @@
     }, 
     {
         "optionType": 102, 
-        "announceMstId": 141, 
+        "announceMstId": 0, 
         "objectId": 403, 
         "isDeleted": false, 
         "badgeEndTime": null, 
