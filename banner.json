@@ -1494,5 +1494,27 @@
         "endTime": 1597903199, 
         "type": 7, 
         "assetBundleName": "banner20200806_sale_mcp"
+    }, 
+    {
+        "optionType": 0, 
+        "announceMstId": 232, 
+        "objectId": 232, 
+        "isDeleted": false, 
+        "badgeEndTime": null, 
+        "isBeginner": false, 
+        "transitionSceneName": "", 
+        "isDisplayHome": true, 
+        "badgeResourceName": "", 
+        "priority": 1, 
+        "createdTime": 1596511800, 
+        "badgeAssetBundleName": "", 
+        "startTime": 1598013000, 
+        "beginnerDays": 0, 
+        "osType": 0, 
+        "resourceName": "900011", 
+        "bannerMstId": 900011, 
+        "endTime": 1599544799, 
+        "type": 7, 
+        "assetBundleName": "banner20200821_777user"
     }
 ]
