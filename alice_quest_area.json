@@ -1515,7 +1515,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "武器ゲリラ【強化】", 
+        "name": "Weapon Guerilla [Upgrade]", 
         "collectItemId": 0, 
         "questAreaMstId": 136, 
         "isComingSoon": true, 
@@ -1532,7 +1532,7 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
-        "name": "防具ゲリラ【強化】", 
+        "name": "Armor Guerilla [Upgrade]", 
         "collectItemId": 0, 
         "questAreaMstId": 137, 
         "isComingSoon": true, 
