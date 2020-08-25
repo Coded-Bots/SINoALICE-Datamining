@@ -196,5 +196,16 @@
         "resourceName": "009", 
         "tips": "", 
         "type": 4
+    }, 
+    {
+        "title": "", 
+        "tipsMstId": 21, 
+        "rate": 0, 
+        "akbMemberMstId": 0, 
+        "characterMstId": 11, 
+        "assetBundleName": "tips5", 
+        "resourceName": "011", 
+        "tips": "", 
+        "type": 4
     }
 ]

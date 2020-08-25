@@ -54,13 +54,13 @@
         "resourceName": "cri/GvGBoxGacha.usm"
     }, 
     {
-        "iosHash": "6f64f5a20655c2ca7e1a4b94f87b3cf4", 
-        "iosFileSize": 16816448, 
-        "androidFileSize": 16816448, 
+        "iosHash": "61cfe6dac8aee62a747dbaa16ff61d2c", 
+        "iosFileSize": 16848064, 
+        "androidFileSize": 16848064, 
         "resourceFileMstId": 7, 
         "isEveryTimeDownload": false, 
-        "androidHash": "6f64f5a20655c2ca7e1a4b94f87b3cf4", 
-        "resourceName": "cri/GvGBoxGachaOp.usm"
+        "androidHash": "61cfe6dac8aee62a747dbaa16ff61d2c", 
+        "resourceName": "cri/GvGBoxGachaOp_global.usm"
     }, 
     {
         "iosHash": "9007eefb9470621456f6db4c32c3bd66", 
@@ -6631,23 +6631,5 @@
         "isEveryTimeDownload": false, 
         "androidHash": "03dba88c143771cb719cb6f436cc2726", 
         "resourceName": "cri/se_tutorial.acb"
-    }, 
-    {
-        "iosHash": "ee9461b698ab8eb0ec90efb6d080677d", 
-        "iosFileSize": 18409504, 
-        "androidFileSize": 18409504, 
-        "resourceFileMstId": 738, 
-        "isEveryTimeDownload": false, 
-        "androidHash": "ee9461b698ab8eb0ec90efb6d080677d", 
-        "resourceName": "cri/spaceinvader01.usm"
-    }, 
-    {
-        "iosHash": "e49e8126372fce74973e903a7a78a36e", 
-        "iosFileSize": 19566080, 
-        "androidFileSize": 19566080, 
-        "resourceFileMstId": 739, 
-        "isEveryTimeDownload": false, 
-        "androidHash": "e49e8126372fce74973e903a7a78a36e", 
-        "resourceName": "cri/spaceinvader02.usm"
     }
 ]

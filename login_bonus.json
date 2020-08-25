@@ -36,6 +36,18 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 7, 
+        "assetBundleName": "", 
+        "title": "Guild Event Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1598335200, 
+        "resourceName": "1", 
+        "endTime": 1598936399, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 9, 
         "assetBundleName": "", 
         "title": "NieR Collaboration Event ①", 

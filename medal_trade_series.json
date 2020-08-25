@@ -112,6 +112,20 @@
         "description": "Medal from a collaboration grimoire."
     }, 
     {
+        "name": "Medal of Desire (IX)", 
+        "startTime": 1598335200, 
+        "priority": 24, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoire.", 
+        "endTime": 1602082799, 
+        "medalTradeSeriesMstId": 13, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 158, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
+    }, 
+    {
         "name": "Clam Medal", 
         "startTime": 1597903200, 
         "priority": 34, 

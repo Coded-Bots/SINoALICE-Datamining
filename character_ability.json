@@ -4540,6 +4540,126 @@
         "cardDetailType": 8
     }, 
     {
+        "name": "Blade +30% (Three Little Pigs+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 893, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 894, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 895, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 896, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Three Little Pigs+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 897, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 898, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 899, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 900, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Three Little Pigs+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 901, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 902, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +200", 
+        "effectType": 3, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 903, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +200", 
+        "effectType": 3, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 904, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 75, 
+        "cardDetailType": 5
+    }, 
+    {
         "name": "Staff +10% (Clam-digging+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 
