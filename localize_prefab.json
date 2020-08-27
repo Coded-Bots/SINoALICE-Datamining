@@ -9199,7 +9199,7 @@
     }, 
     {
         "FR": "x", 
-        "EN": " medal(s)", 
+        "EN": "", 
         "GameKey": "PREFAB/0036", 
         "DE": " Stück", 
         "JP": "個", 
@@ -10375,7 +10375,7 @@
     }, 
     {
         "FR": "Utilisez le Sang de personnages pour ouvrir la boîte à grimoires que vous voulez et\\\\nrécupérer des objets incroyables !\\\\nVous pouvez aussi rendre les armes SR que vous obtenez !", 
-        "EN": "Use character blood to pull from the box ‘o grimoire and get amazing items.\\\\nAcquired SR weapons can be sold.", 
+        "EN": "Use character blood to pull from the box ‘o grimoire and get amazing items.\\\\nAcquired SR weapons can be returned to the box.", 
         "GameKey": "PREFAB/0174", 
         "DE": "Verwende Charakterblut, um das Gilden Box Grimoire zu beschwören und tolle Items zu erhalten!\\\\nDu kannst die SR-Waffen, die du erhältst,\\\\nauch zurückgeben!", 
         "JP": "集めたキャラクターズの血デ\\\\nがちゃを回シテ回して豪華報酬を入手セヨ\\\\n入手シタSS武器は返却スルことができマス？", 
