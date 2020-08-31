@@ -4420,6 +4420,126 @@
         "cardDetailType": 2
     }, 
     {
+        "name": "Instrument +30% (Alice+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 515, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 516, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 517, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 518, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Alice+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 519, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 520, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 521, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 522, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Alice+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 523, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 524, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 525, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 526, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 44, 
+        "cardDetailType": 1
+    }, 
+    {
         "name": "Polearm +30% (Alice+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

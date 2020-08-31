@@ -1585,11 +1585,11 @@
         "FR": "Boîte à grimoires de guilde\\\\n« Conte de l'oubli »", 
         "EN": "Guild Box o' Grimoire\\\\nThe Forgotten Records", 
         "GameKey": "Image/0114", 
-        "DE": "Gilden Box Grimoire\\\\n„Die Geschichte der Vergessenheit“", 
+        "DE": "Gilde Box Grimoire\\\\n„Die Geschichte der Vergessenheit“", 
         "JP": "ギルドボックスガチャ\\\\n～忘却ノ物語～", 
         "VN": "Hộp sách phép của hội\\\\n-'Truyền kỳ bị lãng quyên'-", 
         "KR": "길드 박스 뽑기\\\\n~망각의 이야기~", 
-        "ES": "Caja de grimorio del gremio\\\\n-«La historia olvidada»-", 
+        "ES": "Caja de grimorio del gremio\\\\n-«Cuento del olvido»-", 
         "TH": "กล่องกรีมัวร์กิลด์\\\\n-'นิทานที่ถูกลืม'-", 
         "Type": 0, 
         "id": 114, 
@@ -1856,7 +1856,7 @@
         "VN": "Bảo đảm S+ x1", 
         "KR": "S 이상 1개 확정", 
         "ES": "S+ x1 Garantizada", 
-        "TH": "การันดีได้รับ S+ x1", 
+        "TH": "การันตี Sขึ้นไป x1", 
         "Type": 0, 
         "id": 133, 
         "TLM": 232
@@ -1884,7 +1884,7 @@
         "VN": "Bảo đảm S+ x2", 
         "KR": "S 이상 2개 확정", 
         "ES": "S+ x2 Garantizada", 
-        "TH": "การันดีได้รับ S+ x2", 
+        "TH": "การันตี Sขึ้นไป x2", 
         "Type": 0, 
         "id": 135, 
         "TLM": 234
@@ -2626,7 +2626,7 @@
         "VN": "Tăng EXP", 
         "KR": "획득 EXP 상승", 
         "ES": "Aumento de EXP", 
-        "TH": "รับEXP UP", 
+        "TH": "ได้รับ EXP UP", 
         "Type": 0, 
         "id": 188, 
         "TLM": 287
@@ -3928,7 +3928,7 @@
         "VN": "Bảo đảm S+ x10", 
         "KR": "S 이상 10개 확정", 
         "ES": "S x10  garantizado", 
-        "TH": "การันตีได้รับ S+ x10", 
+        "TH": "การันตี Sขึ้นไป x10", 
         "Type": 0, 
         "id": 281, 
         "TLM": 22477
@@ -4684,7 +4684,7 @@
         "VN": "\"VN\": null", 
         "KR": "아이템 GET", 
         "ES": "Obtener objeto", 
-        "TH": "รับไอเท็มใหม่", 
+        "TH": "รับไอเท็ม", 
         "Type": 0, 
         "id": 335, 
         "TLM": 50644

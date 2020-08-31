@@ -121,6 +121,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Late July Armor Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 23, 
+        "createdTime": 1581433200, 
+        "mapGroup": 10, 
+        "name": "Heart of the Sandstorm"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Memory of Dolls (Normal)", 
         "announceUrl": "", 
         "mapType": 1, 

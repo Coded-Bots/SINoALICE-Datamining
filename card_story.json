@@ -7072,6 +7072,262 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "　　\"You say I'm wrong? Yeah...I know\"\\n\\n                \"All I can do is keep fighting.\"\\n\\n\"If I can't bring him back...then I'll...\"", 
+        "cardStoryMstId": 973, 
+        "cardMstId": 993, 
+        "step": 1, 
+        "cardUniqueId": 478, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　　　　　　　　　　　　　　\\n\"Abandon your emotions...\"\\n\\n\"This battle is the reason I live.\"\\n", 
+        "cardStoryMstId": 974, 
+        "cardMstId": 993, 
+        "step": 2, 
+        "cardUniqueId": 478, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　\"It's because of Him I exist.\"\\n\\n            \"Defeat me, and I will stand again.\"", 
+        "cardStoryMstId": 975, 
+        "cardMstId": 994, 
+        "step": 3, 
+        "cardUniqueId": 478, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The song I use to cheer myself up leads to a resentment that plagues me even further.\\nMy heart is sinking into the shadows.\\nThe day when the whole of me drowns draws near.", 
+        "cardStoryMstId": 976, 
+        "cardMstId": 994, 
+        "step": 4, 
+        "cardUniqueId": 478, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"Go forth, dear child. Be free of your savage soul.\" —At mass that day, I heard god's revelation.\\nWas I hesitant? It matters not.\\nI immediately made preparations to depart and left with the church's staff in hand.", 
+        "cardStoryMstId": 977, 
+        "cardMstId": 995, 
+        "step": 1, 
+        "cardUniqueId": 479, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "As I calmed lost souls at various stops along the way, I came to a realization. The Undead King had been revived and was threatening order in the afterlife. That was the reason for this multitude of strange phenomena.\\nI challenged the Undead King to a duel, and after a hard-fought battle, I successfully purged him.\\nThe souls trapped inside of him were released and ascended to heaven.", 
+        "cardStoryMstId": 978, 
+        "cardMstId": 995, 
+        "step": 2, 
+        "cardUniqueId": 479, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A summons came from His Holiness. He said, \"You will be made a saint. Go forth and be a model for both the clergy and faithful alike.\"\\nTo that, I smiled and said, \"I cannot accept this honor, for no man is above or below any other.\" I bowed and took my leave.\\nI had to do that which I felt was right.", 
+        "cardStoryMstId": 979, 
+        "cardMstId": 996, 
+        "step": 3, 
+        "cardUniqueId": 479, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Men clad in black blocked my path, stole my staff, and dragged me to the ground.\\n\"You insolent fools! You dare to threaten the authority of the church?! To hell with you, I say!\" Despite my rage, the wet crack of the staff crushing my skull would be the last sound I heard in this mortal coil.\\nAnd thus, I was freed from the bonds of earthly life.", 
+        "cardStoryMstId": 980, 
+        "cardMstId": 996, 
+        "step": 4, 
+        "cardUniqueId": 479, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was a woman who got engaged to a promising officer after several years in love. While their life together was a blessed one, relations with the neighboring country were on the decline, and her fiancé was to be dispatched to the front lines. \"I'll marry you as soon I as I get back,\" he said. And with that, he was gone.", 
+        "cardStoryMstId": 981, 
+        "cardMstId": 997, 
+        "step": 1, 
+        "cardUniqueId": 480, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "After several bloody battles, both countries declared a stalemate and withdrew their forces. The woman awaited the return of her fiancé, but after many days and nights, he still hadn't returned home. In time, his superior came to her and told her the grim news—he had died honorably on the battlefield.", 
+        "cardStoryMstId": 982, 
+        "cardMstId": 997, 
+        "step": 2, 
+        "cardUniqueId": 480, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Day after day, she mourned the death of her beloved. His superior officer visited her often and eventually asked for her hand in marriage. It was around that time that a friend of her fiancé showed up and told her the truth. It turned out that the superior officer had his eye on her for a while and had sent her fiancé into harm's way to get him out of the picture.", 
+        "cardStoryMstId": 983, 
+        "cardMstId": 998, 
+        "step": 3, 
+        "cardUniqueId": 480, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The officer was elated that she had accepted his proposal. After the wedding, on their first night together, the woman brought a bow and shot the vile man with it, killing him. Having taken vengeance for her lost love, she stabbed herself in the neck with the arrowhead and killed herself. The bow she left behind has since been passed down as a symbol of chastity and fidelity.", 
+        "cardStoryMstId": 984, 
+        "cardMstId": 998, 
+        "step": 4, 
+        "cardUniqueId": 480, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A fierce-looking man lived with his young wife in a manor.\\nThe man was silent and surly, while his wife was a somewhat shadowy, beautiful woman.\\n\\nA young man who had come to work at the manor caught a glimpse of an expensive bottle of liquor and couldn't help but try a swig.\\nAt dawn, both of his pinky fingers were smashed with the blunt side of a large sword, and he was promptly expelled from the manor.", 
+        "cardStoryMstId": 985, 
+        "cardMstId": 999, 
+        "step": 1, 
+        "cardUniqueId": 481, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was a \"locked room\" in the manor that the master forbade his servants to enter.\\nOne of them couldn't contain his curiosity and took but a step inside.\\n\\nAt dawn, both of his pinky fingers and pinky toes were smashed with the blunt side of a large sword, and he was promptly expelled from the manor.", 
+        "cardStoryMstId": 986, 
+        "cardMstId": 999, 
+        "step": 2, 
+        "cardUniqueId": 481, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A journalist hoping to write an exposé infiltrated the manor as one of its servants.\\nThe man ruled the manor with an iron fist, and his wife was a victim who feared for her life... At least, that's what he had been planning to write.\\nIn the dead of night, he snuck into the wife's room and tried to get her side of the story.\\nBut just then, the door burst open, and the man appeared before them...", 
+        "cardStoryMstId": 987, 
+        "cardMstId": 1000, 
+        "step": 3, 
+        "cardUniqueId": 481, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "His beautiful wife swung a sword into the journalist's skull, smashing his brain into pulp. The man kneeled before his wife and kissed her feet. \"I've crushed the filthy hyena,\" she said. \"Indeed, my queen. Thank you so much.\" Even a small fist can rule with fear.", 
+        "cardStoryMstId": 988, 
+        "cardMstId": 1000, 
+        "step": 4, 
+        "cardUniqueId": 481, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When the king said he wanted two brave souls to protect the kingdom, a pair of battle axe-wielding brothers answered his call.\\nOn the following day, the neighboring country invaded, and the elder brother went out first to meet them. However, he did not return.\\nVowing revenge, the younger brother attacked the enemy with a small force.", 
+        "cardStoryMstId": 989, 
+        "cardMstId": 1001, 
+        "step": 1, 
+        "cardUniqueId": 482, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The younger brother couldn't believe his eyes.\\nThe person standing between him and the enemy camp was none other than his elder brother.\\nSeeing his surprise, the elder brother's lips twisted into a sneer. \"What? Look at their numbers. I'm just playing the odds.\"", 
+        "cardStoryMstId": 990, 
+        "cardMstId": 1001, 
+        "step": 2, 
+        "cardUniqueId": 482, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"On my honor as a knight, I will kill thee, traitor!\" With those words, the younger brother brandished his axe.\\nThe brothers were nearly equal in skill, and it was clear that the time for talk had passed.\\nAfter a furious battle, the younger brother emerged victorious by severing the tendons in his brother's right arm.\\n\"You've grown,\" he said shortly before his severed head hit the ground. The younger brother returned home.", 
+        "cardStoryMstId": 991, 
+        "cardMstId": 1002, 
+        "step": 3, 
+        "cardUniqueId": 482, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The neighboring country abandoned its invasion and withdrew.\\nThat night, the younger brother drank himself into a stupor. It was then that he was attacked and dealt a fatal sword slash to his chest.\\nLooking over the younger brother as he fell into a pool of his own blood was a knight, one he'd seen before...the elder brother's lover.\\nThe knight tried to make off with both axes, but during his escape, he was attacked by bandits and stripped of his belongings.\\nThe axes would continue to be passed down through generations, forever in pursuit of their next victims.", 
+        "cardStoryMstId": 992, 
+        "cardMstId": 1002, 
+        "step": 4, 
+        "cardUniqueId": 482, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[1st Black Mass Notice]\\nWe'll be holding a black mass.\\nInterested parties should congregate at the cemetery on the edge of town at 11:00 p.m. this evening.", 
+        "cardStoryMstId": 993, 
+        "cardMstId": 1003, 
+        "step": 1, 
+        "cardUniqueId": 483, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[2nd Black Mass Notice]\\nUnfortunately, the last black mass was cut short when someone fainted at the sight of goat's blood.\\nSooo, let's try this again.\\nSame plan—interested parties should congregate at the cemetery on the edge of town at 11:00 p.m. this event.", 
+        "cardStoryMstId": 994, 
+        "cardMstId": 1003, 
+        "step": 2, 
+        "cardUniqueId": 483, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[3rd Black Mass Notice]\\nAlright. So. A candle fell over and started a fire, cutting our mass short yet again.\\nIt's okay, though. This time, we'll get it right for sure!\\n", 
+        "cardStoryMstId": 995, 
+        "cardMstId": 1004, 
+        "step": 3, 
+        "cardUniqueId": 483, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[End of the World Notice]\\nThe 72 Pillars have returned!\\nIt's been a while, so let's warm up a bit with the destruction of this world.\\nBut before we do that...we'll gorge ourselves on your flesh and blood!", 
+        "cardStoryMstId": 996, 
+        "cardMstId": 1004, 
+        "step": 4, 
+        "cardUniqueId": 483, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When I was a child, I would cry when my foster mother locked me in a dark room with icicles hanging from the ceiling.\\nIt was times like those when my beautiful mother would console me.\\nShe's probably the reason I now only love women who are extremely pale.", 
+        "cardStoryMstId": 997, 
+        "cardMstId": 1005, 
+        "step": 1, 
+        "cardUniqueId": 484, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, I made a pass at a bourgeoise madame I'd had my eye on.\\nYou'd be surprised at how many say yes.\\nI'd take them up to a snowy mountaintop and force them to dig holes in the snow. Then I'd cut their throats with a sickle and kick their bodies into the holes.\\nFinally, I'd cover them with fresh powder and make my way home with an extra spring in my step.", 
+        "cardStoryMstId": 998, 
+        "cardMstId": 1005, 
+        "step": 2, 
+        "cardUniqueId": 484, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "You guessed it—my beautiful mother was killed by her husband.\\nI was the first to find her body. I looked into the kitchen and saw that her head had been separated from its body. He had discovered she was cheating and killed her on the spot.\\nAnd so was born my fetish.\\nThe only thing that satisfies me is the feeling I get when I cut a woman's throat before anyone else can get to her.", 
+        "cardStoryMstId": 999, 
+        "cardMstId": 1006, 
+        "step": 3, 
+        "cardUniqueId": 484, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"Now it's your turn,\" the man said as he swung the sickle.\\nI flew at him and he pulled away, cursing.\\nI struck him hard with both hands and knocked him into a hole.\\nWhen I peered inside, I saw his neck bent at an impossible angle with his eyes wide open.\\nThe madness of the dark room with icicles died inside that hole.", 
+        "cardStoryMstId": 1000, 
+        "cardMstId": 1006, 
+        "step": 4, 
+        "cardUniqueId": 484, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A young man visited the royal palace, hoping to help a good king who feared a barbarian invasion. The pureness of the man's intentions so moved the king that he knighted the peasant and gave him his own sword. In turn, the knight was humbled by such honor and swore to repay the favor, no matter the cost.", 
+        "cardStoryMstId": 1001, 
+        "cardMstId": 1007, 
+        "step": 1, 
+        "cardUniqueId": 485, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Time and time again, the barbarians attacked the royal palace. Each time, the man would stand at the front of the army and brandish the sword gifted to him. So it was that he drove away the barbarians, and in time he earned fame both at home and abroad.", 
+        "cardStoryMstId": 1002, 
+        "cardMstId": 1007, 
+        "step": 2, 
+        "cardUniqueId": 485, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The young man became known among the people as the \"Hero of Salvation,\" claiming fame and recognition for his acts. The other vassals gradually accepted them as one of their own, and soon he was regarded as second in importance only to the king himself.", 
+        "cardStoryMstId": 1003, 
+        "cardMstId": 1008, 
+        "step": 3, 
+        "cardUniqueId": 485, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, the king summoned the young man and handed him a cup of poison. \"This country has no need for two leaders. You understand, don't you?\" The young man understood immediately. He had become the object of the king's jealousy and hindered his ability to rule. \"Yes, Your Majesty,\" he said. \"For the strength of the nation!\" He then gulped the poison down and ended his life.", 
+        "cardStoryMstId": 1004, 
+        "cardMstId": 1008, 
+        "step": 4, 
+        "cardUniqueId": 485, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "The achievement of your dearest dream rests atop tens of thousands of corpses.\\nWhat would you yell in a world where you were one of only two left?\\nWould you finally smile?\\nWould you lament the fact that it was all for naught?\\nWe have come here again and again, hoping to see you wail in sadness in your final moments.\\n.........\\n.........\\n......", 
         "cardStoryMstId": 1105, 
         "cardMstId": 1095, 

@@ -1651,6 +1651,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Heart of the Sandstorm", 
+        "collectItemId": 0, 
+        "questAreaMstId": 160, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 23, 
+        "assetBundleName": "questareabackground/41", 
+        "createdTime": 1581433200, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0041", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "Memory of Dolls", 
         "collectItemId": 220, 
         "questAreaMstId": 164, 

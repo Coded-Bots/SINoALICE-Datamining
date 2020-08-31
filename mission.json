@@ -9964,5 +9964,27 @@
         "resetCycle": 1, 
         "optionType": 0, 
         "objectType": 1
+    }, 
+    {
+        "missionType": 2, 
+        "activeView": 1, 
+        "description": "Until you reach Rank 20, there are no limits on how often you can purify. From Rank 20 and above, you can purify once every 8 hours.", 
+        "objectId": 900007, 
+        "title": "Purify 1 time", 
+        "conditionsType": 50, 
+        "missionUniquePriority": 1, 
+        "missionUniqueId": 900002, 
+        "conditionsCount": 1, 
+        "missionMstId": 900002, 
+        "missionTitleMstId": 1, 
+        "priority": 30, 
+        "num": 1, 
+        "resetType": 1, 
+        "conditionsObjectId": 0, 
+        "startTime": 1598936400, 
+        "endTime": 1601528399, 
+        "resetCycle": 1, 
+        "optionType": 0, 
+        "objectType": 1
     }
 ]

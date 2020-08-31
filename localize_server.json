@@ -4805,7 +4805,7 @@
         "FR": "Aucune donnée de boîte à grimoires de guilde.", 
         "EN": "No guild box o' grimoire data.", 
         "GameKey": "Server/error.11336", 
-        "DE": "Keine Daten des Gilden Box Grimoire vorhanden.", 
+        "DE": "Keine Daten des Gilde Box Grimoire vorhanden.", 
         "JP": "ギルドボックスガチャのデータが存在しません。", 
         "VN": "Không có dữ liệu Hộp sách phép của hội.", 
         "KR": "길드 박스 뽑기 데이터가 존재하지 않습니다.", 
@@ -4903,7 +4903,7 @@
         "FR": "La boîte à grimoires de guilde n'est pas disponible pour le moment.", 
         "EN": "Guild box o' grimoire is not currently available.", 
         "GameKey": "Server/error.11343", 
-        "DE": "Gilden Box Grimoire ist zurzeit nicht verfügbar.", 
+        "DE": "Gilde Box Grimoire ist zurzeit nicht verfügbar.", 
         "JP": "ギルドボックスガチャ期間外です。", 
         "VN": "Hiện không có sẵn Hộp sách phép của hội.", 
         "KR": "길드 박스 뽑기 기간이 아닙니다.", 
@@ -10111,7 +10111,7 @@
         "FR": "Récompense de boîte à grimoires de guilde", 
         "EN": "Guild Box o' Grimoire Reward", 
         "GameKey": "ServerData/presentBoxMsg.guildBoxGacha", 
-        "DE": "Gilden Box Grimoire Belohnung", 
+        "DE": "Gilde Box Grimoire Belohnung", 
         "JP": "ギルドボックスガチャ報酬", 
         "VN": "Phần thưởng hộp sách phép của hội", 
         "KR": "길드 박스 뽑기 보상", 
@@ -10363,7 +10363,7 @@
         "FR": "Récompense de retour d'objet en vedette contenu dans une boîte à grimoires de guilde", 
         "EN": "Guild Box o' Grimoire Featured Item Return Reward", 
         "GameKey": "ServerData/presentBoxMsg.guildBoxGachaReturn", 
-        "DE": "Belohnung für die Rückgabe von Items aus Gilden Box Grimoire", 
+        "DE": "Belohnung für die Rückgabe von Items aus Gilde Box Grimoire", 
         "JP": "ギルドボックスガチャ目玉商品返却報酬", 
         "VN": "Phần thưởng trả lại vật phẩm nổi bật trong hộp sách phép của hội", 
         "KR": "길드 박스 뽑기 주목 상품 반납 보상", 
@@ -10396,7 +10396,7 @@
         "VN": "[Hồi ức mùa hè] Kiếm được phần thưởng thành tích cá nhân với %s.", 
         "KR": "[회고의 늦여름] %s개로 획득한 개인 달성 보상입니다.", 
         "ES": "[Recuerdo de verano] Recompensa de logro individual obtenida con %s.", 
-        "TH": "รางวัลความสำเร็จส่วนตัวได้รับ x%s[ปลายคิมหันต์ฤดูแห่งความทรงจำ]", 
+        "TH": "รางวัลความสำเร็จส่วนตัวที่ได้รับ[ปลายคิมหันต์ฤดูแห่งความทรงจำ] x%s", 
         "Type": 0, 
         "id": 743, 
         "TLM": 22420
@@ -10738,7 +10738,7 @@
         "TLM": 23013
     }, 
     {
-        "FR": "C’eSt uNe prAtiqUe coUraNte d’en aJouTer daNs le sYstèMe !", 
+        "FR": "C’eSt cOmMe lE cOup dU bErgEr d’en aJouTer daNs le sYstèMe !", 
         "EN": "It's standard practice to mix it into the system!", 
         "GameKey": "Server/config.spaceInvaders.stage3235.storyText.2", 
         "DE": "Es ist sTanDard-pRaXis, es in das System zu mischen!", 
@@ -10752,7 +10752,7 @@
         "TLM": 23014
     }, 
     {
-        "FR": "D’où vient cette confiance, exactement ?", 
+        "FR": "Tu m'expliques le rapport avec les échecs ?", 
         "EN": "Just where does that confidence come from?", 
         "GameKey": "Server/config.spaceInvaders.stage3235.storyText.3", 
         "DE": "Woher genau kommt diese Zuversicht?", 
@@ -10780,7 +10780,7 @@
         "TLM": 23016
     }, 
     {
-        "FR": "DeS eXpéRienCes PassÉes !", 
+        "FR": "MeS eXpéRienCes PassÉes !", 
         "EN": "Past experience!", 
         "GameKey": "Server/config.spaceInvaders.stage3235.storyText.4", 
         "DE": "BisHeriGe ErFahRung!", 
@@ -10808,7 +10808,7 @@
         "TLM": 23018
     }, 
     {
-        "FR": "Waouh, même ta voix respire la confiance.", 
+        "FR": "Waouh, tu m'as vraiment l'air de savoir de quoi tu parles.", 
         "EN": "Wow, you even speak with confidence.", 
         "GameKey": "Server/config.spaceInvaders.stage3235.storyText.5", 
         "DE": "Wow, du sprichst sogar mit Zuversicht.", 
@@ -10836,7 +10836,7 @@
         "TLM": 23020
     }, 
     {
-        "FR": "Je comprends ce que tu dis, mais –", 
+        "FR": "Je comprends ce que tu dis, mais...", 
         "EN": "I understand what you're saying, but–", 
         "GameKey": "Server/config.spaceInvaders.stage3237.storyText.1", 
         "DE": "Ich verstehe, was du meinst, aber…", 
@@ -10850,7 +10850,7 @@
         "TLM": 23021
     }, 
     {
-        "FR": "Ça n’en donc finit jamais !", 
+        "FR": "Ça n’en donc finit jamais ! Il en revient toujours !", 
         "EN": "There's no end to them!", 
         "GameKey": "Server/config.spaceInvaders.stage3237.storyText.2", 
         "DE": "Das nimmt kein Ende!", 
@@ -10892,7 +10892,7 @@
         "TLM": 23024
     }, 
     {
-        "FR": "J’ai faim !", 
+        "FR": "J’ai la dalle-euh !", 
         "EN": "I'm hungry!", 
         "GameKey": "Server/config.spaceInvaders.stage3237.storyText.3", 
         "DE": "Ich habe Hunger!", 
@@ -11018,7 +11018,7 @@
         "TLM": 23033
     }, 
     {
-        "FR": "N’est-ce pas meilleur cru ?", 
+        "FR": "C'est peut-être meilleur cru, qui sait ?", 
         "EN": "Isn't it better raw?", 
         "GameKey": "Server/config.spaceInvaders.stage3237.storyText.5", 
         "DE": "Ist es roh nicht besser?", 
@@ -11572,7 +11572,7 @@
         "VN": "Trang bị S+", 
         "KR": "S 이상 장비", 
         "ES": "Equipo S+", 
-        "TH": "อุปกรณ์ S+", 
+        "TH": "อุปกรณ์ Sขึ้นไป", 
         "Type": 0, 
         "id": 827, 
         "TLM": 23081
@@ -11788,7 +11788,7 @@
         "TLM": 23096
     }, 
     {
-        "FR": "Jadis, elle s’appelait la Province Owari–", 
+        "FR": "Jadis, elle s’appelait la Province Owari...", 
         "EN": "Long ago, it was called Owari Province–", 
         "GameKey": "Server/config.spaceInvaders.stage3238.storyText.4", 
         "DE": "Vor langer Zeit nannte man es Provinz Owari…", 
@@ -11872,7 +11872,7 @@
         "TLM": 23102
     }, 
     {
-        "FR": "…QUAND MÊME. TU LE VOULAIS.", 
+        "FR": "...TELLEMENT...VOULU.", 
         "EN": "...EVEN THOUGH. YOU WANTED IT.", 
         "GameKey": "Server/config.spaceInvaders.stage3240.storyText.1", 
         "DE": "…OBWOHL DU ES WOLLTEST.", 
@@ -11886,7 +11886,7 @@
         "TLM": 23103
     }, 
     {
-        "FR": "MAINTENANT… UN JOUR, TOI AUSSI…", 
+        "FR": "MAINTENANT...UN JOUR, VOUS AUSSI...", 
         "EN": "NOW.... ONE DAY, YOU TOO....", 
         "GameKey": "Server/config.spaceInvaders.stage3240.storyText.2", 
         "DE": "NUN…. EINES TAGES WIRST AUCH DU.…", 
@@ -11928,7 +11928,7 @@
         "TLM": 23106
     }, 
     {
-        "FR": "C’est pourquoi je dois en profiter maintenant.", 
+        "FR": "C’est pourquoi je dois profiter de l'instant présent.", 
         "EN": "That's why I must enjoy myself now.", 
         "GameKey": "Server/config.spaceInvaders.stage3240.storyText.5", 
         "DE": "Deshalb muss ich jetzt Spaß haben.", 
@@ -12012,7 +12012,7 @@
         "TLM": 23112
     }, 
     {
-        "FR": "Je me souhaite donc un... bon appétit ♪", 
+        "FR": "Je me souhaite donc un... bon appétit !", 
         "EN": "Bon appétit!", 
         "GameKey": "Server/config.spaceInvaders.stage3240.storyText.6", 
         "DE": "Guten Appetit!", 
@@ -13406,7 +13406,7 @@
         "VN": "・Bảo đảm nâng cấp Sách phép cơ sở lên S+", 
         "KR": "・\"무료 뽑기\"가 \"S 이상 확정 무료 뽑기\"로 변화", 
         "ES": "- Grimorio de base ha cambido a grimorio de base garantizado S superior.", 
-        "TH": "-\"กรีมัวร์เบส\"จะเปลี่ยนเป็น\"กรีมัวร์เบสการันตี S+\"", 
+        "TH": "-\"กรีมัวร์เบส\"จะเปลี่ยนเป็น\"กรีมัวร์เบสการันตี S\"", 
         "Type": 0, 
         "id": 958, 
         "TLM": 23212
@@ -13751,7 +13751,7 @@
         "FR": "Récompense de boîte à grimoires de guilde nº %d.", 
         "EN": "Guild box o' grimoire #%d reward.", 
         "GameKey": "ServerData/presentBoxMsg.gacha.guildGacha", 
-        "DE": "Gilden Box Grimoire Belohnung %d. Belohnung.", 
+        "DE": "Gilde Box Grimoire Belohnung %d. Belohnung.", 
         "JP": "ギルドボックスガチャ %d回目報酬", 
         "VN": "Phần thưởng hộp sách phép của hội %d", 
         "KR": "길드 박스 뽑기 %d회차 보상", 
@@ -16632,14 +16632,14 @@
         "TLM": 51089
     }, 
     {
-        "FR": "208 cr. crépusculaires ＋ Bras droit du géant", 
+        "FR": "208 cristaux crépusculaires payés ＋ Bras droit du géant", 
         "EN": "Paid T.Crys. x208, Giant's Right Hand", 
         "GameKey": "Server/com.global.sinoalice.campaign07.tier17/description", 
         "DE": "Erhalte bezahlte Zwielichtkristalle x208 + „Rechter Arm des Riesen“", 
         "JP": "有償魔晶石208個＋「巨人の右腕」の獲得", 
         "VN": "", 
         "KR": "유료 마정석 208개+\"거인의 오른팔\" 획득", 
-        "ES": "Cristales del ocaso x502 + obt. «Brazo derecho del gigante»", 
+        "ES": "Al comprar Cristales del ocaso x208 + obt. «Brazo derecho del gigante»", 
         "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+รับ \"แขนขวาของยักษ์\"", 
         "Type": 0, 
         "id": 1189, 
@@ -17339,8 +17339,8 @@
         "JP": "有償魔晶石208個＋「蜘蛛の糸杖」の獲得", 
         "VN": "", 
         "KR": "유료 마정석 208개+\"거미줄 지팡이\" 획득", 
-        "ES": "Al comprar Cristales del ocaso x502 + Obt. «Bastón de la telaraña»", 
-        "TH": "คริสตัลสนธยา 208ชิ้น+รับ \"ไม้เท้าใยแมงมุม\"", 
+        "ES": "Al comprar Cristales del ocaso x208 + Obt. «Bastón de la telaraña»", 
+        "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+รับ \"ไม้เท้าใยแมงมุม\"", 
         "Type": 0, 
         "id": 1239, 
         "TLM": 51174
@@ -17417,7 +17417,7 @@
     }, 
     {
         "FR": "x", 
-        "EN": " medal(s)", 
+        "EN": "", 
         "GameKey": "Server/common.label.objectNum", 
         "DE": " Stück", 
         "JP": "個", 
@@ -17907,12 +17907,12 @@
     }, 
     {
         "FR": "Cœur de fer-blanc", 
-        "EN": "", 
+        "EN": "Tin Heart", 
         "GameKey": "Server/guildEvent.eventTitle.20200910", 
-        "DE": "", 
+        "DE": "Herz aus Blech", 
         "JP": "ブリキノココロ", 
         "VN": "", 
-        "KR": "", 
+        "KR": "양철로 된 마음", 
         "ES": "Corazón de hojalata", 
         "TH": "หัวใจของหุ่นกระป๋อง", 
         "Type": 0, 
@@ -17921,9 +17921,9 @@
     }, 
     {
         "FR": "Envahisseur du Cosmos", 
-        "EN": "", 
+        "EN": "Invaders from Space", 
         "GameKey": "Server/guildEvent.eventTitle.20200917", 
-        "DE": "", 
+        "DE": "Eindringlinge aus dem Weltraum", 
         "JP": "大宇宙からの侵略者", 
         "VN": "", 
         "KR": "", 
