@@ -2492,7 +2492,7 @@
         "TLM": 19387
     }, 
     {
-        "FR": "・Le Grand colisée utilise l'horaire de combat défini dans les paramètres de la guilde pour les Colisées standards.\\\\n・Le maître ou le sous-maître de guilde peuvent changer l'horaire sur la page de la guilde.\\\\n・Les modifications de l'horaire de Colisée seront effectifs le lendemain.\\\\n・Les modifications de l'horaire du Colisée ne seront pas autorisées après la date limite d'inscription.\\\\n・Si un changement d'horaire est effectué le dernier jour de la période d'inscription, le changement sera appliqué le jour suivant, même après la date de clôture.", 
+        "FR": "・Le Grand colisée utilise l'horaire de combat défini dans les paramètres de la guilde pour les Colisées standards.\\\\n・Le maître ou le sous-maître de guilde peuvent changer l'horaire sur la page de la guilde.\\\\n・Les modifications de l'horaire de Colisée seront effectives le lendemain.\\\\n・Les modifications de l'horaire du Colisée ne seront pas autorisées après la date limite d'inscription.\\\\n・Si un changement d'horaire est effectué le dernier jour de la période d'inscription, le changement sera appliqué le jour suivant, même après la date de clôture.", 
         "EN": "-The Gran Colosseum uses the battle time set in the guild's settings for standard colosseums.\\\\n-The guild master or sub guild master can change the time settings on the guild page.\\\\n-Changes to Colosseum time settings will be updated the following day.\\\\n-Changes to Colosseum time cannot be made after the entry deadline.\\\\n-If changes are made on the last day of the entry period, it will still be updated the following day.", 
         "GameKey": "PREFAB/0538", 
         "DE": "・Das Große Kolosseum verwendet die Kampfzeit, die in den Gildeneinstellungen für das Standard-Kolosseum eingestellt ist.\\\\n・Der Gildenmeister oder der Erste Offizier können die Zeiteinstellungen auf der Gildenseite ändern.\\\\n・Die Änderungen der Kolosseum-Zeiteinstellungen werden am nächsten Tag wirksam.\\\\n・Die Zeit kann nach Beitritt nicht mehr geändert werden.\\\\n・Sollten die Kolosseum-Zeiteinstellungen am letzen Tag der Frist vorgenommen werden, so werden diese auch nach Ablauf der Frist am nächsten Tag wirksam.", 
@@ -4872,7 +4872,7 @@
         "TLM": 19557
     }, 
     {
-        "FR": "Récompenses du Grand colisée", 
+        "FR": "Récomp. Grd. Colisée", 
         "EN": "Gran Colosseum Rewards", 
         "GameKey": "PREFAB/0708", 
         "DE": "Belohnungen des Großen Kolosseums", 
@@ -6776,7 +6776,7 @@
         "TLM": 19693
     }, 
     {
-        "FR": "Les données de jeu ne peuvent pas être récupérées une fois que l'application\\\\na été supprimée de votre appareil.", 
+        "FR": "Vos données de jeu sont irrécupérables une fois l'application supprimée.", 
         "EN": "Game data cannot be recovered after the app is deleted from your device.", 
         "GameKey": "PREFAB/0844", 
         "DE": "Spieldaten können nicht wiederhergestellt werden, nachdem die Anwendung gelöscht wurde.", 
@@ -11522,7 +11522,7 @@
         "TLM": 20032
     }, 
     {
-        "FR": "Rejoindre une guilde", 
+        "FR": "Rejoindre", 
         "EN": "Join a guild", 
         "GameKey": "PREFAB/0206", 
         "DE": "Gilde beitreten", 
@@ -14532,7 +14532,7 @@
         "TLM": 22567
     }, 
     {
-        "FR": "Force vitale acquise <size=36>+</size> Bonus de victoire <size=36>=</size><color=#B42F00>Points de valeur</color>(PdV)", 
+        "FR": "Force vitale acquise + Bonus de victoire =<color=#B42F00>Points de valeur</color>(PdV)", 
         "EN": "Lifeforce Acquired <size=36>+</size> Win Bonus <size=36>=</size><color=#B42F00>Gran Points</color>", 
         "GameKey": "PREFAB/1044", 
         "DE": "Erworbene Lebenskraft+Siegbonus=<color=#B42F00>Prestigepunkte</color>", 

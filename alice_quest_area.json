@@ -1668,6 +1668,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Nightmare in the Woods", 
+        "collectItemId": 0, 
+        "questAreaMstId": 162, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 25, 
+        "assetBundleName": "questareabackground/3", 
+        "createdTime": 1581519600, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0003", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "Memory of Dolls", 
         "collectItemId": 220, 
         "questAreaMstId": 164, 

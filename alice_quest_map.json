@@ -131,6 +131,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Nightmare in the Woods", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 25, 
+        "createdTime": 1581519600, 
+        "mapGroup": 12, 
+        "name": "Nightmare in the Woods"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Memory of Dolls (Normal)", 
         "announceUrl": "", 
         "mapType": 1, 

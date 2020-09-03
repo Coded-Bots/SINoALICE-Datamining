@@ -4228,7 +4228,7 @@
         "TLM": 20474
     }, 
     {
-        "FR": "Titre", 
+        "FR": "Titres", 
         "EN": "Title", 
         "GameKey": "SCENE/0302", 
         "DE": "Titel", 
@@ -5096,7 +5096,7 @@
         "TLM": 20536
     }, 
     {
-        "FR": "Autorisation automatique : OUI", 
+        "FR": "Autorisation automatique : NON", 
         "EN": "Automatic Approval: No", 
         "GameKey": "SCENE/0364", 
         "DE": "Autom. Bestätigung: AN", 
@@ -5110,7 +5110,7 @@
         "TLM": 20537
     }, 
     {
-        "FR": "Autorisation automatique : NON", 
+        "FR": "Autorisation automatique : OUI", 
         "EN": "Automatic Approval: Yes", 
         "GameKey": "SCENE/0365", 
         "DE": "Autom. Bestätigung: AUS", 
@@ -5601,7 +5601,7 @@
     }, 
     {
         "FR": "Aucun objet à vendre.", 
-        "EN": "No items for sale.", 
+        "EN": "No products available for purchase.", 
         "GameKey": "SCENE/0400", 
         "DE": "Keine Items zum Verkauf.", 
         "JP": "販売中商品がありません", 
@@ -8386,7 +8386,7 @@
         "TLM": 22715
     }, 
     {
-        "FR": "Inscription : ", 
+        "FR": "Inscription :", 
         "EN": "Entry:", 
         "GameKey": "SCENE/0619", 
         "DE": "Teilnahme: ", 

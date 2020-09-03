@@ -1590,7 +1590,7 @@
         "VN": "Hộp sách phép của hội\\\\n-'Truyền kỳ bị lãng quyên'-", 
         "KR": "길드 박스 뽑기\\\\n~망각의 이야기~", 
         "ES": "Caja de grimorio del gremio\\\\n-«Cuento del olvido»-", 
-        "TH": "กล่องกรีมัวร์กิลด์\\\\n-'นิทานที่ถูกลืม'-", 
+        "TH": "กล่องกรีมัวร์กิลด์\\\\n~เรื่องราวของการลืมเลือน~", 
         "Type": 0, 
         "id": 114, 
         "TLM": 213
@@ -3501,7 +3501,7 @@
     }, 
     {
         "FR": "+Clé", 
-        "EN": "+ Key", 
+        "EN": "SALE", 
         "GameKey": "Image/0251", 
         "DE": "+Schlüssel", 
         "JP": "鍵付", 
@@ -4558,7 +4558,7 @@
         "VN": "\"VN\": null", 
         "KR": "STEP 5", 
         "ES": "PASO5", 
-        "TH": "ขั้นที่5", 
+        "TH": "STEP 5", 
         "Type": 0, 
         "id": 326, 
         "TLM": 50592
@@ -4572,7 +4572,7 @@
         "VN": "\"VN\": null", 
         "KR": "STEP 2", 
         "ES": "PASO2", 
-        "TH": "ขั้นที่2", 
+        "TH": "STEP 2", 
         "Type": 0, 
         "id": 327, 
         "TLM": 50593
@@ -4586,7 +4586,7 @@
         "VN": "\"VN\": null", 
         "KR": "STEP 3", 
         "ES": "PASO3", 
-        "TH": "ขั้นที่3", 
+        "TH": "STEP 3", 
         "Type": 0, 
         "id": 328, 
         "TLM": 50594
@@ -4600,7 +4600,7 @@
         "VN": "\"VN\": null", 
         "KR": "STEP 4", 
         "ES": "PASO4", 
-        "TH": "ขั้นที่4", 
+        "TH": "STEP 4", 
         "Type": 0, 
         "id": 329, 
         "TLM": 50595
