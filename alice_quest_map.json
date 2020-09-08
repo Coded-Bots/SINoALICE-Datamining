@@ -141,6 +141,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Blood-Stained Tome", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 26, 
+        "createdTime": 1483974000, 
+        "mapGroup": 13, 
+        "name": "Blood-Stained Tome"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Memory of Dolls (Normal)", 
         "announceUrl": "", 
         "mapType": 1, 

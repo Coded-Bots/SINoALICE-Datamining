@@ -1685,6 +1685,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Blood-Stained Tome", 
+        "collectItemId": 0, 
+        "questAreaMstId": 163, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 26, 
+        "assetBundleName": "questareabackground/44", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0044", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "Memory of Dolls", 
         "collectItemId": 220, 
         "questAreaMstId": 164, 

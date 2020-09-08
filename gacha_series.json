@@ -177,7 +177,7 @@
         "bannerMstId": 69, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "Rearguard Grimoire: Instruments"
+        "name": "Rearguard Grimoire: Instrument Weapons"
     }, 
     {
         "gachaGroupId": 3, 
@@ -192,7 +192,7 @@
         "bannerMstId": 70, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "Rearguard Grimoire: Artifacts"
+        "name": "Rearguard Grimoire: Artifact Weapons"
     }, 
     {
         "gachaGroupId": 3, 
@@ -222,7 +222,7 @@
         "bannerMstId": 72, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "Rearguard Grimoire: Tomes"
+        "name": "Rearguard Grimoire: Tome Weapons"
     }, 
     {
         "gachaGroupId": 3, 
@@ -237,7 +237,7 @@
         "bannerMstId": 73, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "Rearguard Grimoire: Staves"
+        "name": "Rearguard Grimoire: Staff Weapons"
     }, 
     {
         "gachaGroupId": 5, 

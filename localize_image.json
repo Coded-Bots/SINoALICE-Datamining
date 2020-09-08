@@ -1652,7 +1652,7 @@
         "TLM": 217
     }, 
     {
-        "FR": "Titre", 
+        "FR": "Titres", 
         "EN": "Title", 
         "GameKey": "Image/0119", 
         "DE": "Titel", 
@@ -1772,7 +1772,7 @@
         "VN": "Thông báo", 
         "KR": "예고", 
         "ES": "Aviso", 
-        "TH": "ประกาศล่วงหน้า", 
+        "TH": "แจ้ง", 
         "Type": 0, 
         "id": 127, 
         "TLM": 226
@@ -3501,7 +3501,7 @@
     }, 
     {
         "FR": "+Clé", 
-        "EN": "SALE", 
+        "EN": "NEW SET\\nKey", 
         "GameKey": "Image/0251", 
         "DE": "+Schlüssel", 
         "JP": "鍵付", 
@@ -3515,7 +3515,7 @@
     }, 
     {
         "FR": "+Arme SR", 
-        "EN": "+ SR weapon", 
+        "EN": "NEW SET\\nSR Weapon", 
         "GameKey": "Image/0252", 
         "DE": "+SR-Waffe", 
         "JP": "SS武器付", 
@@ -3529,7 +3529,7 @@
     }, 
     {
         "FR": "+Classe", 
-        "EN": "+ Class", 
+        "EN": "NEW SET\\nClass", 
         "GameKey": "Image/0253", 
         "DE": "+Klasse", 
         "JP": "ジョブ付", 
@@ -3543,7 +3543,7 @@
     }, 
     {
         "FR": "+Nouvelle Classe", 
-        "EN": "+ New Class", 
+        "EN": "NEW SET\\nNew Class", 
         "GameKey": "Image/0254", 
         "DE": "+Neue Klasse", 
         "JP": "新ジョブ付", 
@@ -3557,7 +3557,7 @@
     }, 
     {
         "FR": "+Cauchemar", 
-        "EN": "+ Nightmare", 
+        "EN": "NEW SET\\nNightmare", 
         "GameKey": "Image/0255", 
         "DE": "+Albtraum", 
         "JP": "ナイトメア付", 

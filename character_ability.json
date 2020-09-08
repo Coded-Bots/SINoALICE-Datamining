@@ -3480,6 +3480,126 @@
         "cardDetailType": 2
     }, 
     {
+        "name": "Instrument +10% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 383, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 384, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.DEF +50", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 385, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 386, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 387, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +50", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 388, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 389, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +50", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 390, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 391, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 392, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +20% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 393, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 394, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 33, 
+        "cardDetailType": 1
+    }, 
+    {
         "name": "Polearm +30% (Sleeping Beauty+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 
