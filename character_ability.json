@@ -3360,6 +3360,246 @@
         "cardDetailType": 5
     }, 
     {
+        "name": "Instrument +30% (Pinocchio+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 347, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 348, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 349, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 350, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Pinocchio+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 351, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 352, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 353, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 354, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Pinocchio+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 355, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 356, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 357, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 358, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 30, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Blade +20% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 359, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 360, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +75", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 361, 
+        "skillType": 1, 
+        "effectValue": 75, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +75", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 362, 
+        "skillType": 1, 
+        "effectValue": 75, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 363, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +75", 
+        "effectType": 3, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 364, 
+        "skillType": 1, 
+        "effectValue": 75, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 365, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +75", 
+        "effectType": 3, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 366, 
+        "skillType": 1, 
+        "effectValue": 75, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 367, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 368, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Red Riding Hood+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 369, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +300", 
+        "effectType": 3, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 370, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 31, 
+        "cardDetailType": 5
+    }, 
+    {
         "name": "Tome +30% (Alice+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

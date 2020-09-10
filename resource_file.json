@@ -6147,10 +6147,28 @@
         "resourceName": "cri/cv_quest_story_event_07.awb"
     }, 
     {
+        "iosHash": "a7501fcf8716fdd2ea32411585abf2e6", 
+        "iosFileSize": 10112, 
+        "androidFileSize": 10112, 
+        "resourceFileMstId": 684, 
+        "isEveryTimeDownload": true, 
+        "androidHash": "a7501fcf8716fdd2ea32411585abf2e6", 
+        "resourceName": "cri/cv_quest_story_event_08.acb"
+    }, 
+    {
+        "iosHash": "7c9989840924b999ddb8e2941b5d18c0", 
+        "iosFileSize": 4519842, 
+        "androidFileSize": 4519842, 
+        "resourceFileMstId": 685, 
+        "isEveryTimeDownload": true, 
+        "androidHash": "7c9989840924b999ddb8e2941b5d18c0", 
+        "resourceName": "cri/cv_quest_story_event_08.awb"
+    }, 
+    {
         "iosHash": "9fc827c0dfa43dfeb435e0db6edfacbe", 
         "iosFileSize": 8768, 
         "androidFileSize": 8768, 
-        "resourceFileMstId": 684, 
+        "resourceFileMstId": 686, 
         "isEveryTimeDownload": true, 
         "androidHash": "9fc827c0dfa43dfeb435e0db6edfacbe", 
         "resourceName": "cri/cv_quest_story_event_09.acb"
@@ -6159,7 +6177,7 @@
         "iosHash": "9d38c5f396ce54e80900536c5a964167", 
         "iosFileSize": 6752608, 
         "androidFileSize": 6752608, 
-        "resourceFileMstId": 685, 
+        "resourceFileMstId": 687, 
         "isEveryTimeDownload": true, 
         "androidHash": "9d38c5f396ce54e80900536c5a964167", 
         "resourceName": "cri/cv_quest_story_event_09.awb"
@@ -6168,7 +6186,7 @@
         "iosHash": "3b59e4b3e28b17af67379fcd2ea36d92", 
         "iosFileSize": 11104, 
         "androidFileSize": 11104, 
-        "resourceFileMstId": 686, 
+        "resourceFileMstId": 688, 
         "isEveryTimeDownload": true, 
         "androidHash": "3b59e4b3e28b17af67379fcd2ea36d92", 
         "resourceName": "cri/cv_quest_story_event_17.acb"
@@ -6177,7 +6195,7 @@
         "iosHash": "e012140e75e7fc5f4260969ccbc6e610", 
         "iosFileSize": 7231168, 
         "androidFileSize": 7231168, 
-        "resourceFileMstId": 687, 
+        "resourceFileMstId": 689, 
         "isEveryTimeDownload": true, 
         "androidHash": "e012140e75e7fc5f4260969ccbc6e610", 
         "resourceName": "cri/cv_quest_story_event_17.awb"
@@ -6186,7 +6204,7 @@
         "iosHash": "cdc4b45290871fd7c39602e0c050553f", 
         "iosFileSize": 23296, 
         "androidFileSize": 23296, 
-        "resourceFileMstId": 688, 
+        "resourceFileMstId": 690, 
         "isEveryTimeDownload": true, 
         "androidHash": "cdc4b45290871fd7c39602e0c050553f", 
         "resourceName": "cri/cv_quest_story_event_21.acb"
@@ -6195,7 +6213,7 @@
         "iosHash": "44c68d2dd6e92b5298d28c8d596da978", 
         "iosFileSize": 23429048, 
         "androidFileSize": 23429048, 
-        "resourceFileMstId": 689, 
+        "resourceFileMstId": 691, 
         "isEveryTimeDownload": true, 
         "androidHash": "44c68d2dd6e92b5298d28c8d596da978", 
         "resourceName": "cri/cv_quest_story_event_21.awb"
@@ -6204,7 +6222,7 @@
         "iosHash": "b1e5344564235d1e7c41e4833f8abf48", 
         "iosFileSize": 10464, 
         "androidFileSize": 10464, 
-        "resourceFileMstId": 690, 
+        "resourceFileMstId": 692, 
         "isEveryTimeDownload": true, 
         "androidHash": "b1e5344564235d1e7c41e4833f8abf48", 
         "resourceName": "cri/cv_quest_story_event_24.acb"
@@ -6213,7 +6231,7 @@
         "iosHash": "47169fd40afe0fefb7fe37dc835de21e", 
         "iosFileSize": 9866411, 
         "androidFileSize": 9866411, 
-        "resourceFileMstId": 691, 
+        "resourceFileMstId": 693, 
         "isEveryTimeDownload": true, 
         "androidHash": "47169fd40afe0fefb7fe37dc835de21e", 
         "resourceName": "cri/cv_quest_story_event_24.awb"
@@ -6222,7 +6240,7 @@
         "iosHash": "b4a28c136f7b83adb345879f85793cbe", 
         "iosFileSize": 9248, 
         "androidFileSize": 9248, 
-        "resourceFileMstId": 692, 
+        "resourceFileMstId": 694, 
         "isEveryTimeDownload": true, 
         "androidHash": "b4a28c136f7b83adb345879f85793cbe", 
         "resourceName": "cri/cv_quest_story_event_26.acb"
@@ -6231,7 +6249,7 @@
         "iosHash": "c602dc56f8aafd830dd13dac001463fc", 
         "iosFileSize": 5241628, 
         "androidFileSize": 5241628, 
-        "resourceFileMstId": 693, 
+        "resourceFileMstId": 695, 
         "isEveryTimeDownload": true, 
         "androidHash": "c602dc56f8aafd830dd13dac001463fc", 
         "resourceName": "cri/cv_quest_story_event_26.awb"
@@ -6240,7 +6258,7 @@
         "iosHash": "1bb67cbca9f61c2100c5074af878d92e", 
         "iosFileSize": 12384, 
         "androidFileSize": 12384, 
-        "resourceFileMstId": 694, 
+        "resourceFileMstId": 696, 
         "isEveryTimeDownload": true, 
         "androidHash": "1bb67cbca9f61c2100c5074af878d92e", 
         "resourceName": "cri/cv_quest_story_event_27.acb"
@@ -6249,7 +6267,7 @@
         "iosHash": "37769834a239fd18cf8fd60442ea5e08", 
         "iosFileSize": 9391260, 
         "androidFileSize": 9391260, 
-        "resourceFileMstId": 695, 
+        "resourceFileMstId": 697, 
         "isEveryTimeDownload": true, 
         "androidHash": "37769834a239fd18cf8fd60442ea5e08", 
         "resourceName": "cri/cv_quest_story_event_27.awb"
@@ -6258,7 +6276,7 @@
         "iosHash": "847f4971daceee920cfc54db1b605032", 
         "iosFileSize": 14144, 
         "androidFileSize": 14144, 
-        "resourceFileMstId": 696, 
+        "resourceFileMstId": 698, 
         "isEveryTimeDownload": true, 
         "androidHash": "847f4971daceee920cfc54db1b605032", 
         "resourceName": "cri/cv_quest_story_event_28.acb"
@@ -6267,7 +6285,7 @@
         "iosHash": "471bece798d14a33c044603955bdf00f", 
         "iosFileSize": 11036737, 
         "androidFileSize": 11036737, 
-        "resourceFileMstId": 697, 
+        "resourceFileMstId": 699, 
         "isEveryTimeDownload": true, 
         "androidHash": "471bece798d14a33c044603955bdf00f", 
         "resourceName": "cri/cv_quest_story_event_28.awb"
@@ -6276,7 +6294,7 @@
         "iosHash": "cd697ed1cdc5185fb92c302cf7dac018", 
         "iosFileSize": 8864, 
         "androidFileSize": 8864, 
-        "resourceFileMstId": 698, 
+        "resourceFileMstId": 700, 
         "isEveryTimeDownload": true, 
         "androidHash": "cd697ed1cdc5185fb92c302cf7dac018", 
         "resourceName": "cri/cv_quest_story_event_29.acb"
@@ -6285,7 +6303,7 @@
         "iosHash": "30c6576a89944a54e632677f9051b8e6", 
         "iosFileSize": 5180779, 
         "androidFileSize": 5180779, 
-        "resourceFileMstId": 699, 
+        "resourceFileMstId": 701, 
         "isEveryTimeDownload": true, 
         "androidHash": "30c6576a89944a54e632677f9051b8e6", 
         "resourceName": "cri/cv_quest_story_event_29.awb"
@@ -6294,7 +6312,7 @@
         "iosHash": "e7f658146e540501cca1a6f4a9854cb7", 
         "iosFileSize": 9504, 
         "androidFileSize": 9504, 
-        "resourceFileMstId": 700, 
+        "resourceFileMstId": 702, 
         "isEveryTimeDownload": true, 
         "androidHash": "808ca627a8fade9bad7e84c513b16f50", 
         "resourceName": "cri/cv_quest_story_event_30.acb"
@@ -6303,7 +6321,7 @@
         "iosHash": "9c01e80f6ecbe71a3f266a3b97c28360", 
         "iosFileSize": 11010460, 
         "androidFileSize": 7342095, 
-        "resourceFileMstId": 701, 
+        "resourceFileMstId": 703, 
         "isEveryTimeDownload": true, 
         "androidHash": "ae6f9ef2058e59b5e3dede7a3962221c", 
         "resourceName": "cri/cv_quest_story_event_30.awb"
@@ -6312,7 +6330,7 @@
         "iosHash": "7103ea22d15c63a0c08e81a269db842b", 
         "iosFileSize": 10464, 
         "androidFileSize": 10464, 
-        "resourceFileMstId": 702, 
+        "resourceFileMstId": 704, 
         "isEveryTimeDownload": true, 
         "androidHash": "7103ea22d15c63a0c08e81a269db842b", 
         "resourceName": "cri/cv_quest_story_event_31.acb"
@@ -6321,7 +6339,7 @@
         "iosHash": "be747bcc083c718a656535bd23512e56", 
         "iosFileSize": 8953568, 
         "androidFileSize": 8953568, 
-        "resourceFileMstId": 703, 
+        "resourceFileMstId": 705, 
         "isEveryTimeDownload": true, 
         "androidHash": "be747bcc083c718a656535bd23512e56", 
         "resourceName": "cri/cv_quest_story_event_31.awb"
@@ -6330,7 +6348,7 @@
         "iosHash": "2f0ee425a2236dbee571f5e9c9681ede", 
         "iosFileSize": 10464, 
         "androidFileSize": 10464, 
-        "resourceFileMstId": 704, 
+        "resourceFileMstId": 706, 
         "isEveryTimeDownload": true, 
         "androidHash": "2f0ee425a2236dbee571f5e9c9681ede", 
         "resourceName": "cri/cv_quest_story_event_32.acb"
@@ -6339,7 +6357,7 @@
         "iosHash": "12119215c80094ebceedfebfb94ff517", 
         "iosFileSize": 6973664, 
         "androidFileSize": 6973664, 
-        "resourceFileMstId": 705, 
+        "resourceFileMstId": 707, 
         "isEveryTimeDownload": true, 
         "androidHash": "12119215c80094ebceedfebfb94ff517", 
         "resourceName": "cri/cv_quest_story_event_32.awb"
@@ -6348,7 +6366,7 @@
         "iosHash": "88a2a7d08ebe16d88a4b162b7cbda738", 
         "iosFileSize": 10016, 
         "androidFileSize": 10016, 
-        "resourceFileMstId": 706, 
+        "resourceFileMstId": 708, 
         "isEveryTimeDownload": true, 
         "androidHash": "88a2a7d08ebe16d88a4b162b7cbda738", 
         "resourceName": "cri/cv_quest_story_event_33.acb"
@@ -6357,7 +6375,7 @@
         "iosHash": "81cf1dd2a5958f06b6721803807e8da6", 
         "iosFileSize": 8306144, 
         "androidFileSize": 8306144, 
-        "resourceFileMstId": 707, 
+        "resourceFileMstId": 709, 
         "isEveryTimeDownload": true, 
         "androidHash": "81cf1dd2a5958f06b6721803807e8da6", 
         "resourceName": "cri/cv_quest_story_event_33.awb"
@@ -6366,7 +6384,7 @@
         "iosHash": "23c1fc1fedd811f99c2f270f75db2c46", 
         "iosFileSize": 9248, 
         "androidFileSize": 9248, 
-        "resourceFileMstId": 708, 
+        "resourceFileMstId": 710, 
         "isEveryTimeDownload": true, 
         "androidHash": "23c1fc1fedd811f99c2f270f75db2c46", 
         "resourceName": "cri/cv_quest_story_event_34.acb"
@@ -6375,7 +6393,7 @@
         "iosHash": "b7b59091f0fe8bd2005955a03ea69d04", 
         "iosFileSize": 3719296, 
         "androidFileSize": 3719296, 
-        "resourceFileMstId": 709, 
+        "resourceFileMstId": 711, 
         "isEveryTimeDownload": true, 
         "androidHash": "b7b59091f0fe8bd2005955a03ea69d04", 
         "resourceName": "cri/cv_quest_story_event_34.awb"
@@ -6384,7 +6402,7 @@
         "iosHash": "4bbbbc6d78744c6531621fb37a3ac12d", 
         "iosFileSize": 8896, 
         "androidFileSize": 8896, 
-        "resourceFileMstId": 710, 
+        "resourceFileMstId": 712, 
         "isEveryTimeDownload": true, 
         "androidHash": "4bbbbc6d78744c6531621fb37a3ac12d", 
         "resourceName": "cri/cv_quest_story_event_34_hard.acb"
@@ -6393,7 +6411,7 @@
         "iosHash": "048fd33234e6f0bf34171759d89fc68d", 
         "iosFileSize": 1383360, 
         "androidFileSize": 1383360, 
-        "resourceFileMstId": 711, 
+        "resourceFileMstId": 713, 
         "isEveryTimeDownload": true, 
         "androidHash": "048fd33234e6f0bf34171759d89fc68d", 
         "resourceName": "cri/cv_quest_story_event_34_hard.awb"
@@ -6402,7 +6420,7 @@
         "iosHash": "a86a400d9975ed407ecf97676cdda9f5", 
         "iosFileSize": 8352, 
         "androidFileSize": 8352, 
-        "resourceFileMstId": 712, 
+        "resourceFileMstId": 714, 
         "isEveryTimeDownload": true, 
         "androidHash": "a86a400d9975ed407ecf97676cdda9f5", 
         "resourceName": "cri/cv_quest_story_event_35.acb"
@@ -6411,7 +6429,7 @@
         "iosHash": "4e82cc22a339e06be685e94d882705a6", 
         "iosFileSize": 4993760, 
         "androidFileSize": 4993760, 
-        "resourceFileMstId": 713, 
+        "resourceFileMstId": 715, 
         "isEveryTimeDownload": true, 
         "androidHash": "4e82cc22a339e06be685e94d882705a6", 
         "resourceName": "cri/cv_quest_story_event_35.awb"
@@ -6420,7 +6438,7 @@
         "iosHash": "6184b2a91385e0b6affc95dc8302f867", 
         "iosFileSize": 12544, 
         "androidFileSize": 12544, 
-        "resourceFileMstId": 714, 
+        "resourceFileMstId": 716, 
         "isEveryTimeDownload": true, 
         "androidHash": "6184b2a91385e0b6affc95dc8302f867", 
         "resourceName": "cri/cv_quest_story_event_36.acb"
@@ -6429,7 +6447,7 @@
         "iosHash": "fa31f02be92fd0cca85490eee3289975", 
         "iosFileSize": 9131232, 
         "androidFileSize": 9131232, 
-        "resourceFileMstId": 715, 
+        "resourceFileMstId": 717, 
         "isEveryTimeDownload": true, 
         "androidHash": "fa31f02be92fd0cca85490eee3289975", 
         "resourceName": "cri/cv_quest_story_event_36.awb"
@@ -6438,7 +6456,7 @@
         "iosHash": "45223dddeea6de1788e81632e99b6a57", 
         "iosFileSize": 10976, 
         "androidFileSize": 10976, 
-        "resourceFileMstId": 716, 
+        "resourceFileMstId": 718, 
         "isEveryTimeDownload": true, 
         "androidHash": "45223dddeea6de1788e81632e99b6a57", 
         "resourceName": "cri/cv_quest_story_event_38.acb"
@@ -6447,7 +6465,7 @@
         "iosHash": "0b68ae2c097ce17fcd0f175c01a55f35", 
         "iosFileSize": 5157664, 
         "androidFileSize": 5157664, 
-        "resourceFileMstId": 717, 
+        "resourceFileMstId": 719, 
         "isEveryTimeDownload": true, 
         "androidHash": "0b68ae2c097ce17fcd0f175c01a55f35", 
         "resourceName": "cri/cv_quest_story_event_38.awb"
@@ -6456,7 +6474,7 @@
         "iosHash": "6de571df422f48e76b6c56064a5a0ca2", 
         "iosFileSize": 30688, 
         "androidFileSize": 30688, 
-        "resourceFileMstId": 718, 
+        "resourceFileMstId": 720, 
         "isEveryTimeDownload": false, 
         "androidHash": "6de571df422f48e76b6c56064a5a0ca2", 
         "resourceName": "cri/cv_tutorial.acb"
@@ -6465,7 +6483,7 @@
         "iosHash": "80c32ffb195cdae3fb37e9b435aad197", 
         "iosFileSize": 1848704, 
         "androidFileSize": 1848704, 
-        "resourceFileMstId": 719, 
+        "resourceFileMstId": 721, 
         "isEveryTimeDownload": false, 
         "androidHash": "80c32ffb195cdae3fb37e9b435aad197", 
         "resourceName": "cri/cv_tutorial.awb"
@@ -6474,7 +6492,7 @@
         "iosHash": "95d026e7ce2187c625227a0fbc1ca587", 
         "iosFileSize": 1828864, 
         "androidFileSize": 1828864, 
-        "resourceFileMstId": 720, 
+        "resourceFileMstId": 722, 
         "isEveryTimeDownload": false, 
         "androidHash": "95d026e7ce2187c625227a0fbc1ca587", 
         "resourceName": "cri/se_attack.acb"
@@ -6483,7 +6501,7 @@
         "iosHash": "e8aebe40fc30f545bb5b7ab01333a27f", 
         "iosFileSize": 113696, 
         "androidFileSize": 113696, 
-        "resourceFileMstId": 721, 
+        "resourceFileMstId": 723, 
         "isEveryTimeDownload": false, 
         "androidHash": "e8aebe40fc30f545bb5b7ab01333a27f", 
         "resourceName": "cri/se_attack_02.acb"
@@ -6492,7 +6510,7 @@
         "iosHash": "9d1e77cbc3a16652df5145fd5e98c0dd", 
         "iosFileSize": 344320, 
         "androidFileSize": 344320, 
-        "resourceFileMstId": 722, 
+        "resourceFileMstId": 724, 
         "isEveryTimeDownload": false, 
         "androidHash": "9d1e77cbc3a16652df5145fd5e98c0dd", 
         "resourceName": "cri/se_battle.acb"
@@ -6501,7 +6519,7 @@
         "iosHash": "78428a45b04dcf79d55650c13bdd9ebf", 
         "iosFileSize": 86464, 
         "androidFileSize": 86464, 
-        "resourceFileMstId": 723, 
+        "resourceFileMstId": 725, 
         "isEveryTimeDownload": false, 
         "androidHash": "78428a45b04dcf79d55650c13bdd9ebf", 
         "resourceName": "cri/se_christmas_quest.acb"
@@ -6510,7 +6528,7 @@
         "iosHash": "e1d6a5a7416666ec49fd7385cf5350d4", 
         "iosFileSize": 19936, 
         "androidFileSize": 19936, 
-        "resourceFileMstId": 724, 
+        "resourceFileMstId": 726, 
         "isEveryTimeDownload": false, 
         "androidHash": "e1d6a5a7416666ec49fd7385cf5350d4", 
         "resourceName": "cri/se_extramission.acb"
@@ -6519,7 +6537,7 @@
         "iosHash": "54cc0440a857183086350ca34c934c86", 
         "iosFileSize": 399616, 
         "androidFileSize": 399616, 
-        "resourceFileMstId": 725, 
+        "resourceFileMstId": 727, 
         "isEveryTimeDownload": false, 
         "androidHash": "54cc0440a857183086350ca34c934c86", 
         "resourceName": "cri/se_gve.acb"
@@ -6528,7 +6546,7 @@
         "iosHash": "4acdaf2833368eed6f6fc664300f1a34", 
         "iosFileSize": 2483168, 
         "androidFileSize": 2483168, 
-        "resourceFileMstId": 726, 
+        "resourceFileMstId": 728, 
         "isEveryTimeDownload": false, 
         "androidHash": "4acdaf2833368eed6f6fc664300f1a34", 
         "resourceName": "cri/se_gvg.acb"
@@ -6537,7 +6555,7 @@
         "iosHash": "a6ac846ed0a39c1af6b302e679713a67", 
         "iosFileSize": 93472, 
         "androidFileSize": 93472, 
-        "resourceFileMstId": 727, 
+        "resourceFileMstId": 729, 
         "isEveryTimeDownload": false, 
         "androidHash": "a6ac846ed0a39c1af6b302e679713a67", 
         "resourceName": "cri/se_halloween_quest.acb"
@@ -6546,7 +6564,7 @@
         "iosHash": "f520dab55ede36fc72a157c1a9698238", 
         "iosFileSize": 149024, 
         "androidFileSize": 149024, 
-        "resourceFileMstId": 728, 
+        "resourceFileMstId": 730, 
         "isEveryTimeDownload": true, 
         "androidHash": "f520dab55ede36fc72a157c1a9698238", 
         "resourceName": "cri/se_invader.acb"
@@ -6555,7 +6573,7 @@
         "iosHash": "34d35271cd6c7ffcb819539cb9fc85ef", 
         "iosFileSize": 195744, 
         "androidFileSize": 195744, 
-        "resourceFileMstId": 729, 
+        "resourceFileMstId": 731, 
         "isEveryTimeDownload": true, 
         "androidHash": "34d35271cd6c7ffcb819539cb9fc85ef", 
         "resourceName": "cri/se_invader_quest.acb"
@@ -6564,7 +6582,7 @@
         "iosHash": "6eee369f908ffe930c24037f9791c4b4", 
         "iosFileSize": 585152, 
         "androidFileSize": 585152, 
-        "resourceFileMstId": 730, 
+        "resourceFileMstId": 732, 
         "isEveryTimeDownload": false, 
         "androidHash": "6eee369f908ffe930c24037f9791c4b4", 
         "resourceName": "cri/se_nier.acb"
@@ -6573,7 +6591,7 @@
         "iosHash": "9190429ca93ccf9edc072373d42b41ce", 
         "iosFileSize": 3082912, 
         "androidFileSize": 3082912, 
-        "resourceFileMstId": 731, 
+        "resourceFileMstId": 733, 
         "isEveryTimeDownload": false, 
         "androidHash": "9190429ca93ccf9edc072373d42b41ce", 
         "resourceName": "cri/se_quest.acb"
@@ -6582,7 +6600,7 @@
         "iosHash": "e11995c92b13e811a79ec6afa7676545", 
         "iosFileSize": 1387008, 
         "androidFileSize": 1387008, 
-        "resourceFileMstId": 732, 
+        "resourceFileMstId": 734, 
         "isEveryTimeDownload": false, 
         "androidHash": "e11995c92b13e811a79ec6afa7676545", 
         "resourceName": "cri/se_recycle_gacha.acb"
@@ -6591,7 +6609,7 @@
         "iosHash": "83f9c1768fd801bd64c9ca195d15d4fb", 
         "iosFileSize": 365760, 
         "androidFileSize": 365760, 
-        "resourceFileMstId": 733, 
+        "resourceFileMstId": 735, 
         "isEveryTimeDownload": true, 
         "androidHash": "83f9c1768fd801bd64c9ca195d15d4fb", 
         "resourceName": "cri/se_replicant_quest.acb"
@@ -6600,7 +6618,7 @@
         "iosHash": "325e4c1b09ef555d59e1ce0cce973502", 
         "iosFileSize": 70272, 
         "androidFileSize": 70272, 
-        "resourceFileMstId": 734, 
+        "resourceFileMstId": 736, 
         "isEveryTimeDownload": false, 
         "androidHash": "6a13f13b0b3ad8a66f51d1bb51215b4b", 
         "resourceName": "cri/se_select.acb"
@@ -6609,7 +6627,7 @@
         "iosHash": "45b5af3aa90525c4a7bc105d8aa7a471", 
         "iosFileSize": 80320, 
         "androidFileSize": 80320, 
-        "resourceFileMstId": 735, 
+        "resourceFileMstId": 737, 
         "isEveryTimeDownload": false, 
         "androidHash": "45b5af3aa90525c4a7bc105d8aa7a471", 
         "resourceName": "cri/se_shooting_gacha.acb"
@@ -6618,7 +6636,7 @@
         "iosHash": "ddebc8920acf64ec05d6753bf6ab4802", 
         "iosFileSize": 528800, 
         "androidFileSize": 528800, 
-        "resourceFileMstId": 736, 
+        "resourceFileMstId": 738, 
         "isEveryTimeDownload": false, 
         "androidHash": "ddebc8920acf64ec05d6753bf6ab4802", 
         "resourceName": "cri/se_special.acb"
@@ -6627,9 +6645,27 @@
         "iosHash": "03dba88c143771cb719cb6f436cc2726", 
         "iosFileSize": 218656, 
         "androidFileSize": 218656, 
-        "resourceFileMstId": 737, 
+        "resourceFileMstId": 739, 
         "isEveryTimeDownload": false, 
         "androidHash": "03dba88c143771cb719cb6f436cc2726", 
         "resourceName": "cri/se_tutorial.acb"
+    }, 
+    {
+        "iosHash": "26bf315350ff37d7e660097b8096ef92", 
+        "iosFileSize": 19624512, 
+        "androidFileSize": 19624512, 
+        "resourceFileMstId": 740, 
+        "isEveryTimeDownload": false, 
+        "androidHash": "26bf315350ff37d7e660097b8096ef92", 
+        "resourceName": "cri/spaceinvader01.usm"
+    }, 
+    {
+        "iosHash": "e1e2b821373053b3f40269113970d29f", 
+        "iosFileSize": 18450272, 
+        "androidFileSize": 18450272, 
+        "resourceFileMstId": 741, 
+        "isEveryTimeDownload": false, 
+        "androidHash": "e1e2b821373053b3f40269113970d29f", 
+        "resourceName": "cri/spaceinvader02.usm"
     }
 ]

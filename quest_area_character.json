@@ -354,6 +354,12 @@
         "questAreaCharacterMstId": 93
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 19, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 94
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 19, 
         "characterMstId": 33, 
@@ -378,6 +384,12 @@
         "questAreaCharacterMstId": 101
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 20, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 102
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 20, 
         "characterMstId": 33, 
@@ -400,6 +412,12 @@
         "questAreaMstId": 21, 
         "characterMstId": 23, 
         "questAreaCharacterMstId": 109
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 21, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 110
     }, 
     {
         "createdTime": 1483974000, 
@@ -498,6 +516,12 @@
         "questAreaCharacterMstId": 132
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 26, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 133
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 27, 
         "characterMstId": 5, 
@@ -516,6 +540,12 @@
         "questAreaCharacterMstId": 138
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 27, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 139
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 28, 
         "characterMstId": 5, 
@@ -532,6 +562,12 @@
         "questAreaMstId": 28, 
         "characterMstId": 20, 
         "questAreaCharacterMstId": 144
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 28, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 145
     }, 
     {
         "createdTime": 1483974000, 
@@ -888,6 +924,12 @@
         "questAreaCharacterMstId": 240
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 47, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 241
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 47, 
         "characterMstId": 33, 
@@ -912,6 +954,12 @@
         "questAreaCharacterMstId": 248
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 48, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 249
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 48, 
         "characterMstId": 33, 
@@ -934,6 +982,12 @@
         "questAreaMstId": 49, 
         "characterMstId": 23, 
         "questAreaCharacterMstId": 256
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 49, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 257
     }, 
     {
         "createdTime": 1483974000, 
@@ -1032,6 +1086,12 @@
         "questAreaCharacterMstId": 279
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 54, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 280
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 55, 
         "characterMstId": 5, 
@@ -1050,6 +1110,12 @@
         "questAreaCharacterMstId": 285
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 55, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 286
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 56, 
         "characterMstId": 5, 
@@ -1066,6 +1132,12 @@
         "questAreaMstId": 56, 
         "characterMstId": 20, 
         "questAreaCharacterMstId": 291
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 56, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 292
     }, 
     {
         "createdTime": 1483974000, 
@@ -1230,6 +1302,12 @@
         "questAreaCharacterMstId": 330
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 65, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 331
+    }, 
+    {
         "createdTime": 1483974000, 
         "questAreaMstId": 67, 
         "characterMstId": 5, 
@@ -1246,6 +1324,12 @@
         "questAreaMstId": 67, 
         "characterMstId": 20, 
         "questAreaCharacterMstId": 336
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 67, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 337
     }, 
     {
         "createdTime": 1483974000, 
@@ -1490,6 +1574,12 @@
     {
         "createdTime": 1483974000, 
         "questAreaMstId": 81, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 410
+    }, 
+    {
+        "createdTime": 1483974000, 
+        "questAreaMstId": 81, 
         "characterMstId": 33, 
         "questAreaCharacterMstId": 411
     }, 
@@ -1514,6 +1604,12 @@
     {
         "createdTime": 1483974000, 
         "questAreaMstId": 82, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 418
+    }, 
+    {
+        "createdTime": 1483974000, 
+        "questAreaMstId": 82, 
         "characterMstId": 33, 
         "questAreaCharacterMstId": 419
     }, 
@@ -1534,6 +1630,12 @@
         "questAreaMstId": 83, 
         "characterMstId": 23, 
         "questAreaCharacterMstId": 425
+    }, 
+    {
+        "createdTime": 1483974000, 
+        "questAreaMstId": 83, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 426
     }, 
     {
         "createdTime": 1483974000, 
@@ -1692,6 +1794,12 @@
         "questAreaCharacterMstId": 644
     }, 
     {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 132, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 645
+    }, 
+    {
         "createdTime": 1483974013, 
         "questAreaMstId": 133, 
         "characterMstId": 2, 
@@ -1726,6 +1834,12 @@
         "questAreaMstId": 136, 
         "characterMstId": 23, 
         "questAreaCharacterMstId": 658
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 136, 
+        "characterMstId": 31, 
+        "questAreaCharacterMstId": 659
     }, 
     {
         "createdTime": 1483974000, 
@@ -1882,6 +1996,30 @@
         "questAreaMstId": 158, 
         "characterMstId": 27, 
         "questAreaCharacterMstId": 748
+    }, 
+    {
+        "createdTime": 1483974000, 
+        "questAreaMstId": 159, 
+        "characterMstId": 5, 
+        "questAreaCharacterMstId": 752
+    }, 
+    {
+        "createdTime": 1483974000, 
+        "questAreaMstId": 159, 
+        "characterMstId": 13, 
+        "questAreaCharacterMstId": 753
+    }, 
+    {
+        "createdTime": 1483974000, 
+        "questAreaMstId": 159, 
+        "characterMstId": 20, 
+        "questAreaCharacterMstId": 754
+    }, 
+    {
+        "createdTime": 1483974016, 
+        "questAreaMstId": 159, 
+        "characterMstId": 30, 
+        "questAreaCharacterMstId": 755
     }, 
     {
         "createdTime": 1483974016, 

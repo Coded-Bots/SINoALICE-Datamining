@@ -121,6 +121,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Late July Medal Event", 
+        "announceUrl": "/web/announce/body?announceMstId=190&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 22, 
+        "createdTime": 1483974000, 
+        "mapGroup": 9, 
+        "name": "Tin Heart"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Late July Armor Event", 
         "announceUrl": "", 
         "mapType": 1, 

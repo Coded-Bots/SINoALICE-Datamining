@@ -1260,6 +1260,16 @@
         "characterUniqueId": 6
     }, 
     {
+        "questAreaGroupMstId": 193, 
+        "questAreaType": 1, 
+        "questAreaMstId": 159, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 22, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 5
+    }, 
+    {
         "questAreaGroupMstId": 195, 
         "questAreaType": 1, 
         "questAreaMstId": 162, 

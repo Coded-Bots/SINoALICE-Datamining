@@ -5796,7 +5796,7 @@
         "TLM": 21108
     }, 
     {
-        "FR": "- a été retiré(e) de Votre Liste noire.", 
+        "FR": "- a été retiré(e) de votre Liste noire.", 
         "EN": "- has been removed from your blacklist.", 
         "GameKey": "SCRIPT/0415", 
         "DE": "- wurde von deiner schwarzen Liste entfernt.", 
@@ -11452,15 +11452,15 @@
         "TLM": 21512
     }, 
     {
-        "FR": "Apparition {0} {1}", 
-        "EN": "Appearance {0} {1}", 
+        "FR": "Apparition {1} {0}", 
+        "EN": "{0} {1} Appearance", 
         "GameKey": "SCRIPT/0819", 
         "DE": "Erscheinung {0} {1}", 
         "JP": "出現{0}{1}", 
         "VN": "Xuất hiện {0} {1}", 
         "KR": "등장 {0} {1}", 
-        "ES": "Apariencia {0}{1}", 
-        "TH": "การปรากฏ {0} {1}", 
+        "ES": "Aparición {1} {0}", 
+        "TH": "การปรากฏ{1} {0}", 
         "Type": 0, 
         "id": 819, 
         "TLM": 21513
@@ -13678,7 +13678,7 @@
         "TLM": 22777
     }, 
     {
-        "FR": "(médailles en bonus d’achat)", 
+        "FR": " (médailles en bonus d’achat)", 
         "EN": " purchase bonus medals.", 
         "GameKey": "SCRIPT/0989", 
         "DE": " Extramedaillen, die bei Kauf erhalten wurden.", 
@@ -14280,7 +14280,7 @@
         "TLM": 22820
     }, 
     {
-        "FR": "Le {0} de {1}", 
+        "FR": "Augm. {0} de {1} de", 
         "EN": "Expand {0} {1} by ", 
         "GameKey": "SCRIPT/1113", 
         "DE": "{0} {1} um", 
@@ -14294,7 +14294,7 @@
         "TLM": 22821
     }, 
     {
-        "FR": "{0}{1} actuel :", 
+        "FR": "{0} {1} :", 
         "EN": "Currently {1}:", 
         "GameKey": "SCRIPT/1114", 
         "DE": "Gegenwärtig {0} {1}:", 
@@ -16324,7 +16324,7 @@
         "TLM": 22966
     }, 
     {
-        "FR": "Augmenter {0} {1}.", 
+        "FR": "Augmenter {1} {0}.", 
         "EN": "Expand {0} {1}.", 
         "GameKey": "SCRIPT/1109", 
         "DE": "{0}: {1} erweitern.", 
@@ -16499,7 +16499,7 @@
         "JP": "残り{0}回で", 
         "VN": "{0} thời gian còn lại", 
         "KR": "앞으로 {0}회 실행 시", 
-        "ES": "Con el restante {0}", 
+        "ES": "Tras {0} veces", 
         "TH": "เหลืออีก {0} ครั้งจะการันตี", 
         "Type": 0, 
         "id": 1179, 
@@ -16509,12 +16509,12 @@
         "FR": "x{0} garanti.", 
         "EN": " x{0} Guaranteed", 
         "GameKey": "SCRIPT/1073", 
-        "DE": "{0} garantiert", 
+        "DE": "x{0} garantiert", 
         "JP": "{0}点確定", 
         "VN": "Bảo đảm {0}", 
         "KR": "{0}개 확정", 
-        "ES": "{0} Garantizado", 
-        "TH": "{0}", 
+        "ES": "{0} x1 garantizado", 
+        "TH": "{0} x", 
         "Type": 0, 
         "id": 1180, 
         "TLM": 22980
@@ -17710,7 +17710,7 @@
         "TLM": 50919
     }, 
     {
-        "FR": "Liaison avec compte de réseaux sociaux", 
+        "FR": "Liaison rés. soc.", 
         "EN": "Link Social Media Account", 
         "GameKey": "SCRIPT", 
         "DE": "Verbindung mit Social Media Kanälen", 

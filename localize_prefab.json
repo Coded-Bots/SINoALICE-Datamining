@@ -896,7 +896,7 @@
         "TLM": 19273
     }, 
     {
-        "FR": "Mot de passe", 
+        "FR": "MDP", 
         "EN": "Password", 
         "GameKey": "PREFAB/0424", 
         "DE": "Passwort", 
@@ -1820,7 +1820,7 @@
         "TLM": 19339
     }, 
     {
-        "FR": "Compétence", 
+        "FR": "Compétence(s)", 
         "EN": "Skill", 
         "GameKey": "PREFAB/0490", 
         "DE": "Fertigkeit", 
@@ -16033,11 +16033,11 @@
         "FR": "Médailles", 
         "EN": "Medals", 
         "GameKey": "PREFAB/1152", 
-        "DE": "Anzahl der Erfolge", 
+        "DE": "Medaillen", 
         "JP": "達成枚数", 
         "VN": "\"VN\": null", 
         "KR": "달성 개수", 
-        "ES": "Cantidad lograda", 
+        "ES": "Medallas", 
         "TH": "ได้รับเหรียญ", 
         "Type": 0, 
         "id": 1146, 
@@ -16535,7 +16535,7 @@
     }, 
     {
         "FR": "Lots", 
-        "EN": "Select All", 
+        "EN": "Batch Select", 
         "GameKey": "PREFAB", 
         "DE": "Alle", 
         "JP": "一括", 

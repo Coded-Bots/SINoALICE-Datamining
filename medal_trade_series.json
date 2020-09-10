@@ -70,6 +70,20 @@
         "description": "Awarded to those who've found true friendship."
     }, 
     {
+        "name": "Tin Medal", 
+        "startTime": 1599717600, 
+        "priority": 20, 
+        "isDeleted": false, 
+        "assetBundleName": "0176", 
+        "resourceName": "item20200903_medal_buriki", 
+        "wayToGet": "Play an event to view.", 
+        "endTime": 1600927199, 
+        "medalTradeSeriesMstId": 7, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 176, 
+        "description": "Medal collected by Parrah-Noya."
+    }, 
+    {
         "name": "Medal of Desire (VIII)", 
         "startTime": 1596088800, 
         "priority": 3, 
