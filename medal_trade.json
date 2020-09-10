@@ -1737,10 +1737,10 @@
         "medalNum": 35, 
         "priority": 30, 
         "medalTradeMstId": 133, 
-        "resetType": 1, 
+        "resetType": 0, 
         "isDeleted": false, 
         "startTime": 1599717600, 
-        "resetCycle": 1, 
+        "resetCycle": 0, 
         "medalTradeSeriesMstId": 7, 
         "itemMstId": 176, 
         "objectType": 2
