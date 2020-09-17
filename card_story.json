@@ -8864,6 +8864,166 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "As a boy, Dad would always tell me,\\n\"Your dad has two reasons for living.\\nThe first one is Mom, and the second one is you.\"\\nDad loved Mom and me.\\nWe were a happy family of three.", 
+        "cardStoryMstId": 2569, 
+        "cardMstId": 2488, 
+        "step": 1, 
+        "cardUniqueId": 1162, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One fateful day, everything cahnged.\\nI came home from playing outside, and Mom wasn't there.\\nWhen Dad came home, a little later than normal, he said he had no idea where Mom was either.\\nThen the phone rang--it was the hospital.\\nMom had gotten in an accident and died, the doctor explained.", 
+        "cardStoryMstId": 2570, 
+        "cardMstId": 2488, 
+        "step": 2, 
+        "cardUniqueId": 1162, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I handed the phone to Dad, and he talked for a while and hung up.\\nThen he took the spear down from the wall display.\\n\"I can't live anymore if I have no reason for living,\"\\nhe mumbled, and stabbed himself with the spear.\\nFor a while, Dad lie writhing around on the floor, spitting up blood. Then he stopped moving.", 
+        "cardStoryMstId": 2571, 
+        "cardMstId": 2489, 
+        "step": 3, 
+        "cardUniqueId": 1162, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Left alone, there was only one thing I could do.\\nI was convinced that families should always stick together.\\nSo I threw myself on the spear point sticking out of Dad's body.\\nAnd as I did, I thought... funny how the doctor got Mom's last name wrong...", 
+        "cardStoryMstId": 2572, 
+        "cardMstId": 2489, 
+        "step": 4, 
+        "cardUniqueId": 1162, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "That day was the final round of the tournament at Invader House in Tokyo. I sat down at one of the two cabinets that were lined up side by side. Moments later, I heard cheering from the gallery behind me. There were many shrill women's voices mingled with the cheering.", 
+        "cardStoryMstId": 2573, 
+        "cardMstId": 2498, 
+        "step": 1, 
+        "cardUniqueId": 1167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I was just a high school student then, but nobody in the area could beat my score. My skills even attracted groupies--five girls came with me to the gallery.\\nI wanted to put on a show for the girls, but my opponent in the final round didn't give me the chance. Thanks to the stupid mistakes he kept making, I easily left him in the dust.", 
+        "cardStoryMstId": 2574, 
+        "cardMstId": 2498, 
+        "step": 2, 
+        "cardUniqueId": 1167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Victory seemed certain.\\nSo I made some mistakes on purpose, just to get the crowd excited.\\nBut seeing the mistakes I made seemed to give my opponent a fresh burst of energy, and since my rhythm was out of whack, I messed up the Nagoya Zap, lost my shelters and then my ship.", 
+        "cardStoryMstId": 2575, 
+        "cardMstId": 2499, 
+        "step": 3, 
+        "cardUniqueId": 1167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "After my deliberate slip-up, things got more difficult, so I strung together the shortest possible patterns and racked up a new personal best. I had won the championship.\\nThe management department gave me award money and a trophy, and a magazine even interviewed me.\\nLater, I saw the initials I'd entered on the high score list, \"KIT,\" printed in huge letters in the magazine.", 
+        "cardStoryMstId": 2576, 
+        "cardMstId": 2499, 
+        "step": 4, 
+        "cardUniqueId": 1167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[1P: He rose above 3300 tournament competitors to take the top spot...]\\nPlayer YAM has emerged as the victor of the nationwide Space Invaders tournament!\\nFor a stunning performance, the victor has received award money and a trophy!", 
+        "cardStoryMstId": 2577, 
+        "cardMstId": 2504, 
+        "step": 1, 
+        "cardUniqueId": 1170, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[2P: Interview with the victor]\\nQ: How did the final match go?\\nMy opponent, KNS, is a well-known player, and I wasn't sure I could win. I came out victorious thanks to sheer luck, because KNS just happened to mess up the Nagoya Zap and lost his ship.", 
+        "cardStoryMstId": 2578, 
+        "cardMstId": 2504, 
+        "step": 2, 
+        "cardUniqueId": 1170, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[3P: Interview with the victor]\\nQ: Which part of the tournament made the biggest impression on you?\\nA: My friend KIT who entered the tournament with me had to go the hospital with a collapsed lung before the preliminaries started. To be honest, he's a better player than me, and it was a shame he had to drop out.", 
+        "cardStoryMstId": 2579, 
+        "cardMstId": 2505, 
+        "step": 3, 
+        "cardUniqueId": 1170, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[4P: Interview with the victor]\\nQ: How will you spend your award money?\\nA: This is a little embarrassing to talk about, but I made a girlfriend at the tournament, so I'm going to use it to take her on a date [laughs].", 
+        "cardStoryMstId": 2580, 
+        "cardMstId": 2505, 
+        "step": 4, 
+        "cardUniqueId": 1170, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "10111100101000011\\n01001001100111010", 
+        "cardStoryMstId": 2613, 
+        "cardMstId": 2500, 
+        "step": 1, 
+        "cardUniqueId": 1168, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "1001011010010010\\n1001011101100110", 
+        "cardStoryMstId": 2614, 
+        "cardMstId": 2500, 
+        "step": 2, 
+        "cardUniqueId": 1168, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "1001011111001110\\n1001011100100010", 
+        "cardStoryMstId": 2615, 
+        "cardMstId": 2501, 
+        "step": 3, 
+        "cardUniqueId": 1168, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "1001001100111110\\n1111111100110111\\n00111110110101", 
+        "cardStoryMstId": 2616, 
+        "cardMstId": 2501, 
+        "step": 4, 
+        "cardUniqueId": 1168, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "1011110010100001101\\n0010011001110101111", 
+        "cardStoryMstId": 2617, 
+        "cardMstId": 2502, 
+        "step": 1, 
+        "cardUniqueId": 1169, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "111011011110100101\\n101011011010010111", 
+        "cardStoryMstId": 2618, 
+        "cardMstId": 2502, 
+        "step": 2, 
+        "cardUniqueId": 1169, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "100011101001011110\\n100110100100110011", 
+        "cardStoryMstId": 2619, 
+        "cardMstId": 2503, 
+        "step": 3, 
+        "cardUniqueId": 1169, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "11101111011110001\\n1101101111110100", 
+        "cardStoryMstId": 2620, 
+        "cardMstId": 2503, 
+        "step": 4, 
+        "cardUniqueId": 1169, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "A blade unearthed from the wasteland.\\nToo big to be called a sword, too heavy to fight with, too ugly to be cermonial.\\nWhat was it for?\\nIt left the archaeologists scratching their heads.", 
         "cardStoryMstId": 3121, 
         "cardMstId": 2987, 

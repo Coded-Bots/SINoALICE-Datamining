@@ -1276,6 +1276,20 @@
     {
         "transitionCaption": "", 
         "createdTime": 1483196400, 
+        "title": "Restricted Events", 
+        "mainCategoryId": 2, 
+        "transitionSceneName": "", 
+        "updatedTime": 1483196400, 
+        "content": "鍵を使用することで特定のモノガタリを解放できるイベントです。鍵にはそれぞれ効果、共闘制限、使用期限があります。\r\n\r\n鍵の例\r\n『蠢ク闇(武器)の鍵(Ⅰ)』\r\n・10分間プレイ可能\r\n・ギルドメンバーのみ共闘可能\r\n・翌日のログインボーナス更新時間に削除\r\n\r\nそれぞれの鍵の効果、共闘制限、使用期限は各種お知らせ、アイテム一覧等でご確認ください。鍵はログインボーナスやイベントの報酬などで獲得することができます。", 
+        "helpMstId": 92, 
+        "subCategoryOrder": 14, 
+        "mainCategoryOrder": 0, 
+        "categoryType": 2, 
+        "isDeleted": false
+    }, 
+    {
+        "transitionCaption": "", 
+        "createdTime": 1483196400, 
         "title": "Change Outfits", 
         "mainCategoryId": 6, 
         "transitionSceneName": "", 

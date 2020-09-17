@@ -72,6 +72,18 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 78, 
+        "assetBundleName": "", 
+        "title": "Collaboration Event ①", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1600318800, 
+        "resourceName": "1", 
+        "endTime": 1601528399, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 104, 
         "assetBundleName": "", 
         "title": "Event Bonus ①", 

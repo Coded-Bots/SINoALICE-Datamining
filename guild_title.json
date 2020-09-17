@@ -891,6 +891,33 @@
         "resourceName": "0001"
     }, 
     {
+        "name": "With this, you can play forever! (AKA: buy a machine with a loan", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 1556, 
+        "detail": "Title awarded for 1st place in the Guild Medal Rankings for Invaders from Space.", 
+        "assetBundleName": "guild_title/3", 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "You play dirty  (AKA: Borrowing from your parent’s wallet) ", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 1557, 
+        "detail": "Title awarded for 2nd place in the Guild Medal Rankings for Invaders from Space.", 
+        "assetBundleName": "guild_title/3", 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "Knowing the weight of 1 game (AKA: Not enough pocket change) ", 
+        "limitTime": 1893423600, 
+        "guildTitleMstId": 1558, 
+        "detail": "Title awarded for 3rd place in the Guild Medal Rankings for Invaders from Space.", 
+        "assetBundleName": "guild_title/3", 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
         "name": "2nd Gran Colosseum [League 1: Overall Rank 1]", 
         "limitTime": 1893423600, 
         "guildTitleMstId": 900001, 

@@ -890,7 +890,7 @@
         "VN": "Thứ hạng đóng góp của -\\\\nhiện được cập nhật.", 
         "KR": "의\\\\n기여도 랭킹 집계가 완료되었습니다.", 
         "ES": "Las clasificaciones de las aportaciones de -\\\\nestán ahora actualizadas.", 
-        "TH": "การประมวลผลอันดับระดับการช่วยเหลือ- \\\\nเสร็จแล้ว", 
+        "TH": "\\\\nประมวลผลอันดับการทุ่มเทเสร็จแล้ว", 
         "Type": 0, 
         "id": 64, 
         "TLM": 20758
@@ -1582,15 +1582,15 @@
         "TLM": 20807
     }, 
     {
-        "FR": "\\\\n\\\\n<size=28><color={0}>{1}x récompenses d'exploit obtenues.</color></size>", 
-        "EN": "\\\\n\\\\n<size=28><color={0}>You earned a reward for completing {1} time(s).</color></size>", 
+        "FR": "\\\\n\\\\n<size=28><color={0}>Récompense pour avoir invoqué {1} fois.</color></size>", 
+        "EN": "\\\\n\\\\n<size=28><color={0}>Reward for summoning {1} time(s).</color></size>", 
         "GameKey": "SCRIPT/0114", 
-        "DE": "\\\\n\\\\n<size=28><color={0}>{1} x Leistungsbelohnung verdient.</color></size>", 
+        "DE": "\\\\n\\\\n<size=28><color={0}>Belohnung für {1} Beschwörung(en).</color></size>", 
         "JP": "\\\\n\\\\n<size=28><color={0}>{1}回達成報酬を獲得しました。</color></size>", 
         "VN": "\\\\n\\\\n<size=28><color={0}>{1}Đã đạt được x phần thưởng thành tích.</color></size>", 
         "KR": "\\\\n\\\\n<size=28><color={0}>{1}회 달성 보상을 획득하였습니다.</color></size>", 
-        "ES": "\\\\n\\\\n<size=28><color={0}>{1}x recompensas de logro obtenidas.</color></size>", 
-        "TH": "\\\\n\\\\n<size=28><color={0}>ได้รับรางวัลความสำเร็จ{1}ครั้งแล้ว</color></size>", 
+        "ES": "\\\\n\\\\n<size=28><color={0}>Recompensas por haber invocado x{1} veces</color></size>", 
+        "TH": "\\\\n\\\\n<size=28><color={0}>ได้รับรางวัลตามจำนวนครั้งกรีมัวร์ {1} ครั้งแล้ว</color></size>", 
         "Type": 0, 
         "id": 114, 
         "TLM": 20808
@@ -1660,7 +1660,7 @@
         "VN": "Thứ hạng đóng góp cho trận chiến hiện được cập nhật.", 
         "KR": "시합의 기여도 랭킹 집계가 끝났습니다.", 
         "ES": "Las clasificaciones de aportaciones de los combates fueron actualizadas.", 
-        "TH": "การจัดอันดับผลงานสำหรับการต่อสู้ได้รับการอัปเดตแล้ว", 
+        "TH": "ประมวลผลอันดับการทุ่มเทในการแข่งขันเสร็จแล้ว", 
         "Type": 0, 
         "id": 119, 
         "TLM": 20813
@@ -4721,7 +4721,7 @@
         "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nBlanche : \"Pour la Justice, quel que soit le combat.", 
         "EN": "Noya: \"Get in here and Purify already!\"\\\\nSnow: \"Justice, no matter the fight.\"", 
         "GameKey": "SCRIPT/0338", 
-        "DE": "Noya: „Komm her und läutere endlich!“\\\\nSchneewittchen: „Gerechtigkeit, egal in welchem Kampf.“", 
+        "DE": "Noya: „Komm her und reinige endlich!“\\\\nSchneewittchen: „Gerechtigkeit, egal in welchem Kampf.“", 
         "JP": "アンキ「そろそろオソウジしてヨ！」\\\\nスノウ「どんな戦いにも、公正を」", 
         "VN": "Noya: \\\"Tới đây và Thanh tẩy đã sẵn sàng!\\\"\\\\nBạch Tuyết: \\\"Công lý, dẫu cho phải chiến đấu thế nào.\\", 
         "KR": "스푸키 \"슬슬 청소 좀 하세요!\"\\\\n백설공주 \"어떤 싸움이든 공정하게.\"", 
@@ -5796,15 +5796,15 @@
         "TLM": 21108
     }, 
     {
-        "FR": "- a été retiré(e) de votre Liste noire.", 
-        "EN": "- has been removed from your blacklist.", 
+        "FR": "a été retiré(e) de votre Liste noire.", 
+        "EN": " has been removed from your blacklist.", 
         "GameKey": "SCRIPT/0415", 
-        "DE": "- wurde von deiner schwarzen Liste entfernt.", 
+        "DE": " wurde von deiner schwarzen Liste entfernt.", 
         "JP": "さんをブラックリストから解除しました。", 
         "VN": "– đã bị xóa khỏi danh sách cấm của bạn.", 
         "KR": " 님을 차단 목록에서 삭제하였습니다.", 
-        "ES": "Se eliminó de la lista negra a -.", 
-        "TH": "- ถูกนำออกจากแบ็คลิสท์ของคุณ", 
+        "ES": "fue eliminado de la lista negra.", 
+        "TH": "ถูกนำออกจากแบล็คลิสต์แล้ว", 
         "Type": 0, 
         "id": 415, 
         "TLM": 21109
@@ -7210,14 +7210,14 @@
         "TLM": 21209
     }, 
     {
-        "FR": "</color>invocations", 
-        "EN": "</color>summons", 
+        "FR": "</color> invocation(s)", 
+        "EN": "</color> summon(s)", 
         "GameKey": "SCRIPT/0516", 
-        "DE": "</color>Beschwörungen", 
+        "DE": "</color> Beschwörung(en)", 
         "JP": "</color>回", 
         "VN": "</color>triệu hồi", 
         "KR": "</color>회", 
-        "ES": "</color>invocaciones", 
+        "ES": "</color> invocación(es)", 
         "TH": "</color>ครั้ง", 
         "Type": 0, 
         "id": 516, 
@@ -7350,7 +7350,7 @@
         "TLM": 21219
     }, 
     {
-        "FR": "Vous avez obtenu {1} {0}.", 
+        "FR": "Vous avez obtenu {0} « {1} ».", 
         "EN": "You got {0} x{1}.", 
         "GameKey": "SCRIPT/0526", 
         "DE": "Du hast {0} x{1} erhalten.", 
@@ -7644,14 +7644,14 @@
         "TLM": 21240
     }, 
     {
-        "FR": "Possédé(s) :", 
-        "EN": "Owned:", 
+        "FR": "Possédé(s) : ", 
+        "EN": "Owned: ", 
         "GameKey": "SCRIPT/0547", 
-        "DE": "In Besitz:", 
+        "DE": "In Besitz: ", 
         "JP": "所持数：", 
         "VN": "Đã sở hữu:", 
         "KR": "보유: ", 
-        "ES": "En posesión:", 
+        "ES": "En posesión: ", 
         "TH": "มีอยู่：", 
         "Type": 0, 
         "id": 547, 
@@ -9598,7 +9598,7 @@
         "VN": "của\\\\nChiến đấu trong lễ hội chiến trận số 2 đã được cập nhật.", 
         "KR": "의\\\\r\\\\n기여도 랭킹 집계가 완료되었습니다.", 
         "ES": "Se actualizaron las clasificaciones de aportaciones de\\\\n .", 
-        "TH": "การประมวลผลอันดับระดับการช่วยเหลือ- \\\\r\\\\nเสร็จแล้ว", 
+        "TH": "\\\\r\\\\nประมวลผลอันดับการทุ่มเทเสร็จแล้ว", 
         "Type": 0, 
         "id": 686, 
         "TLM": 21380
@@ -12096,7 +12096,7 @@
         "TLM": 21558
     }, 
     {
-        "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits.\\n ", 
+        "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits. \\n", 
         "EN": "any paid twilight crystals will become free twilight crystals.\\\\n", 
         "GameKey": "SCRIPT/0865", 
         "DE": "werden alle bezahlten Zwielichtkristalle zu kostenlosen Zwielichtkristallen. ", 
@@ -12110,7 +12110,7 @@
         "TLM": 21559
     }, 
     {
-        "FR": " Merci de votre compréhension.", 
+        "FR": "Merci de votre compréhension.", 
         "EN": " Thank you for your understanding.", 
         "GameKey": "SCRIPT/0866", 
         "DE": " Danke für dein Verständnis.", 
@@ -12607,7 +12607,7 @@
         "JP": "メンバー:", 
         "VN": "Hội viên:", 
         "KR": "인원: ", 
-        "ES": "Miembros:", 
+        "ES": "Miemb.:", 
         "TH": "สมาชิก:", 
         "Type": 0, 
         "id": 901, 
@@ -14073,7 +14073,7 @@
         "FR": "Grimoires actuels :  <color=#B42F00FF>", 
         "EN": "Current Grimoires: <color=#B42F00FF>", 
         "GameKey": "SCRIPT/1017", 
-        "DE": "Momentane Grimoires:  <color=#B42F00FF>", 
+        "DE": "Momentane Grimoire:  <color=#B42F00FF>", 
         "JP": "現在のガチャ回数：<color=#B42F00FF>", 
         "VN": "Số lần triệu hồi Sách phép hiện tại:  <color=#B42F00FF>", 
         "KR": "현재 뽑기 횟수: <color=#B42F00FF>", 
@@ -14266,7 +14266,7 @@
         "TLM": 22819
     }, 
     {
-        "FR": "{0} {1} est étendu.", 
+        "FR": "{1} {0} ajoutés.", 
         "EN": "Expanded {0} {1}.", 
         "GameKey": "SCRIPT/1112", 
         "DE": "{0} {1} erweitert.", 
@@ -14280,7 +14280,7 @@
         "TLM": 22820
     }, 
     {
-        "FR": "Augm. {0} de {1} de", 
+        "FR": "Augm. {1} de {0} de", 
         "EN": "Expand {0} {1} by ", 
         "GameKey": "SCRIPT/1113", 
         "DE": "{0} {1} um", 
@@ -14301,7 +14301,7 @@
         "JP": "現在の{0}{1}数：", 
         "VN": "{0} {1} hiện tại:", 
         "KR": "현재 {0} {1} 수: ", 
-        "ES": "{0}{1}:", 
+        "ES": "{1}:", 
         "TH": "จำนวน{1}{0}ในปัจจุบัน: ", 
         "Type": 0, 
         "id": 1022, 
@@ -16240,7 +16240,7 @@
         "TLM": 22960
     }, 
     {
-        "FR": "jj/MM HH:mm", 
+        "FR": "dd/MM HH:mm", 
         "EN": "MM/dd HH:mm", 
         "GameKey": "SCRIPT/1103", 
         "DE": "dd.MM. HH:mm", 
@@ -16296,7 +16296,7 @@
         "TLM": 22964
     }, 
     {
-        "FR": "Emplacements d'inventaire", 
+        "FR": "Emplacements", 
         "EN": "Inventory Slots", 
         "GameKey": "SCRIPT/1107", 
         "DE": ": Inventarplätze", 
@@ -16324,7 +16324,7 @@
         "TLM": 22966
     }, 
     {
-        "FR": "Augmenter {1} {0}.", 
+        "FR": "Augm. {1} {0}", 
         "EN": "Expand {0} {1}.", 
         "GameKey": "SCRIPT/1109", 
         "DE": "{0}: {1} erweitern.", 
@@ -16513,8 +16513,8 @@
         "JP": "{0}点確定", 
         "VN": "Bảo đảm {0}", 
         "KR": "{0}개 확정", 
-        "ES": "{0} x1 garantizado", 
-        "TH": "{0} x", 
+        "ES": "x{0} garantizado", 
+        "TH": " x{0}", 
         "Type": 0, 
         "id": 1180, 
         "TLM": 22980
@@ -17713,7 +17713,7 @@
         "FR": "Liaison rés. soc.", 
         "EN": "Link Social Media Account", 
         "GameKey": "SCRIPT", 
-        "DE": "Verbindung mit Social Media Kanälen", 
+        "DE": "Verknüpfen", 
         "JP": "SNSアカウントと連携", 
         "VN": "", 
         "KR": "SNS 계정과 연동", 
@@ -17895,7 +17895,7 @@
         "FR": "utilisés <color={0}>{1} fois</color> accomplissent une invocation.", 
         "EN": "Use these weapons <color={0}>{1} times</color> total to summon.", 
         "GameKey": "SCRIPT", 
-        "DE": "Druch die Nutzung von <color={0}>x{1} </color>Beschwörungserfolg", 
+        "DE": "Durch die Nutzung von <color={0}>x{1} </color>Beschwörungserfolg", 
         "JP": "を<color={0}>{1}回</color>使用で召喚成功", 
         "VN": "", 
         "KR": "을(를) <color={0}>{1}회</color> 사용 시 소환 성공", 
@@ -18464,5 +18464,19 @@
         "Type": 0, 
         "id": 1319, 
         "TLM": 51261
+    }, 
+    {
+        "FR": "Impossible d'afficher les détails de cet ensemble d'équipement.", 
+        "EN": "Cannot display gear set details.", 
+        "GameKey": "SCRIPT", 
+        "DE": "Es können keine Details zu diesem Ausrüstungsset angezeigt werden.", 
+        "JP": "この装備セットの詳細は表示できません", 
+        "VN": "", 
+        "KR": "이 장비 세트의 정보는 표시할 수 없습니다.", 
+        "ES": "No se pueden mostrar los detalles de este set de equipos.", 
+        "TH": "ไม่สามารถแสดงรายละเอียดเซ็ตอุปกรณ์นี้ได้", 
+        "Type": 0, 
+        "id": 1320, 
+        "TLM": 51269
     }
 ]

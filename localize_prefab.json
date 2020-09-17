@@ -148,7 +148,7 @@
         "VN": "Hạng đóng góp", 
         "KR": "기여도 랭킹", 
         "ES": "Clasificación de aportaciones", 
-        "TH": "การจัดอันดับระดับการสนับสนุน", 
+        "TH": "อันดับการทุ่มเท", 
         "Type": 0, 
         "id": 11, 
         "TLM": 19220
@@ -372,7 +372,7 @@
         "VN": "Thứ hạng đóng góp cho trận chiến đầu tiên vừa được cập nhật.", 
         "KR": "제1시합의 기여도 랭킹 집계가 완료되었습니다.", 
         "ES": "Ya se ha actualizado la clasificación de aportaciones para la primera batalla.", 
-        "TH": "ประมวลผลระดับการสนับสนุนในการแข่งขันรอบที่1เสร็จสิ้นแล้ว", 
+        "TH": "ประมวลผลอันดับการทุ่มเทในการแข่งขันรอบที่1เสร็จสิ้นแล้ว", 
         "Type": 0, 
         "id": 27, 
         "TLM": 19236
@@ -812,7 +812,7 @@
         "TLM": 19267
     }, 
     {
-        "FR": "Une nouvelle strophe est débloquée", 
+        "FR": "Un nouveau chapitre a été débloqué.", 
         "EN": "A new chapter has been unlocked.", 
         "GameKey": "PREFAB/0418", 
         "DE": "Ein neues Kapitel wurde freigeschaltet.", 
@@ -1821,13 +1821,13 @@
     }, 
     {
         "FR": "Compétence(s)", 
-        "EN": "Skill", 
+        "EN": "Skills", 
         "GameKey": "PREFAB/0490", 
         "DE": "Fertigkeit", 
         "JP": "スキル", 
         "VN": "Kỹ năng", 
         "KR": "스킬", 
-        "ES": "Habilidad", 
+        "ES": "Habilidades", 
         "TH": "สกิล", 
         "Type": 0, 
         "id": 131, 
@@ -3220,7 +3220,7 @@
         "TLM": 19439
     }, 
     {
-        "FR": "Ne peut être vendu. L'objet est actuellement équipé.", 
+        "FR": "Verrouillé. Ne peut être vendu.", 
         "EN": "Cannot be sold. Item is currently equipped.", 
         "GameKey": "PREFAB/0590", 
         "DE": "Kann nicht verkauft werden. Item ist derzeit ausgerüstet.", 
@@ -4760,7 +4760,7 @@
         "TLM": 19549
     }, 
     {
-        "FR": "Coût en Cristaux crépusculaires", 
+        "FR": "Cristaux crépusculaires", 
         "EN": "remaining", 
         "GameKey": "PREFAB/0700", 
         "DE": "Zwielichtkristallkosten", 
@@ -6384,7 +6384,7 @@
         "TLM": 19665
     }, 
     {
-        "FR": " de plus", 
+        "FR": " de plus.", 
         "EN": "Expand", 
         "GameKey": "PREFAB/0816", 
         "DE": " erweitern.", 
@@ -9198,14 +9198,14 @@
         "TLM": 19866
     }, 
     {
-        "FR": "x", 
+        "FR": " ", 
         "EN": "", 
         "GameKey": "PREFAB/0036", 
-        "DE": " Stück", 
+        "DE": " ", 
         "JP": "個", 
         "VN": "không xác định", 
         "KR": "개", 
-        "ES": " Unidad(es)", 
+        "ES": "", 
         "TH": " ชิ้น", 
         "Type": 0, 
         "id": 658, 
@@ -9744,10 +9744,10 @@
         "TLM": 19905
     }, 
     {
-        "FR": "Acheter un Cristal crépusculaire", 
+        "FR": "Acheter des Cristaux crépusculaires", 
         "EN": "Purchase Twilight Crystals", 
         "GameKey": "PREFAB/0123", 
-        "DE": "Zwielichtkristall kaufen", 
+        "DE": "Zwielichtkristalle kaufen", 
         "JP": "魔晶石購入", 
         "VN": "Mua Pha lê chạng vạng", 
         "KR": "마정석 구매", 
@@ -9794,7 +9794,7 @@
         "VN": "Sử dụng 5 giọt Máu nhân vật\\\\nđể triệu hồi Sách phép?", 
         "KR": "캐릭터들의 피를 5개 소비하여\\\\n뽑기를 하시겠습니까?", 
         "ES": "¿Usar la sangre de 5 personajes\\\\npara invocar el grimorio?", 
-        "TH": "ใช้เลือดของเหล่าตัวละคร 5\\\\nเพื่อดึงกรีมัวร์หรือไม่?", 
+        "TH": "ใช้เลือดของเหล่าตัวละคร 5 ขวด\\\\nเพื่อดึงกรีมัวร์หรือไม่?", 
         "Type": 0, 
         "id": 700, 
         "TLM": 19909
@@ -15795,7 +15795,7 @@
         "FR": "Résultat", 
         "EN": "Result", 
         "GameKey": "PREFAB/1132", 
-        "DE": "Result", 
+        "DE": "Ergebnis", 
         "JP": "Result", 
         "VN": "\"VN\": null", 
         "KR": "Result", 
@@ -16037,7 +16037,7 @@
         "JP": "達成枚数", 
         "VN": "\"VN\": null", 
         "KR": "달성 개수", 
-        "ES": "Medallas", 
+        "ES": "Cantidad", 
         "TH": "ได้รับเหรียญ", 
         "Type": 0, 
         "id": 1146, 
@@ -16066,7 +16066,7 @@
         "VN": "\"VN\": null", 
         "KR": "기여도", 
         "ES": "Grado de contribución", 
-        "TH": "ระดับการสนับสนุน", 
+        "TH": "การทุ่มเท", 
         "Type": 0, 
         "id": 1148, 
         "TLM": 50629
@@ -16546,5 +16546,47 @@
         "Type": 0, 
         "id": 1182, 
         "TLM": 51197
+    }, 
+    {
+        "FR": "Prochain tirage dans 24h", 
+        "EN": "Can draw 24h after joining guild", 
+        "GameKey": "PREFAB", 
+        "DE": "Kann 24h nach Gildenbeitritt beschworen werden.", 
+        "JP": "ギルド加入の24時間後から引けます", 
+        "VN": "", 
+        "KR": "길드 가입 후 24시간이 지나면 뽑을 수 있습니다.", 
+        "ES": "Se podrá tirar tras 24h en gremio", 
+        "TH": "ใช้ได้24ชม.หลังเข้ากิลด์", 
+        "Type": 0, 
+        "id": 1183, 
+        "TLM": 51271
+    }, 
+    {
+        "FR": "Du {2}.{1}.{0} au {5}.{4}.{3} à {6}.", 
+        "EN": "{1}/{2}/{0} ~ {4}/{5}/{3} at {6}", 
+        "GameKey": "PREFAB", 
+        "DE": "{2}.{1}.{0} - {5}.{4}.{3} {6}", 
+        "JP": "{0}年{1}月{2}日 ～ {3}年{4}月{5}日 {6}", 
+        "VN": "", 
+        "KR": "{0}년 {1}월 {2}일 ~ {3}년 {4}월 {5}일 {6}", 
+        "ES": "{2} {1} {0} ~ {4} {5} {3} {6}", 
+        "TH": "วันที่ {2} เดือน {1} ปี {0} - วันที่ {5} เดือน {4} ปี {3} เวลา {6}น.", 
+        "Type": 0, 
+        "id": 1184, 
+        "TLM": 51274
+    }, 
+    {
+        "FR": "{0}e combat : classements des contributions à jour.", 
+        "EN": "", 
+        "GameKey": "PREFAB", 
+        "DE": "", 
+        "JP": "第{0}試合の貢献度ランキングの集計が完了しました。", 
+        "VN": "", 
+        "KR": "제{0}시합의 기여도 랭킹 집계가 끝났습니다.", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1185, 
+        "TLM": 51276
     }
 ]

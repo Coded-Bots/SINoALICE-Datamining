@@ -1141,7 +1141,7 @@
         "JP": "所属人数", 
         "VN": "Thành viên", 
         "KR": "소속 인원수", 
-        "ES": "Miembros", 
+        "ES": "Miemb.", 
         "TH": "จำนวนสมาชิก", 
         "Type": 0, 
         "id": 82, 
@@ -2639,7 +2639,7 @@
         "JP": "ギルドランキング", 
         "VN": "Xếp hạng hội", 
         "KR": "길드 랭킹", 
-        "ES": "Clasificación del gremio", 
+        "ES": "Clasif. gremio", 
         "TH": "การจัดอันดับกิลด์", 
         "Type": 0, 
         "id": 189, 
@@ -6244,7 +6244,7 @@
         "TLM": 20618
     }, 
     {
-        "FR": "Améliorer la fusion", 
+        "FR": "Fusion améliorée", 
         "EN": "Upgrade/Fuse", 
         "GameKey": "SCENE/0446", 
         "DE": "Fusion verbessern", 
@@ -6650,7 +6650,7 @@
         "TLM": 20647
     }, 
     {
-        "FR": "Résultats", 
+        "FR": " : Résultats", 
         "EN": "Results", 
         "GameKey": "SCENE/0475", 
         "DE": "Ergebnisse", 
@@ -7057,7 +7057,7 @@
     }, 
     {
         "FR": "Évènement clé", 
-        "EN": "Key Events", 
+        "EN": "Restricted Events", 
         "GameKey": "SCENE/0504", 
         "DE": "Schlüssel-Event", 
         "JP": "鍵イベント", 

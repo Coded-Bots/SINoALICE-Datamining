@@ -168,6 +168,34 @@
         "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt"
     }, 
     {
+        "name": "Invader medal", 
+        "startTime": 1600318800, 
+        "priority": 43, 
+        "isDeleted": false, 
+        "assetBundleName": "792", 
+        "resourceName": "item20200917_medal_invader", 
+        "wayToGet": "Earned by playing an event.", 
+        "endTime": 1602136799, 
+        "medalTradeSeriesMstId": 49, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 792, 
+        "description": "Medal collected by Parrah-Noya."
+    }, 
+    {
+        "name": "Taito medal", 
+        "startTime": 1600322400, 
+        "priority": 44, 
+        "isDeleted": false, 
+        "assetBundleName": "0051", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoire.", 
+        "endTime": 1602169199, 
+        "medalTradeSeriesMstId": 51, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 794, 
+        "description": "Medal from a collaboration grimoire."
+    }, 
+    {
         "name": "Replicant medal", 
         "startTime": 1596693600, 
         "priority": 44, 

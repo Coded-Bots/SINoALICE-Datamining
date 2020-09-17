@@ -1555,7 +1555,7 @@
     }, 
     {
         "FR": "Objets en vedette", 
-        "EN": "featured item", 
+        "EN": "Featured Item", 
         "GameKey": "Image/0112", 
         "DE": "Items im Fokus", 
         "JP": "目玉商品", 
@@ -2583,7 +2583,7 @@
         "JP": "スキル", 
         "VN": "Kỹ năng", 
         "KR": "스킬", 
-        "ES": "Habilidad", 
+        "ES": "Habilidades", 
         "TH": "สกิล", 
         "Type": 0, 
         "id": 185, 
@@ -2758,7 +2758,7 @@
         "TLM": 296
     }, 
     {
-        "FR": "Récompense de premier accomplissement", 
+        "FR": "Récompense de premier achèvement", 
         "EN": "First-Time Clear Reward", 
         "GameKey": "Image/0198", 
         "DE": "Erstabschlussbelohnung", 
@@ -3395,7 +3395,7 @@
         "JP": "現在のスキル", 
         "VN": "Kỹ năng hiện tại", 
         "KR": "현재 스킬", 
-        "ES": "Habilidad actual", 
+        "ES": "Habilidades actuales", 
         "TH": "สกิลปัจจุบัน", 
         "Type": 0, 
         "id": 243, 
@@ -4343,7 +4343,7 @@
         "FR": "Résultat", 
         "EN": "Results", 
         "GameKey": "Image/0309", 
-        "DE": "Result", 
+        "DE": "Ergebnis", 
         "JP": "Result", 
         "VN": "\"VN\": null", 
         "KR": "Result", 
@@ -4368,10 +4368,10 @@
         "TLM": 50540
     }, 
     {
-        "FR": "Monter en rang", 
+        "FR": "Montée en rang", 
         "EN": "Rank Up", 
         "GameKey": "Image/313", 
-        "DE": "Rank Up", 
+        "DE": "Rangaufstieg", 
         "JP": "Rank Up", 
         "VN": "\"VN\": null", 
         "KR": "Rank Up", 
@@ -4536,7 +4536,7 @@
         "TLM": 50574
     }, 
     {
-        "FR": "ÉTAPE ", 
+        "FR": "ÉTAPE 1", 
         "EN": "STEP 1", 
         "GameKey": "Image/0325", 
         "DE": "STEP 1", 
@@ -4676,14 +4676,14 @@
         "TLM": 50634
     }, 
     {
-        "FR": "Obtenir l'objet", 
-        "EN": "Get Item", 
+        "FR": "Objet obtenu", 
+        "EN": "Item Received", 
         "GameKey": "Image/0335", 
-        "DE": "Erhalte Item", 
+        "DE": "Item erhalten", 
         "JP": "Get Item", 
         "VN": "\"VN\": null", 
         "KR": "아이템 GET", 
-        "ES": "Obtener objeto", 
+        "ES": "Objeto obtenido", 
         "TH": "รับไอเท็ม", 
         "Type": 0, 
         "id": 335, 

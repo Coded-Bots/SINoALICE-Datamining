@@ -26,7 +26,7 @@
         "objectType": 2
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 2, 
         "rank": 0, 
         "rewardType": 2, 
@@ -39,7 +39,7 @@
         "objectType": 1
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 373, 
         "rank": 0, 
         "rewardType": 2, 
@@ -130,7 +130,7 @@
         "objectType": 2
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 2, 
         "rank": 1, 
         "rewardType": 2, 
@@ -143,7 +143,7 @@
         "objectType": 1
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 373, 
         "rank": 1, 
         "rewardType": 2, 
@@ -234,7 +234,7 @@
         "objectType": 2
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 2, 
         "rank": 2, 
         "rewardType": 2, 
@@ -247,7 +247,7 @@
         "objectType": 1
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 373, 
         "rank": 2, 
         "rewardType": 2, 
@@ -338,7 +338,7 @@
         "objectType": 2
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 2, 
         "rank": 3, 
         "rewardType": 2, 
@@ -351,7 +351,7 @@
         "objectType": 1
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 373, 
         "rank": 3, 
         "rewardType": 2, 
@@ -442,7 +442,7 @@
         "objectType": 2
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 2, 
         "rank": 4, 
         "rewardType": 2, 
@@ -455,7 +455,7 @@
         "objectType": 1
     }, 
     {
-        "comment": "A bonus for taking down an enemy Guildship in the Colosseum.", 
+        "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
         "objectId": 373, 
         "rank": 4, 
         "rewardType": 2, 

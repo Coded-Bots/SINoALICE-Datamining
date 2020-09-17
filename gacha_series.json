@@ -377,6 +377,21 @@
     {
         "gachaGroupId": 5, 
         "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=220&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 55, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Taito Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Taito medals from this grimoire will expire at a certain date. Check the medal exchange for more info.", 
+        "gachaSeriesMstId": 8110, 
+        "bannerMstId": 665, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "STEP: Grimoire: Invaders’ Feast"
+    }, 
+    {
+        "gachaGroupId": 5, 
+        "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=110&isHideBackButton=1", 
         "pickupFirstResourceName": "", 
         "createdTime": 1467266400, 
@@ -403,5 +418,20 @@
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
         "name": "Bookmarked Memories: Young Emil and Devola & Popola"
+    }, 
+    {
+        "gachaGroupId": 10, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=221&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 3, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Note: No medal of desires are received with this grimoire.", 
+        "gachaSeriesMstId": 9000, 
+        "bannerMstId": 617, 
+        "isAlways": true, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "Daily Grimoire"
     }
 ]
