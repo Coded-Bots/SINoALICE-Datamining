@@ -518,15 +518,15 @@
         "TLM": 21693
     }, 
     {
-        "FR": "Le jeu ne sera pas accessible de %s à %s \\\\nen raison d’une opération de maintenance.\\\\nVoulez-vous utiliser une clé ?\\\\n*Une fois la clé utilisée, vous ne pourrez plus la récupérer.", 
-        "EN": "The game will not be available between %s to %s \\\\nfor maintenance.\\\\nDo you want to use a key?\\\\nNote: Once the key has been used, it cannot be recovered.", 
+        "FR": "Le démarrage chevauche la maintenance.\\nCependant, voulez-vous utiliser une clé ?\\n*Une fois la clé utilisée, vous ne pourrez plus la récupérer.", 
+        "EN": "Unlocking this event now will overlap with maintenance.\\nDo you want to use a key?\\nNote: Once the key has been used, it cannot be recovered.", 
         "GameKey": "ServerParam/message.certainUnlockQuestMaintenance", 
-        "DE": "Das Spiel wird %s – %s \\\\naus Wartungsgründen nicht verfügbar sein.\\\\nMöchtest du einen Schlüssel verwenden?\\\\n*Sobald der Schlüssel verwendet wurde, kann er nicht wiederhergestellt werden.", 
-        "JP": "%s~%sの間\\\\nメンテナンスのためゲームをプレイいただけません。\\\\n鍵を使用しますか？\\\\n※使用した場合、鍵の返還は行われません", 
-        "VN": "Không thể chơi trò chơi do\\\\nlịch bảo trì từ {0} đến {1}.\\\\nSử dụng khóa?\\\\n*Không thể trả lại khóa sau khi đã dùng.", 
-        "KR": "%s~%s 동안 \\\\n점검이 진행되므로 게임을 플레이할 수 없습니다.\\\\n열쇠를 사용하시겠습니까?\\\\n※사용한 열쇠는 반환되지 않습니다.", 
-        "ES": "El juego no estará disponible de %s a %s \\\\npor tareas de mantenimiento.\\\\n¿Quieres usar una llave?\\\\n*Una vez usada, no podrás recuperarla.", 
-        "TH": "เกมจะไม่สามารถเล่นได้ตั้งแต่ %s - %s \\\\nเนื่องจากการบำรุงรักษา\\\\nคุณต้องการใช้กุญแจหรือไม่?\\\\n*เมื่อใช้กุญแจแล้ว คุณจะไม่สามารถกู้คืนได้", 
+        "DE": "Der Aktivierungsseitraum überschneidet sich mit Wartungsarbeiten.\\nMöchtest du trotzdem einen Schlüssel verwenden?\\n*Sobald der Schlüssel verwendet wurde, kann er nicht wiederhergestellt werden.", 
+        "JP": "開催時間がメンテナンスと重なりますが\\n鍵を使用しますか？\\n※使用した場合、鍵の返還は行われません。", 
+        "VN": "", 
+        "KR": "개최 시간이 점검 시간과 중복됩니다.\\n열쇠를 사용하시겠습니까?\\n※사용한 열쇠는 반환되지 않습니다.", 
+        "ES": "El juego no estará disponible por tareas de mantenimiento.\\n¿Quieres usar una llave?\\n*Una vez usada, no podrás recuperarla.", 
+        "TH": "เวลาเริ่มจะตรงกับช่วงซ่อมบำรุง\\nคุณยังต้องการใช้กุญแจหรือไม่?\\n*เมื่อใช้กุญแจแล้ว คุณจะไม่สามารถกู้คืนได้", 
         "Type": 0, 
         "id": 38, 
         "TLM": 21694
