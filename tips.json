@@ -155,6 +155,17 @@
     }, 
     {
         "title": "", 
+        "tipsMstId": 15, 
+        "rate": 0, 
+        "akbMemberMstId": 0, 
+        "characterMstId": 6, 
+        "assetBundleName": "tips7", 
+        "resourceName": "006", 
+        "tips": "", 
+        "type": 4
+    }, 
+    {
+        "title": "", 
         "tipsMstId": 16, 
         "rate": 0, 
         "akbMemberMstId": 0, 
@@ -194,6 +205,17 @@
         "characterMstId": 9, 
         "assetBundleName": "tips3", 
         "resourceName": "009", 
+        "tips": "", 
+        "type": 4
+    }, 
+    {
+        "title": "", 
+        "tipsMstId": 20, 
+        "rate": 0, 
+        "akbMemberMstId": 0, 
+        "characterMstId": 10, 
+        "assetBundleName": "tips4", 
+        "resourceName": "010", 
         "tips": "", 
         "type": 4
     }, 

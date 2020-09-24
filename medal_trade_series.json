@@ -140,6 +140,20 @@
         "description": "A medal that is an incidental byproduct of a Grimoire."
     }, 
     {
+        "name": "Medal of Desire (X)", 
+        "startTime": 1600927200, 
+        "priority": 26, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoire.", 
+        "endTime": 1605020399, 
+        "medalTradeSeriesMstId": 15, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 159, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
+    }, 
+    {
         "name": "Clam Medal", 
         "startTime": 1597903200, 
         "priority": 34, 

@@ -181,6 +181,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Late August Armor Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 30, 
+        "createdTime": 1483974000, 
+        "mapGroup": 15, 
+        "name": "Tune of Demise"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Clam Digging Event (Route A)", 
         "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
         "mapType": 1, 

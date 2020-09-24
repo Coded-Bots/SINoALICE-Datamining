@@ -7456,6 +7456,134 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "My magnificent medicine is complete!\\nWith this, you can go three days and nights\\nwithout eating and still have plenty of energy!", 
+        "cardStoryMstId": 957, 
+        "cardMstId": 983, 
+        "step": 1, 
+        "cardUniqueId": 473, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "So let's test the intake limits!\\nWe'll start by giving three liters of medicine\\nto a 15kg young hound.", 
+        "cardStoryMstId": 958, 
+        "cardMstId": 983, 
+        "step": 2, 
+        "cardUniqueId": 473, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Oops! Looks like a fatal dosage...\\nWell, let's just skip this step\\nand try it out on a human subject!\\nThis medicine is pointless if it won't work on humans, after all.", 
+        "cardStoryMstId": 959, 
+        "cardMstId": 984, 
+        "step": 3, 
+        "cardUniqueId": 473, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I did it!\\nAnd boy, does it work!\\nMy eyes...\\nI see what looks like a new kind of butterfly appearing before me!\\nI mustn't let it escape!\\nI must capture and dissect it!", 
+        "cardStoryMstId": 960, 
+        "cardMstId": 984, 
+        "step": 4, 
+        "cardUniqueId": 473, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Congrats on turning ten.\\nI'm sure you're growing into a lovely young girl. Nothing fills me with more joy than seeing how kind you are, so fond of songs and birds...just like your mother.", 
+        "cardStoryMstId": 961, 
+        "cardMstId": 985, 
+        "step": 1, 
+        "cardUniqueId": 474, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I'm sorry that I never get to play with you.\\nI want you to play this violin and remember I'm always with you. Is it selfish of me to ask you that?", 
+        "cardStoryMstId": 962, 
+        "cardMstId": 985, 
+        "step": 2, 
+        "cardUniqueId": 474, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "If not for clan rules, you could have been born into a normal life, and there is so much I'd want to teach you...\\nSo much I'd want to see with you.", 
+        "cardStoryMstId": 963, 
+        "cardMstId": 986, 
+        "step": 3, 
+        "cardUniqueId": 474, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "If only I could prove you're not dangerous. If I did, I'd put you on a golem's shoulder, and we'd travel the world. I'd more than make up for the ten years that have been wasted thus far.", 
+        "cardStoryMstId": 964, 
+        "cardMstId": 986, 
+        "step": 4, 
+        "cardUniqueId": 474, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "We are about to go off to battle to rescue you.\\nIf we fail, this will be my last message to you.", 
+        "cardStoryMstId": 965, 
+        "cardMstId": 987, 
+        "step": 1, 
+        "cardUniqueId": 475, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "That's why we'll entrust you to those we can be sure of.\\nEven if we can't be there, you won't be alone for your birthday or go without presents.", 
+        "cardStoryMstId": 966, 
+        "cardMstId": 987, 
+        "step": 2, 
+        "cardUniqueId": 475, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "If only we lived in better times...\\nI'm so sorry.\\nI made the decision I thought was best for you. Nothing would make me happier than to get you something to bring you joy on your birthday.", 
+        "cardStoryMstId": 967, 
+        "cardMstId": 988, 
+        "step": 3, 
+        "cardUniqueId": 475, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "We'll tell you how important you are to us in a letter.\\nIf you ever find yourself alone without anyone you can trust, don't be sad. We will always be by your side.\\nWith all the love in the world... -Mom", 
+        "cardStoryMstId": 968, 
+        "cardMstId": 988, 
+        "step": 4, 
+        "cardUniqueId": 475, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Congrats on turning five.\\nWe didn't think you'd understand our feelings if we told you in person, so we decided to write them in this letter.", 
+        "cardStoryMstId": 969, 
+        "cardMstId": 989, 
+        "step": 1, 
+        "cardUniqueId": 476, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When you finally read this, we hope you'll realize just how much we love you.", 
+        "cardStoryMstId": 970, 
+        "cardMstId": 989, 
+        "step": 2, 
+        "cardUniqueId": 476, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Are you happy now that you're five? Or are you still imprisoned in a world of darkness?\\nWe're so sorry if you are.", 
+        "cardStoryMstId": 971, 
+        "cardMstId": 990, 
+        "step": 3, 
+        "cardUniqueId": 476, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "We're so sorry we can't kill you.\\nSorry to make you live like this.\\nYou're an irreplaceable treasure to us. Even if you're a cursed child prophesized to bring calamity upon us all, we could never bring ourselves to kill you.", 
+        "cardStoryMstId": 972, 
+        "cardMstId": 990, 
+        "step": 4, 
+        "cardUniqueId": 476, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "　　\"You say I'm wrong? Yeah...I know\"\\n\\n                \"All I can do is keep fighting.\"\\n\\n\"If I can't bring him back...then I'll...\"", 
         "cardStoryMstId": 973, 
         "cardMstId": 993, 
@@ -8413,6 +8541,134 @@
         "cardMstId": 1493, 
         "step": 4, 
         "cardUniqueId": 727, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[1st Correction]\\n・Introduction of bed system based on medical plan.\\n・Authorization of 1-doctor healthcare corporation.", 
+        "cardStoryMstId": 1593, 
+        "cardMstId": 1564, 
+        "step": 1, 
+        "cardUniqueId": 755, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[2nd Correction]\\n・Establishment of \"special function hospital\" and \"beds by treatment type\".\\n・Promote medical information by relaxing advertising regulations and requiring them to be posted in hospitals.", 
+        "cardStoryMstId": 1594, 
+        "cardMstId": 1564, 
+        "step": 2, 
+        "cardUniqueId": 755, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[5th Correction]\\n・Establishment of publications about medical care information by prefecture.\\n・Positioning of written descriptions at admission and discharge.\\n・Establishment of social medical corporation.", 
+        "cardStoryMstId": 1595, 
+        "cardMstId": 1565, 
+        "step": 3, 
+        "cardUniqueId": 755, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[6th Correction]\\n・Inquiries into medical accidents. ・Required relapse prevention plans.\\n・Clarify legal position of homecare. ・Promote collaboration with homecare.", 
+        "cardStoryMstId": 1596, 
+        "cardMstId": 1565, 
+        "step": 4, 
+        "cardUniqueId": 755, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Day after day a bloody feast was laid out in the arena famous for its pleasure and vice in the city.\\nSlaves from all across the world came to compete for defeat or victory.\\nThe winner is given a sumptuous meal and the loser is fed to the beasts.\\nAmong these slaves, there was a poet who loved to play the harp.", 
+        "cardStoryMstId": 1597, 
+        "cardMstId": 1566, 
+        "step": 1, 
+        "cardUniqueId": 756, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The slaves were all upset that they had to leave behind the comfort of their families.\\nThe kindhearted harp player came up with a plan to help his comrades who just wanted to go home.\\nHe performed for his master a song that would curry his favor.", 
+        "cardStoryMstId": 1598, 
+        "cardMstId": 1566, 
+        "step": 2, 
+        "cardUniqueId": 756, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The master gathered up the powerful people of the land for the feast. The harp player was the finishing touch with his valued music.\\nThey had let the guard of the quarters slip and his slave comrades broke their chains and escaped.\\nAll but the harp player escaped.", 
+        "cardStoryMstId": 1599, 
+        "cardMstId": 1567, 
+        "step": 3, 
+        "cardUniqueId": 756, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"You have fallen into my hands!\" the Lord screamed and pulled out a sword.\\nThe musician responded with a “As you please…” The Lord was impressed with the musician who obediently dropped his head, and so severed the tendons in his legs and ordered him to serve by his side for the rest of his life.\\nThe musician prayed for his escaped friends as he played his harp.", 
+        "cardStoryMstId": 1600, 
+        "cardMstId": 1567, 
+        "step": 4, 
+        "cardUniqueId": 756, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was obvious to any that this ax-wielder had battle experience.\\nNo one could match his skills and all of the troops he had been a member of had been wiped out...", 
+        "cardStoryMstId": 1601, 
+        "cardMstId": 1568, 
+        "step": 1, 
+        "cardUniqueId": 757, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The ax-wielder had a unique charisma and spoke very little.\\nThe rewards were small no matter how much he fought, and he considered himself as sharing a fate with his enemies.\\nHe looked on at events with passive acceptance.", 
+        "cardStoryMstId": 1602, 
+        "cardMstId": 1568, 
+        "step": 2, 
+        "cardUniqueId": 757, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The ax-wielder was hired by a feudal lord to lead in the vanguard.\\nThe next day, his encampment was charred remains. In the devastated land mixed in with the corpses his beloved ax had been abandoned.\\nThe scout reported to the lord that the ax-wielder's unit had been wiped out by a nighttime ambush.", 
+        "cardStoryMstId": 1603, 
+        "cardMstId": 1569, 
+        "step": 3, 
+        "cardUniqueId": 757, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "He was hired as a commander for no good reason so he guessed that he was just some pawn.\\nHe decided to kill all those under his charge and burn the camp.\\nHe abandoned his beloved ax to trick the lord into assuming he had perished, too, and then switched sides to sell information to the enemy.", 
+        "cardStoryMstId": 1604, 
+        "cardMstId": 1569, 
+        "step": 4, 
+        "cardUniqueId": 757, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The bird flapped its wings but it was a species that could not fly.\\nIt may be a bird, but it was faster than any beast.\\nFaster than a galloping beast and faster than a man’s machine.\\nThe bird knew that he was the fastest.", 
+        "cardStoryMstId": 1605, 
+        "cardMstId": 1570, 
+        "step": 1, 
+        "cardUniqueId": 758, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The bird reveled in its splendor.\\nThe bird looked only in front, but one day it looked up.\\nWhen it did, he saw a shape similar to his own.\\nThe bird looked up at the beautiful creature he saw soaring through the sky.\\nThis bird was a bird just like him.", 
+        "cardStoryMstId": 1606, 
+        "cardMstId": 1570, 
+        "step": 2, 
+        "cardUniqueId": 758, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The bird was jealous of the birds that could fly.\\nHe became enraged at his inability to fly.\\nHe ran as fast as he could to try and propel himself into the air.\\nThe bird worked himself into despair.\\nHowever, the bird would not give up and plotted to find a way to win.", 
+        "cardStoryMstId": 1607, 
+        "cardMstId": 1571, 
+        "step": 3, 
+        "cardUniqueId": 758, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The bird threw himself off a cliff to try and get lift off.\\nThe bird’s stubby wings couldn’t catch the air and just fell through it.\\nBut the bird was delighted. Now he was more impressive than the sky birds.\\nThe bird fell to the ground at a speed he had never experienced.\\nHe smacked into the earth filled with joy.", 
+        "cardStoryMstId": 1608, 
+        "cardMstId": 1571, 
+        "step": 4, 
+        "cardUniqueId": 758, 
         "evolutionLevel": 0
     }, 
     {

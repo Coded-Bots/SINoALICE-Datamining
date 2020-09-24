@@ -54,12 +54,12 @@
         "resourceName": "cri/GvGBoxGacha.usm"
     }, 
     {
-        "iosHash": "61cfe6dac8aee62a747dbaa16ff61d2c", 
-        "iosFileSize": 16848064, 
-        "androidFileSize": 16848064, 
+        "iosHash": "326cea955b8ba26fac16d6a50846a858", 
+        "iosFileSize": 16848032, 
+        "androidFileSize": 16848032, 
         "resourceFileMstId": 7, 
         "isEveryTimeDownload": false, 
-        "androidHash": "61cfe6dac8aee62a747dbaa16ff61d2c", 
+        "androidHash": "326cea955b8ba26fac16d6a50846a858", 
         "resourceName": "cri/GvGBoxGachaOp_global.usm"
     }, 
     {
@@ -2173,7 +2173,7 @@
         "iosFileSize": 7456, 
         "androidFileSize": 7456, 
         "resourceFileMstId": 242, 
-        "isEveryTimeDownload": true, 
+        "isEveryTimeDownload": false, 
         "androidHash": "5bccbd0a154e320604f8e2f6392f61a4", 
         "resourceName": "cri/cv_invader.acb"
     }, 
@@ -2182,7 +2182,7 @@
         "iosFileSize": 73056, 
         "androidFileSize": 73056, 
         "resourceFileMstId": 243, 
-        "isEveryTimeDownload": true, 
+        "isEveryTimeDownload": false, 
         "androidHash": "67bc8025a055661bcb779643476255aa", 
         "resourceName": "cri/cv_invader.awb"
     }, 
@@ -6565,7 +6565,7 @@
         "iosFileSize": 149024, 
         "androidFileSize": 149024, 
         "resourceFileMstId": 730, 
-        "isEveryTimeDownload": true, 
+        "isEveryTimeDownload": false, 
         "androidHash": "f520dab55ede36fc72a157c1a9698238", 
         "resourceName": "cri/se_invader.acb"
     }, 
@@ -6574,7 +6574,7 @@
         "iosFileSize": 195744, 
         "androidFileSize": 195744, 
         "resourceFileMstId": 731, 
-        "isEveryTimeDownload": true, 
+        "isEveryTimeDownload": false, 
         "androidHash": "34d35271cd6c7ffcb819539cb9fc85ef", 
         "resourceName": "cri/se_invader_quest.acb"
     }, 

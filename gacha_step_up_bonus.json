@@ -223,5 +223,50 @@
         "gachaStepUpBonusMstId": 900010, 
         "gachaSeriesMstId": 130, 
         "objectType": 1
+    }, 
+    {
+        "objectId": 159, 
+        "createdTime": 1597330800, 
+        "step": 1, 
+        "num": 50, 
+        "gachaStepUpBonusMstId": 900011, 
+        "gachaSeriesMstId": 17, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 159, 
+        "createdTime": 1597330800, 
+        "step": 2, 
+        "num": 50, 
+        "gachaStepUpBonusMstId": 900012, 
+        "gachaSeriesMstId": 17, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 159, 
+        "createdTime": 1597330800, 
+        "step": 3, 
+        "num": 100, 
+        "gachaStepUpBonusMstId": 900013, 
+        "gachaSeriesMstId": 17, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 159, 
+        "createdTime": 1597330800, 
+        "step": 4, 
+        "num": 100, 
+        "gachaStepUpBonusMstId": 900014, 
+        "gachaSeriesMstId": 17, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 159, 
+        "createdTime": 1597330800, 
+        "step": 5, 
+        "num": 100, 
+        "gachaStepUpBonusMstId": 900015, 
+        "gachaSeriesMstId": 17, 
+        "objectType": 1
     }
 ]
