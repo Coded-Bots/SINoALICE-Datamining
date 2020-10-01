@@ -5140,6 +5140,126 @@
         "cardDetailType": 2
     }, 
     {
+        "name": "Blade +30% (Sleeping Beauty+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 551, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 552, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 553, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 554, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Sleeping Beauty+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 555, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 556, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 557, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 558, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Sleeping Beauty+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 559, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 560, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 561, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 562, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 47, 
+        "cardDetailType": 5
+    }, 
+    {
         "name": "Polearm +30% (Alice+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

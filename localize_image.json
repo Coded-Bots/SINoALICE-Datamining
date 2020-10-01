@@ -745,7 +745,7 @@
         "FR": "Armes", 
         "EN": "Weapon", 
         "GameKey": "Image/0054", 
-        "DE": "Waffen", 
+        "DE": "Waffe", 
         "JP": "武器", 
         "VN": "Vũ khí", 
         "KR": "무기", 
@@ -757,9 +757,9 @@
     }, 
     {
         "FR": "Cauchemars", 
-        "EN": "Nightmares", 
+        "EN": "Nightmare", 
         "GameKey": "Image/0055", 
-        "DE": "Albträume", 
+        "DE": "Albtraum", 
         "JP": "ナイトメア", 
         "VN": "Nightmare", 
         "KR": "나이트메어", 
@@ -2331,7 +2331,7 @@
         "JP": "いばら姫", 
         "VN": "Công Chúa Ngủ Trong Rừng", 
         "KR": "잠자는 숲속의 공주", 
-        "ES": "La Bella Durmiente", 
+        "ES": "Bella Durmiente", 
         "TH": "เจ้าหญิงนิทรา", 
         "Type": 0, 
         "id": 167, 
@@ -3878,7 +3878,7 @@
         "TLM": 22473
     }, 
     {
-        "FR": "Rang de guilde", 
+        "FR": "Rang guilde", 
         "EN": "Guild Rank", 
         "GameKey": "Image/0278", 
         "DE": "Gildenrang", 

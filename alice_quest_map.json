@@ -191,6 +191,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Nightmare on the Hill", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 31, 
+        "createdTime": 1483974000, 
+        "mapGroup": 16, 
+        "name": "Nightmare on the Hill"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Clam Digging Event (Route A)", 
         "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
         "mapType": 1, 

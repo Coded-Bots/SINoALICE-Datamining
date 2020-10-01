@@ -7840,6 +7840,134 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "\".won tluda na m'I\\n.apaP, yeH\\n.yadot tluda na m'I. apaP, yeH.\"", 
+        "cardStoryMstId": 1037, 
+        "cardMstId": 1039, 
+        "step": 1, 
+        "cardUniqueId": 501, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": ".dekooc saw ylimaf ruo dna pu decils tog apaP ecnis sraey net neeb s'tI\\n.dekooc saw ylimaf ruo dna pu decils tog apaP ecnis sraey net neeb s'tI", 
+        "cardStoryMstId": 1038, 
+        "cardMstId": 1039, 
+        "step": 2, 
+        "cardUniqueId": 501, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": ".yppah yllanif ma I\\n.yppah yllanif ma I", 
+        "cardStoryMstId": 1039, 
+        "cardMstId": 1040, 
+        "step": 3, 
+        "cardUniqueId": 501, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": ".em morf esle gnihtyna ekat t'nod esaelP .doG \\n.em morf esle gnihtyna ekat t'nod esaelP.\\n.doG .esaelP", 
+        "cardStoryMstId": 1040, 
+        "cardMstId": 1040, 
+        "step": 4, 
+        "cardUniqueId": 501, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "...peels dlihc ym teL\\n.peels dlihc ym teL", 
+        "cardStoryMstId": 1041, 
+        "cardMstId": 1031, 
+        "step": 1, 
+        "cardUniqueId": 497, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "...flow etihw eht htiw ffo retteb eb dlouw dlihc ym ebyaM", 
+        "cardStoryMstId": 1042, 
+        "cardMstId": 1031, 
+        "step": 2, 
+        "cardUniqueId": 497, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": ".tsohg a htiw raey a tsomla ti ekam dluoc ehS\\n.ssergo na htiw keew eno ti ekam dluoc ehS", 
+        "cardStoryMstId": 1043, 
+        "cardMstId": 1032, 
+        "step": 3, 
+        "cardUniqueId": 497, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "?ot dlihc siht evig I dluohs ohw ho ohw, hO\\n—sdrawkcab siht daeR", 
+        "cardStoryMstId": 1044, 
+        "cardMstId": 1032, 
+        "step": 4, 
+        "cardUniqueId": 497, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Secret Technique: Step 1]\\nStart by calmly analyzing your opponent's motivation.\\nIf your opponent is trying to kill you for economic reasons or reasons beyond their control, an appeal for \"sympathy\" can prove an effective weapon.", 
+        "cardStoryMstId": 1045, 
+        "cardMstId": 1035, 
+        "step": 1, 
+        "cardUniqueId": 499, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Secret Technique: Step 2]\\nHere are some classic phrases you can use to appeal for sympathy.\\n1. \"My sister is ill.\"\\n2. \"All of my friends sacrificed themselves so I could live.\"\\n3. \"My sister has been fashioned into an experimental weapon.\"", 
+        "cardStoryMstId": 1046, 
+        "cardMstId": 1035, 
+        "step": 2, 
+        "cardUniqueId": 499, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Secret Technique: Step 3]\\nStart by practicing those phrases until they come naturally.\\nAfter you feel at home pleading for your life, try coming up with some phrases of your own.", 
+        "cardStoryMstId": 1047, 
+        "cardMstId": 1036, 
+        "step": 3, 
+        "cardUniqueId": 499, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Secret Technique: Step 4]\\nOnce you have your own arsenal of appeals for sympathy on hand, you'll finally understand just how much fun pleading for your life can be.\\nOkay. So now the hard part.\\nIf your opponent is out for revenge against you, here's a technique you can use. Learn this, and you can beg for your life whenever you want using only your own two hands.", 
+        "cardStoryMstId": 1048, 
+        "cardMstId": 1036, 
+        "step": 4, 
+        "cardUniqueId": 499, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "This staff is apparently a quality item with a bit of a history to it.\\nIts catalyst has a suspicious glow, and its handle is so smooth that it feels as if it's about to absorb your hand.", 
+        "cardStoryMstId": 1049, 
+        "cardMstId": 1041, 
+        "step": 1, 
+        "cardUniqueId": 502, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But the power it possesses is not well understood.", 
+        "cardStoryMstId": 1050, 
+        "cardMstId": 1041, 
+        "step": 2, 
+        "cardUniqueId": 502, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Nothing really happens when you use it.\\nNot to me, not to the people around me...", 
+        "cardStoryMstId": 1051, 
+        "cardMstId": 1042, 
+        "step": 3, 
+        "cardUniqueId": 502, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Strange.\\nMy thoughts are so simple these days.\\nOh, look! A spider! It's just like a fish.", 
+        "cardStoryMstId": 1052, 
+        "cardMstId": 1042, 
+        "step": 4, 
+        "cardUniqueId": 502, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "Spinning, spinning, the spider dances.\\nNimbly, nimbly, it twirls and twirls.", 
         "cardStoryMstId": 1053, 
         "cardMstId": 1033, 
@@ -7902,6 +8030,70 @@
         "step": 4, 
         "cardUniqueId": 500, 
         "evolutionLevel": 4
+    }, 
+    {
+        "story": "Excavated from a king's grave, this artifact was presented to the patron of a scientific research team.\\nIt was a bow made of gold.\\nAn exceedingly wealthy king from the ancient world had the best craftsman of his era make it for him.", 
+        "cardStoryMstId": 1061, 
+        "cardMstId": 1043, 
+        "step": 1, 
+        "cardUniqueId": 503, 
+        "evolutionLevel": 5
+    }, 
+    {
+        "story": "Dazzling brilliance...\\nA sophisticated and beautiful form, it seized the souls of all who laid their eyes upon it.", 
+        "cardStoryMstId": 1062, 
+        "cardMstId": 1043, 
+        "step": 2, 
+        "cardUniqueId": 503, 
+        "evolutionLevel": 6
+    }, 
+    {
+        "story": "One glimpse was enough.\\nA single glimpse would put anybody under its spell.\\nWith just one glimpse, you would want it. You would want it more than anything...", 
+        "cardStoryMstId": 1063, 
+        "cardMstId": 1044, 
+        "step": 3, 
+        "cardUniqueId": 503, 
+        "evolutionLevel": 7
+    }, 
+    {
+        "story": "Upon seeing a servant try to touch the golden bow, the patron blurted out something in a strange voice and shot at him.\\nThe bow, having not seen the light of day in centuries, entertained itself by making people fight over it.", 
+        "cardStoryMstId": 1064, 
+        "cardMstId": 1044, 
+        "step": 4, 
+        "cardUniqueId": 503, 
+        "evolutionLevel": 8
+    }, 
+    {
+        "story": "There was once a man who was hopelessly bad at singing. Much to the irritation of all who knew him, he decided to become a minstrel, convinced that he was a star.\\n\"They're just jealous of me,\" he thought. \"That's why they're so mean to me.\"", 
+        "cardStoryMstId": 1065, 
+        "cardMstId": 1045, 
+        "step": 1, 
+        "cardUniqueId": 504, 
+        "evolutionLevel": 9
+    }, 
+    {
+        "story": "One day, the clumsy minstrel happened upon a woman working as a flower vendor.\\nHe rushed up to her and tried to woo her with his harp.\\nThe woman cracked a smile and said, \"Thanks for scaring all the customers away!\" And with that, she socked him in the jaw.", 
+        "cardStoryMstId": 1066, 
+        "cardMstId": 1045, 
+        "step": 2, 
+        "cardUniqueId": 504, 
+        "evolutionLevel": 10
+    }, 
+    {
+        "story": "\"If only I were a siren,\" he thought. \"Then they'd listen!\"\\nIt was then he remembered that just such a siren lived on a nearby peninsula,\\nwhere her beautiful voice lured men to a grisly fate.\\nHe departed to meet her...", 
+        "cardStoryMstId": 1067, 
+        "cardMstId": 1046, 
+        "step": 3, 
+        "cardUniqueId": 504, 
+        "evolutionLevel": 11
+    }, 
+    {
+        "story": "The siren at the peninsula sang to the dejected man. Undaunted, he played his harp and sang a ballad of love in return.\\nThe siren went mad and died in a fit of rage.\\nThe townsfolk praised him as a hero for defeating the siren, though none could understand why their savior had such a look of bewilderment.", 
+        "cardStoryMstId": 1068, 
+        "cardMstId": 1046, 
+        "step": 4, 
+        "cardUniqueId": 504, 
+        "evolutionLevel": 12
     }, 
     {
         "story": "The achievement of your dearest dream rests atop tens of thousands of corpses.\\nWhat would you yell in a world where you were one of only two left?\\nWould you finally smile?\\nWould you lament the fact that it was all for naught?\\nWe have come here again and again, hoping to see you wail in sadness in your final moments.\\n.........\\n.........\\n......", 
