@@ -8448,6 +8448,38 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "\\n　　　　　Your Devotion\\n　　　　　\"S　A　V　E　D\"\\n T　H　E\\n　　　　　 W O R L D\\n", 
+        "cardStoryMstId": 1149, 
+        "cardMstId": 1089, 
+        "step": 1, 
+        "cardUniqueId": 526, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　Your Filing Efficiency\\nWill Rise By No Less Then 120%.\\nA Difference Of 63%.", 
+        "cardStoryMstId": 1150, 
+        "cardMstId": 1089, 
+        "step": 2, 
+        "cardUniqueId": 526, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Increase To Lethal Proficiency Makes\\nThe Master An Adversary Not To Be\\n　　　　　Taken Lightly.", 
+        "cardStoryMstId": 1151, 
+        "cardMstId": 1090, 
+        "step": 3, 
+        "cardUniqueId": 526, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\\nTHINK CLEARLY!", 
+        "cardStoryMstId": 1152, 
+        "cardMstId": 1090, 
+        "step": 4, 
+        "cardUniqueId": 526, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "The dirty, smelly room was lit with a cheap neon light. Inside were a man and a woman drying her black hair.\\nThe man barked a bare-faced lie, and the woman blindly believed it.\\nSad scenes such as these are common wherever you go.", 
         "cardStoryMstId": 1153, 
         "cardMstId": 1091, 
@@ -8672,6 +8704,230 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "Awww... I'm so bored!\\nBored, bored, bored!", 
+        "cardStoryMstId": 1337, 
+        "cardMstId": 1351, 
+        "step": 1, 
+        "cardUniqueId": 652, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Won't someone play with me?\\nPlay with me, play with me, play with me!", 
+        "cardStoryMstId": 1338, 
+        "cardMstId": 1351, 
+        "step": 2, 
+        "cardUniqueId": 652, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "C'mon out already!\\nParrah? Noya? I don't care who! I just want someone to play with!", 
+        "cardStoryMstId": 1339, 
+        "cardMstId": 1352, 
+        "step": 3, 
+        "cardUniqueId": 652, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Guh... Great, now I'm hungry.\\nGet outta here! You're in the way.", 
+        "cardStoryMstId": 1340, 
+        "cardMstId": 1352, 
+        "step": 4, 
+        "cardUniqueId": 652, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The boy was kind and docile, a child who shied away from conflict.\\nIronically, it was his nonconfrontational nature that allowed him to be tyrannized by the other children. Bullies showered him with beatings, and seldom a day went by without him getting kicked or punched.", 
+        "cardStoryMstId": 1341, 
+        "cardMstId": 1382, 
+        "step": 1, 
+        "cardUniqueId": 671, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, the battered boy was walking home, one leg dragging behind the other, when an old man appeared.\\n\"Use this if you wish to get revenge, boy.\" The man handed the child a handgun.", 
+        "cardStoryMstId": 1342, 
+        "cardMstId": 1382, 
+        "step": 2, 
+        "cardUniqueId": 671, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Day after day, the boy was brought to an empty lot for a beating at the hands of his bullies.\\nAt last, the hammer within his heart fell. He brought the gun out from his pocket, pointed it at the boys surrounding him, and pulled the trigger.", 
+        "cardStoryMstId": 1343, 
+        "cardMstId": 1383, 
+        "step": 3, 
+        "cardUniqueId": 671, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But instead of a bullet, confetti flew from the barrel. The old man jumped out of hiding and laughed.\\n\"I can't believe it! You actually took that joke seriously?!\" The bullies laughed right along with him.\\nThe boy flew into a rage unlike anything he'd ever felt before and beat both the old man and the bullies to death with the butt of the gun.\\nThe reporter that later came to the scene of the carnage signed off with this telling quote: \"Within every heart hides a gun, loaded and ready.\"", 
+        "cardStoryMstId": 1344, 
+        "cardMstId": 1383, 
+        "step": 4, 
+        "cardUniqueId": 671, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Long ago, there was an emperor who unified the human world by force. It was said that this ruler was able to glimpse the throne of the gods, and in his jealousy attempted to wage war with the heavens.\\nAfter many bloody battles, the gods came to him with a peace treaty.\\nThe gods officially recognized the emperor and each of his ancestors as the sovereign of all he saw. They bestowed upon him an axe as the symbol of his hegemony.", 
+        "cardStoryMstId": 1345, 
+        "cardMstId": 1384, 
+        "step": 1, 
+        "cardUniqueId": 672, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The current emperor was a small man whose hobby was building vaults. Though an adequate ruler, the man had an inferiority complex owing to the long line of great emperors that preceded him.\\nOne day, he noticed that the axe symbolizing his hegemony had disappeared from the court. The emperor was furious.\\nHis men looked everywhere for the axe but could not find it. Each new messenger who returned with another unfavorable report was slain on the spot.", 
+        "cardStoryMstId": 1346, 
+        "cardMstId": 1384, 
+        "step": 2, 
+        "cardUniqueId": 672, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The search for the axe was fruitless, each failed attempt another mockery of the frantic emperor.\\nIt wasn't long before the messengers no longer reported to him, so afraid were they for their lives. The emperor then turned his ire to the searchers themselves, beheading them to the man.\\n\"Only someone close to me could have accomplished such a heist...\" His suspicions continued to grow, spurring him to oust one chief vassal after the next.", 
+        "cardStoryMstId": 1347, 
+        "cardMstId": 1385, 
+        "step": 3, 
+        "cardUniqueId": 672, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Then, it dawned upon him—The night he'd drank himself into a stupor, taken the axe from the wall, and...placed it in one of his vaults. Fearing the pandemonium that would occur should this truth come to light, the emperor elected to keep quiet.\\nBut he betrayed himself a second time, letting word of his blunder slip to a favored concubine. Word spread like a raging fire, and it wasn't long before his vassals joined together to slay him in a fit of righteous anger.", 
+        "cardStoryMstId": 1348, 
+        "cardMstId": 1385, 
+        "step": 4, 
+        "cardUniqueId": 672, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There once was a street performer with a beloved flute.\\nHis bold performances filled the people who heard him with courage.", 
+        "cardStoryMstId": 1349, 
+        "cardMstId": 1386, 
+        "step": 1, 
+        "cardUniqueId": 673, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A young man came to the performer and asked, “I want to bravely fight and die for our nation. Play me a song before I leave for the battlefront.”\\nHe was extolled as a hero after his incredible service in the war.", 
+        "cardStoryMstId": 1350, 
+        "cardMstId": 1386, 
+        "step": 2, 
+        "cardUniqueId": 673, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Rumors of the performer began to spread.\\nOne day while playing on the street, a man came to ask if he would play for his son who would not leave his room.", 
+        "cardStoryMstId": 1351, 
+        "cardMstId": 1387, 
+        "step": 3, 
+        "cardUniqueId": 673, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The performer met the man's son and played for him.\\nThe boy exclaimed, “My body's bursting with courage!” He the ran up to the roof before giving a bannister a mighty kick and leaping to his death.", 
+        "cardStoryMstId": 1352, 
+        "cardMstId": 1387, 
+        "step": 4, 
+        "cardUniqueId": 673, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was once a quick-witted dealer of second-hand goods.\\nHe worked his way into the good graces of his nation's prime minister, who held more influence than the king. Various doors would open for him...for a price.", 
+        "cardStoryMstId": 1353, 
+        "cardMstId": 1388, 
+        "step": 1, 
+        "cardUniqueId": 674, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The prime minister fell victim to an epidemic and died. His family and retainers were executed by the new king.\\nThe merchant went to greet the new king, bringing with him a gift of some value.\\nHis generosity pleased the crown, and the man was made purveyor to the new king.", 
+        "cardStoryMstId": 1354, 
+        "cardMstId": 1388, 
+        "step": 2, 
+        "cardUniqueId": 674, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The new king's lifestyle soon turned lavish, drawing his attention away from the political sphere.\\nWhen it became clear neighboring countries were plotting an invasion, the merchant colluded with them, selling classified information to the enemy.\\nThe royal capital fell to the invasion, and the new king was executed.", 
+        "cardStoryMstId": 1355, 
+        "cardMstId": 1389, 
+        "step": 3, 
+        "cardUniqueId": 674, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The merchant went to visit the neighboring country's king.\\nHis court magus told the king, \"Your Majesty, please allow me to deal with him.\"\\nWhen the king agreed, the magus cast a spell. This transformed the merchant into a form that better suited him—a weathervane, which tumbled to the ground and smashed into pieces on the spot.", 
+        "cardStoryMstId": 1356, 
+        "cardMstId": 1389, 
+        "step": 4, 
+        "cardUniqueId": 674, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Regarding an ancient ruin]\\nJust a bit of searching has revealed more treasure here than we could possibly have imagined.", 
+        "cardStoryMstId": 1357, 
+        "cardMstId": 1390, 
+        "step": 1, 
+        "cardUniqueId": 675, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Regarding an ancient ruin (contd.)]\\nWhat's more, it looks as though we've beaten any robbers here. This truly is a new discovery.", 
+        "cardStoryMstId": 1358, 
+        "cardMstId": 1390, 
+        "step": 2, 
+        "cardUniqueId": 675, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Regarding an ancient ruin (addendum)]\\nDespite all of this treasure, there are barely any wandering nightmares.\\nI'm pleased to say we'll be able to search these remains to our heart's content.", 
+        "cardStoryMstId": 1359, 
+        "cardMstId": 1391, 
+        "step": 3, 
+        "cardUniqueId": 675, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Welcome, you covetous fools!\\nMy sincere thanks to you for not doubting the absurdity of an untouched ancient ruin filled with treasure.\\nAllow me to show you my gratitude with a gift—the honor of becoming sacrifices for our dark lord!", 
+        "cardStoryMstId": 1360, 
+        "cardMstId": 1391, 
+        "step": 4, 
+        "cardUniqueId": 675, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was once a magician called Guru who was respected by all.\\nWith his dying words, he passed both his title and his beloved staff on to his disciple.", 
+        "cardStoryMstId": 1361, 
+        "cardMstId": 1392, 
+        "step": 1, 
+        "cardUniqueId": 676, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The second-generation Guru took a disciple of his own.\\nHowever, he chose poorly, and the disciple eventually killed him. The new disciple then stole the staff and named himself the third Guru.", 
+        "cardStoryMstId": 1362, 
+        "cardMstId": 1392, 
+        "step": 2, 
+        "cardUniqueId": 676, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The third-generation Guru took a disciple as well, intending to pass on the staff and title like before.\\nWhat he didn't know was that the second Guru had a son, who avenged his father by striking down the third Guru. The prodigal child then took the staff, thus taking his place as the fourth Guru.", 
+        "cardStoryMstId": 1363, 
+        "cardMstId": 1393, 
+        "step": 3, 
+        "cardUniqueId": 676, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Hah! Oh, how foolish you humans are.\\nYou believe you struggle, fight, and die for the title of Guru, but the truth is always just beyond your reach...\\nIt is I who pushes you to murder!\\nNow, go! Don't stop! Keep killing!", 
+        "cardStoryMstId": 1364, 
+        "cardMstId": 1393, 
+        "step": 4, 
+        "cardUniqueId": 676, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "\"Take that cane and strike down our heretical foes,\" said the holy father as he handed the cane to his priest, now a pagan inquisitor.\\nHe thanked the holy father for giving him this great duty, determined to judge all who stood opposed to his god.", 
         "cardStoryMstId": 1369, 
         "cardMstId": 1364, 
@@ -8701,6 +8957,38 @@
         "cardMstId": 1365, 
         "step": 4, 
         "cardUniqueId": 662, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Is this a dream?\\nEmergency lighting illuminated the\\nlinoleum hall.", 
+        "cardStoryMstId": 1517, 
+        "cardMstId": 1486, 
+        "step": 1, 
+        "cardUniqueId": 724, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Is this a hospital? \\nStretchers lined the\\nwalls of the white room.", 
+        "cardStoryMstId": 1518, 
+        "cardMstId": 1486, 
+        "step": 2, 
+        "cardUniqueId": 724, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Who is this? \\nHe was attached to an artificial respirator\\nand cables hung from his arms and torso.", 
+        "cardStoryMstId": 1519, 
+        "cardMstId": 1487, 
+        "step": 3, 
+        "cardUniqueId": 724, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Ah. I understand.\\nAnything for justice.", 
+        "cardStoryMstId": 1520, 
+        "cardMstId": 1487, 
+        "step": 4, 
+        "cardUniqueId": 724, 
         "evolutionLevel": 0
     }, 
     {
