@@ -4832,6 +4832,38 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "There once was a dragon that strayed from his kin and fell into a trap. A boy who had just happened to be passing by freed the dragon.\\n\"No one else would free me from my loneliness,\" thought the dragon. So the dragon followed his savior wherever he went.", 
+        "cardStoryMstId": 605, 
+        "cardMstId": 321, 
+        "step": 1, 
+        "cardUniqueId": 152, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The boy's parents insisted that the young dragon obey him, no matter what. If the dragon could promise that, they'd allow the boy to keep him. The dragon, not wanting to be alone again, agreed. He took his promise very seriously.", 
+        "cardStoryMstId": 606, 
+        "cardMstId": 321, 
+        "step": 2, 
+        "cardUniqueId": 152, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Just as the boy was growing into a strong young man, a war broke out. He was conscripted into the military.\\n\"Don't leave the house,\" he told the dragon, hoping to protect him. \"I'll be back before you know it.\" And with that, he left to join the war.", 
+        "cardStoryMstId": 607, 
+        "cardMstId": 322, 
+        "step": 3, 
+        "cardUniqueId": 152, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was a promise he seemed unlikely to keep. The young man was captured by the enemy. When the time came for his execution, the boy remembered the dragon waiting for him back home. \"I'm sorry I couldn't keep my promise,\" said the boy. Just then, the clouds parted and a winged beast swooped down to his rescue.\\nThe dragon hadn't kept his promise, either...", 
+        "cardStoryMstId": 608, 
+        "cardMstId": 322, 
+        "step": 4, 
+        "cardUniqueId": 152, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "It happens all the time.\\nNoble families fall, and their children resort to theft to get by. One such child, a boy, saw stealing as his only means of survival. So when a shopkeeper who knew of the boy's past showed him mercy, it brought a smile to his face.", 
         "cardStoryMstId": 609, 
         "cardMstId": 323, 
@@ -4989,6 +5021,38 @@
         "cardMstId": 332, 
         "step": 4, 
         "cardUniqueId": 157, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\\n　　　　　　　　　　　　　　　　　　　　Bug \\n　　　　　　　　　　　　｜　　　　　　　　　　　　\\n　　　　　　　　　　　Rain　　　　　　　　　　　　  　　　　　　　　　", 
+        "cardStoryMstId": 629, 
+        "cardMstId": 333, 
+        "step": 1, 
+        "cardUniqueId": 158, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　Bug　　 \\n　　　　　　　｜　　　　　　　　　　　　　　　　　\\n　　　｜　　Sleet　　　　　　　　　　　　　　　　 \\n　　Snow　　　　　　　　　　　　　　　　　　　　 　　　　　", 
+        "cardStoryMstId": 630, 
+        "cardMstId": 333, 
+        "step": 2, 
+        "cardUniqueId": 158, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Bug　　\\n　　　　　　　　Bug　　　　　　　　｜　　　　　　 \\nBug　　　　　　　　　　｜　　　　　Snow　　　　　 \\n　　　　　　　　　　Rain　　　　　　　　　　　", 
+        "cardStoryMstId": 631, 
+        "cardMstId": 334, 
+        "step": 3, 
+        "cardUniqueId": 158, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　　　　　｜　　　　　　　　　　　　　　Bug\\n　｜　　　　Snow　　　　　　BugBug　Bug　　　Sleet\\n　Rain　　　　　　　　　BugBugBugBugBug　　　　　 \\nSnowSnowSnowBugBloodCorpseBloodBugSnowSnow", 
+        "cardStoryMstId": 632, 
+        "cardMstId": 334, 
+        "step": 4, 
+        "cardUniqueId": 158, 
         "evolutionLevel": 0
     }, 
     {
@@ -5245,6 +5309,38 @@
         "cardMstId": 350, 
         "step": 4, 
         "cardUniqueId": 166, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There once were two men who lived together on the bad side of town.\\nThey were very close and made a pact that that they would escape their hopeless situation together. The plan: For one to commit crimes while the second stopped the first, collecting the reward and dividing it between them.", 
+        "cardStoryMstId": 665, 
+        "cardMstId": 351, 
+        "step": 1, 
+        "cardUniqueId": 167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Their first goal was to escape the slums.\\nIt was easy enough.\\nOne of them attacked a noble, and the other pretended to be a passerby and rescued him.\\nThe tricked noble agreed to let his rescuer become one of his vassals.", 
+        "cardStoryMstId": 666, 
+        "cardMstId": 351, 
+        "step": 2, 
+        "cardUniqueId": 167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Their next plan was much more difficult, but they ultimately pulled it off.\\nIt's easy to subdue an insurrection if you know what the enemy's planning, after all. The young man who stopped the insurrection was promised a noble title that would solidify his place in the world.", 
+        "cardStoryMstId": 667, 
+        "cardMstId": 352, 
+        "step": 3, 
+        "cardUniqueId": 167, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Even at his new station in life, the young man kept his promise.\\nIt would be his downfall. The young man's connection to the enemy didn't stay a secret for long.\\nHe apologized for his mistakes, but it was too late. “You'll be friends again in the afterlife,” the noble said as he drew his sword.\\nFrom then on, the two men with those strong bonds no longer needed words...", 
+        "cardStoryMstId": 668, 
+        "cardMstId": 352, 
+        "step": 4, 
+        "cardUniqueId": 167, 
         "evolutionLevel": 0
     }, 
     {
@@ -8094,6 +8190,38 @@
         "step": 4, 
         "cardUniqueId": 504, 
         "evolutionLevel": 12
+    }, 
+    {
+        "story": "So that they would always be together,\\nhe promised to put her before himself.", 
+        "cardStoryMstId": 1069, 
+        "cardMstId": 1049, 
+        "step": 1, 
+        "cardUniqueId": 506, 
+        "evolutionLevel": 13
+    }, 
+    {
+        "story": "So that they would always be together,\\nshe became one with him.", 
+        "cardStoryMstId": 1070, 
+        "cardMstId": 1049, 
+        "step": 2, 
+        "cardUniqueId": 506, 
+        "evolutionLevel": 14
+    }, 
+    {
+        "story": "A perfectly safe place.\\nNothing would be lost.\\nNothing would be stolen.\\nA perfectly safe place.", 
+        "cardStoryMstId": 1071, 
+        "cardMstId": 1050, 
+        "step": 3, 
+        "cardUniqueId": 506, 
+        "evolutionLevel": 15
+    }, 
+    {
+        "story": "But once inside, there was no coming out.\\nThere was no getting her out.\\nWhen he realized he'd never touch her again,\\nit was already too late.\\nAnd that's how the two who became one became nothing at all.", 
+        "cardStoryMstId": 1072, 
+        "cardMstId": 1050, 
+        "step": 4, 
+        "cardUniqueId": 506, 
+        "evolutionLevel": 16
     }, 
     {
         "story": "The achievement of your dearest dream rests atop tens of thousands of corpses.\\nWhat would you yell in a world where you were one of only two left?\\nWould you finally smile?\\nWould you lament the fact that it was all for naught?\\nWe have come here again and again, hoping to see you wail in sadness in your final moments.\\n.........\\n.........\\n......", 

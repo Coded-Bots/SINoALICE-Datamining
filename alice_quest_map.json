@@ -201,6 +201,26 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Memory of Judgment (Normal)", 
+        "announceUrl": "/web/announce/body?announceMstId=552&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 57, 
+        "createdTime": 1483974000, 
+        "mapGroup": 33, 
+        "name": "Memory of Judgment"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Memory of Judgment (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=552&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 58, 
+        "createdTime": 1483974000, 
+        "mapGroup": 33, 
+        "name": "Memory of Judgment"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Clam Digging Event (Route A)", 
         "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1", 
         "mapType": 1, 
