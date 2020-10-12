@@ -110,7 +110,7 @@
     {
         "endTime": 1924959599, 
         "num": 1, 
-        "name": "Hairpiece of Misery [Blade]", 
+        "name": "Hairpiece of Misery (Blade)", 
         "objectId": 424, 
         "maxTradeCount": 100, 
         "description": "Don't use", 
@@ -128,7 +128,7 @@
     {
         "endTime": 1924959599, 
         "num": 1, 
-        "name": "Dress of Misery [Heavy]", 
+        "name": "Dress of Misery (Heavy)", 
         "objectId": 427, 
         "maxTradeCount": 100, 
         "description": "Don't use", 
@@ -146,7 +146,7 @@
     {
         "endTime": 1924959599, 
         "num": 1, 
-        "name": "Pumps of Misery [Projectile]", 
+        "name": "Pumps of Misery (Projectile)", 
         "objectId": 430, 
         "maxTradeCount": 100, 
         "description": "Don't use", 
@@ -164,7 +164,7 @@
     {
         "endTime": 1924959599, 
         "num": 1, 
-        "name": "Bracelet of Misery [Polearm]", 
+        "name": "Bracelet of Misery (Polearm)", 
         "objectId": 433, 
         "maxTradeCount": 100, 
         "description": "Don't use", 
@@ -2628,7 +2628,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Cake Spider", 
         "objectId": 1257, 
@@ -2646,7 +2646,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Cake Spider", 
         "objectId": 1257, 
@@ -2664,7 +2664,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Colosseum Gem (S)", 
         "objectId": 377, 
@@ -2682,7 +2682,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Colosseum Gem (A)", 
         "objectId": 376, 
@@ -2700,7 +2700,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Colosseum Support Gem (S)", 
         "objectId": 380, 
@@ -2718,7 +2718,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Colosseum Support Gem (A)", 
         "objectId": 379, 
@@ -2736,7 +2736,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Story Gem (S)", 
         "objectId": 383, 
@@ -2754,7 +2754,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Story Gem (A)", 
         "objectId": 382, 
@@ -2772,7 +2772,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Shackle", 
         "objectId": 24, 
@@ -2790,7 +2790,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Eye (Fire)", 
         "objectId": 17, 
@@ -2808,7 +2808,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Scale (Fire)", 
         "objectId": 16, 
@@ -2826,7 +2826,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Claw (Fire)", 
         "objectId": 15, 
@@ -2844,7 +2844,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Eye (Water)", 
         "objectId": 20, 
@@ -2862,7 +2862,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Scale (Water)", 
         "objectId": 19, 
@@ -2880,7 +2880,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Claw (Water)", 
         "objectId": 18, 
@@ -2898,7 +2898,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Eye (Wind)", 
         "objectId": 23, 
@@ -2916,7 +2916,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Scale (Wind)", 
         "objectId": 22, 
@@ -2934,7 +2934,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Dragon Claw (Wind)", 
         "objectId": 21, 
@@ -2952,7 +2952,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Bird Mask", 
         "objectId": 28, 
@@ -2970,7 +2970,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Bird Crown", 
         "objectId": 27, 
@@ -2988,7 +2988,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Bird Wing", 
         "objectId": 26, 
@@ -3006,7 +3006,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Bird Feather", 
         "objectId": 25, 
@@ -3060,7 +3060,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Upgrade Sword (S)", 
         "objectId": 364, 
@@ -3078,7 +3078,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Upgrade Sword (A)", 
         "objectId": 363, 
@@ -3096,7 +3096,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Hefty Sack", 
         "objectId": 399, 
@@ -3132,61 +3132,61 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1918879199, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Little Mermaid / Gunner Arcana Lv.1", 
         "objectId": 182, 
         "maxTradeCount": 1, 
         "description": "Don't use", 
-        "medalNum": 20000, 
-        "priority": 999, 
+        "medalNum": 15000, 
+        "priority": 330, 
         "medalTradeMstId": 651, 
         "resetType": 0, 
         "isDeleted": false, 
-        "startTime": 1917669600, 
+        "startTime": 1602482400, 
         "resetCycle": 0, 
         "medalTradeSeriesMstId": 19, 
         "itemMstId": 339, 
         "objectType": 1
     }, 
     {
-        "endTime": 1918879199, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Gretel/Breaker Arcana Lv. 1", 
         "objectId": 63, 
         "maxTradeCount": 1, 
         "description": "Don't use", 
-        "medalNum": 20000, 
-        "priority": 999, 
+        "medalNum": 15000, 
+        "priority": 340, 
         "medalTradeMstId": 652, 
         "resetType": 0, 
         "isDeleted": false, 
-        "startTime": 1917669600, 
+        "startTime": 1602482400, 
         "resetCycle": 0, 
         "medalTradeSeriesMstId": 19, 
         "itemMstId": 339, 
         "objectType": 1
     }, 
     {
-        "endTime": 1918879199, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Twilight Crystal", 
         "objectId": 0, 
         "maxTradeCount": 250, 
         "description": "Don't use", 
-        "medalNum": 50, 
-        "priority": 999, 
+        "medalNum": 20, 
+        "priority": 350, 
         "medalTradeMstId": 653, 
         "resetType": 0, 
         "isDeleted": false, 
-        "startTime": 1917669600, 
+        "startTime": 1602482400, 
         "resetCycle": 0, 
         "medalTradeSeriesMstId": 19, 
         "itemMstId": 339, 
         "objectType": 14
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Twilight Crystal", 
         "objectId": 0, 
@@ -3978,7 +3978,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Upgrade Sword (SR)", 
         "objectId": 365, 
@@ -3996,7 +3996,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Upgrade Shield (SR)", 
         "objectId": 370, 
@@ -4014,7 +4014,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Purification Ticket", 
         "objectId": 10, 
@@ -4032,7 +4032,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Decent Sack", 
         "objectId": 398, 
@@ -4050,7 +4050,7 @@
         "objectType": 2
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Key of Squirming Darkness (Weapon) (II)", 
         "objectId": 1333, 
@@ -4068,7 +4068,7 @@
         "objectType": 1
     }, 
     {
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "num": 1, 
         "name": "Key of Squirming Darkness (Armor) (II)", 
         "objectId": 1334, 

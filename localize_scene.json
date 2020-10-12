@@ -7323,7 +7323,7 @@
     }, 
     {
         "FR": "Validité", 
-        "EN": "Medal Validity Period", 
+        "EN": "Medal Expiry Period", 
         "GameKey": "SCENE/0533", 
         "DE": "Gültigkeitsdauer", 
         "JP": "メダル有効期限", 
@@ -8737,7 +8737,7 @@
     }, 
     {
         "FR": "Validité", 
-        "EN": "Medal Validity Period", 
+        "EN": "Medal Expiry Period", 
         "GameKey": "SCENE/0575", 
         "DE": "Medaillen-Gültigkeitsdauer", 
         "JP": "メダル有効期限一覧", 

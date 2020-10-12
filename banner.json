@@ -1623,7 +1623,7 @@
         "osType": 0, 
         "resourceName": "129", 
         "bannerMstId": 143, 
-        "endTime": 1602741599, 
+        "endTime": 1603173599, 
         "type": 1, 
         "assetBundleName": "banner20201008_medal_danzai"
     }, 
@@ -1640,12 +1640,12 @@
         "priority": 2104, 
         "createdTime": 1483974000, 
         "badgeAssetBundleName": "", 
-        "startTime": 1602741600, 
+        "startTime": 1603173600, 
         "beginnerDays": 0, 
         "osType": 0, 
         "resourceName": "130", 
         "bannerMstId": 144, 
-        "endTime": 1603346399, 
+        "endTime": 1603778399, 
         "type": 1, 
         "assetBundleName": "banner20201008_medal_danzai"
     }, 
