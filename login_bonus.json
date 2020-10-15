@@ -154,5 +154,17 @@
         "resourceName": "1", 
         "endTime": 1601528399, 
         "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900004, 
+        "assetBundleName": "", 
+        "title": "Gran Election Countdown", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1602741600, 
+        "resourceName": "1", 
+        "endTime": 1603169999, 
+        "pickupSkillType": 1
     }
 ]

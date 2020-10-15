@@ -891,6 +891,60 @@
         "resourceName": "0001"
     }, 
     {
+        "name": "40 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed stage 40 of Prison of the Abyss", 
+        "assetBundleName": "user_title/2", 
+        "userTitleMstId": 100, 
+        "createdTime": null, 
+        "resourceName": "0004"
+    }, 
+    {
+        "name": "70 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed stage 70 of Prison of the Abyss", 
+        "assetBundleName": "user_title/2", 
+        "userTitleMstId": 101, 
+        "createdTime": null, 
+        "resourceName": "0005"
+    }, 
+    {
+        "name": "100 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed stage 100 of Prison of the Abyss", 
+        "assetBundleName": "user_title/2", 
+        "userTitleMstId": 102, 
+        "createdTime": null, 
+        "resourceName": "0006"
+    }, 
+    {
+        "name": "140 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed stage 140 of Prison of the Abyss", 
+        "assetBundleName": "user_title/2", 
+        "userTitleMstId": 103, 
+        "createdTime": null, 
+        "resourceName": "0007"
+    }, 
+    {
+        "name": "170 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed stage 170 of Prison of the Abyss", 
+        "assetBundleName": "user_title/2", 
+        "userTitleMstId": 104, 
+        "createdTime": null, 
+        "resourceName": "0008"
+    }, 
+    {
+        "name": "200 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed stage 200 of Prison of the Abyss", 
+        "assetBundleName": "user_title/2", 
+        "userTitleMstId": 105, 
+        "createdTime": null, 
+        "resourceName": "0009"
+    }, 
+    {
         "name": "You’re the Best At Invaders ", 
         "limitTime": 1893423600, 
         "detail": "Title given to those ranked 1st by score in Invaders from Space.", 
@@ -9340,5 +9394,401 @@
         "userTitleMstId": 900936, 
         "createdTime": null, 
         "resourceName": "0001"
+    }, 
+    {
+        "name": "You prefer \"Bondage\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Alice in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900937, 
+        "createdTime": null, 
+        "resourceName": "0001"
+    }, 
+    {
+        "name": "You love \"Bondage\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Alice in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900938, 
+        "createdTime": null, 
+        "resourceName": "0002"
+    }, 
+    {
+        "name": "You desire \"Bondage\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Alice in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900939, 
+        "createdTime": null, 
+        "resourceName": "0003"
+    }, 
+    {
+        "name": "You devote yourself to \"Bondage\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Alice in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900940, 
+        "createdTime": null, 
+        "resourceName": "0004"
+    }, 
+    {
+        "name": "You prefer \"Justice\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Snow White in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900941, 
+        "createdTime": null, 
+        "resourceName": "0005"
+    }, 
+    {
+        "name": "You love \"Justice\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Snow White in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900942, 
+        "createdTime": null, 
+        "resourceName": "0006"
+    }, 
+    {
+        "name": "You desire \"Justice\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Snow White in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900943, 
+        "createdTime": null, 
+        "resourceName": "0007"
+    }, 
+    {
+        "name": "You devote yourself to \"Justice\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Snow White in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900944, 
+        "createdTime": null, 
+        "resourceName": "0008"
+    }, 
+    {
+        "name": "You prefer \"Depravity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Cinderella in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900945, 
+        "createdTime": null, 
+        "resourceName": "0009"
+    }, 
+    {
+        "name": "You love \"Depravity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Cinderella in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900946, 
+        "createdTime": null, 
+        "resourceName": "0010"
+    }, 
+    {
+        "name": "You desire \"Depravity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Cinderella in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900947, 
+        "createdTime": null, 
+        "resourceName": "0011"
+    }, 
+    {
+        "name": "You devote yourself to \"Depravity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Cinderella in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900948, 
+        "createdTime": null, 
+        "resourceName": "0012"
+    }, 
+    {
+        "name": "You prefer \"Delusion\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Gretel in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900949, 
+        "createdTime": null, 
+        "resourceName": "0013"
+    }, 
+    {
+        "name": "You love \"Delusion\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Gretel in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900950, 
+        "createdTime": null, 
+        "resourceName": "0014"
+    }, 
+    {
+        "name": "You desire \"Delusion\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Gretel in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900951, 
+        "createdTime": null, 
+        "resourceName": "0015"
+    }, 
+    {
+        "name": "You devote yourself to \"Delusion\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Gretel in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900952, 
+        "createdTime": null, 
+        "resourceName": "0016"
+    }, 
+    {
+        "name": "You prefer \"Brutality\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Red Riding Hood in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900953, 
+        "createdTime": null, 
+        "resourceName": "0017"
+    }, 
+    {
+        "name": "You love \"Brutality\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Red Riding Hood in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900954, 
+        "createdTime": null, 
+        "resourceName": "0018"
+    }, 
+    {
+        "name": "You desire \"Brutality\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Red Riding Hood in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900955, 
+        "createdTime": null, 
+        "resourceName": "0019"
+    }, 
+    {
+        "name": "You devote yourself to \"Brutality\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Red Riding Hood in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900956, 
+        "createdTime": null, 
+        "resourceName": "0020"
+    }, 
+    {
+        "name": "You prefer \"Languor\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Sleeping Beauty in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900957, 
+        "createdTime": null, 
+        "resourceName": "0021"
+    }, 
+    {
+        "name": "You love \"Languor\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Sleeping Beauty in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900958, 
+        "createdTime": null, 
+        "resourceName": "0022"
+    }, 
+    {
+        "name": "You desire \"Languor\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Sleeping Beauty in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900959, 
+        "createdTime": null, 
+        "resourceName": "0023"
+    }, 
+    {
+        "name": "You devote yourself to \"Languor\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Sleeping Beauty in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900960, 
+        "createdTime": null, 
+        "resourceName": "0024"
+    }, 
+    {
+        "name": "You prefer \"Masochism\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Princess Kaguya in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900961, 
+        "createdTime": null, 
+        "resourceName": "0025"
+    }, 
+    {
+        "name": "You love \"Masochism\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Princess Kaguya in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900962, 
+        "createdTime": null, 
+        "resourceName": "0026"
+    }, 
+    {
+        "name": "You desire \"Masochism\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Princess Kaguya in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900963, 
+        "createdTime": null, 
+        "resourceName": "0027"
+    }, 
+    {
+        "name": "You devote yourself to \"Masochism\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Princess Kaguya in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900964, 
+        "createdTime": null, 
+        "resourceName": "0028"
+    }, 
+    {
+        "name": "You prefer \"Dependence\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Pinocchio in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900965, 
+        "createdTime": null, 
+        "resourceName": "0029"
+    }, 
+    {
+        "name": "You love \"Dependence\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Pinocchio in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900966, 
+        "createdTime": null, 
+        "resourceName": "0030"
+    }, 
+    {
+        "name": "You desire \"Dependence\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Pinocchio in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900967, 
+        "createdTime": null, 
+        "resourceName": "0031"
+    }, 
+    {
+        "name": "You devote yourself to \"Dependence\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Pinocchio in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900968, 
+        "createdTime": null, 
+        "resourceName": "0032"
+    }, 
+    {
+        "name": "You prefer \"Misery\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Little Mermaid in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900969, 
+        "createdTime": null, 
+        "resourceName": "0033"
+    }, 
+    {
+        "name": "You love \"Misery\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Little Mermaid in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900970, 
+        "createdTime": null, 
+        "resourceName": "0034"
+    }, 
+    {
+        "name": "You desire \"Misery\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Little Mermaid in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900971, 
+        "createdTime": null, 
+        "resourceName": "0035"
+    }, 
+    {
+        "name": "You devote yourself to \"Misery\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Little Mermaid in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900972, 
+        "createdTime": null, 
+        "resourceName": "0036"
+    }, 
+    {
+        "name": "You prefer \"Curiosity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Dorothy in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900973, 
+        "createdTime": null, 
+        "resourceName": "0037"
+    }, 
+    {
+        "name": "You love \"Curiosity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Dorothy in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900974, 
+        "createdTime": null, 
+        "resourceName": "0038"
+    }, 
+    {
+        "name": "You desire \"Curiosity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Dorothy in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900975, 
+        "createdTime": null, 
+        "resourceName": "0039"
+    }, 
+    {
+        "name": "You devote yourself to \"Curiosity\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Dorothy in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900976, 
+        "createdTime": null, 
+        "resourceName": "0040"
+    }, 
+    {
+        "name": "You prefer \"Gluttony\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 10,001 ballots for Three Little Pigs in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900977, 
+        "createdTime": null, 
+        "resourceName": "0045"
+    }, 
+    {
+        "name": "You love \"Gluttony\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 150,001 ballots for Three Little Pigs in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900978, 
+        "createdTime": null, 
+        "resourceName": "0046"
+    }, 
+    {
+        "name": "You desire \"Gluttony\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 300,001 ballots for Three Little Pigs in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900979, 
+        "createdTime": null, 
+        "resourceName": "0047"
+    }, 
+    {
+        "name": "You devote yourself to \"Gluttony\".", 
+        "limitTime": 1893423600, 
+        "detail": "Title for players that cast 400,001 ballots for Three Little Pigs in Gran Election #1.", 
+        "assetBundleName": "user_title/14", 
+        "userTitleMstId": 900980, 
+        "createdTime": null, 
+        "resourceName": "0048"
     }
 ]

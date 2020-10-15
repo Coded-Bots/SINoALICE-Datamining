@@ -9922,6 +9922,28 @@
         "objectType": 1
     }, 
     {
+        "missionType": 3, 
+        "activeView": 1, 
+        "description": "Clear Act of Impulse (Normal), Chapter 5 to unlock Act of Hatred.", 
+        "objectId": 0, 
+        "title": "Clear Act of Hatred (Normal), Chapter 5", 
+        "conditionsType": 32, 
+        "missionUniquePriority": 1, 
+        "missionUniqueId": 84, 
+        "conditionsCount": 1, 
+        "missionMstId": 1746, 
+        "missionTitleMstId": 12, 
+        "priority": 1, 
+        "num": 150, 
+        "resetType": 0, 
+        "conditionsObjectId": 610, 
+        "startTime": 1603429200, 
+        "endTime": 1606748399, 
+        "resetCycle": 0, 
+        "optionType": 0, 
+        "objectType": 14
+    }, 
+    {
         "missionType": 1, 
         "activeView": 1, 
         "description": "Reach Rank 135. Earn rank EXP through the story and purification.", 

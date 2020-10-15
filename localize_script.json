@@ -14325,7 +14325,7 @@
         "FR": "Impossible de paramétrer les timbres, \\ncar certains ont expiré.", 
         "EN": "Could not set stamps as it includes stamps that have expired.", 
         "GameKey": "SCRIPT/1031", 
-        "DE": "Stempel konnten nicht gesetzt werden, da sie abgelaufene Stempel beinhalten.", 
+        "DE": "Stempel konnten nicht gesetzt werden, da sie abgelaufene Chatsticker beinhalten.", 
         "JP": "期限切れのスタンプが含まれているため\\nスタンプを設定できませんでした。", 
         "VN": "Bao gồm dấu đã hết hạn.\\nKhông thể đặt.", 
         "KR": "사용 기한이 지난 이모티콘이 포함되어\\n이모티콘을 설정하지 못했습니다.", 
@@ -15912,7 +15912,7 @@
         "VN": "Sách phép tăng cường", 
         "KR": "스텝업 뽑기", 
         "ES": "Grimorio de avance", 
-        "TH": "StepUpกรีมัวร์", 
+        "TH": "กรีมัวร์สเต็ปอัพ", 
         "Type": 0, 
         "id": 1137, 
         "TLM": 22937

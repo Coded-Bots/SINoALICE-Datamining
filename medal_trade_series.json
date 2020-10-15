@@ -154,6 +154,20 @@
         "description": "A medal that is an incidental byproduct of a Grimoire."
     }, 
     {
+        "name": "Prison Key Medal", 
+        "startTime": 1602741600, 
+        "priority": 27, 
+        "isDeleted": false, 
+        "assetBundleName": "0316", 
+        "resourceName": "item20201001_tower_shinbuchi", 
+        "wayToGet": "Earned by playing an event.", 
+        "endTime": 1604588399, 
+        "medalTradeSeriesMstId": 17, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 316, 
+        "description": "Medal obtained in the Prison of the Abyss."
+    }, 
+    {
         "name": "Cake Medal", 
         "startTime": 1602136800, 
         "priority": 29, 
