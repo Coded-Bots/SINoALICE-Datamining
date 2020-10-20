@@ -11019,7 +11019,7 @@
     }, 
     {
         "FR": "Aperçu : boîtes à grimoires", 
-        "EN": "Overview: Box o’ Grimoire", 
+        "EN": "Overview: Box o' Grimoire", 
         "GameKey": "PREFAB/0169", 
         "DE": "Übersicht: Gilde Box Grimoire", 
         "JP": "概要：ボックスがちゃ", 
@@ -16465,7 +16465,7 @@
     }, 
     {
         "FR": "Bonus de combat suivant", 
-        "EN": "Next month’s bonuses", 
+        "EN": "Next month's bonuses", 
         "GameKey": "PREFAB", 
         "DE": "Bonus für die nächste Kampfteilnahme", 
         "JP": "次回参戦ボーナス", 
@@ -16479,7 +16479,7 @@
     }, 
     {
         "FR": "Pas de récompense ce mois-ci.\nVeuillez attendre le mois prochain pour des bonus de combat.", 
-        "EN": "There are no bonuses left this month.\nNext month’s bonuses will begin shortly.", 
+        "EN": "There are no bonuses left this month.\nNext month's bonuses will begin shortly.", 
         "GameKey": "PREFAB", 
         "DE": "Diesen Monat gibt es keine Belohnungen die du annehmen kannst.\nBitte warte auf den Kampfteilnahmebonus für den nächsten Monat.", 
         "JP": "今月受け取れる報酬はありません。\n来月の月間参戦ボーナス報酬をお待ちください。", 

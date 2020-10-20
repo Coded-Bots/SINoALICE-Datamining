@@ -96,6 +96,30 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 82, 
+        "assetBundleName": "", 
+        "title": "Welcome Back Login Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 5, 
+        "startTime": 1603173600, 
+        "resourceName": "1", 
+        "endTime": 2145884399, 
+        "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 83, 
+        "assetBundleName": "", 
+        "title": "Halloween Event", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1603173600, 
+        "resourceName": "1", 
+        "endTime": 1604379599, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 104, 
         "assetBundleName": "", 
         "title": "Event Bonus ①", 
@@ -165,6 +189,30 @@
         "startTime": 1602741600, 
         "resourceName": "1", 
         "endTime": 1603169999, 
+        "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900005, 
+        "assetBundleName": "", 
+        "title": "Gran Election Login Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1603173600, 
+        "resourceName": "1", 
+        "endTime": 1603601999, 
+        "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900006, 
+        "assetBundleName": "", 
+        "title": "Gran Election Login Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1603602000, 
+        "resourceName": "1", 
+        "endTime": 1603774799, 
         "pickupSkillType": 1
     }
 ]

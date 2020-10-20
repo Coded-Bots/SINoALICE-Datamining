@@ -331,6 +331,36 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Medal: Halloween", 
+        "announceUrl": "/web/announce/body?announceMstId=2090&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 149, 
+        "createdTime": 1483974000, 
+        "mapGroup": 94, 
+        "name": "Festival of Deceit and Madness"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Medal: Halloween", 
+        "announceUrl": "/web/announce/body?announceMstId=2090&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 150, 
+        "createdTime": 1483974000, 
+        "mapGroup": 94, 
+        "name": "Festival of Deceit and Madness (Hard)"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "Medal: Halloween", 
+        "announceUrl": "/web/announce/body?announceMstId=2090&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 152, 
+        "createdTime": 1483974000, 
+        "mapGroup": 95, 
+        "name": "Bonus Stage"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "NieR RepliCant (Normal)", 
         "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1", 
         "mapType": 1, 
@@ -348,5 +378,15 @@
         "createdTime": 1483974000, 
         "mapGroup": 104, 
         "name": "Dreams Under Missing Pages (Hard)"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "Tutorial Quest", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 246, 
+        "createdTime": 1483974000, 
+        "mapGroup": 145, 
+        "name": "Study Hall Parrah-Noya Style!"
     }
 ]

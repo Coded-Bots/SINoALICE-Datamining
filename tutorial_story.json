@@ -625,7 +625,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "We heard plenty of you saying, “I don’t get what to do!”\\n So here we are to give some advice.", 
+        "storyText": "We heard plenty of you saying, \"I don't get what to do!\"\\n So here we are to give some advice.", 
         "tutorialStoryMstId": 188, 
         "objectId": 34, 
         "characterType": 1, 
@@ -637,7 +637,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "Well, not that it’s a particularly confusing game anyway.", 
+        "storyText": "Well, not that it's a particularly confusing game anyway.", 
         "tutorialStoryMstId": 189, 
         "objectId": 34, 
         "characterType": 2, 
@@ -661,7 +661,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "We’ve added a feature in the top left called Rookies' Path,\\n so give it a tap if you’re lost!", 
+        "storyText": "We've added a feature in the top left called Rookies' Path,\\n so give it a tap if you're lost!", 
         "tutorialStoryMstId": 191, 
         "objectId": 34, 
         "characterType": 2, 
@@ -685,7 +685,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "Clear the entire guide and you’ll get an Alice/Mage!", 
+        "storyText": "Clear the entire guide and you'll get an Alice/Mage!", 
         "tutorialStoryMstId": 193, 
         "objectId": 34, 
         "characterType": 2, 

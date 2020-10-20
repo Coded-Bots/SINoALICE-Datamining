@@ -6820,6 +6820,246 @@
         "cardDetailType": 4
     }, 
     {
+        "name": "Projectile +30% (Little Mermaid+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1633, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1634, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1635, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1636, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1637, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1638, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1639, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1640, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1641, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1642, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +200", 
+        "effectType": 5, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1643, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +200", 
+        "effectType": 5, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1644, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 129, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Instrument +30% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1647, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1648, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1649, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1650, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1651, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1652, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1653, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1654, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Cinderella+ stage)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1655, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1656, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1657, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1658, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 130, 
+        "cardDetailType": 1
+    }, 
+    {
         "name": "Tome +50% (NieR Replicant+ stage)", 
         "effectType": 6, 
         "releaseLevel": 1, 

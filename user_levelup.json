@@ -1196,7 +1196,247 @@
         "maxDeckCost": 333, 
         "maxHp": 30679, 
         "createdTime": 1506524400, 
-        "levelupExp": 0, 
+        "levelupExp": 125232, 
         "maxStamina": 184
+    }, 
+    {
+        "level": 151, 
+        "maxDeckCost": 333, 
+        "maxHp": 30832, 
+        "createdTime": 1510066800, 
+        "levelupExp": 130292, 
+        "maxStamina": 184
+    }, 
+    {
+        "level": 152, 
+        "maxDeckCost": 334, 
+        "maxHp": 30986, 
+        "createdTime": 1510066800, 
+        "levelupExp": 135555, 
+        "maxStamina": 184
+    }, 
+    {
+        "level": 153, 
+        "maxDeckCost": 334, 
+        "maxHp": 31140, 
+        "createdTime": 1510066800, 
+        "levelupExp": 141032, 
+        "maxStamina": 185
+    }, 
+    {
+        "level": 154, 
+        "maxDeckCost": 334, 
+        "maxHp": 31295, 
+        "createdTime": 1510066800, 
+        "levelupExp": 146730, 
+        "maxStamina": 185
+    }, 
+    {
+        "level": 155, 
+        "maxDeckCost": 335, 
+        "maxHp": 31451, 
+        "createdTime": 1510066800, 
+        "levelupExp": 152657, 
+        "maxStamina": 185
+    }, 
+    {
+        "level": 156, 
+        "maxDeckCost": 335, 
+        "maxHp": 31608, 
+        "createdTime": 1510066800, 
+        "levelupExp": 158825, 
+        "maxStamina": 185
+    }, 
+    {
+        "level": 157, 
+        "maxDeckCost": 335, 
+        "maxHp": 31766, 
+        "createdTime": 1510066800, 
+        "levelupExp": 165241, 
+        "maxStamina": 185
+    }, 
+    {
+        "level": 158, 
+        "maxDeckCost": 336, 
+        "maxHp": 31924, 
+        "createdTime": 1510066800, 
+        "levelupExp": 171917, 
+        "maxStamina": 186
+    }, 
+    {
+        "level": 159, 
+        "maxDeckCost": 336, 
+        "maxHp": 32083, 
+        "createdTime": 1510066800, 
+        "levelupExp": 178862, 
+        "maxStamina": 186
+    }, 
+    {
+        "level": 160, 
+        "maxDeckCost": 336, 
+        "maxHp": 32243, 
+        "createdTime": 1510066800, 
+        "levelupExp": 180174, 
+        "maxStamina": 186
+    }, 
+    {
+        "level": 161, 
+        "maxDeckCost": 337, 
+        "maxHp": 32404, 
+        "createdTime": 1513090800, 
+        "levelupExp": 181495, 
+        "maxStamina": 186
+    }, 
+    {
+        "level": 162, 
+        "maxDeckCost": 337, 
+        "maxHp": 32566, 
+        "createdTime": 1513090800, 
+        "levelupExp": 182826, 
+        "maxStamina": 186
+    }, 
+    {
+        "level": 163, 
+        "maxDeckCost": 337, 
+        "maxHp": 32728, 
+        "createdTime": 1513090800, 
+        "levelupExp": 184166, 
+        "maxStamina": 187
+    }, 
+    {
+        "level": 164, 
+        "maxDeckCost": 338, 
+        "maxHp": 32891, 
+        "createdTime": 1513090800, 
+        "levelupExp": 185516, 
+        "maxStamina": 187
+    }, 
+    {
+        "level": 165, 
+        "maxDeckCost": 338, 
+        "maxHp": 33055, 
+        "createdTime": 1513090800, 
+        "levelupExp": 186877, 
+        "maxStamina": 187
+    }, 
+    {
+        "level": 166, 
+        "maxDeckCost": 338, 
+        "maxHp": 33220, 
+        "createdTime": 1513090800, 
+        "levelupExp": 188247, 
+        "maxStamina": 187
+    }, 
+    {
+        "level": 167, 
+        "maxDeckCost": 339, 
+        "maxHp": 33386, 
+        "createdTime": 1513090800, 
+        "levelupExp": 189627, 
+        "maxStamina": 187
+    }, 
+    {
+        "level": 168, 
+        "maxDeckCost": 339, 
+        "maxHp": 33552, 
+        "createdTime": 1513090800, 
+        "levelupExp": 191017, 
+        "maxStamina": 188
+    }, 
+    {
+        "level": 169, 
+        "maxDeckCost": 339, 
+        "maxHp": 33719, 
+        "createdTime": 1513090800, 
+        "levelupExp": 192418, 
+        "maxStamina": 188
+    }, 
+    {
+        "level": 170, 
+        "maxDeckCost": 340, 
+        "maxHp": 33887, 
+        "createdTime": 1513090800, 
+        "levelupExp": 193829, 
+        "maxStamina": 188
+    }, 
+    {
+        "level": 171, 
+        "maxDeckCost": 340, 
+        "maxHp": 34056, 
+        "createdTime": 1513090800, 
+        "levelupExp": 195250, 
+        "maxStamina": 188
+    }, 
+    {
+        "level": 172, 
+        "maxDeckCost": 340, 
+        "maxHp": 34226, 
+        "createdTime": 1513090800, 
+        "levelupExp": 196681, 
+        "maxStamina": 188
+    }, 
+    {
+        "level": 173, 
+        "maxDeckCost": 340, 
+        "maxHp": 34397, 
+        "createdTime": 1513090800, 
+        "levelupExp": 198124, 
+        "maxStamina": 189
+    }, 
+    {
+        "level": 174, 
+        "maxDeckCost": 341, 
+        "maxHp": 34568, 
+        "createdTime": 1513090800, 
+        "levelupExp": 199576, 
+        "maxStamina": 189
+    }, 
+    {
+        "level": 175, 
+        "maxDeckCost": 341, 
+        "maxHp": 34740, 
+        "createdTime": 1513090800, 
+        "levelupExp": 201039, 
+        "maxStamina": 189
+    }, 
+    {
+        "level": 176, 
+        "maxDeckCost": 341, 
+        "maxHp": 34913, 
+        "createdTime": 1513090800, 
+        "levelupExp": 202513, 
+        "maxStamina": 189
+    }, 
+    {
+        "level": 177, 
+        "maxDeckCost": 341, 
+        "maxHp": 35087, 
+        "createdTime": 1513090800, 
+        "levelupExp": 203998, 
+        "maxStamina": 189
+    }, 
+    {
+        "level": 178, 
+        "maxDeckCost": 342, 
+        "maxHp": 35262, 
+        "createdTime": 1513090800, 
+        "levelupExp": 205494, 
+        "maxStamina": 190
+    }, 
+    {
+        "level": 179, 
+        "maxDeckCost": 342, 
+        "maxHp": 35438, 
+        "createdTime": 1513090800, 
+        "levelupExp": 206999, 
+        "maxStamina": 190
+    }, 
+    {
+        "level": 180, 
+        "maxDeckCost": 342, 
+        "maxHp": 35615, 
+        "createdTime": 1513090800, 
+        "levelupExp": 0, 
+        "maxStamina": 190
     }
 ]

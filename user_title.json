@@ -945,7 +945,7 @@
         "resourceName": "0009"
     }, 
     {
-        "name": "You’re the Best At Invaders ", 
+        "name": "You're the Best At Invaders ", 
         "limitTime": 1893423600, 
         "detail": "Title given to those ranked 1st by score in Invaders from Space.", 
         "assetBundleName": "user_title/8", 
@@ -954,7 +954,7 @@
         "resourceName": "0001"
     }, 
     {
-        "name": "You’re the Esteemed Second Place", 
+        "name": "You're the Esteemed Second Place", 
         "limitTime": 1893423600, 
         "detail": "Title given to those ranked 2nd by score in Invaders from Space.", 
         "assetBundleName": "user_title/8", 
@@ -963,7 +963,7 @@
         "resourceName": "0002"
     }, 
     {
-        "name": "You’re Third of a Special Three", 
+        "name": "You're Third of a Special Three", 
         "limitTime": 1893423600, 
         "detail": "Title given to those ranked 3rd by score in Invaders from Space.", 
         "assetBundleName": "user_title/8", 

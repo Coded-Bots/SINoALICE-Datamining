@@ -198,6 +198,17 @@
         "objectType": 2
     }, 
     {
+        "objectId": 2614, 
+        "pickupSkillType": 1, 
+        "num": 1, 
+        "startTime": 1603173600, 
+        "medalTradePickupMstId": 74, 
+        "endTime": 1605020399, 
+        "medalTradeSeriesMstId": 15, 
+        "isDeleted": false, 
+        "objectType": 2
+    }, 
+    {
         "objectId": 3095, 
         "pickupSkillType": 1, 
         "num": 1, 
