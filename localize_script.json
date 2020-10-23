@@ -4158,7 +4158,7 @@
         "TLM": 20991
     }, 
     {
-        "FR": " pour obtenir \\\\n{0} grimoires ?", 
+        "FR": " pour obtenir {0} grimoire(s) ?", 
         "EN": "and summon {0} grimoire(s)?", 
         "GameKey": "SCRIPT/0298", 
         "DE": " {0} Grimoire(s) zu beschwören?", 
@@ -15919,13 +15919,13 @@
     }, 
     {
         "FR": "Tour {0}/{1}", 
-        "EN": "Lap {0}/{1}", 
+        "EN": "Round {0}/{1}", 
         "GameKey": "SCRIPT/1081", 
         "DE": "Runde {0}/{1}", 
         "JP": "{0} / {1}周目", 
         "VN": "Vòng {0}/{1}", 
         "KR": "{0}/{1}회차", 
-        "ES": "Vuelta {0}/{1}", 
+        "ES": "Ronda {0}/{1}", 
         "TH": "สัปดาห์ที่{0}/{1}", 
         "Type": 0, 
         "id": 1138, 
@@ -18520,5 +18520,47 @@
         "Type": 0, 
         "id": 1323, 
         "TLM": 51391
+    }, 
+    {
+        "FR": "SP Récupérée", 
+        "EN": "Recovered SP", 
+        "GameKey": "SCRIPT", 
+        "DE": "SP-Regeneration", 
+        "JP": "回復SP", 
+        "VN": "", 
+        "KR": "회복 SP", 
+        "ES": "Recuperación de PH", 
+        "TH": "SP ฟื้นฟู", 
+        "Type": 0, 
+        "id": 1324, 
+        "TLM": 51466
+    }, 
+    {
+        "FR": "Défi", 
+        "EN": "Try", 
+        "GameKey": "SCRIPT", 
+        "DE": "Herausforderung", 
+        "JP": "挑戦", 
+        "VN": "", 
+        "KR": "도전", 
+        "ES": "Desafío", 
+        "TH": "ลอง", 
+        "Type": 0, 
+        "id": 1325, 
+        "TLM": 51463
+    }, 
+    {
+        "FR": "Redirection vers un site externe. Confirmez-vous ?", 
+        "EN": "You will be sent to an external webpage. Continue?", 
+        "GameKey": "SCRIPT", 
+        "DE": "Du wirst zu einer externen Seite weitergeleitet. Fortfahren?", 
+        "JP": "外部サイトへ遷移します。よろしいでしょうか。", 
+        "VN": "", 
+        "KR": "외부 사이트로 이동하시겠습니까?", 
+        "ES": "Se te dirigirá a un sitio externo. ¿Continuar?", 
+        "TH": "จะย้ายโอนไปยังเว็ปไซต์ภายนอก แน่ใจหรือไม่", 
+        "Type": 0, 
+        "id": 1326, 
+        "TLM": 51464
     }
 ]

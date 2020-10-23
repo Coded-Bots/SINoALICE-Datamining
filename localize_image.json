@@ -1499,14 +1499,14 @@
     }, 
     {
         "FR": "Classes à débloquer", 
-        "EN": "Unlockable Classes", 
+        "EN": "Unlockable", 
         "GameKey": "Image/0108", 
-        "DE": "Freischaltbare Klassen", 
+        "DE": "Klasse", 
         "JP": "解放ジョブ", 
         "VN": "Nghề không thể mở khóa", 
         "KR": "오픈 직업", 
-        "ES": "Clases desbloqueables", 
-        "TH": "คลาสที่ปลดล็อกได้", 
+        "ES": "Clases desb.", 
+        "TH": "คลาสที่ปลดล็อก", 
         "Type": 0, 
         "id": 108, 
         "TLM": 207

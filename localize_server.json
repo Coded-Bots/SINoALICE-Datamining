@@ -6812,7 +6812,7 @@
         "VN": "Tỷ lệ xuất hiện (khi đã bảo đảm {0} trở lên)", 
         "KR": "등장 확률 목록(%s 이상 확정 시)", 
         "ES": "Listado de Índice de provisión (al confirmar %s o sup.)", 
-        "TH": "รายการอัตราส่วนการจัดสรร (เมื่อการันดี %s ขึ้นไป)", 
+        "TH": "รายการอัตราส่วนการจัดสรร (เมื่อการันตี %s ขึ้นไป)", 
         "Type": 0, 
         "id": 487, 
         "TLM": 22143
@@ -10864,7 +10864,7 @@
         "TLM": 23022
     }, 
     {
-        "FR": "[Bulletin info de Parrah-Noya] A obtenu %s dans la Boîte à grimoires.", 
+        "FR": "[Bulletin info de Parrah-Noya] %s a été rendu(e) via la Boîte à grimoires.", 
         "EN": "Parrah-Noya Mart Report: Gained %s from the box o' grimoire.", 
         "GameKey": "ServerData/chat.guild.guildGacha.gain", 
         "DE": "[Parrah-Noya Mart Bericht] erlangt %s von des Box Grimoire.", 
@@ -13986,7 +13986,7 @@
         "TLM": 23253
     }, 
     {
-        "FR": "[Bulletin info de Parrah-Noya] %s à rendre via la boîte à grimoires.", 
+        "FR": "[Bulletin info de Parrah-Noya] %s a été obtenu(e) via la Boîte à grimoires.", 
         "EN": "[Parrah-Noya Mart Bulletin] Returning %s via box o' grimoire.", 
         "GameKey": "ServerData/chat.guild.guildGacha.return", 
         "DE": "[Parrah-Noya Mart Bulletin] Rücksendung %s via Box Grimoire", 
@@ -15002,7 +15002,7 @@
         "VN": "", 
         "KR": "게임 내에서 이용할 수 있는 화폐입니다. 장비 강화 등에 필요합니다.", 
         "ES": "Es la moneda de pago utilizada en el juego. Indispensable para la mejora de tu equipo, por ejemplo.", 
-        "TH": "เงินตราที่ใช้ได้ในเกม ใช้เมื่อต้องการอัปเดตอุปกรณ์", 
+        "TH": "ค่าเงินสำหรับใช้ในเกม ใช้เมื่อต้องการอัพเกรดอุปกรณ์ เป็นต้น", 
         "Type": 0, 
         "id": 1072, 
         "TLM": 50872
@@ -17074,7 +17074,7 @@
         "VN": "", 
         "KR": "%s %s개로 획득한 길드 달성 보상입니다.", 
         "ES": "Recompensa por logro del gremio por obtener %s.", 
-        "TH": "%s% xs รางวัลความสำเร็จกิลด์จากการได้รับสิ่งดังกล่าว", 
+        "TH": "%s x%s รางวัลความสำเร็จกิลด์จากการได้รับสิ่งดังกล่าว", 
         "Type": 0, 
         "id": 1220, 
         "TLM": 51140
@@ -17088,7 +17088,7 @@
         "VN": "", 
         "KR": "%s %s개로 획득한 개인 달성 보상입니다.", 
         "ES": "Recompensa por logro individual del gremio por obtener %s.", 
-        "TH": "%s% xs รางวัลความสำเร็จส่วนตัวจากการได้รับสิ่งดังกล่าว", 
+        "TH": "%s x%s รางวัลความสำเร็จส่วนตัวจากการได้รับสิ่งดังกล่าว", 
         "Type": 0, 
         "id": 1221, 
         "TLM": 51141
