@@ -10864,7 +10864,7 @@
         "TLM": 23022
     }, 
     {
-        "FR": "[Bulletin info de Parrah-Noya] %s a été rendu(e) via la Boîte à grimoires.", 
+        "FR": "[Bulletin info de Parrah-Noya] %s a été obtenu(e) via la Boîte à grimoires.", 
         "EN": "Parrah-Noya Mart Report: Gained %s from the box o' grimoire.", 
         "GameKey": "ServerData/chat.guild.guildGacha.gain", 
         "DE": "[Parrah-Noya Mart Bericht] erlangt %s von des Box Grimoire.", 
@@ -13986,7 +13986,7 @@
         "TLM": 23253
     }, 
     {
-        "FR": "[Bulletin info de Parrah-Noya] %s a été obtenu(e) via la Boîte à grimoires.", 
+        "FR": "[Bulletin info de Parrah-Noya] %s a été rendu(e) via la Boîte à grimoires.", 
         "EN": "[Parrah-Noya Mart Bulletin] Returning %s via box o' grimoire.", 
         "GameKey": "ServerData/chat.guild.guildGacha.return", 
         "DE": "[Parrah-Noya Mart Bulletin] Rücksendung %s via Box Grimoire", 

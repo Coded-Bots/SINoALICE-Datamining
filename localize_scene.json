@@ -6762,7 +6762,7 @@
         "TLM": 20655
     }, 
     {
-        "FR": "Libération après avoir terminé Acte de haine", 
+        "FR": "Débloqué après avoir terminé Acte de haine", 
         "EN": "Must clear\\\\nAct of Hatred", 
         "GameKey": "SCENE/0483", 
         "DE": "Veröffentlicht nach Abschluss von Akt: Hass", 
@@ -10092,5 +10092,19 @@
         "Type": 0, 
         "id": 721, 
         "TLM": 51459
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "", 
+        "JP": "効果UP中", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 722, 
+        "TLM": 51467
     }
 ]

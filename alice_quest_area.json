@@ -2466,6 +2466,23 @@
     }, 
     {
         "isGve": false, 
+        "unCombatFlag": false, 
+        "name": "Venomous Fangs", 
+        "collectItemId": 0, 
+        "questAreaMstId": 171, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 34, 
+        "assetBundleName": "questareabackground/9", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0009", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
         "unCombatFlag": true, 
         "name": "Prison of the Abyss", 
         "collectItemId": 0, 

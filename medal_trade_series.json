@@ -168,6 +168,20 @@
         "description": "Medal obtained in the Prison of the Abyss."
     }, 
     {
+        "name": "Medal of Desire (XI)", 
+        "startTime": 1603778400, 
+        "priority": 28, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoire.", 
+        "endTime": 1607612399, 
+        "medalTradeSeriesMstId": 18, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 160, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
+    }, 
+    {
         "name": "Cake Medal", 
         "startTime": 1602136800, 
         "priority": 29, 

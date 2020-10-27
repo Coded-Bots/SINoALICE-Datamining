@@ -45441,6 +45441,105 @@
         "description": "Clear using a weapon skill 3+ times"
     }, 
     {
+        "missionType": 7, 
+        "questMissionMstId": 4576, 
+        "name": "Clear with 5m+ remaining", 
+        "level": 1, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1526, 
+        "createdTime": 1483974000, 
+        "description": "Clear with 5m+ remaining"
+    }, 
+    {
+        "missionType": 9, 
+        "questMissionMstId": 4577, 
+        "name": "Clear using a water skill 2+ times", 
+        "level": 2, 
+        "missionValue": 2, 
+        "missionValue2": 2, 
+        "questStageMstId": 1526, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a water skill 2+ times"
+    }, 
+    {
+        "missionType": 3, 
+        "questMissionMstId": 4578, 
+        "name": "Clear using a weapon skill 3+ times", 
+        "level": 3, 
+        "missionValue": 3, 
+        "missionValue2": 0, 
+        "questStageMstId": 1526, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a weapon skill 3+ times"
+    }, 
+    {
+        "missionType": 7, 
+        "questMissionMstId": 4579, 
+        "name": "Clear with 5m+ remaining", 
+        "level": 1, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1527, 
+        "createdTime": 1483974000, 
+        "description": "Clear with 5m+ remaining"
+    }, 
+    {
+        "missionType": 9, 
+        "questMissionMstId": 4580, 
+        "name": "Clear using a water skill 2+ times", 
+        "level": 2, 
+        "missionValue": 2, 
+        "missionValue2": 2, 
+        "questStageMstId": 1527, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a water skill 2+ times"
+    }, 
+    {
+        "missionType": 3, 
+        "questMissionMstId": 4581, 
+        "name": "Clear using a weapon skill 3+ times", 
+        "level": 3, 
+        "missionValue": 3, 
+        "missionValue2": 0, 
+        "questStageMstId": 1527, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a weapon skill 3+ times"
+    }, 
+    {
+        "missionType": 7, 
+        "questMissionMstId": 4582, 
+        "name": "Clear with 5m+ remaining", 
+        "level": 1, 
+        "missionValue": 5, 
+        "missionValue2": 0, 
+        "questStageMstId": 1528, 
+        "createdTime": 1483974000, 
+        "description": "Clear with 5m+ remaining"
+    }, 
+    {
+        "missionType": 9, 
+        "questMissionMstId": 4583, 
+        "name": "Clear using a water skill 2+ times", 
+        "level": 2, 
+        "missionValue": 2, 
+        "missionValue2": 2, 
+        "questStageMstId": 1528, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a water skill 2+ times"
+    }, 
+    {
+        "missionType": 3, 
+        "questMissionMstId": 4584, 
+        "name": "Clear using a weapon skill 3+ times", 
+        "level": 3, 
+        "missionValue": 3, 
+        "missionValue2": 0, 
+        "questStageMstId": 1528, 
+        "createdTime": 1483974000, 
+        "description": "Clear using a weapon skill 3+ times"
+    }, 
+    {
         "missionType": 5, 
         "questMissionMstId": 4762, 
         "name": "No missions available.", 

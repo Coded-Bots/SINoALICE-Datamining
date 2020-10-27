@@ -18220,6 +18220,56 @@
         "viewType": 2
     }, 
     {
+        "scenarioType": 2, 
+        "questScenarioMstId": 1927, 
+        "otherQuestStoryIndex": 1563, 
+        "matchQuestStoryIndex": 1562, 
+        "questStageMstId": 1526, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 0, 
+        "viewType": 1
+    }, 
+    {
+        "scenarioType": 2, 
+        "questScenarioMstId": 1928, 
+        "otherQuestStoryIndex": 1565, 
+        "matchQuestStoryIndex": 1564, 
+        "questStageMstId": 1527, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 0, 
+        "viewType": 1
+    }, 
+    {
+        "scenarioType": 2, 
+        "questScenarioMstId": 1929, 
+        "otherQuestStoryIndex": 1567, 
+        "matchQuestStoryIndex": 1566, 
+        "questStageMstId": 1527, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 0, 
+        "viewType": 2
+    }, 
+    {
+        "scenarioType": 2, 
+        "questScenarioMstId": 1930, 
+        "otherQuestStoryIndex": 1569, 
+        "matchQuestStoryIndex": 1568, 
+        "questStageMstId": 1528, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 0, 
+        "viewType": 1
+    }, 
+    {
+        "scenarioType": 2, 
+        "questScenarioMstId": 1931, 
+        "otherQuestStoryIndex": 1571, 
+        "matchQuestStoryIndex": 1570, 
+        "questStageMstId": 1528, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 0, 
+        "viewType": 2
+    }, 
+    {
         "scenarioType": 1, 
         "questScenarioMstId": 2375, 
         "otherQuestStoryIndex": 786, 

@@ -201,6 +201,16 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "September Conquest Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 34, 
+        "createdTime": 1483974000, 
+        "mapGroup": 19, 
+        "name": "Venomous Fangs"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Mini-Tower", 
         "announceUrl": "", 
         "mapType": 1, 
