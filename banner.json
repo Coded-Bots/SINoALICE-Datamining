@@ -3254,5 +3254,27 @@
         "endTime": 1604037599, 
         "type": 3, 
         "assetBundleName": "banner20201023_gold_mcp"
+    }, 
+    {
+        "optionType": 0, 
+        "announceMstId": 362, 
+        "objectId": 0, 
+        "isDeleted": false, 
+        "badgeEndTime": 1604383199, 
+        "isBeginner": false, 
+        "transitionSceneName": "ItemShopCrystal", 
+        "isDisplayHome": true, 
+        "badgeResourceName": "MypageSale900001Button", 
+        "priority": 2205, 
+        "createdTime": 1483974000, 
+        "badgeAssetBundleName": "mypage_badge_button/mypage_sale_900001_button", 
+        "startTime": 1603778400, 
+        "beginnerDays": 0, 
+        "osType": 0, 
+        "resourceName": "900006", 
+        "bannerMstId": 900022, 
+        "endTime": 1604383199, 
+        "type": 3, 
+        "assetBundleName": "banner20200722_ticket_mcp"
     }
 ]
