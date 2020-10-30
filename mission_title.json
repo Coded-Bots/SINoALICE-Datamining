@@ -30,6 +30,12 @@
         "title": "Memory of Judgment"
     }, 
     {
+        "endTime": 1924959599, 
+        "startTime": 1604037600, 
+        "missionTitleMstId": 9, 
+        "title": "Act of Reality Release Celebration Missions"
+    }, 
+    {
         "endTime": 1606748399, 
         "startTime": 1603429200, 
         "missionTitleMstId": 12, 
@@ -70,5 +76,11 @@
         "startTime": 1603173600, 
         "missionTitleMstId": 900001, 
         "title": "Gran Election Daily Mission"
+    }, 
+    {
+        "endTime": 1605765599, 
+        "startTime": 1604037600, 
+        "missionTitleMstId": 900003, 
+        "title": "Twitter Post Mission"
     }
 ]

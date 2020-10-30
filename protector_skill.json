@@ -526,5 +526,82 @@
         "cardMstId": 0, 
         "maxLevel": 15, 
         "description": "Increases the effectiveness of wind polearm skills."
+    }, 
+    {
+        "name": "Instrument Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 49, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 1, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of instrument skills."
+    }, 
+    {
+        "name": "Tome Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 51, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 2, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of tome skills."
+    }, 
+    {
+        "name": "Staff Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 55, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 4, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of staff skills."
+    }, 
+    {
+        "name": "Blade Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 57, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 5, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of blade skills."
+    }, 
+    {
+        "name": "Heavy Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 59, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 6, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of heavy skills."
+    }, 
+    {
+        "name": "Projectile Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 61, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 7, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of projectile skills."
+    }, 
+    {
+        "name": "Polearm Merit", 
+        "attribute": 9, 
+        "protectorSkillMstId": 63, 
+        "createdTime": 1484060400, 
+        "rate": 3, 
+        "cardDetailType": 8, 
+        "cardMstId": 0, 
+        "maxLevel": 15, 
+        "description": "Slightly increases the effectiveness of polearm skills."
     }
 ]

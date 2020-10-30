@@ -84,6 +84,18 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 23, 
+        "assetBundleName": "", 
+        "title": "Act of Reality Release Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1604037600, 
+        "resourceName": "1", 
+        "endTime": 1605848399, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 38, 
         "assetBundleName": "", 
         "title": "Event Login Bonus", 
