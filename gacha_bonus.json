@@ -512,6 +512,22 @@
         "objectType": 1
     }, 
     {
+        "objectId": 160, 
+        "gachaMstId": 120, 
+        "gachaBonusMstId": 146, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 160, 
+        "gachaMstId": 121, 
+        "gachaBonusMstId": 147, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
         "objectId": 159, 
         "gachaMstId": 159, 
         "gachaBonusMstId": 209, 

@@ -11788,7 +11788,7 @@
         "TLM": 21536
     }, 
     {
-        "FR": "Tous les jours à 0:00", 
+        "FR": "Ràz. à 0:00", 
         "EN": "Resets 0:00 daily", 
         "GameKey": "SCRIPT/0843", 
         "DE": "Täglich 0:00", 
@@ -11802,7 +11802,7 @@
         "TLM": 21537
     }, 
     {
-        "FR": "ràz.", 
+        "FR": "tous les jours.", 
         "EN": "Update", 
         "GameKey": "SCRIPT/0844", 
         "DE": "neu", 
@@ -18705,7 +18705,7 @@
     }, 
     {
         "FR": "Limite supérieure atteinte. Surcharge impossible.", 
-        "EN": "", 
+        "EN": "Reached maximum limit. Cannot limit break.", 
         "GameKey": "SCRIPT", 
         "DE": "Wegen Maximum kein Limit Break möglich-", 
         "JP": "上限のため限界突破できません", 
@@ -18719,7 +18719,7 @@
     }, 
     {
         "FR": "Possédé(s) : {0}", 
-        "EN": "", 
+        "EN": "Owned: {0}", 
         "GameKey": "SCRIPT", 
         "DE": "In Besitz: {0}", 
         "JP": "所持数：{0}個", 
@@ -18733,7 +18733,7 @@
     }, 
     {
         "FR": "Surcharges : niv. {0}", 
-        "EN": "", 
+        "EN": "Limit Breaks: {0}", 
         "GameKey": "SCRIPT", 
         "DE": "Limit Break: {0}. Stufe", 
         "JP": "限界突破：{0}段階", 
@@ -18747,7 +18747,7 @@
     }, 
     {
         "FR": "Classes : <color=#B42F00> obtenue(s)</color>", 
-        "EN": "", 
+        "EN": "Class: </color>Already own<color=#B42F00>", 
         "GameKey": "SCRIPT", 
         "DE": "Klassen in Besitz: <color=#B42F00>Ja</color>", 
         "JP": "ジョブ所持：<color=#B42F00>あり</color>", 
@@ -18761,7 +18761,7 @@
     }, 
     {
         "FR": "Classes :  aucune", 
-        "EN": "", 
+        "EN": "Class: Not yet own", 
         "GameKey": "SCRIPT", 
         "DE": "Klassen in Besitz: Nein", 
         "JP": "ジョブ所持：なし", 
@@ -18775,7 +18775,7 @@
     }, 
     {
         "FR": "Échange possible seulement au Rang {0}", 
-        "EN": "", 
+        "EN": "Rank must be below {0} to exchange.", 
         "GameKey": "SCRIPT", 
         "DE": "Kann nur getauscht werden, wenn der Rang unter {0} ist.", 
         "JP": "Rankが{0}未満の場合のみ交換可能", 
@@ -18789,7 +18789,7 @@
     }, 
     {
         "FR": "Débloqué au rang {0}", 
-        "EN": "", 
+        "EN": "Will unlock at Rank {0}.", 
         "GameKey": "SCRIPT", 
         "DE": "Wird bei Rang {0} freigeschaltet.", 
         "JP": "Rank{0}で解放されます", 
@@ -18803,7 +18803,7 @@
     }, 
     {
         "FR": "L'équipement de base\\nn'a pas pu être obtenu.\\nRetour à la page d'accueil.", 
-        "EN": "", 
+        "EN": "Base gear could not\\nbe acquired.\\nReturning to home screen.", 
         "GameKey": "SCRIPT", 
         "DE": "Die Basis Ausrüstung\\nkonnte nicht richtig eingestellt werden.\\nZurück zur Startseite.", 
         "JP": "ベースとなる装備が\\n正しく取得できませんでした。\\nマイページに戻ります。", 
@@ -18817,7 +18817,7 @@
     }, 
     {
         "FR": "Il y a des équipements de niveau supérieur à celui que vous avez sélectionné.\\nVoulez-vous vraiment l'utiliser comme base ?", 
-        "EN": "", 
+        "EN": "There is gear of a higher level than what you selected.\\nProceed as base anyway?", 
         "GameKey": "SCRIPT", 
         "DE": "Andere Ausrüstung hat eine höhere Stufe, als die ausgewählte.\\nTrotzdem als Basis verwenden?", 
         "JP": "選択したものよりもLvが高い装備があります。\\nベースにしてもよろしいですか？", 
@@ -18831,7 +18831,7 @@
     }, 
     {
         "FR": "Il y a des équipements de niveau supérieur à celui que vous avez sélectionné.\\nVoulez-vous vraiment l'utiliser comme base ?", 
-        "EN": "", 
+        "EN": "There is gear of a higher level than what you selected.\\nProceed as base anyway?", 
         "GameKey": "SCRIPT", 
         "DE": "Andere Ausrüstung hat eine höhere Stufe, als die ausgewählte.\\nTrotzdem als Basis verwenden?", 
         "JP": "選択したものよりもLvが高い装備があります。\\nベースにしてもよろしいですか？", 
@@ -18845,7 +18845,7 @@
     }, 
     {
         "FR": "Pas assez d'or.", 
-        "EN": "", 
+        "EN": "Insufficient gold.", 
         "GameKey": "SCRIPT", 
         "DE": "Nicht genügend Gold.", 
         "JP": "ゴールドが不足しています。", 
@@ -18859,7 +18859,7 @@
     }, 
     {
         "FR": "Capacité d'ensemble d'équipement augmentée", 
-        "EN": "", 
+        "EN": "Gear set capacity expanded.", 
         "GameKey": "SCRIPT", 
         "DE": "Ausrüstungsset Plätze erweitern.", 
         "JP": "装備セット枠を拡張しました。", 
@@ -18873,7 +18873,7 @@
     }, 
     {
         "FR": "Lots", 
-        "EN": "", 
+        "EN": "List", 
         "GameKey": "SCRIPT", 
         "DE": "Übersicht", 
         "JP": "一覧", 
@@ -18887,7 +18887,7 @@
     }, 
     {
         "FR": "Total", 
-        "EN": "", 
+        "EN": "Total Owned", 
         "GameKey": "SCRIPT", 
         "DE": "Komplettes Intventar", 
         "JP": "総所持", 
@@ -18901,7 +18901,7 @@
     }, 
     {
         "FR": "{0} échangés", 
-        "EN": "", 
+        "EN": "Exchange {0}", 
         "GameKey": "SCRIPT", 
         "DE": "{0} tauschen", 
         "JP": "{0}交換", 
@@ -18915,7 +18915,7 @@
     }, 
     {
         "FR": "Débloquée au rang {0}", 
-        "EN": "", 
+        "EN": "Unlocks at Rank {0}", 
         "GameKey": "SCRIPT", 
         "DE": "Wird bei Rang {0} freigeschaltet.", 
         "JP": "Rankが{0}になると解放されます", 
@@ -18929,9 +18929,9 @@
     }, 
     {
         "FR": "En utilisant 1 {0} les PA sont restaurés.", 
-        "EN": "", 
+        "EN": "You can use 1 {0} to restore your AP.", 
         "GameKey": "SCRIPT", 
-        "DE": "Wird bei Rang {0} freigeschaltet.", 
+        "DE": "Verwende 1 {0} um AP zu regenerieren.", 
         "JP": "{0}を1個使用してAPを回復できます。", 
         "VN": "", 
         "KR": "{0}을(를) 1개 사용하여 AP를 회복할 수 있습니다.", 
@@ -18943,7 +18943,7 @@
     }, 
     {
         "FR": "*obtenable avec {0} d'expérience", 
-        "EN": "", 
+        "EN": "Note: You can obtain {0} EXP.", 
         "GameKey": "SCRIPT", 
         "DE": "*Du kannst {0} EXP erhalten.", 
         "JP": "※{0}経験値を獲得できます。", 
@@ -18957,7 +18957,7 @@
     }, 
     {
         "FR": "*impossible d'obtenir de l'expérience", 
-        "EN": "", 
+        "EN": "Note: You cannot obtain  EXP.", 
         "GameKey": "SCRIPT", 
         "DE": "*EXP können nicht erhalten werden.", 
         "JP": "※経験値は獲得できません。", 
@@ -18971,7 +18971,7 @@
     }, 
     {
         "FR": "*pas de {0}", 
-        "EN": "", 
+        "EN": "Note: There is/are no {0}.", 
         "GameKey": "SCRIPT", 
         "DE": "* Kein(e) {0}.", 
         "JP": "※{0}がありません。", 
@@ -18985,7 +18985,7 @@
     }, 
     {
         "FR": "Récupérer {0}", 
-        "EN": "", 
+        "EN": "Use {0} to recover", 
         "GameKey": "SCRIPT", 
         "DE": "Benutze {0} für Regeneration.", 
         "JP": "{0}で回復する", 
@@ -18999,7 +18999,7 @@
     }, 
     {
         "FR": "*Récupération de certains objets impossible par manque de place dans l'inventaire.", 
-        "EN": "", 
+        "EN": "Note: Could not claim some items due to lack of inventory space.", 
         "GameKey": "SCRIPT", 
         "DE": "*Aus Mangel an Lagerplatz konnten einige Items nicht angenommen werden.", 
         "JP": "※所持上限の為、受け取れないアイテムがありました。", 
@@ -19013,7 +19013,7 @@
     }, 
     {
         "FR": "*Récupération impossible par manque de place dans l'inventaire.", 
-        "EN": "", 
+        "EN": "Note: Could not be claimed due to lack of inventory space.", 
         "GameKey": "SCRIPT", 
         "DE": "*Annahme aus Mangel an Lagerplatz nicht möglich.", 
         "JP": "※所持上限の為、受け取れませんでした。", 
@@ -19027,7 +19027,7 @@
     }, 
     {
         "FR": "Confirmez-vous la vente ?", 
-        "EN": "", 
+        "EN": "Proceed to sell?", 
         "GameKey": "SCRIPT", 
         "DE": "Verkaufen?", 
         "JP": "売却してもよろしいですか？", 
@@ -19047,7 +19047,7 @@
         "JP": "合計総合値：", 
         "VN": "", 
         "KR": "총 전투력: ", 
-        "ES": "Puntos de clasificación totales:", 
+        "ES": "Puntos de clas. total", 
         "TH": "ค่ารวมทั้งหมด:", 
         "Type": 0, 
         "id": 1361, 
@@ -19432,7 +19432,7 @@
         "TLM": 51496
     }, 
     {
-        "FR": "Tickets de Grimoires", 
+        "FR": "Grimoire à Tickets", 
         "EN": "Ticket Grimoire", 
         "GameKey": "SCRIPT", 
         "DE": "Ticket Grimoire", 
@@ -19458,5 +19458,19 @@
         "Type": 0, 
         "id": 1390, 
         "TLM": 51504
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "次回視聴まで{0}", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1391, 
+        "TLM": 51468
     }
 ]

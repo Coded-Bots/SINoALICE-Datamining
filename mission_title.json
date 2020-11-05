@@ -3,7 +3,7 @@
         "endTime": 1609426799, 
         "startTime": 1451574000, 
         "missionTitleMstId": 1, 
-        "title": "Daily Mission"
+        "title": "Daily Missions"
     }, 
     {
         "endTime": 1924959599, 
@@ -40,6 +40,12 @@
         "startTime": 1603429200, 
         "missionTitleMstId": 12, 
         "title": "Act of Reality Pre-Release Event"
+    }, 
+    {
+        "endTime": 1605160799, 
+        "startTime": 1604556000, 
+        "missionTitleMstId": 17, 
+        "title": "Twilight Illusionist Mission"
     }, 
     {
         "endTime": 1599112799, 
