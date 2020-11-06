@@ -4543,6 +4543,18 @@
     }, 
     {
         "createdTime": 1483974019, 
+        "questAreaMstId": 233, 
+        "characterMstId": 107, 
+        "questAreaCharacterMstId": 2107
+    }, 
+    {
+        "createdTime": 1483974019, 
+        "questAreaMstId": 234, 
+        "characterMstId": 107, 
+        "questAreaCharacterMstId": 2108
+    }, 
+    {
+        "createdTime": 1483974019, 
         "questAreaMstId": 291, 
         "characterMstId": 36, 
         "questAreaCharacterMstId": 2136
