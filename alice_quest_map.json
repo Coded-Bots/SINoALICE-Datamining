@@ -211,6 +211,26 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Jörmungandr Redux", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 35, 
+        "createdTime": 1483974000, 
+        "mapGroup": 20, 
+        "name": "Nightmare in the Chapel"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Jörmungandr Redux (Hard)", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 36, 
+        "createdTime": 1483974000, 
+        "mapGroup": 20, 
+        "name": "Nightmare in the Chapel (Hard)"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Mini-Tower", 
         "announceUrl": "", 
         "mapType": 1, 
@@ -248,6 +268,26 @@
         "createdTime": 1483974000, 
         "mapGroup": 3, 
         "name": "Act of Reality"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "Lies and Prejudice (Normal)", 
+        "announceUrl": "/web/announce/body?announceMstId=2482&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 68, 
+        "createdTime": 1483974000, 
+        "mapGroup": 40, 
+        "name": "Lies and Prejudice"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Lies and Prejudice (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=2482&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 69, 
+        "createdTime": 1483974000, 
+        "mapGroup": 40, 
+        "name": "Lies and Prejudice"
     }, 
     {
         "mapGroupLv": 1, 

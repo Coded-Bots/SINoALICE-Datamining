@@ -1346,6 +1346,20 @@
     {
         "transitionCaption": "", 
         "createdTime": 1483196400, 
+        "title": "Misc. Items", 
+        "mainCategoryId": 13, 
+        "transitionSceneName": "", 
+        "updatedTime": 1483196400, 
+        "content": "Up to 99,999,999 held items can be viewed on the Misc. tab of View/Sell.\\n\\nPlease be aware that item amounts earned beyond that will be lost.\\n", 
+        "helpMstId": 118, 
+        "subCategoryOrder": 4, 
+        "mainCategoryOrder": 0, 
+        "categoryType": 2, 
+        "isDeleted": false
+    }, 
+    {
+        "transitionCaption": "", 
+        "createdTime": 1483196400, 
         "title": "Skip Ticket", 
         "mainCategoryId": 2, 
         "transitionSceneName": "", 

@@ -728,15 +728,15 @@
         "TLM": 20746
     }, 
     {
-        "FR": "{1} x{0}\\\\n<color=#B42F00>ont été envoyé(e)s dans votre boîte à cadeaux.</color>", 
+        "FR": "<color=#B42F00>Envoyé(e)s dans votre boîte à cadeaux :</color>\\\\n{0} {1}", 
         "EN": "{0} {1}\\\\n<color=#B42F00>sent to your present box.</color>", 
         "GameKey": "SCRIPT/0053", 
         "DE": "{0} x {1}\\\\n<color=#B42F00>wurden an deine Geschenkbox gesendet.</color>", 
         "JP": "{0}{1}は\\\\n<color=#B42F00>プレゼントボックスに送られました。</color>", 
         "VN": "{1} x{0}\\\\n<color=#B42F00>đã được gửi tới Hộp quà của bạn.</color>", 
         "KR": "{0}{1}이(가)\\\\n<color=#B42F00>선물함으로 지급되었습니다.</color>", 
-        "ES": "{1} x{0}\\\\n<color=#B42F00>se han enviado a tu caja de regalos.</color>", 
-        "TH": "{1}{0}\\\\n<color=#B42F00>ถูกส่งไปยังกล่องของขวัญแล้ว</color>", 
+        "ES": "{0} x{1}\\\\n<color=#B42F00>se han enviado a tu caja de regalos.</color>", 
+        "TH": "{0}{1}\\\\n<color=#B42F00>ถูกส่งไปยังกล่องของขวัญแล้ว</color>", 
         "Type": 0, 
         "id": 53, 
         "TLM": 20747
@@ -15079,7 +15079,7 @@
     }, 
     {
         "FR": "Date d'expiration : le dd MM yyyy à HH:mm", 
-        "EN": "Expires: MM dd, yyyy HH:mm", 
+        "EN": "Expires: yyyy/MM/dd at HH:mm", 
         "GameKey": "SCRIPT/1059", 
         "DE": "Gültigkeitsdauer: bis dd.MM.yyyy HH:mm", 
         "JP": "有効期限:yyyy年MM月dd日 HH:mmまで", 
@@ -18746,29 +18746,29 @@
         "TLM": 51377
     }, 
     {
-        "FR": "Classes : <color=#B42F00> obtenue(s)</color>", 
-        "EN": "Class: </color>Already own<color=#B42F00>", 
+        "FR": "Classe déjà équipée : <color=#B42F00>oui</color>", 
+        "EN": "Class: <color=#B42F00>Already own</color>", 
         "GameKey": "SCRIPT", 
-        "DE": "Klassen in Besitz: <color=#B42F00>Ja</color>", 
+        "DE": "Klasse im Besitz: <color=#B42F00>Ja</color>", 
         "JP": "ジョブ所持：<color=#B42F00>あり</color>", 
         "VN": "", 
-        "KR": "직업 보유: <color=#B42F00>있음</color>", 
-        "ES": "Clase equipada: <color=#B42F00>Sí</color>", 
-        "TH": "คลาส: <color=#B42F00>มีอยู่</color>", 
+        "KR": "보유한 직업: <color=#B42F00>있음</color>", 
+        "ES": "Clase en posesión: <color=#B42F00>Sí</color>", 
+        "TH": "สเตตัสการครอบครองคลาส: <color=#B42F00>มีอยู่แล้ว</color>", 
         "Type": 0, 
         "id": 1340, 
         "TLM": 51378
     }, 
     {
-        "FR": "Classes :  aucune", 
+        "FR": "Classe déjà équipée : non", 
         "EN": "Class: Not yet own", 
         "GameKey": "SCRIPT", 
-        "DE": "Klassen in Besitz: Nein", 
+        "DE": "Klasse im Besitz: Nein", 
         "JP": "ジョブ所持：なし", 
         "VN": "", 
-        "KR": "직업 보유: 없음", 
-        "ES": "Clase equipada: No", 
-        "TH": "คลาส: ไม่มี", 
+        "KR": "보유한 직업: 없음", 
+        "ES": "Clase en posesión: No", 
+        "TH": "สเตตัสการครอบครองคลาส: ยังไม่มี", 
         "Type": 0, 
         "id": 1341, 
         "TLM": 51379
@@ -18900,8 +18900,8 @@
         "TLM": 51404
     }, 
     {
-        "FR": "{0} échangés", 
-        "EN": "Exchange {0}", 
+        "FR": "Échange de {0}", 
+        "EN": "{0} Exchange", 
         "GameKey": "SCRIPT", 
         "DE": "{0} tauschen", 
         "JP": "{0}交換", 
@@ -19068,7 +19068,7 @@
         "TLM": 51503
     }, 
     {
-        "FR": "Utiliser <color=#B42F00>{0}cristaux</color>{1} et tirer {2} grimoire(s) ?", 
+        "FR": "Utiliser <color=#B42F00>{0} cristaux</color>{1} et tirer {2} grimoire(s) ?", 
         "EN": "Use <color=#B42F00>{0}</color> twilight crystals to summon {1}{2} grimoire(s)?", 
         "GameKey": "SCRIPT", 
         "DE": "<color=#B42F00>{0}</color> Zwielichtkristalle benutzen um{1}{2}x zu beschwören?", 
@@ -19514,5 +19514,19 @@
         "Type": 0, 
         "id": 1394, 
         "TLM": 51359
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "次のガチャまであと {0} デス", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1395, 
+        "TLM": 51532
     }
 ]

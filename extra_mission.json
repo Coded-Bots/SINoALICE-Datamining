@@ -31,7 +31,7 @@
         "triggerType": 2, 
         "endTime": 1893423599, 
         "extraMissionEventId": 1, 
-        "objectType": 12
+        "objectType": 2
     }, 
     {
         "navigationType": 1, 
@@ -48,7 +48,7 @@
         "triggerType": 2, 
         "endTime": 1893423599, 
         "extraMissionEventId": 1, 
-        "objectType": 12
+        "objectType": 2
     }, 
     {
         "navigationType": 1, 
@@ -65,7 +65,7 @@
         "triggerType": 2, 
         "endTime": 1893423599, 
         "extraMissionEventId": 1, 
-        "objectType": 12
+        "objectType": 2
     }, 
     {
         "navigationType": 3, 
