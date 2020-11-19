@@ -2020,6 +2020,26 @@
         "characterUniqueId": 1
     }, 
     {
+        "questAreaGroupMstId": 223, 
+        "questAreaType": 1, 
+        "questAreaMstId": 191, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 54, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 1
+    }, 
+    {
+        "questAreaGroupMstId": 224, 
+        "questAreaType": 1, 
+        "questAreaMstId": 192, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 55, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 1
+    }, 
+    {
         "questAreaGroupMstId": 226, 
         "questAreaType": 1, 
         "questAreaMstId": 194, 

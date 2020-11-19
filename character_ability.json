@@ -1,6 +1,6 @@
 [
     {
-        "name": "Blade +10% (Alice+ stage)", 
+        "name": "Blade +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1, 
@@ -40,7 +40,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Alice+ stage)", 
+        "name": "Blade +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 5, 
@@ -80,7 +80,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Alice+ stage)", 
+        "name": "Blade +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 9, 
@@ -100,7 +100,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +20% (Alice+ stage)", 
+        "name": "Blade +20% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 11, 
@@ -120,7 +120,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Snow White+ stage)", 
+        "name": "Blade +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 13, 
@@ -160,7 +160,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Snow White+ stage)", 
+        "name": "Blade +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 17, 
@@ -200,7 +200,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Snow White+ stage)", 
+        "name": "Blade +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 21, 
@@ -220,7 +220,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +20% (Snow White+ stage)", 
+        "name": "Blade +20% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 23, 
@@ -240,7 +240,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Heavy +10% (Red Riding Hood+ stage)", 
+        "name": "Heavy +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 25, 
@@ -280,7 +280,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Red Riding Hood+ stage)", 
+        "name": "Heavy +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 29, 
@@ -320,7 +320,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Red Riding Hood+ stage)", 
+        "name": "Heavy +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 33, 
@@ -340,7 +340,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +20% (Red Riding Hood+ stage)", 
+        "name": "Heavy +20% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 35, 
@@ -360,7 +360,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Projectile +10% (Cinderella+ stage)", 
+        "name": "Projectile +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 37, 
@@ -400,7 +400,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Cinderella+ stage)", 
+        "name": "Projectile +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 41, 
@@ -440,7 +440,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Cinderella+ stage)", 
+        "name": "Projectile +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 45, 
@@ -460,7 +460,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +20% (Cinderella+ stage)", 
+        "name": "Projectile +20% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 47, 
@@ -480,7 +480,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Heavy +10% (Pinocchio+ stage)", 
+        "name": "Heavy +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 49, 
@@ -520,7 +520,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Pinocchio+ stage)", 
+        "name": "Heavy +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 53, 
@@ -560,7 +560,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Pinocchio+ stage)", 
+        "name": "Heavy +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 57, 
@@ -580,7 +580,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +20% (Pinocchio+ stage)", 
+        "name": "Heavy +20% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 59, 
@@ -600,7 +600,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 61, 
@@ -640,7 +640,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 65, 
@@ -680,7 +680,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 69, 
@@ -700,7 +700,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +20% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +20% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 71, 
@@ -720,7 +720,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Blade +10% (Gretel+ stage)", 
+        "name": "Blade +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 73, 
@@ -760,7 +760,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Gretel+ stage)", 
+        "name": "Blade +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 77, 
@@ -800,7 +800,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Gretel+ stage)", 
+        "name": "Blade +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 81, 
@@ -820,7 +820,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +20% (Gretel+ stage)", 
+        "name": "Blade +20% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 83, 
@@ -840,7 +840,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Polearm +10% (Princess Kaguya+ stage)", 
+        "name": "Polearm +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 85, 
@@ -880,7 +880,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Princess Kaguya+ stage)", 
+        "name": "Polearm +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 89, 
@@ -920,7 +920,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Princess Kaguya+ stage)", 
+        "name": "Polearm +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 93, 
@@ -940,7 +940,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +20% (Princess Kaguya+ stage)", 
+        "name": "Polearm +20% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 95, 
@@ -960,7 +960,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Alice+ stage)", 
+        "name": "Polearm +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 97, 
@@ -1000,7 +1000,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Alice+ stage)", 
+        "name": "Polearm +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 101, 
@@ -1040,7 +1040,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Alice+ stage)", 
+        "name": "Polearm +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 105, 
@@ -1060,7 +1060,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +20% (Alice+ stage)", 
+        "name": "Polearm +20% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 107, 
@@ -1080,7 +1080,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Staff +10% (Snow White+ stage)", 
+        "name": "Staff +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 109, 
@@ -1120,7 +1120,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Snow White+ stage)", 
+        "name": "Staff +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 113, 
@@ -1160,7 +1160,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Snow White+ stage)", 
+        "name": "Staff +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 117, 
@@ -1180,7 +1180,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +20% (Snow White+ stage)", 
+        "name": "Staff +20% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 119, 
@@ -1200,7 +1200,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +20% (Red Riding Hood+ stage)", 
+        "name": "Staff +20% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 121, 
@@ -1240,7 +1240,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Red Riding Hood+ stage)", 
+        "name": "Staff +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 125, 
@@ -1280,7 +1280,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Red Riding Hood+ stage)", 
+        "name": "Staff +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 129, 
@@ -1300,7 +1300,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Red Riding Hood+ stage)", 
+        "name": "Staff +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 131, 
@@ -1320,7 +1320,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Tome +10% (Cinderella+ stage)", 
+        "name": "Tome +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 133, 
@@ -1360,7 +1360,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Cinderella+ stage)", 
+        "name": "Tome +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 137, 
@@ -1400,7 +1400,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Cinderella+ stage)", 
+        "name": "Tome +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 141, 
@@ -1420,7 +1420,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +20% (Cinderella+ stage)", 
+        "name": "Tome +20% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 143, 
@@ -1440,7 +1440,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Polearm +10% (Pinocchio+ stage)", 
+        "name": "Polearm +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 145, 
@@ -1480,7 +1480,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Pinocchio+ stage)", 
+        "name": "Polearm +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 149, 
@@ -1520,7 +1520,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Pinocchio+ stage)", 
+        "name": "Polearm +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 153, 
@@ -1540,7 +1540,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +20% (Pinocchio+ stage)", 
+        "name": "Polearm +20% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 155, 
@@ -1560,7 +1560,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Tome +10% (Sleeping Beauty+ stage)", 
+        "name": "Tome +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 157, 
@@ -1600,7 +1600,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Sleeping Beauty+ stage)", 
+        "name": "Tome +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 161, 
@@ -1640,7 +1640,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Sleeping Beauty+ stage)", 
+        "name": "Tome +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 165, 
@@ -1660,7 +1660,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +20% (Sleeping Beauty+ stage)", 
+        "name": "Tome +20% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 167, 
@@ -1680,7 +1680,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Projectile +30% (Gretel+ stage)", 
+        "name": "Projectile +30% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 169, 
@@ -1720,7 +1720,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Gretel+ stage)", 
+        "name": "Projectile +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 173, 
@@ -1760,7 +1760,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Gretel+ stage)", 
+        "name": "Projectile +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 177, 
@@ -1800,7 +1800,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Tome +10% (Princess Kaguya+ stage)", 
+        "name": "Tome +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 181, 
@@ -1840,7 +1840,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Princess Kaguya+ stage)", 
+        "name": "Tome +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 185, 
@@ -1880,7 +1880,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Princess Kaguya+ stage)", 
+        "name": "Tome +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 189, 
@@ -1900,7 +1900,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +20% (Princess Kaguya+ stage)", 
+        "name": "Tome +20% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 191, 
@@ -1920,7 +1920,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Heavy +30% (Snow White+ stage)", 
+        "name": "Heavy +30% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 193, 
@@ -1960,7 +1960,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Snow White+ stage)", 
+        "name": "Heavy +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 197, 
@@ -2000,7 +2000,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Snow White+ stage)", 
+        "name": "Heavy +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 201, 
@@ -2040,7 +2040,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Projectile +10% (Sleeping Beauty+ stage)", 
+        "name": "Projectile +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 205, 
@@ -2080,7 +2080,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Sleeping Beauty+ stage)", 
+        "name": "Projectile +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 209, 
@@ -2120,7 +2120,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Sleeping Beauty+ stage)", 
+        "name": "Projectile +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 213, 
@@ -2140,7 +2140,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +20% (Sleeping Beauty+ stage)", 
+        "name": "Projectile +20% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 215, 
@@ -2160,7 +2160,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Instrument +30% (Gretel+ stage)", 
+        "name": "Instrument +30% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 217, 
@@ -2200,7 +2200,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Gretel+ stage)", 
+        "name": "Instrument +10% (Gretel+ stages", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 221, 
@@ -2240,7 +2240,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Gretel+ stage)", 
+        "name": "Instrument +10% (Gretel+ stages", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 225, 
@@ -2280,7 +2280,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Tome +20% (Pinocchio+ stage)", 
+        "name": "Tome +20% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 229, 
@@ -2320,7 +2320,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Pinocchio+ stage)", 
+        "name": "Tome +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 233, 
@@ -2360,7 +2360,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Pinocchio+ stage)", 
+        "name": "Tome +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 237, 
@@ -2380,7 +2380,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Pinocchio+ stage)", 
+        "name": "Tome +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 239, 
@@ -2400,7 +2400,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Blade +30% (Cinderella+ stage)", 
+        "name": "Blade +30% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 241, 
@@ -2440,7 +2440,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Cinderella+ stage)", 
+        "name": "Blade +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 245, 
@@ -2480,7 +2480,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Cinderella+ stage)", 
+        "name": "Blade +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 249, 
@@ -2520,7 +2520,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Staff +30% (Alice+ stage)", 
+        "name": "Staff +30% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 253, 
@@ -2560,7 +2560,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Alice+ stage)", 
+        "name": "Staff +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 257, 
@@ -2600,7 +2600,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Alice+ stage)", 
+        "name": "Staff +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 261, 
@@ -2640,7 +2640,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Tome +10% (Red Riding Hood+ stage)", 
+        "name": "Tome +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 265, 
@@ -2680,7 +2680,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Red Riding Hood+ stage)", 
+        "name": "Tome +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 269, 
@@ -2720,7 +2720,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Red Riding Hood+ stage)", 
+        "name": "Tome +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 273, 
@@ -2740,7 +2740,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +20% (Red Riding Hood+ stage)", 
+        "name": "Tome +20% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 275, 
@@ -2760,7 +2760,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Staff +20% (Princess Kaguya+ stage)", 
+        "name": "Staff +20% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 277, 
@@ -2800,7 +2800,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Princess Kaguya+ stage)", 
+        "name": "Staff +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 281, 
@@ -2840,7 +2840,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Princess Kaguya+ stage)", 
+        "name": "Staff +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 285, 
@@ -2860,7 +2860,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Princess Kaguya+ stage)", 
+        "name": "Staff +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 287, 
@@ -2880,7 +2880,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Blade +20% (Little Mermaid+ stage)", 
+        "name": "Blade +20% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 289, 
@@ -2920,7 +2920,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Little Mermaid+ stage)", 
+        "name": "Blade +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 293, 
@@ -2960,7 +2960,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Little Mermaid+ stage)", 
+        "name": "Blade +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 297, 
@@ -2980,7 +2980,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Little Mermaid+ stage)", 
+        "name": "Blade +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 299, 
@@ -3000,7 +3000,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "name": "Projectile +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 301, 
@@ -3040,7 +3040,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "name": "Projectile +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 305, 
@@ -3080,7 +3080,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "name": "Projectile +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 309, 
@@ -3100,7 +3100,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +20% (Little Mermaid+ stage)", 
+        "name": "Projectile +20% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 311, 
@@ -3120,7 +3120,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Instrument +30% (Little Mermaid+ stage)", 
+        "name": "Instrument +30% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 313, 
@@ -3160,7 +3160,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Little Mermaid+ stage)", 
+        "name": "Instrument +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 317, 
@@ -3200,7 +3200,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Little Mermaid+ stage)", 
+        "name": "Instrument +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 321, 
@@ -3240,7 +3240,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Blade +10% (Princess Kaguya+ stage)", 
+        "name": "Blade +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 325, 
@@ -3280,7 +3280,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Princess Kaguya+ stage)", 
+        "name": "Blade +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 329, 
@@ -3320,7 +3320,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Princess Kaguya+ stage)", 
+        "name": "Blade +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 333, 
@@ -3340,7 +3340,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +20% (Princess Kaguya+ stage)", 
+        "name": "Blade +20% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 335, 
@@ -3360,7 +3360,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Instrument +30% (Pinocchio+ stage)", 
+        "name": "Instrument +30% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 347, 
@@ -3400,7 +3400,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Pinocchio+ stage)", 
+        "name": "Instrument +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 351, 
@@ -3440,7 +3440,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Pinocchio+ stage)", 
+        "name": "Instrument +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 355, 
@@ -3480,7 +3480,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Blade +20% (Red Riding Hood+ stage)", 
+        "name": "Blade +20% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 359, 
@@ -3520,7 +3520,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Red Riding Hood+ stage)", 
+        "name": "Blade +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 363, 
@@ -3560,7 +3560,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Red Riding Hood+ stage)", 
+        "name": "Blade +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 367, 
@@ -3580,7 +3580,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Red Riding Hood+ stage)", 
+        "name": "Blade +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 369, 
@@ -3600,7 +3600,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Tome +30% (Alice+ stage)", 
+        "name": "Tome +30% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 371, 
@@ -3640,7 +3640,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Alice+ stage)", 
+        "name": "Tome +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 375, 
@@ -3680,7 +3680,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Alice+ stage)", 
+        "name": "Tome +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 379, 
@@ -3720,7 +3720,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Instrument +10% (Red Riding Hood+ stage)", 
+        "name": "Instrument +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 383, 
@@ -3760,7 +3760,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Red Riding Hood+ stage)", 
+        "name": "Instrument +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 387, 
@@ -3800,7 +3800,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Red Riding Hood+ stage)", 
+        "name": "Instrument +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 391, 
@@ -3820,7 +3820,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +20% (Red Riding Hood+ stage)", 
+        "name": "Instrument +20% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 393, 
@@ -3840,7 +3840,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Polearm +30% (Sleeping Beauty+ stage)", 
+        "name": "Polearm +30% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 395, 
@@ -3880,7 +3880,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Sleeping Beauty+ stage)", 
+        "name": "Polearm +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 399, 
@@ -3920,7 +3920,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Sleeping Beauty+ stage)", 
+        "name": "Polearm +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 403, 
@@ -3960,7 +3960,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Heavy +20% (Cinderella+ stage)", 
+        "name": "Heavy +20% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 407, 
@@ -4000,7 +4000,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Cinderella+ stage)", 
+        "name": "Heavy +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 411, 
@@ -4040,7 +4040,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Cinderella+ stage)", 
+        "name": "Heavy +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 415, 
@@ -4060,7 +4060,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Cinderella+ stage)", 
+        "name": "Heavy +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 417, 
@@ -4080,7 +4080,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Blade +10% (NieR+ stage)", 
+        "name": "Blade +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 419, 
@@ -4120,7 +4120,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR+ stage)", 
+        "name": "Blade +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 423, 
@@ -4160,7 +4160,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR+ stage)", 
+        "name": "Blade +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 427, 
@@ -4180,7 +4180,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +20% (NieR+ stage)", 
+        "name": "Blade +20% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 429, 
@@ -4200,7 +4200,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Polearm +30% (NieR+ stage)", 
+        "name": "Polearm +30% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 431, 
@@ -4240,7 +4240,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (NieR+ stage)", 
+        "name": "Polearm +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 435, 
@@ -4280,7 +4280,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (NieR+ stage)", 
+        "name": "Polearm +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 439, 
@@ -4320,7 +4320,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Blade +30% (NieR+ stage)", 
+        "name": "Blade +30% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 443, 
@@ -4360,7 +4360,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR+ stage)", 
+        "name": "Blade +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 447, 
@@ -4400,7 +4400,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR+ stage)", 
+        "name": "Blade +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 451, 
@@ -4440,7 +4440,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Staff +30% (NieR+ stage)", 
+        "name": "Staff +30% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 455, 
@@ -4480,7 +4480,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR+ stage)", 
+        "name": "Staff +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 459, 
@@ -4520,7 +4520,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR+ stage)", 
+        "name": "Staff +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 463, 
@@ -4560,7 +4560,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Heavy +30% (NieR+ stage)", 
+        "name": "Heavy +30% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 467, 
@@ -4600,7 +4600,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (NieR+ stage)", 
+        "name": "Heavy +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 471, 
@@ -4640,7 +4640,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (NieR+ stage)", 
+        "name": "Heavy +10% (NieR+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 475, 
@@ -4680,7 +4680,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Tome +30% (Gretel+ stage)", 
+        "name": "Tome +30% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 491, 
@@ -4720,7 +4720,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Gretel+ stage)", 
+        "name": "Tome +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 495, 
@@ -4760,7 +4760,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Gretel+ stage)", 
+        "name": "Tome +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 499, 
@@ -4780,7 +4780,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Projectile +30% (Dorothy+ stage)", 
+        "name": "Projectile +30% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 503, 
@@ -4820,7 +4820,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Dorothy+ stage)", 
+        "name": "Projectile +10% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 507, 
@@ -4860,7 +4860,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Dorothy+ stage)", 
+        "name": "Projectile +10% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 511, 
@@ -4900,7 +4900,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Instrument +30% (Alice+ stage)", 
+        "name": "Instrument +30% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 515, 
@@ -4940,7 +4940,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Alice+ stage)", 
+        "name": "Instrument +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 519, 
@@ -4980,7 +4980,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Alice+ stage)", 
+        "name": "Instrument +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 523, 
@@ -5020,7 +5020,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Tome +10% (Dorothy+ stage)", 
+        "name": "Tome +10% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 527, 
@@ -5060,7 +5060,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Dorothy+ stage)", 
+        "name": "Tome +10% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 531, 
@@ -5100,7 +5100,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Dorothy+ stage)", 
+        "name": "Tome +10% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 535, 
@@ -5120,7 +5120,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +20% (Dorothy+ stage)", 
+        "name": "Tome +20% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 537, 
@@ -5140,7 +5140,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Blade +30% (Sleeping Beauty+ stage)", 
+        "name": "Blade +30% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 551, 
@@ -5180,7 +5180,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Sleeping Beauty+ stage)", 
+        "name": "Blade +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 555, 
@@ -5220,7 +5220,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Sleeping Beauty+ stage)", 
+        "name": "Blade +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 559, 
@@ -5260,7 +5260,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Polearm +30% (Alice+ stage)", 
+        "name": "Polearm +30% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 563, 
@@ -5380,7 +5380,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Heavy +30% (Gretel+ stage)", 
+        "name": "Heavy +30% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 575, 
@@ -5420,7 +5420,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Gretel+ stage)", 
+        "name": "Heavy +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 579, 
@@ -5460,7 +5460,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Gretel+ stage)", 
+        "name": "Heavy +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 583, 
@@ -5500,7 +5500,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Projectile +30% (Pinocchio+ stage)", 
+        "name": "Projectile +30% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 599, 
@@ -5540,7 +5540,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Pinocchio+ stage)", 
+        "name": "Projectile +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 603, 
@@ -5580,7 +5580,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Pinocchio+ stage)", 
+        "name": "Projectile +10% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 607, 
@@ -5620,7 +5620,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Polearm +30% (Red Riding Hood+ stage)", 
+        "name": "Polearm +30% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 611, 
@@ -5660,7 +5660,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Red Riding Hood+ stage)", 
+        "name": "Polearm +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 615, 
@@ -5700,7 +5700,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Red Riding Hood+ stage)", 
+        "name": "Polearm +10% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 619, 
@@ -5740,7 +5740,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Staff +30% (Gretel+ stage)", 
+        "name": "Staff +30% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 647, 
@@ -5780,7 +5780,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Gretel+ stage)", 
+        "name": "Staff +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 651, 
@@ -5820,7 +5820,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Gretel+ stage)", 
+        "name": "Staff +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 655, 
@@ -5860,7 +5860,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Blade +30% (Alice+ stage)", 
+        "name": "Blade +30% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 659, 
@@ -5960,7 +5960,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +20% (Alice+ stage)", 
+        "name": "Blade +20% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 669, 
@@ -5980,7 +5980,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Heavy +50% (Red Riding Hood+ stage)", 
+        "name": "Heavy +50% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 715, 
@@ -6100,7 +6100,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Instrument +50% (Little Mermaid+ stage)", 
+        "name": "Instrument +50% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 751, 
@@ -6220,7 +6220,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Projectile +30% (Snow White+ stage)", 
+        "name": "Projectile +30% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 869, 
@@ -6340,7 +6340,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Heavy +50% (Dorothy+ stage)", 
+        "name": "Heavy +50% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 881, 
@@ -6460,7 +6460,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Blade +30% (Three Little Pigs+ stage)", 
+        "name": "Blade +30% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 893, 
@@ -6500,7 +6500,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Three Little Pigs+ stage)", 
+        "name": "Blade +10% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 897, 
@@ -6540,7 +6540,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (Three Little Pigs+ stage)", 
+        "name": "Blade +10% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 901, 
@@ -6580,7 +6580,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Tome +30% (Snow White+ stage)", 
+        "name": "Tome +30% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 917, 
@@ -6620,7 +6620,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Snow White+ stage)", 
+        "name": "Tome +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 921, 
@@ -6660,7 +6660,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (Snow White+ stage)", 
+        "name": "Tome +10% (Snow White+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 925, 
@@ -6700,7 +6700,127 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Staff +10% (Clam-digging+ stage)", 
+        "name": "Projectile +30% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 929, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 930, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 931, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 932, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 933, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 934, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 935, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 936, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 937, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 938, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +200", 
+        "effectType": 5, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 939, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +200", 
+        "effectType": 5, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 940, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 77, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Staff +10% (Clam-digging+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1059, 
@@ -6740,7 +6860,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Clam-digging+ stage)", 
+        "name": "Staff +10% (Clam-digging+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1063, 
@@ -6780,7 +6900,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Clam-digging+ stage)", 
+        "name": "Staff +10% (Clam-digging+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1067, 
@@ -6800,7 +6920,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +20% (Clam-digging+ stage)", 
+        "name": "Staff +20% (Clam-digging+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 1069, 
@@ -6820,7 +6940,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Heavy +30% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +30% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1107, 
@@ -6860,7 +6980,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1111, 
@@ -6900,7 +7020,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Heavy +10% (Sleeping Beauty+ stage)", 
+        "name": "Heavy +10% (Sleeping Beauty+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1115, 
@@ -6940,7 +7060,7 @@
         "cardDetailType": 6
     }, 
     {
-        "name": "Polearm +30% (Little Mermaid+ stage)", 
+        "name": "Polearm +30% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1119, 
@@ -6980,7 +7100,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Little Mermaid+ stage)", 
+        "name": "Polearm +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1123, 
@@ -7020,7 +7140,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Little Mermaid+ stage)", 
+        "name": "Polearm +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1127, 
@@ -7060,7 +7180,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Artifact +30% (Alice+ stage)", 
+        "name": "Artifact +30% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1287, 
@@ -7100,7 +7220,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Artifact +10% (Alice+ stage)", 
+        "name": "Artifact +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1291, 
@@ -7140,7 +7260,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Artifact +10% (Alice+ stage)", 
+        "name": "Artifact +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1295, 
@@ -7180,7 +7300,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Polearm +30% (Three Little Pigs+ stage)", 
+        "name": "Polearm +30% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1523, 
@@ -7220,7 +7340,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Three Little Pigs+ stage)", 
+        "name": "Polearm +10% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1527, 
@@ -7260,7 +7380,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (Three Little Pigs+ stage)", 
+        "name": "Polearm +10% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1531, 
@@ -7300,7 +7420,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Staff +30% (Princess Kaguya+ stage)", 
+        "name": "Staff +30% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1537, 
@@ -7340,7 +7460,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Princess Kaguya+ stage)", 
+        "name": "Staff +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1541, 
@@ -7380,7 +7500,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (Princess Kaguya+ stage)", 
+        "name": "Staff +10% (Princess Kaguya+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1545, 
@@ -7420,7 +7540,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Projectile +30% (Little Mermaid+ stage)", 
+        "name": "Projectile +30% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1633, 
@@ -7460,7 +7580,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "name": "Projectile +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1637, 
@@ -7500,7 +7620,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Projectile +10% (Little Mermaid+ stage)", 
+        "name": "Projectile +10% (Little Mermaid+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1641, 
@@ -7540,7 +7660,7 @@
         "cardDetailType": 7
     }, 
     {
-        "name": "Instrument +30% (Cinderella+ stage)", 
+        "name": "Instrument +30% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1647, 
@@ -7580,7 +7700,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Cinderella+ stage)", 
+        "name": "Instrument +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1651, 
@@ -7620,7 +7740,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Cinderella+ stage)", 
+        "name": "Instrument +10% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1655, 
@@ -7660,7 +7780,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Tome +50% (NieR Replicant+ stage)", 
+        "name": "Tome +50% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1953, 
@@ -7770,7 +7890,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Tome +10% (NieR Replicant+ stage)", 
+        "name": "Tome +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 12, 
         "characterAbilityMstId": 1964, 
@@ -7780,7 +7900,7 @@
         "cardDetailType": 2
     }, 
     {
-        "name": "Polearm +10% (NieR Replicant+ stage)", 
+        "name": "Polearm +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1967, 
@@ -7820,7 +7940,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (NieR Replicant+ stage)", 
+        "name": "Polearm +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1971, 
@@ -7860,7 +7980,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +10% (NieR Replicant+ stage)", 
+        "name": "Polearm +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1975, 
@@ -7880,7 +8000,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Polearm +20% (NieR Replicant+ stage)", 
+        "name": "Polearm +20% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 1977, 
@@ -7900,7 +8020,7 @@
         "cardDetailType": 8
     }, 
     {
-        "name": "Blade +30% (NieR Replicant+ stage)", 
+        "name": "Blade +30% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1981, 
@@ -7940,7 +8060,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR Replicant+ stage)", 
+        "name": "Blade +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1985, 
@@ -7980,7 +8100,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR Replicant+ stage)", 
+        "name": "Blade +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 1989, 
@@ -8010,7 +8130,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Blade +10% (NieR Replicant+ stage)", 
+        "name": "Blade +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 12, 
         "characterAbilityMstId": 1992, 
@@ -8020,7 +8140,7 @@
         "cardDetailType": 5
     }, 
     {
-        "name": "Artifact +30% (NieR Replicant+ stage)", 
+        "name": "Artifact +30% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 1995, 
@@ -8060,7 +8180,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Artifact +10% (NieR Replicant+ stage)", 
+        "name": "Artifact +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 1999, 
@@ -8100,7 +8220,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Artifact +10% (NieR Replicant+ stage)", 
+        "name": "Artifact +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 2003, 
@@ -8130,7 +8250,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Artifact +10% (NieR Replicant+ stage)", 
+        "name": "Artifact +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 12, 
         "characterAbilityMstId": 2006, 
@@ -8140,7 +8260,7 @@
         "cardDetailType": 3
     }, 
     {
-        "name": "Staff +30% (NieR Replicant+ stage)", 
+        "name": "Staff +30% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 2009, 
@@ -8180,7 +8300,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR Replicant+ stage)", 
+        "name": "Staff +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 2013, 
@@ -8220,7 +8340,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR Replicant+ stage)", 
+        "name": "Staff +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 2017, 
@@ -8250,7 +8370,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR Replicant+ stage)", 
+        "name": "Staff +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 12, 
         "characterAbilityMstId": 2020, 
@@ -8260,7 +8380,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Instrument +10% (NieR Replicant+ stage)", 
+        "name": "Instrument +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 2023, 
@@ -8300,7 +8420,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (NieR Replicant+ stage)", 
+        "name": "Instrument +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 2027, 
@@ -8340,7 +8460,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (NieR Replicant+ stage)", 
+        "name": "Instrument +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 2031, 
@@ -8360,7 +8480,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +20% (NieR Replicant+ stage)", 
+        "name": "Instrument +20% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 11, 
         "characterAbilityMstId": 2033, 
@@ -8380,7 +8500,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Staff +30% (NieR Replicant+ stage)", 
+        "name": "Staff +30% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
         "characterAbilityMstId": 2081, 
@@ -8420,7 +8540,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR Replicant+ stage)", 
+        "name": "Staff +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 2085, 
@@ -8460,7 +8580,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR Replicant+ stage)", 
+        "name": "Staff +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 2089, 
@@ -8490,7 +8610,7 @@
         "cardDetailType": 4
     }, 
     {
-        "name": "Staff +10% (NieR Replicant+ stage)", 
+        "name": "Staff +10% (NieR Replicant+ stages)", 
         "effectType": 6, 
         "releaseLevel": 12, 
         "characterAbilityMstId": 2092, 

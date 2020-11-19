@@ -241,6 +241,26 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Ogre Redux", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 54, 
+        "createdTime": 1483974000, 
+        "mapGroup": 31, 
+        "name": "Nightmare in the Woods"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Ogre Redux (Hard)", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 55, 
+        "createdTime": 1483974000, 
+        "mapGroup": 31, 
+        "name": "Nightmare in the Woods (Hard)"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Memory of Judgment (Normal)", 
         "announceUrl": "/web/announce/body?announceMstId=552&&isHideBackButton=1", 
         "mapType": 1, 

@@ -14,7 +14,7 @@
     }, 
     {
         "comment": "Colosseum Participation Rewards", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 0, 
         "rewardType": 3, 
         "createdTime": null, 
@@ -23,7 +23,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 2, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
@@ -40,7 +40,7 @@
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 0, 
         "rewardType": 2, 
         "createdTime": null, 
@@ -49,7 +49,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 4, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Win Rewards", 
@@ -66,7 +66,7 @@
     }, 
     {
         "comment": "Colosseum Win Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 0, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -75,7 +75,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 6, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Defeat Rewards", 
@@ -118,7 +118,7 @@
     }, 
     {
         "comment": "Colosseum Participation Rewards", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 1, 
         "rewardType": 3, 
         "createdTime": null, 
@@ -127,7 +127,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 10, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
@@ -144,7 +144,7 @@
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 1, 
         "rewardType": 2, 
         "createdTime": null, 
@@ -153,7 +153,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 12, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Win Rewards", 
@@ -170,7 +170,7 @@
     }, 
     {
         "comment": "Colosseum Win Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 1, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -179,7 +179,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 14, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Defeat Rewards", 
@@ -222,7 +222,7 @@
     }, 
     {
         "comment": "Colosseum Participation Rewards", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 2, 
         "rewardType": 3, 
         "createdTime": null, 
@@ -231,7 +231,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 18, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
@@ -248,7 +248,7 @@
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 2, 
         "rewardType": 2, 
         "createdTime": null, 
@@ -257,7 +257,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 20, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Win Rewards", 
@@ -274,7 +274,7 @@
     }, 
     {
         "comment": "Colosseum Win Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 2, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -283,7 +283,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 22, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Defeat Rewards", 
@@ -326,7 +326,7 @@
     }, 
     {
         "comment": "Colosseum Participation Rewards", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 3, 
         "rewardType": 3, 
         "createdTime": null, 
@@ -335,7 +335,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 26, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
@@ -352,7 +352,7 @@
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 3, 
         "rewardType": 2, 
         "createdTime": null, 
@@ -361,7 +361,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 28, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Win Rewards", 
@@ -378,7 +378,7 @@
     }, 
     {
         "comment": "Colosseum Win Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 3, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -387,7 +387,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 30, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Defeat Rewards", 
@@ -430,7 +430,7 @@
     }, 
     {
         "comment": "Colosseum Participation Rewards", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 4, 
         "rewardType": 3, 
         "createdTime": null, 
@@ -439,7 +439,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 34, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
@@ -456,7 +456,7 @@
     }, 
     {
         "comment": "A bonus for taking down an enemy guildship in the Colosseum.", 
-        "objectId": 373, 
+        "objectId": 1529, 
         "rank": 4, 
         "rewardType": 2, 
         "createdTime": null, 
@@ -465,7 +465,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 36, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Win Rewards", 
@@ -482,7 +482,7 @@
     }, 
     {
         "comment": "Colosseum Win Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 4, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -491,7 +491,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 38, 
         "endTime": 1893423599, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Defeat Rewards", 
@@ -1587,7 +1587,7 @@
     }, 
     {
         "comment": "Colosseum Defeat Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 0, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -1596,11 +1596,11 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 900001, 
         "endTime": 1593836999, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Tie Rewards", 
-        "objectId": 372, 
+        "objectId": 1528, 
         "rank": 0, 
         "rewardType": 1, 
         "createdTime": null, 
@@ -1609,7 +1609,7 @@
         "startTime": 1483196400, 
         "gvgRewardMstId": 900002, 
         "endTime": 1593836999, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "comment": "Colosseum Participation Rewards", 

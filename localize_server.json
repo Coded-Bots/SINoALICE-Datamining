@@ -8694,14 +8694,14 @@
         "TLM": 22278
     }, 
     {
-        "FR": "Un garçon qui a pris l'apparence d'une fille.\\\\nSon visage est le même que le sien.\\\\nPauvre âme errante,\\\\nil recherche ce qui ne pourra jamais être exaucé.\\\\nMais... sa sœur avait-elle\\\\nvraiment existé ?", 
+        "FR": "Un garçon qui a pris l'apparence d'une fille.\\\\nSon visage est identique.\\\\nIl erre à sa recherche.\\\\nMais... avait-elle\\\\nvraiment existé ?", 
         "EN": "A boy who's taken the form of a girl.\\\\nHer face is the same as his.\\\\nHe seeks that which could never be realized,\\\\nwandering in this form.\\\\nBut...did his little sister\\\\ntruly ever exist?", 
         "GameKey": "Server/quest.questAreaWindowText.7.3", 
         "DE": "Ein Junge, der die Form eines Mädchens angenommen hat.\\\\nIhr Gesicht ist dasselbe wie das seine.\\\\nIn dieser Form sucht er nach etwas,\\\\ndas niemals verwirklicht werden kann.\\\\nAber … hat seine kleine Schwester\\\\nwirklich jemals existiert?", 
         "JP": "少女の姿をした男の子\\\\nその顔は自分と同じ。\\\\nいるはずの無い存在を求め\\\\nあてどなく彷徨う姿もまた同じ。\\\\nでも、本当に彼の妹は\\\\n存在したのだろうか？", 
         "VN": "Một chàng trai trong bộ dạng một cô gái.\\\\nKhuôn mặt cô giống như chàng trai ấy.\\\\nChàng tìm kiếm những thứ không bao giờ thành hiện thực,\\\\nlang thang trong bộ dạng này.\\\\nThế nhưng...liệu cô em của chàng\\\\ncó thực sự tồn tại hay không?", 
         "KR": "소녀의 모습을 한 남자아이.\\\\n얼굴도 자신과 똑같이 생겼다.\\\\n있을 리 만무한 존재를 찾아\\\\n정처 없이 떠도는 모습까지도 똑같다.\\\\n그런데 그의 여동생은\\\\n정말로 존재하긴 했던 걸까?", 
-        "ES": "Un niño que adopta la forma de una niña.\\\\nEl rostro de ella es igual al de él.\\\\nCon esta forma, vaga buscando algo que nunca podrá realizarse\\\\n.\\\\nPero... ¿existió realmente\\\\nsu hermanita alguna vez?", 
+        "ES": "Un niño que adopta la forma de una niña.\\\\nEl rostro de ella es igual al de él.\\\\nCon esta forma, vaga buscando algo que nunca podrá realizarse.\\\\nPero... ¿existió realmente\\\\nsu hermanita alguna vez?", 
         "TH": "เด็กชายที่อยู่ในร่างเด็กหญิง\\\\nใบหน้านั้นเหมือนกับเขา\\\\nเรียกร้องหาถึงตัวตนที่ไม่น่าจะมีอยู่\\\\nร่างกายนั้นก็ยังคงเหมือนกันอีก\\\\nแต่...น้องสาวของเขา\\\\nเธอมีตัวตนอยู่จริงหรือ?", 
         "Type": 0, 
         "id": 622, 
@@ -8750,10 +8750,10 @@
         "TLM": 22282
     }, 
     {
-        "FR": "La petite fille curieuse errait dans la nuit,\\\\nen quête de nouvelles expériences.\\\\nElle savait qu'elle aurait dû jouer à l'élève\\\\nmodèle, mais elle ne pouvait pas cacher ce qu'elle était.\\\\nLa petite fille s'assombrissait de jour en jour\\\\net cependant... la lune l'illuminait toujours...", 
+        "FR": "Elle errait dans la nuit,\\\\nen quête d'expériences plaisantes.\\\\nElle n'arrivait pas à faire l'élève modèle.\\\\nElle s'assombrissait de jour en jour\\\\net la lune l'illuminait toujours...", 
         "EN": "The curious, budding girl wandered the night,\\\\nsearching for new experiences.\\\\nShe knew she should play the model\\\\nstudent, but she could not hide her truth.\\\\nThe moon always shone on the girl as\\\\nshe descended into darkness.", 
         "GameKey": "Server/quest.questAreaWindowText.9.3", 
-        "DE": "Das neugierige, aufblühende Mädchen\\\\nwanderte auf der Suche nach neuen Erfahrungen durch die Nacht.\\\\nIhr war klar, dass sie die vorbildliche Schülerin spielen sollte,\\\\naber sie konnte ihre Wahrheit nicht verbergen.\\\\nVom Mondlicht begleitet\\\\nstieg das", 
+        "DE": "Das neugierige, aufblühende Mädchen\\\\nwanderte auf der Suche nach neuen Erfahrungen durch die Nacht.\\\\nIhr war klar, dass sie die vorbildliche Schülerin spielen sollte,\\\\naber sie konnte ihre Wahrheit nicht verbergen.\\\\nVom Mondlicht begleitet\\\\nstieg das Mädchen in die Dunkelheit hinab.", 
         "JP": "濡れて　芽吹いて　甘やかに。\\\\n快楽求め夜を彷徨う。\\\\n生徒の模範であるべきと律するも\\\\n本心は偽れない。\\\\n黒く染まりゆく彼女を\\\\n月はいつも照らしている。", 
         "VN": "Cô gái tò mò, đang lớn, đi lang thang trong đêm,\\\\ntìm những trải nghiệm mới.\\\\nCô biết rằng mình nên là một\\\\nhọc sinh kiểu mẫu, nhưng không thể che giấu được sự thật.\\\\nMặt trăng luôn chiếu rọi lên cô khi\\\\ncô đi dần vào bóng tối.", 
         "KR": "축축하게, 움트며, 달콤하게.\\\\n쾌락을 찾아 밤을 떠돈다.\\\\n학생에게 모범이 되어야 하지만\\\\n마음은 속일 수 없다.\\\\n검게 물들어 가는 그녀를\\\\n달은 항상 변함없이 비춘다.", 
@@ -16972,7 +16972,7 @@
         "EN": "Paid Twilight Crystal x306 & Pinocchio/Gunner", 
         "GameKey": "Server/com.global.sinoalice.campaign09.tier25/description", 
         "DE": "306 bezahlte Zwielichtkristalle + Pinocchio/Schütze", 
-        "JP": "有償魔晶石306個＋「ピノキオ/ガンナー」", 
+        "JP": "有償魔晶石306個＋「グレーテル/ソーサラー」", 
         "VN": "", 
         "KR": "유료 마정석 306개+\"피노키오/거너\".", 
         "ES": "Al comprar Crist. del ocaso x306 + «Pinocho/Artillero»", 
@@ -19378,7 +19378,7 @@
     {
         "FR": "24 cr. + Fiole d'or +", 
         "EN": "T.Crys. x24 & +Gold Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier01/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier01/title", 
         "DE": "24 Zwielk. & Ph. des Goldes+", 
         "JP": "魔晶石24個＋ゴールド増加の加護", 
         "VN": "", 
@@ -19392,7 +19392,7 @@
     {
         "FR": "12 cristaux crépusculaires payés + dès maintenant 12 cristaux crépusculaires gratuits et 1 Fiole d'or +.", 
         "EN": "Paid Twilight Crystals x12 (+12 free) & +Gold Vial x1", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier01/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier01/description", 
         "DE": "Bezahlte Zwielichtkristalle x12 und nur jetzt + kostenlose Zwielichtkristalle x12 + Phiole des Goldes+ x1.", 
         "JP": "有償魔晶石12個。今なら＋無償魔晶石12個、＋ゴールド増加の加護1個。", 
         "VN": "", 
@@ -19406,7 +19406,7 @@
     {
         "FR": "74 cr. + Fiole d'EXP +", 
         "EN": "T.Crys. x74 & +EXP Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier03/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier03/title", 
         "DE": "Zwielk. x74 + Ph. der EXP+", 
         "JP": "魔晶石74個＋経験値増加の加護", 
         "VN": "", 
@@ -19420,7 +19420,7 @@
     {
         "FR": "37 cristaux crépusculaires payés + dès maintenant 37 cristaux crépusculaires gratuits et 1 Fiole d'EXP +.", 
         "EN": "Paid Twilight Crystals x37 (+37 free) & +EXP Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier03/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier03/description", 
         "DE": "Bezahlte Zwielichtkristalle x37 und nur jetzt + kostenlose Zwielichtkristalle x37 + Phiole der EXP+ x1.", 
         "JP": "有償魔晶石37個。今なら＋無償魔晶石37個、＋経験値増加の加護1個。", 
         "VN": "", 
@@ -19434,7 +19434,7 @@
     {
         "FR": "122 cr. + Fiole d'EXP +", 
         "EN": "T.Crys. x122 & +EXP Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier05/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier05/title", 
         "DE": "Zwielk. x122 + Ph. der EXP+", 
         "JP": "魔晶石122個＋経験値増加の加護", 
         "VN": "", 
@@ -19448,7 +19448,7 @@
     {
         "FR": "61 cristaux crépusculaires payés + dès maintenant 61 cristaux crépusculaires gratuits et 1 Fiole d'EXP +.", 
         "EN": "Paid Twilight Crystals x61 (+61 free) & +EXP Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier05/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier05/description", 
         "DE": "Bezahlte Zwielichtkristalle x61 und nur jetzt + kostenlose Zwielichtkristalle x61 + Phiole der EXP+ x1.", 
         "JP": "有償魔晶石61個。今なら＋無償魔晶石61個、＋経験値増加の加護1個。", 
         "VN": "", 
@@ -19462,7 +19462,7 @@
     {
         "FR": "612 cr. + Fiole de butin +", 
         "EN": "T.Crys. x612 & +Drop Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier25/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier25/title", 
         "DE": "612 Bez. Zwkr. & Ph. der Be+", 
         "JP": "魔晶石612個＋ドロップ増加の加護", 
         "VN": "", 
@@ -19476,7 +19476,7 @@
     {
         "FR": "306 cristaux crépusculaires payés et 11 cristaux crépusculaires gratuits + dès maintenant 295 cristaux crépusculaires gratuits et 1 Fiole de butin +.", 
         "EN": "Paid T.Crys. x306 (+11 free, ++295 free) & +Drop Vial x1", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier25/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier25/description", 
         "DE": "Bezahlte Zwielichtkristalle x306 + kostenlose Zwielichtkristalle x11 und nur jetzt + kostenlose Zwielichtkristalle x295 + Phiole der Beute+ x1.", 
         "JP": "有償魔晶石306個＋無償魔晶石11個。今なら＋無償魔晶石295個、＋ドロップ増加の加護1個。", 
         "VN": "", 
@@ -19490,7 +19490,7 @@
     {
         "FR": "1 004 cr. + Fiole de butin +", 
         "EN": "T.Crys. x1,004 & +Drop Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier41/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier41/title", 
         "DE": "1.004 Bez. Zwkr. & Ph. der Be+", 
         "JP": "魔晶石1,004個＋ドロップ増加の加護", 
         "VN": "", 
@@ -19504,7 +19504,7 @@
     {
         "FR": "502 cristaux crépusculaires payés et 31 cristaux crépusculaires gratuits + dès maintenant 471 cristaux crépusculaires gratuits et 1 Fiole de butin +.", 
         "EN": "Paid T.Crys. x502 (+31 free, ++471 free) & +Drop Vial x1", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier41/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier41/description", 
         "DE": "Bezahlte Zwielichtkristalle x502 + kostenlose Zwielichtkristalle x31 und nur jetzt + kostenlose Zwielichtkristalle x471 + Phiole der Beute+ x1.", 
         "JP": "有償魔晶石502個＋無償魔晶石31個。今なら＋無償魔晶石471個、＋ドロップ増加の加護1個。", 
         "VN": "", 
@@ -19518,12 +19518,12 @@
     {
         "FR": "1 500 cr. + Fiole de butin +", 
         "EN": "T.Crys. x1,500 & +Drop Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier52/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier52/title", 
         "DE": "1.500 Bez. Zwkr. & Ph. der Be+", 
         "JP": "魔晶石1,500個＋ドロップ増加の加護", 
         "VN": "", 
         "KR": "마정석 1,500개+드롭 증가의 가호", 
-        "ES": "Cr. x1.004 + Vial aum. objetos", 
+        "ES": "Cr. x1.500 + Vial aum. objetos", 
         "TH": "คริสตัลสนธยา1,500+พรเพิ่มดร็อป", 
         "Type": 0, 
         "id": 1395, 
@@ -19532,7 +19532,7 @@
     {
         "FR": "750 cristaux crépusculaires payés et 81 cristaux crépusculaires gratuits + dès maintenant 669 cristaux crépusculaires gratuits et 1 Fiole de butin +.", 
         "EN": "Paid T.Crys. x750 (+81 free, ++669 free) & +Drop Vial x1", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier52/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier52/description", 
         "DE": "Bezahlte Zwielichtkristalle x750 + kostenlose Zwielichtkristalle x81 und nur jetzt + kostenlose Zwielichtkristalle x669 + Phiole der Beute+ x1.", 
         "JP": "有償魔晶石750個＋無償魔晶石81個。今なら＋無償魔晶石669個、＋ドロップ増加の加護1個。", 
         "VN": "", 
@@ -19546,7 +19546,7 @@
     {
         "FR": "2 000 cr. + Fiole de butin +", 
         "EN": "T.Crys. x2,000 & +Drop Vial", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier56/title", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier56/title", 
         "DE": "2.000 Bez. Zwkr. & Ph. der Be+", 
         "JP": "魔晶石2,000個＋ドロップ増加の加護", 
         "VN": "", 
@@ -19560,7 +19560,7 @@
     {
         "FR": "1000 cristaux crépusculaires payés et 153 cristaux crépusculaires gratuits + dès maintenant 847 cristaux crépusculaires gratuits et 1 Fiole de butin +.", 
         "EN": "Paid T.Crys. x1,000 (+153 free, ++847 free) & +Drop Vial x1", 
-        "GameKey": "Server/com.global.sinoalice.campaignXXXXX.tier56/description", 
+        "GameKey": "Server/com.global.sinoalice.campaign13.tier56/description", 
         "DE": "Bezahlte Zwielichtkristalle x1.000 + kostenlose Zwielichtkristalle x153 und nur jetzt + kostenlose Zwielichtkristalle x847 + Phiole der Beute+ x1.", 
         "JP": "有償魔晶石1,000個＋無償魔晶石153個。今なら＋無償魔晶石847個、＋ドロップ増加の加護1個。", 
         "VN": "", 
@@ -19570,5 +19570,33 @@
         "Type": 0, 
         "id": 1398, 
         "TLM": 51530
+    }, 
+    {
+        "FR": "502 cristaux crépusculaires + Arcane", 
+        "EN": "", 
+        "GameKey": "Server/com.global.sinoalice.campaign04.tier41/title", 
+        "DE": "Zwielichtkristalle x502+Arkana", 
+        "JP": "魔晶石502個＋アルカナ獲得", 
+        "VN": "", 
+        "KR": "마정석 502개+아르카나 획득", 
+        "ES": "Cr. ocaso x502 + obt. Arcano", 
+        "TH": "รับคริสตัล502ชิ้น+เหรียญอาร์คาน่า", 
+        "Type": 0, 
+        "id": 1399, 
+        "TLM": 51545
+    }, 
+    {
+        "FR": "502 cristaux crépusculaires payés + Pinocchio/Arcane de Noël de Niv.1", 
+        "EN": "", 
+        "GameKey": "Server/com.global.sinoalice.campaign04.tier41/description", 
+        "DE": "Erhalte bezahlte Zwielichtkristalle x502 + Pinocchio/Weihnachten Arkana St. 1", 
+        "JP": "有償魔晶石502個＋「ピノキオ/X-masのアルカナ Lv.1」の獲得", 
+        "VN": "", 
+        "KR": "유료 마정석 502개+\"피노키오/X-mas의 아르카나 Lv.1\" 획득", 
+        "ES": "Al comprar Cristales del ocaso x502 + «Pinocho / Arcano de Navidad nv. 1»", 
+        "TH": "คริสตัลสนธยาจ่ายเงิน 502ชิ้น+รับ \"พินอคคิโอ/อาร์คาน่าคริสต์มาส Lv.1\"", 
+        "Type": 0, 
+        "id": 1400, 
+        "TLM": 51546
     }
 ]

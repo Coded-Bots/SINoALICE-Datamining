@@ -19,7 +19,7 @@
     {
         "navigationType": 1, 
         "description": "Note: Rewards will be sent to your present box.", 
-        "objectId": 364, 
+        "objectId": 1520, 
         "title": "Clear any Act of Impulse (Normal), Chapter 1: Verse 3", 
         "conditionsType": 72, 
         "conditionsCount": 1, 
@@ -31,12 +31,12 @@
         "triggerType": 2, 
         "endTime": 1893423599, 
         "extraMissionEventId": 1, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "navigationType": 1, 
         "description": "Note: Rewards will be sent to your present box.", 
-        "objectId": 399, 
+        "objectId": 1546, 
         "title": "Clear any Act of Impulse (Normal), Chapter 1: Verse 4", 
         "conditionsType": 72, 
         "conditionsCount": 1, 
@@ -48,12 +48,12 @@
         "triggerType": 2, 
         "endTime": 1893423599, 
         "extraMissionEventId": 1, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "navigationType": 1, 
         "description": "Note: Rewards will be sent to your present box.", 
-        "objectId": 365, 
+        "objectId": 1521, 
         "title": "Clear any Act of Impulse (Normal), Chapter 1: Verse 5", 
         "conditionsType": 72, 
         "conditionsCount": 1, 
@@ -65,7 +65,7 @@
         "triggerType": 2, 
         "endTime": 1893423599, 
         "extraMissionEventId": 1, 
-        "objectType": 2
+        "objectType": 1
     }, 
     {
         "navigationType": 3, 

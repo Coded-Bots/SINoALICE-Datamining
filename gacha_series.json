@@ -1,5 +1,6 @@
 [
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=26&isHideBackButton=1", 
@@ -16,6 +17,7 @@
         "name": "Release Celebration Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "", 
@@ -32,6 +34,7 @@
         "name": "Tutorial Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=35&isHideBackButton=1", 
@@ -48,6 +51,7 @@
         "name": "Hammer of Justice Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=33&isHideBackButton=1", 
@@ -64,6 +68,7 @@
         "name": "Step-Up Grimoire: Droplet of Misery"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=185&isHideBackButton=1", 
@@ -80,6 +85,7 @@
         "name": "Tin Treasure Chest Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=84&isHideBackButton=1", 
@@ -96,6 +102,7 @@
         "name": "Forbidden Grimoire: Alice"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=92&isHideBackButton=1", 
@@ -112,6 +119,7 @@
         "name": "Forbidden Grimoire: Gretel"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=101&isHideBackButton=1", 
@@ -128,6 +136,7 @@
         "name": "Thorn Knight Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=71&isHideBackButton=1", 
@@ -144,6 +153,7 @@
         "name": "Collaboration Grimoire: The Puppets' Feast Pt. 1"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=72&isHideBackButton=1", 
@@ -160,6 +170,7 @@
         "name": "Collaboration Grimoire: The Puppets' Feast Pt. 2"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=207&isHideBackButton=1", 
@@ -176,6 +187,7 @@
         "name": "STEP Grimoire: Wizard of Oz"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=166&isHideBackButton=1", 
@@ -192,6 +204,7 @@
         "name": "Wonderland Serenade Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=134&isHideBackButton=1", 
@@ -208,6 +221,7 @@
         "name": "Vanguard Grimoire: Magic Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=135&isHideBackButton=1", 
@@ -224,6 +238,7 @@
         "name": "Rearguard Grimoire: Instrument Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=136&isHideBackButton=1", 
@@ -240,6 +255,7 @@
         "name": "Rearguard Grimoire: Artifact Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=137&isHideBackButton=1", 
@@ -256,6 +272,7 @@
         "name": "Vanguard Grimoire: Physical Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=138&isHideBackButton=1", 
@@ -272,6 +289,7 @@
         "name": "Rearguard Grimoire: Tome Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=139&isHideBackButton=1", 
@@ -288,6 +306,7 @@
         "name": "Rearguard Grimoire: Staff Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=248&isHideBackButton=1", 
@@ -304,6 +323,7 @@
         "name": "Wheel of Fate Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=257&isHideBackButton=1", 
@@ -320,6 +340,7 @@
         "name": "Imaginary Birdcage Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=224&isHideBackButton=1", 
@@ -336,6 +357,7 @@
         "name": "Vanguard Grimoire: Magic Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=225&isHideBackButton=1", 
@@ -352,6 +374,7 @@
         "name": "Rearguard Grimoire: Instrument Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=226&isHideBackButton=1", 
@@ -368,6 +391,7 @@
         "name": "Rearguard Grimoire: Artifact Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=227&isHideBackButton=1", 
@@ -384,6 +408,7 @@
         "name": "Vanguard Grimoire: Physical Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=228&isHideBackButton=1", 
@@ -400,6 +425,7 @@
         "name": "Rearguard Grimoire: Tome Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=229&isHideBackButton=1", 
@@ -416,6 +442,7 @@
         "name": "Rearguard Grimoire: Staff Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=259&isHideBackButton=1", 
@@ -432,6 +459,7 @@
         "name": "Bloodstained Cloak"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=285&isHideBackButton=1", 
@@ -448,6 +476,7 @@
         "name": "Vanguard Grimoire: Magic Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=286&isHideBackButton=1", 
@@ -464,6 +493,7 @@
         "name": "Rearguard Grimoire: Instrument Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=287&isHideBackButton=1", 
@@ -480,6 +510,7 @@
         "name": "Rearguard Grimoire: Artifact Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=288&isHideBackButton=1", 
@@ -496,6 +527,7 @@
         "name": "Vanguard Grimoire: Physical Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=289&isHideBackButton=1", 
@@ -512,6 +544,7 @@
         "name": "Rearguard Grimoire: Tome Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=290&isHideBackButton=1", 
@@ -528,6 +561,7 @@
         "name": "Rearguard Grimoire: Staff Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=310&isHideBackButton=1", 
@@ -544,6 +578,7 @@
         "name": "Honeymoon Dreams Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=370&isHideBackButton=1", 
@@ -560,6 +595,7 @@
         "name": "Vanguard Grimoire: Magic Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=371&isHideBackButton=1", 
@@ -576,6 +612,7 @@
         "name": "Rearguard Grimoire: Instrument Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=372&isHideBackButton=1", 
@@ -592,6 +629,7 @@
         "name": "Rearguard Grimoire: Artifact Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=373&isHideBackButton=1", 
@@ -608,6 +646,7 @@
         "name": "Vanguard Grimoire: Physical Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=374&isHideBackButton=1", 
@@ -624,6 +663,7 @@
         "name": "Rearguard Grimoire: Tome Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=375&isHideBackButton=1", 
@@ -640,6 +680,7 @@
         "name": "Rearguard Grimoire: Staff Weapons"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=321&isHideBackButton=1", 
@@ -656,6 +697,7 @@
         "name": "Back Alley Reaper"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=349&isHideBackButton=1", 
@@ -672,6 +714,7 @@
         "name": "Confined Tropical Fish"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=400&isHideBackButton=1", 
@@ -688,6 +731,7 @@
         "name": "Darkroom Researcher"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=216&isHideBackButton=1", 
@@ -704,6 +748,24 @@
         "name": "Sacred Book of Punishment"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 5, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=414&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 220, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅺ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅺ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 91, 
+        "bannerMstId": 258, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "STEP Grimoire: Bonfire of Nothingness"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=145&isHideBackButton=1", 
@@ -720,6 +782,7 @@
         "name": "STEP Grimoire: Violence and Resistance"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=162&isHideBackButton=1", 
@@ -736,6 +799,7 @@
         "name": "Poachers' Feast"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=220&isHideBackButton=1", 
@@ -752,6 +816,7 @@
         "name": "STEP: Grimoire: Invaders' Feast"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=274&isHideBackButton=1", 
@@ -768,6 +833,7 @@
         "name": "Step-up Grimoire: Performers' Feast"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=110&isHideBackButton=1", 
@@ -784,6 +850,7 @@
         "name": "Bookmarked Memories: Featuring Kainé"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=112&isHideBackButton=1", 
@@ -800,6 +867,7 @@
         "name": "Bookmarked Memories: Young Emil and Devola & Popola"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 10, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=221&isHideBackButton=1", 
@@ -816,6 +884,7 @@
         "name": "Daily Grimoire"
     }, 
     {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=259&isHideBackButton=1", 
@@ -830,5 +899,22 @@
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
         "name": "Bloodstained Cloak"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 4, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=420&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 5, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-You can obtain tickets for this grimoire by trading gladiator medals at the medal exchange.\\n-No medal of desires are received with this grimoire.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 900003, 
+        "bannerMstId": 900027, 
+        "isAlways": true, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "Colosseum Ticket Grimoire (x5)"
     }
 ]

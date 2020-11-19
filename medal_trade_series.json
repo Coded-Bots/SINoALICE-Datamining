@@ -292,5 +292,19 @@
         "medalTradeGroupMstId": 0, 
         "itemMstId": 1039, 
         "description": "Medal from a collaboration grimoire."
+    }, 
+    {
+        "name": "Gladiator Medal", 
+        "startTime": 1605765600, 
+        "priority": 7, 
+        "isDeleted": false, 
+        "assetBundleName": "900062", 
+        "resourceName": "item20201119_gachaticket_colosseum", 
+        "wayToGet": "Can earn as an SP recovery reward at the Colosseum.", 
+        "endTime": 1924959599, 
+        "medalTradeSeriesMstId": 900001, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 900062, 
+        "description": "Medal awarded when recovering SP at the Colosseum."
     }
 ]

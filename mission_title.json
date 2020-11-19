@@ -90,6 +90,12 @@
         "title": "Gran Election Daily Mission"
     }, 
     {
+        "endTime": 1919307599, 
+        "startTime": 1603087200, 
+        "missionTitleMstId": 900002, 
+        "title": "Discord Mission"
+    }, 
+    {
         "endTime": 1605765599, 
         "startTime": 1604037600, 
         "missionTitleMstId": 900003, 
