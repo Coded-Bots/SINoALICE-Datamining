@@ -262,5 +262,17 @@
         "resourceName": "1", 
         "endTime": 1603774799, 
         "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900007, 
+        "assetBundleName": "", 
+        "title": "Thanksgiving Login Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1606197600, 
+        "resourceName": "1", 
+        "endTime": 1606539599, 
+        "pickupSkillType": 1
     }
 ]

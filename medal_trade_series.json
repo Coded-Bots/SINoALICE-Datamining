@@ -196,6 +196,20 @@
         "description": "Medal collected by Parrah-Noya."
     }, 
     {
+        "name": "Medal of Desire (XII)", 
+        "startTime": 1606197600, 
+        "priority": 30, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoire.", 
+        "endTime": 1610463599, 
+        "medalTradeSeriesMstId": 21, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 161, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
+    }, 
+    {
         "name": "Hatter Medal", 
         "startTime": 1604556000, 
         "priority": 34, 

@@ -10648,6 +10648,28 @@
         "objectType": 14
     }, 
     {
+        "missionType": 3, 
+        "activeView": 1, 
+        "description": "Clear Act of Hatred (Normal), Chapter 5 to unlock Act of Reality.", 
+        "objectId": 0, 
+        "title": "Clear Act of Reality: Gretel, Chapter 4", 
+        "conditionsType": 32, 
+        "missionUniquePriority": 1, 
+        "missionUniqueId": 113, 
+        "conditionsCount": 1, 
+        "missionMstId": 2242, 
+        "missionTitleMstId": 16, 
+        "priority": 1, 
+        "num": 150, 
+        "resetType": 0, 
+        "conditionsObjectId": 2486, 
+        "startTime": 1606197600, 
+        "endTime": 1608796799, 
+        "resetCycle": 0, 
+        "optionType": 0, 
+        "objectType": 14
+    }, 
+    {
         "missionType": 1, 
         "activeView": 1, 
         "description": "Follow the official SINoALICE Twitter account for the latest information.", 

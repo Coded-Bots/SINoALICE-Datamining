@@ -19528,5 +19528,61 @@
         "Type": 0, 
         "id": 1395, 
         "TLM": 51532
+    }, 
+    {
+        "FR": "PA :", 
+        "EN": "AP: ", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "AP：", 
+        "VN": "", 
+        "KR": "AP: ", 
+        "ES": "PA:", 
+        "TH": "AP：", 
+        "Type": 0, 
+        "id": 1396, 
+        "TLM": 51547
+    }, 
+    {
+        "FR": "Mission :", 
+        "EN": "Mission: ", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "ミッション：", 
+        "VN": "", 
+        "KR": "미션: ", 
+        "ES": "Misión:", 
+        "TH": "ภารกิจ：", 
+        "Type": 0, 
+        "id": 1397, 
+        "TLM": 51548
+    }, 
+    {
+        "FR": "Récompenses de participation :", 
+        "EN": "Participation Reward: ", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "参加報酬：", 
+        "VN": "", 
+        "KR": "참가 보상: ", 
+        "ES": "Recompensa por participación:", 
+        "TH": "รางวัลการเข้าร่วม：", 
+        "Type": 0, 
+        "id": 1398, 
+        "TLM": 51549
+    }, 
+    {
+        "FR": "MAX", 
+        "EN": "MAX", 
+        "GameKey": "SCRIPT", 
+        "DE": "", 
+        "JP": "MAX", 
+        "VN": "", 
+        "KR": "최대", 
+        "ES": "MÁX", 
+        "TH": "MAX", 
+        "Type": 0, 
+        "id": 1399, 
+        "TLM": 51550
     }
 ]
