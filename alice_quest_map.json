@@ -231,6 +231,36 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Cinderella/Sorcerer Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 38, 
+        "createdTime": 1483974000, 
+        "mapGroup": 22, 
+        "name": "Incarnation of Envy"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Cinderella/Sorcerer Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 39, 
+        "createdTime": 1483974000, 
+        "mapGroup": 22, 
+        "name": "Incarnation of Envy"
+    }, 
+    {
+        "mapGroupLv": 1, 
+        "description": "November Conquest Event", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 42, 
+        "createdTime": 1483974000, 
+        "mapGroup": 24, 
+        "name": "Wings of Fate"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "Mini-Tower", 
         "announceUrl": "", 
         "mapType": 1, 

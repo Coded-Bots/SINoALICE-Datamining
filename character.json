@@ -1948,5 +1948,31 @@
         "isAvailable": false, 
         "partnerNum": -1, 
         "collaborationId": 3
+    }, 
+    {
+        "shaderType": 0, 
+        "displayStartTime": 1556200800, 
+        "characterVoice": "Reina Ueda", 
+        "avatarGroupId": 0, 
+        "assetBundleName": "character/194", 
+        "resourceName": "194", 
+        "characterUniqueId": 2, 
+        "characterUniqueName": "Snow White", 
+        "rolePosition": 1, 
+        "favoriteWeapon": 8, 
+        "mypageMinVoice": 0, 
+        "maxLevel": 10, 
+        "collaborationName": "0", 
+        "description": "The mirror drove the girl mad. So many people were captivated by her beauty. She went to meet the prince, and yet...", 
+        "motionType": 1, 
+        "characterMstId": 194, 
+        "characterUniqueEnglishName": "SnowWhite", 
+        "name": "Snow White/Grand Prix (2020)", 
+        "isSpirit": false, 
+        "mypageMaxVoice": 0, 
+        "spineAvatarType": 1, 
+        "isAvailable": true, 
+        "partnerNum": -1, 
+        "collaborationId": 0
     }
 ]

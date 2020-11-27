@@ -84,6 +84,18 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 16, 
+        "assetBundleName": "", 
+        "title": "Guild Event Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1606456800, 
+        "resourceName": "1", 
+        "endTime": 1607057999, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 23, 
         "assetBundleName": "", 
         "title": "Act of Reality Release Bonus", 
@@ -273,6 +285,18 @@
         "startTime": 1606197600, 
         "resourceName": "1", 
         "endTime": 1606539599, 
+        "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900008, 
+        "assetBundleName": "", 
+        "title": "Guild Event Streak Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 101, 
+        "startTime": 1606456800, 
+        "resourceName": "1", 
+        "endTime": 1607057999, 
         "pickupSkillType": 1
     }
 ]

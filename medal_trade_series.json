@@ -238,6 +238,20 @@
         "description": "Medal collected by Parrah-Noya."
     }, 
     {
+        "name": "Arcana medal", 
+        "startTime": 1606456800, 
+        "priority": 37, 
+        "isDeleted": false, 
+        "assetBundleName": "0045", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.", 
+        "endTime": 1607320799, 
+        "medalTradeSeriesMstId": 45, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 706, 
+        "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals"
+    }, 
+    {
         "name": "Royal Medal", 
         "startTime": 1593529200, 
         "priority": 43, 

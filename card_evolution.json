@@ -8418,6 +8418,22 @@
     {
         "itemMstNum4": 0, 
         "itemMstNum5": 0, 
+        "itemMstNum1": 1, 
+        "evolvedCardMstId": 1106, 
+        "itemMstNum3": 5, 
+        "money": 200000, 
+        "itemMstNum2": 15, 
+        "itemMstId4": 0, 
+        "cardMstId": 1105, 
+        "cardEvolutionMstId": 566, 
+        "itemMstId5": 0, 
+        "itemMstId2": 31, 
+        "itemMstId3": 32, 
+        "itemMstId1": 310
+    }, 
+    {
+        "itemMstNum4": 0, 
+        "itemMstNum5": 0, 
         "itemMstNum1": 40, 
         "evolvedCardMstId": 1108, 
         "itemMstNum3": 5, 
@@ -13166,6 +13182,22 @@
         "itemMstId2": 26, 
         "itemMstId3": 27, 
         "itemMstId1": 25
+    }, 
+    {
+        "itemMstNum4": 0, 
+        "itemMstNum5": 0, 
+        "itemMstNum1": 40, 
+        "evolvedCardMstId": 3404, 
+        "itemMstNum3": 5, 
+        "money": 200000, 
+        "itemMstNum2": 15, 
+        "itemMstId4": 0, 
+        "cardMstId": 3403, 
+        "cardEvolutionMstId": 1793, 
+        "itemMstId5": 0, 
+        "itemMstId2": 20, 
+        "itemMstId3": 24, 
+        "itemMstId1": 19
     }, 
     {
         "itemMstNum4": 0, 

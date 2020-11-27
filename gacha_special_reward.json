@@ -438,5 +438,16 @@
         "firstObjectId": 161, 
         "firstNum": 1, 
         "objectType": 0
+    }, 
+    {
+        "targetType": 1, 
+        "objectId": 0, 
+        "gachaSpecialRewardMstId": 123, 
+        "firstObjectType": 19, 
+        "targetId": 3403, 
+        "num": 0, 
+        "firstObjectId": 194, 
+        "firstNum": 1, 
+        "objectType": 0
     }
 ]

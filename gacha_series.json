@@ -902,6 +902,23 @@
     }, 
     {
         "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 5, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=433&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 240, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅻ)\\nAmount: STEP 1, x50 medals each\\nSTEP 2 and 3, x100 medals each\\n-Medal of desire (Ⅻ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 100230, 
+        "bannerMstId": 1437, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "STEP Grimoire: Gran Election #1 Winner's Grimoire"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 3, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=259&isHideBackButton=1", 

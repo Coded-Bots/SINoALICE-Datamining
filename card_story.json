@@ -12416,6 +12416,38 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "Does this outfit suit a warrior of Justice?\\nAs long as it's what everyone wishes...", 
+        "cardStoryMstId": 3387, 
+        "cardMstId": 3403, 
+        "step": 1, 
+        "cardUniqueId": 1598, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Thank you for your support.\\nI didn't think I'd live to see the day.", 
+        "cardStoryMstId": 3388, 
+        "cardMstId": 3403, 
+        "step": 2, 
+        "cardUniqueId": 1598, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I only hope this won't be the last time I'm presented such an award. Until then, I will greatly honor this moment.", 
+        "cardStoryMstId": 3389, 
+        "cardMstId": 3404, 
+        "step": 3, 
+        "cardUniqueId": 1598, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "...Surely my chances are slim towards setting a record next year.", 
+        "cardStoryMstId": 3390, 
+        "cardMstId": 3404, 
+        "step": 4, 
+        "cardUniqueId": 1598, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "[Group] Vanguard Weapon\\n[Attack Type] Physical\\n[Target] Single\\n[Specialty Class] Breaker\\n[Special Note] N/A", 
         "cardStoryMstId": 4207, 
         "cardMstId": 4434, 
