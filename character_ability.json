@@ -6120,6 +6120,246 @@
         "cardDetailType": 5
     }, 
     {
+        "name": "Heavy +30% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 683, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 684, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 685, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 686, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 687, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 688, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 689, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 690, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 691, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 692, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 693, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 694, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 58, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Instrument +30% (Snow White+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 695, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 696, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 697, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 698, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Snow White+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 699, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 700, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 701, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 702, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Snow White+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 703, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 704, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 705, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 706, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 59, 
+        "cardDetailType": 1
+    }, 
+    {
         "name": "Heavy +50% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 

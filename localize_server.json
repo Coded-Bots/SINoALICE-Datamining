@@ -8137,7 +8137,7 @@
         "FR": "Récompense du Mystère résolu de la Pièce du Nouvel An", 
         "EN": "New Year Mystery Theater Reward", 
         "GameKey": "ServerData/presentBoxMsg.campaign.newYear.rightAnswerPresent", 
-        "DE": "Neujahrsbelohnung des Mysterientheaters", 
+        "DE": "Belohnung für die Lösung des Neujahrstheater-Rätsel", 
         "JP": "新春観劇謎解き正解報酬", 
         "VN": "Phần thưởng Gánh hát bí ẩn năm mới", 
         "KR": "신년 극장 추리 정답 보상", 
@@ -14651,7 +14651,7 @@
         "JP": "セット効果", 
         "VN": "Hiệu ứng bộ", 
         "KR": "세트 효과", 
-        "ES": "Definir efectos", 
+        "ES": "Efectos del set", 
         "TH": "เอฟเฟกต์ เซ็ต", 
         "Type": 0, 
         "id": 1047, 
@@ -15583,7 +15583,7 @@
     }, 
     {
         "FR": "306 cr. ＋ perso. débloqué.", 
-        "EN": "Paid T.Crys. x306 & +Red Riding Hood/Cleric.", 
+        "EN": "Paid Twilight Crystal x306 & +Red Riding Hood/Cleric", 
         "GameKey": "Server/com.global.sinoalice.campaign01.tier25/description", 
         "DE": "306 Bez. Zwielichtkr. & Rotkäppchen/Kleriker", 
         "JP": "有償魔晶石306個＋「赤ずきん / クレリック」。", 
@@ -16003,7 +16003,7 @@
     }, 
     {
         "FR": "306 cr. payés + 306 gratuits", 
-        "EN": "Paid T.Crys. 306(+11 free, ++295 free)", 
+        "EN": "Paid Twilight Crystal 306 (+11 free, ++295 free)", 
         "GameKey": "Server/com.global.sinoalice.campaign03.tier25/description", 
         "DE": "306 bez. & 306 kostenl. Zwielichtkristalle", 
         "JP": "有償魔晶石306個＋無償魔晶石11個。さらに今なら＋無償魔晶石295個。", 
@@ -16087,7 +16087,7 @@
     }, 
     {
         "FR": "1000 cr. payés + 1000 grat.", 
-        "EN": "Paid T.Crys. x1,000(+153 free,++847free)", 
+        "EN": "Paid Twilight Crystal x1,000 (+153 free, ++847 free)", 
         "GameKey": "Server/com.global.sinoalice.campaign03.tier56/description", 
         "DE": "1000 bez. & 153+847 kostenl. Zwielichtkr.", 
         "JP": "有償魔晶石1,000個＋無償魔晶石153個。さらに今なら＋無償魔晶石847個。", 
@@ -16199,7 +16199,7 @@
     }, 
     {
         "FR": "502 cr. pay. + Cauchemar", 
-        "EN": "Paid T.Crys. x502, & Nightmare", 
+        "EN": "Paid Twilight Crystal x502 & Nightmare", 
         "GameKey": "Server/com.global.sinoalice.campaign05.tier41/description", 
         "DE": "Bez. ZK x502 + Albtraum", 
         "JP": "有償魔晶石502個＋ナイトメア。", 
@@ -16325,7 +16325,7 @@
     }, 
     {
         "FR": "Obtenez 25 cristaux crépusculaires payés au moment de l'achat ainsi que 24 cristaux crépusculaires gratuits. En plus, profitez de 7 jours de Service des utilisateurs royaux !", 
-        "EN": "Paid Twilight Crystal x25 (+24 free) & 7 Days of Royal User Service", 
+        "EN": "Paid T.Crys. x25 (+24 free) & 7 Days of Royal User Service", 
         "GameKey": "Server/shop.royalUser.productDesc.first", 
         "DE": "25 bezahlte & 24 kostenlose Zwielichtkristalle + 7 Tage Königlicher Benutzerservice", 
         "JP": "購入時に有償魔晶石25個＋無償魔晶石24個。さらに7日間のロイヤルユーザーサービス。", 
@@ -16353,7 +16353,7 @@
     }, 
     {
         "FR": "Obtenez 49 cristaux crépusculaires payés au moment de l'achat ainsi qu'en plus 7 jours de Service des utilisateurs royaux.", 
-        "EN": "Paid Twilight Crystal x49 & 7 Days of Royal User Service", 
+        "EN": "Paid T.Crys. x49 & 7 Days of Royal User Service", 
         "GameKey": "Server/shop.royalUser.productDesc.normal", 
         "DE": "49 bezahlte Zwielichtkristalle + 7 Tage Königlicher Benutzerservice", 
         "JP": "購入時に有償魔晶石49個。さらに7日間のロイヤルユーザーサービス。", 
@@ -16381,7 +16381,7 @@
     }, 
     {
         "FR": "Obtenez 148 cristaux crépusculaires payés au moment de l'achat ainsi que 48 cristaux crépusculaires gratuits. En plus, profitez de 28 jours de Service des utilisateurs royaux !", 
-        "EN": "Paid Twilight Crystal x148 (+48 free) & 28 Days of Royal User Service", 
+        "EN": "Paid T.Crys. x148 (+48 free) & 28 Days of Royal User Service", 
         "GameKey": "Server/shop.royalUser.productDesc.bulk", 
         "DE": "148 bezahlte & 48 kostenlose Zwielichtkristalle + 28 Tage Königlicher Benutzerservice", 
         "JP": "購入時に有償魔晶石148個＋無償魔晶石48個。さらに28日間のロイヤルユーザーサービス。", 
@@ -16661,7 +16661,7 @@
     }, 
     {
         "FR": "Acquisition de 354 cr. pay. ＋ Feu follet biblivore", 
-        "EN": "Paid Twilight Crystals x354 & Library Wisp", 
+        "EN": "Paid Twilight Crystal x354 & Library Wisp", 
         "GameKey": "Server/com.global.sinoalice.campaign07.tier29/description", 
         "DE": "Erhalte bezahlte Zwielichtkristalle x354 + Bibliothek Irrwisch", 
         "JP": "有償魔晶石354個＋「ライブラリウィスプ」の獲得", 
