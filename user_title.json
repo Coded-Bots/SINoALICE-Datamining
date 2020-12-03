@@ -945,6 +945,33 @@
         "resourceName": "0009"
     }, 
     {
+        "name": "240 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed Stage 240 of Prison of the Abyss", 
+        "assetBundleName": "user_title/3", 
+        "userTitleMstId": 205, 
+        "createdTime": null, 
+        "resourceName": "0010"
+    }, 
+    {
+        "name": "270 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed Stage 270 of Prison of the Abyss", 
+        "assetBundleName": "user_title/3", 
+        "userTitleMstId": 206, 
+        "createdTime": null, 
+        "resourceName": "0011"
+    }, 
+    {
+        "name": "300 Stages Completed", 
+        "limitTime": 1893423600, 
+        "detail": "Title given to those who have completed Stage 300 of Prison of the Abyss", 
+        "assetBundleName": "user_title/3", 
+        "userTitleMstId": 207, 
+        "createdTime": null, 
+        "resourceName": "0012"
+    }, 
+    {
         "name": "You're the Best At Invaders ", 
         "limitTime": 1893423600, 
         "detail": "Title given to those ranked 1st by score in Invaders from Space.", 
