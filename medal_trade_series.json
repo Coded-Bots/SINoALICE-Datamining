@@ -238,7 +238,7 @@
         "description": "Medal collected by Parrah-Noya."
     }, 
     {
-        "name": "Arcana medal", 
+        "name": "Arcana Medal", 
         "startTime": 1606456800, 
         "priority": 37, 
         "isDeleted": false, 
@@ -266,7 +266,7 @@
         "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt"
     }, 
     {
-        "name": "Invader medal", 
+        "name": "Invader Medal", 
         "startTime": 1600318800, 
         "priority": 43, 
         "isDeleted": false, 
@@ -280,7 +280,7 @@
         "description": "Medal collected by Parrah-Noya."
     }, 
     {
-        "name": "Taito medal", 
+        "name": "Taito Medal", 
         "startTime": 1600322400, 
         "priority": 44, 
         "isDeleted": false, 
@@ -294,7 +294,7 @@
         "description": "Medal from a collaboration grimoire."
     }, 
     {
-        "name": "Halloween medal", 
+        "name": "Halloween Medal", 
         "startTime": 1603173600, 
         "priority": 43, 
         "isDeleted": false, 
@@ -308,7 +308,7 @@
         "description": "Medal collected by Parrah-Noya."
     }, 
     {
-        "name": "Replicant medal", 
+        "name": "Replicant Medal", 
         "startTime": 1596693600, 
         "priority": 44, 
         "isDeleted": false, 
