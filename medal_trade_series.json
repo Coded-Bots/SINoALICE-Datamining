@@ -308,6 +308,20 @@
         "description": "Medal collected by Parrah-Noya."
     }, 
     {
+        "name": "Candy Medal", 
+        "startTime": 1607580000, 
+        "priority": 43, 
+        "isDeleted": false, 
+        "assetBundleName": "0893", 
+        "resourceName": "item20201210_medal_xmas", 
+        "wayToGet": "Earned by playing an event.", 
+        "endTime": 1609653599, 
+        "medalTradeSeriesMstId": 61, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 893, 
+        "description": "Medal collected by Parrah-Noya."
+    }, 
+    {
         "name": "Replicant Medal", 
         "startTime": 1596693600, 
         "priority": 44, 

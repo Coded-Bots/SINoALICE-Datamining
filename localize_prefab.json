@@ -1456,7 +1456,7 @@
         "TLM": 19313
     }, 
     {
-        "FR": "Messagerie de combat", 
+        "FR": "Mess. Combat", 
         "EN": "Battle Chat", 
         "GameKey": "PREFAB/0464", 
         "DE": "Kampfchat", 
@@ -12362,14 +12362,14 @@
         "TLM": 20092
     }, 
     {
-        "FR": "Durée de l'effet", 
+        "FR": "Durée :", 
         "EN": "Effect's Duration", 
         "GameKey": "PREFAB/0319", 
         "DE": "Effektdauer", 
         "JP": "効果時間", 
         "VN": "Thời gian tác dụng", 
         "KR": "효과 시간", 
-        "ES": "Duración del efecto", 
+        "ES": "Duración", 
         "TH": "ระยะมีผล", 
         "Type": 0, 
         "id": 884, 
@@ -12642,7 +12642,7 @@
         "TLM": 20112
     }, 
     {
-        "FR": "En préparation.", 
+        "FR": "Temps", 
         "EN": "Coming Soon", 
         "GameKey": "PREFAB/0313", 
         "DE": "Ausgerüstet", 

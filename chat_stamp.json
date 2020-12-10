@@ -504,6 +504,48 @@
         "itemMstId": 842
     }, 
     {
+        "name": "Snow White/Slowpoke!", 
+        "isAnytime": 0, 
+        "replaceMessage": "[*059]", 
+        "filterType": 2, 
+        "startTime": 1607580000, 
+        "howToGet": "Obtainable from the X-mas event.", 
+        "createdTime": null, 
+        "assetBundleName": "chat8", 
+        "chatStampMstId": 59, 
+        "resourceName": "059", 
+        "endTime": 1609653599, 
+        "itemMstId": 931
+    }, 
+    {
+        "name": "Pinocchio/not that!", 
+        "isAnytime": 0, 
+        "replaceMessage": "[*060]", 
+        "filterType": 5, 
+        "startTime": 1607580000, 
+        "howToGet": "Obtainable from the X-mas event.", 
+        "createdTime": null, 
+        "assetBundleName": "chat8", 
+        "chatStampMstId": 60, 
+        "resourceName": "060", 
+        "endTime": 1609653599, 
+        "itemMstId": 932
+    }, 
+    {
+        "name": "Red Riding Hood/Purification Time ♡", 
+        "isAnytime": 0, 
+        "replaceMessage": "[*061]", 
+        "filterType": 3, 
+        "startTime": 1607580000, 
+        "howToGet": "Obtainable from the X-mas event.", 
+        "createdTime": null, 
+        "assetBundleName": "chat8", 
+        "chatStampMstId": 61, 
+        "resourceName": "061", 
+        "endTime": 1609653599, 
+        "itemMstId": 933
+    }, 
+    {
         "name": "Cinderella/Farewell", 
         "isAnytime": 1, 
         "replaceMessage": "[*068]", 

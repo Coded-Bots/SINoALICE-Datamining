@@ -17332,7 +17332,7 @@
         "TLM": 50486
     }, 
     {
-        "FR": "Utiliser <color=#B42F00>{0}</color> des Cristaux crépusculaires vous permet d’augmenter la capacité maximale de {1} {2} de <color=#B42F00>{3}</color>", 
+        "FR": "Utiliser <color=#B42F00>{0}</color> cristaux crépusculaires vous permet d’augmenter la capacité maximale de {2} {1} de <color=#B42F00>{3}</color>", 
         "EN": "Using <color=#B42F00>{0}</color> twilight crystals allows you to increase {1} {2} maximum capacity by <color=#B42F00>{3}</color>.", 
         "GameKey": "SCRIPT/1242", 
         "DE": "Mit <color=#B42F00>{0}</color> Zwielichtkristallen kannst du die maximale Kapazität der {2} für {1} um <color=#B42F00>{3}</color> erweitern.", 
@@ -19598,5 +19598,19 @@
         "Type": 0, 
         "id": 1400, 
         "TLM": 51531
+    }, 
+    {
+        "FR": "RMP期限切れ通知_FR", 
+        "EN": "RMP期限切れ通知_EN", 
+        "GameKey": "SCRIPT", 
+        "DE": "RMP期限切れ通知_DE", 
+        "JP": "アンキ：ロイヤル魔晶石パスの期間が終了しマシタ。\\nギシン：ロイヤル「魔晶石パス」の方デス！", 
+        "VN": "", 
+        "KR": "RMP期限切れ通知_KR", 
+        "ES": "RMP期限切れ通知_ES", 
+        "TH": "RMP期限切れ通知_TH", 
+        "Type": 0, 
+        "id": 1401, 
+        "TLM": 51633
     }
 ]

@@ -481,6 +481,26 @@
     }, 
     {
         "mapGroupLv": 1, 
+        "description": "Medal: X-mas Feast", 
+        "announceUrl": "/web/announce/body?announceMstId=2314&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 166, 
+        "createdTime": 1483974000, 
+        "mapGroup": 100, 
+        "name": "X-mas Feast"
+    }, 
+    {
+        "mapGroupLv": 2, 
+        "description": "Medal: X-mas Feast", 
+        "announceUrl": "/web/announce/body?announceMstId=2314&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 167, 
+        "createdTime": 1483974000, 
+        "mapGroup": 100, 
+        "name": "X-mas Feast (Hard)"
+    }, 
+    {
+        "mapGroupLv": 1, 
         "description": "NieR RepliCant (Normal)", 
         "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1", 
         "mapType": 1, 
