@@ -1032,6 +1032,30 @@
         "story": "It is a great literary work, full of mystery, adventure, and hope. But her friends don't realize what nightmares can stem from a brave girl's endless curiosity..."
     }, 
     {
+        "characterStoryMstId": 181, 
+        "characterMstId": 46, 
+        "releaseLevel": 1, 
+        "story": "(Excerpt from the soldier's diary)\\nI caught a glance of the princess from my window. How divine her countenance. I would be ready to give anything for her, even my life."
+    }, 
+    {
+        "characterStoryMstId": 182, 
+        "characterMstId": 46, 
+        "releaseLevel": 3, 
+        "story": "(Excerpt from the handmaid's diary)\\nThe princess is just so beautiful. Even I find myself fantasizing about her. Oh, princess, my princess..."
+    }, 
+    {
+        "characterStoryMstId": 183, 
+        "characterMstId": 46, 
+        "releaseLevel": 5, 
+        "story": "(Excerpt from the minister's diary)\\nAll of these suitors from neighboring lands... But I'll never let her go. I befit the white princess most of all."
+    }, 
+    {
+        "characterStoryMstId": 184, 
+        "characterMstId": 46, 
+        "releaseLevel": 10, 
+        "story": "(Excerpt from the queen's diary)\\nThat girl's mere existence drives our subjects to madness. She'll soon cause a war if nothing is done. I have no choice..."
+    }, 
+    {
         "characterStoryMstId": 185, 
         "characterMstId": 47, 
         "releaseLevel": 1, 
@@ -1104,6 +1128,30 @@
         "story": "I choose to live happily with Hansel, and won't forgive any who get in our way. Not even my parents. \"Stop it!\" he yells, and I do. Are you getting in my way too, Brother?"
     }, 
     {
+        "characterStoryMstId": 197, 
+        "characterMstId": 50, 
+        "releaseLevel": 1, 
+        "story": "Investigation Report 1:\\nProgress report on the queen. I now have testimony that she's awarding peerages based purely on personal relationships."
+    }, 
+    {
+        "characterStoryMstId": 198, 
+        "characterMstId": 50, 
+        "releaseLevel": 3, 
+        "story": "Investigation Report 2:\\nThose around the queen are spending enough to empty our nations coffers. The king is still unaware."
+    }, 
+    {
+        "characterStoryMstId": 199, 
+        "characterMstId": 50, 
+        "releaseLevel": 5, 
+        "story": "Investigation Report 3:\\nThe cause of the minister's suspicious death has been confirmed: poison. It seems he was preparing to censure the queen."
+    }, 
+    {
+        "characterStoryMstId": 200, 
+        "characterMstId": 50, 
+        "releaseLevel": 10, 
+        "story": "Investigation Report 4:\\nThis nation has no future. The queen has manipulated its king and stolen its wealth. If only she'd never rescued him..."
+    }, 
+    {
         "characterStoryMstId": 201, 
         "characterMstId": 51, 
         "releaseLevel": 1, 
@@ -1150,6 +1198,30 @@
         "characterMstId": 52, 
         "releaseLevel": 10, 
         "story": "Murderer's Confession, 4/4:\\nI'm sorry I'm sorry forgive me I'll never do it again spare my life please save me don't kill me don't cut me no stop stop the red—"
+    }, 
+    {
+        "characterStoryMstId": 209, 
+        "characterMstId": 53, 
+        "releaseLevel": 1, 
+        "story": "My shabby, soot-soaked self.\\nA warm light shining over my darkest days.\\nThat's you. A ray of hope, beaming from your castle."
+    }, 
+    {
+        "characterStoryMstId": 210, 
+        "characterMstId": 53, 
+        "releaseLevel": 3, 
+        "story": "This miracle happens once in a lifetime.\\nNow I have a beautiful dress. A carriage and a coachman.\\nA ball in your castle, unbeknownst to my family."
+    }, 
+    {
+        "characterStoryMstId": 211, 
+        "characterMstId": 53, 
+        "releaseLevel": 5, 
+        "story": "I flutter gracefully through the room.\\nAren't I beautiful, my prince?\\nDon't you want me as your princess?"
+    }, 
+    {
+        "characterStoryMstId": 212, 
+        "characterMstId": 53, 
+        "releaseLevel": 10, 
+        "story": "The ringing wedding bells play a dirge for hope.\\nAnother impoverished girl smiles by his side.\\nHow I hate that cinder-soiled girl. What made her so different?"
     }, 
     {
         "characterStoryMstId": 217, 
@@ -1320,6 +1392,78 @@
         "story": "To continue our coverage of the accident at Shin-Koiwa Station, police have taken a 40 year-old man into custody after he confessed to pushing the victim, a co-worker he had been having an extra-marital affair with, into the train tracks when she demanded he married her."
     }, 
     {
+        "characterStoryMstId": 253, 
+        "characterMstId": 65, 
+        "releaseLevel": 1, 
+        "story": "The dawn's early light guides me steadily onward from the cold, dark night."
+    }, 
+    {
+        "characterStoryMstId": 254, 
+        "characterMstId": 65, 
+        "releaseLevel": 3, 
+        "story": "Singing of spring's death, a single, precious flower flutters to the ground."
+    }, 
+    {
+        "characterStoryMstId": 255, 
+        "characterMstId": 65, 
+        "releaseLevel": 5, 
+        "story": "The sun's vengeful rays beat down upon the city—my body, ablaze."
+    }, 
+    {
+        "characterStoryMstId": 256, 
+        "characterMstId": 65, 
+        "releaseLevel": 10, 
+        "story": "Tall looms the tower my fate, to perish alone—a dismal future."
+    }, 
+    {
+        "characterStoryMstId": 257, 
+        "characterMstId": 66, 
+        "releaseLevel": 1, 
+        "story": "My kimono sleeves sweep down, long and elegant—my movements, restrained."
+    }, 
+    {
+        "characterStoryMstId": 258, 
+        "characterMstId": 66, 
+        "releaseLevel": 3, 
+        "story": "A tightly-cinched towel bulks me up around the waist—my movements, restrained."
+    }, 
+    {
+        "characterStoryMstId": 259, 
+        "characterMstId": 66, 
+        "releaseLevel": 5, 
+        "story": "The bow at my back squeezes the breath out of me—my movements, restrained."
+    }, 
+    {
+        "characterStoryMstId": 260, 
+        "characterMstId": 66, 
+        "releaseLevel": 10, 
+        "story": "Blood-stains splatter me, crimson weighing down my sleeves—my movements, restrained."
+    }, 
+    {
+        "characterStoryMstId": 261, 
+        "characterMstId": 67, 
+        "releaseLevel": 1, 
+        "story": "I can't help but laugh when supplicants raise their hands to the New Year's sky."
+    }, 
+    {
+        "characterStoryMstId": 262, 
+        "characterMstId": 67, 
+        "releaseLevel": 3, 
+        "story": "My blade severs them: No one wants to hear your prayers—you're wasting your breath."
+    }, 
+    {
+        "characterStoryMstId": 263, 
+        "characterMstId": 67, 
+        "releaseLevel": 5, 
+        "story": "Spit in one hand, make your wishes in another—tell me which fills first?"
+    }, 
+    {
+        "characterStoryMstId": 264, 
+        "characterMstId": 67, 
+        "releaseLevel": 10, 
+        "story": "Faces of the weak cries for mercy on their lips—I tread upon them."
+    }, 
+    {
         "characterStoryMstId": 285, 
         "characterMstId": 64, 
         "releaseLevel": 1, 
@@ -1488,6 +1632,54 @@
         "story": "Subverting expectations that her death came of a troubled love affair, the coroner's report revealed that the masochistic mistress's demise was accidentally caused by her own hand!\\n She may be missed, but one thing's for sure: she found the punishment she craved."
     }, 
     {
+        "characterStoryMstId": 317, 
+        "characterMstId": 80, 
+        "releaseLevel": 1, 
+        "story": "Mermaid \\ ˈmər-ˌmād \\\\n A creature of myth, having the upper body of a human but the lower half of a fish.\\n They are considered a symbol of misfortune in some cases; an allegory for tragic love in others."
+    }, 
+    {
+        "characterStoryMstId": 318, 
+        "characterMstId": 80, 
+        "releaseLevel": 3, 
+        "story": "Tragic love \\ ˈtra-jik ˈləv \\\\n An unattainable love. To never be with the person to whom your heart belongs.\\n Readers regularly demand tales of these impossible romances."
+    }, 
+    {
+        "characterStoryMstId": 319, 
+        "characterMstId": 80, 
+        "releaseLevel": 5, 
+        "story": "Demand \\ di-ˈmand \\\\n To require or ask for something. Without demand, there is no supply.\\n Stories of misery only exist because readers demand that they do."
+    }, 
+    {
+        "characterStoryMstId": 320, 
+        "characterMstId": 80, 
+        "releaseLevel": 10, 
+        "story": "Misery \\ ˈmi-zə-rē \\\\n A state of suffering, grief. People set their minds at ease by showing others compassion.\\n A life without misery is one without peace…… And that is why I seek out misery, wherever it may be."
+    }, 
+    {
+        "characterStoryMstId": 325, 
+        "characterMstId": 82, 
+        "releaseLevel": 1, 
+        "story": "My name is Snow White. Untainted white.\\nWhite for innocence and justice. White for all the injustices brought to light.\\n　　I am White. White for the spotless, untainted color I wear."
+    }, 
+    {
+        "characterStoryMstId": 326, 
+        "characterMstId": 82, 
+        "releaseLevel": 3, 
+        "story": "Come before me, black-hearted sinners, and lay bare your misdeeds. \\nMy gun will pierce your darkness with a bullet of white light."
+    }, 
+    {
+        "characterStoryMstId": 327, 
+        "characterMstId": 82, 
+        "releaseLevel": 5, 
+        "story": "My white... You've contaminated it. 　　　Stained it with your dark filth.\\n　　　　The darkness of your heart looks down upon the beauty of white.\\n　　But have no fear, for I am the purest of Whites. I can never be soiled by its black stains."
+    }, 
+    {
+        "characterStoryMstId": 328, 
+        "characterMstId": 82, 
+        "releaseLevel": 10, 
+        "story": "Snow White. Darkest Dark. Pure White. Blackest Black. The two should never, ever be allowed to meet.\\n　　　　　...In that case, the most hateful world of all……\\nIt's a world colored in contemptible, impure ash, devoid of white and black alike."
+    }, 
+    {
         "characterStoryMstId": 329, 
         "characterMstId": 85, 
         "releaseLevel": 1, 
@@ -1528,6 +1720,54 @@
         "characterMstId": 87, 
         "releaseLevel": 5, 
         "story": "Coming Soon"
+    }, 
+    {
+        "characterStoryMstId": 349, 
+        "characterMstId": 88, 
+        "releaseLevel": 1, 
+        "story": "Our special feature today is on \"Vegetables,\" another term for patients in deep states of slumber. Our investigation follows on such woman, digging deep into her family's turbulent, dramatic situation."
+    }, 
+    {
+        "characterStoryMstId": 350, 
+        "characterMstId": 88, 
+        "releaseLevel": 3, 
+        "story": "The longer our coverage continued, the more fantasy and reality began to diverge. Though the parents wished to go on with the treatment, they were confronted with rapidly increasing costs. The tranquil face of their sleeping daughter began to contrast with the faces of the family, colored by exhaustion."
+    }, 
+    {
+        "characterStoryMstId": 351, 
+        "characterMstId": 88, 
+        "releaseLevel": 5, 
+        "story": "Just weeks after we began filming, the girl's condition took a turn for the worse and she exhaled her final breath. Everyone said it happened in an instant. The long, long battle fought by the family was thus brought to a bitter end."
+    }, 
+    {
+        "characterStoryMstId": 352, 
+        "characterMstId": 88, 
+        "releaseLevel": 10, 
+        "story": "Days later, we received some astonishing news. The girl's death occurred at the behest of her mother. After trying for so long to keep her alive, why had she resorted to such means? We decided to continue with our coverage."
+    }, 
+    {
+        "characterStoryMstId": 357, 
+        "characterMstId": 90, 
+        "releaseLevel": 1, 
+        "story": "\\nWe've received reports that a person was left dead in the city after a meeting of the XX mafia gang. The victim was said to be a female associate of the gang and at present, the police \\nare gathering details from those at the scene."
+    }, 
+    {
+        "characterStoryMstId": 358, 
+        "characterMstId": 90, 
+        "releaseLevel": 3, 
+        "story": "Previous reports were received that an internal struggle had intensified within the XX gang and the situation was perceived to be\\n dangerous. As the female victim may have been involved in the struggle, the police\\n suspect foul play but are also considering the possibility that there was an accident."
+    }, 
+    {
+        "characterStoryMstId": 359, 
+        "characterMstId": 90, 
+        "releaseLevel": 5, 
+        "story": "Regarding the death of a female associate of the XX gang, \\ntraces of several narcotics were found in the victim's bloodstream and it is believed that she \\nmay have been lacking in self control at the time of the incident."
+    }, 
+    {
+        "characterStoryMstId": 360, 
+        "characterMstId": 90, 
+        "releaseLevel": 10, 
+        "story": "The woman was the wife of one of the gang's leaders \\nand is said to have quarreled with the man recently. She is believed to have made a sudden appearance at the meeting \\nwith an illegal firearm and committed suicide."
     }, 
     {
         "characterStoryMstId": 361, 
@@ -1576,6 +1816,78 @@
         "characterMstId": 92, 
         "releaseLevel": 10, 
         "story": "Reference: To maintain freshness, inflict tragedy three times a day. \\nIf the volume of tragedy is insufficient, there is a danger that she will turn to foam or \\n inflict tragedy upon you."
+    }, 
+    {
+        "characterStoryMstId": 369, 
+        "characterMstId": 93, 
+        "releaseLevel": 1, 
+        "story": "It's dark, so very dark, in the forest. The longer I remain in the darkness, the more\\nI begin to feel like my elder brother is with me. Right behind me, I can hear my brother's footsteps. I can hear my brother's voice whispering in my—"
+    }, 
+    {
+        "characterStoryMstId": 370, 
+        "characterMstId": 93, 
+        "releaseLevel": 3, 
+        "story": "There. Can't you feel it? My brother's breath on my neck.\\nYou're there, aren't you, big brother? You know it's me, don't you, brother?\\nPlease take my hand. Like you did long ago. Like you did that night."
+    }, 
+    {
+        "characterStoryMstId": 371, 
+        "characterMstId": 93, 
+        "releaseLevel": 5, 
+        "story": "Ahhh... I remember the touch of those hands. Your arms, your skin.\\nYour arms were so thin, big brother. Your skin was so smooth. I could never mistake your beautiful body for anyone else.\\nWhen I touch you, please touch me back, Big Brother. Oh!"
+    }, 
+    {
+        "characterStoryMstId": 372, 
+        "characterMstId": 93, 
+        "releaseLevel": 10, 
+        "story": "My elder brother's left hand runs over my body. My right runs over his body.\\nHis fingers are against my neck. My fingers are against his neck. The pulse flowing through his veins fills me with warmth. Hold me tight, Big Brother— We will be together forever."
+    }, 
+    {
+        "characterStoryMstId": 377, 
+        "characterMstId": 95, 
+        "releaseLevel": 1, 
+        "story": "WoodWoodWoodWoodHouseHouseHouseHouse\\n　　　　　Red　　　　　Door　　Wolf　House\\nWoodWoodWoodWoodHouseHouse"
+    }, 
+    {
+        "characterStoryMstId": 378, 
+        "characterMstId": 95, 
+        "releaseLevel": 3, 
+        "story": "WoodWoodWoodHouseHouseHouseHouse\\n　Hunt　　　　Red　　　　　RedWolf　House\\nWoodWoodWoodWoodHouseHouseHouse"
+    }, 
+    {
+        "characterStoryMstId": 379, 
+        "characterMstId": 95, 
+        "releaseLevel": 5, 
+        "story": "WoodWoodWoodHouseHouseHouseHouseBloodHouseBloodHouse\\n　　　Hunt　　　Blood　RedWolf　RedHouse\\nWoodWoodHouseHouseFeetBloodHouseBloodHouse"
+    }, 
+    {
+        "characterStoryMstId": 380, 
+        "characterMstId": 95, 
+        "releaseLevel": 10, 
+        "story": "WoodBloodBrainsHouseBloodBloodLOLBloodBloodFeetBlood\\nHunt　　　Piss　　　　　Blood　Brains　BloodHeadBlood\\nBloodLOLRedCorspeGutsBloodBlood\\nWoodBloodWoodBlooddWoodHouseFeetLOLBlood\\nGutsBlood"
+    }, 
+    {
+        "characterStoryMstId": 389, 
+        "characterMstId": 96, 
+        "releaseLevel": 1, 
+        "story": "Health Check: August 27\\nHeight: 145 cm　Weight: 39.5 kg　Body fat percentage: 15%\\n Generally, in good health. Should be careful to maintain a balanced diet."
+    }, 
+    {
+        "characterStoryMstId": 390, 
+        "characterMstId": 96, 
+        "releaseLevel": 3, 
+        "story": "Health Check: September 4\\nHeight: 145 cm　Weight: 65.7 kg　Body fat percentage: 48%\\n Body type is obese. Shows symptoms of several adult-onset diseases. (See next page)"
+    }, 
+    {
+        "characterStoryMstId": 391, 
+        "characterMstId": 96, 
+        "releaseLevel": 5, 
+        "story": "Health Check: September 12\\nHeight: 145 cm　Weight: 15.3 kg　Body fat percentage: 1%\\nCondition is extremely serious. Should be hospitalized immediately."
+    }, 
+    {
+        "characterStoryMstId": 392, 
+        "characterMstId": 96, 
+        "releaseLevel": 10, 
+        "story": "Comments: Even for a growing child, a weight change this drastic, over such a short period of time, is abnormal. An investigation should be conducted immediately, including a survey of the household environment and contact with a child consultation center."
     }, 
     {
         "characterStoryMstId": 409, 
@@ -1672,6 +1984,54 @@
         "characterMstId": 122, 
         "releaseLevel": 10, 
         "story": "Reference: According to some interpretations of the story, Princess Kaguya was an extra terrestrial. This is likely due to her incredible rate of growth from infancy to adulthood and the appearance of elements reminiscent of UFO's. However, this interpretation is unrelated to the swimsuit."
+    }, 
+    {
+        "characterStoryMstId": 505, 
+        "characterMstId": 127, 
+        "releaseLevel": 1, 
+        "story": "On the dawn of the 22nd, a mother in the city reported finding her son collapsed on the floor of their home with slit wrists. The boy was carried to the emergency room but died soon later. The death is being looked at as a suicide."
+    }, 
+    {
+        "characterStoryMstId": 506, 
+        "characterMstId": 127, 
+        "releaseLevel": 3, 
+        "story": "News digest (with video): This boy-daughter who killed himself is too cute.\\n1. [Anonymous] \"So this is the one who committed suicide. He looks like a Gothic Lolita type.\"\\n2. [Anonymous] \"This is a loss for all humanity. Cuteness is a virtue after all.\""
+    }, 
+    {
+        "characterStoryMstId": 507, 
+        "characterMstId": 127, 
+        "releaseLevel": 5, 
+        "story": "2. [Anonymous] \"I went to the funeral. Boring service. But that suits the Gothic Lolita style, right?!\\nI got interviewed and I said, 'he was a nice boy, kind to everyone' (laugh). I didn't even know him. (laugh) The mother had psychotic eyes.\""
+    }, 
+    {
+        "characterStoryMstId": 508, 
+        "characterMstId": 127, 
+        "releaseLevel": 10, 
+        "story": "Update. What was initially seen as the suicide of a young boy in his home is now confirmed as murder at the hands of his mother. The mother is said to be mentally compromised, and further psychological evaluation must be undertaken before carefully—"
+    }, 
+    {
+        "characterStoryMstId": 509, 
+        "characterMstId": 128, 
+        "releaseLevel": 1, 
+        "story": "This just in, regarding the case of XX Hospital, where several suspicious patient deaths have been reported. A nurse has confessed to the crime after submitting to voluntary questioning by the police. \\nThe police arrested her on the spot and are now probing her means and motive."
+    }, 
+    {
+        "characterStoryMstId": 510, 
+        "characterMstId": 128, 
+        "releaseLevel": 3, 
+        "story": "The nurse suspected of responsibility for a series of patient deaths has stated that \"neither she nor the victims did anything wrong\" and has appealed to the righteousness of her actions. \\nPolice are considering a psychological evaluation as part of their investigation."
+    }, 
+    {
+        "characterStoryMstId": 511, 
+        "characterMstId": 128, 
+        "releaseLevel": 5, 
+        "story": "According to sources inside the investigation, there had been frequent trouble between the suspect and the victims. Coworkers have stated that the hospital has many patients suffering from Alzheimer's disease and that this became a common excuse for the incidents."
+    }, 
+    {
+        "characterStoryMstId": 512, 
+        "characterMstId": 128, 
+        "releaseLevel": 10, 
+        "story": "The suspect in the series of suspicious patient deaths has died. Reports are that the suspect escaped from police custody as they were conducting an inspection of the crime scene and leaped from the roof of the hospital. \\nQuestions are being asked about the supervision of police on the scene—"
     }, 
     {
         "characterStoryMstId": 513, 
@@ -1816,6 +2176,30 @@
         "characterMstId": 145, 
         "releaseLevel": 10, 
         "story": "Q: In that case, let's hear from your staff. Go ahead.\\nA: Talking to the puppet is a waste of time! He has no sense of self. You adult dolls can play as you like!"
+    }, 
+    {
+        "characterStoryMstId": 613, 
+        "characterMstId": 154, 
+        "releaseLevel": 1, 
+        "story": "Name: Chocolate 　Manufacturer: SINoALICE, inc.\\nIngredients: sugar, cocoa mass, whole milk powder, cocoa butter, heavy love\\nExpiration date: Last day of the event"
+    }, 
+    {
+        "characterStoryMstId": 614, 
+        "characterMstId": 154, 
+        "releaseLevel": 3, 
+        "story": "【Nutritional Component Display】　Per single character (50g)\\nEnergy: 279 kcal　Protein: 4.5 g\\nBondage: 21 g (Feelings for author: 19.5 g　Anxiety: 1.5 g）"
+    }, 
+    {
+        "characterStoryMstId": 615, 
+        "characterMstId": 154, 
+        "releaseLevel": 5, 
+        "story": "Sense of Mission: 14.3 g　Desire: 5.6 g\\nCuriosity: 4.4 g　Fetus: 0.2 g\\n*Known Allergens: attraction to older partners, addiction to love and romance"
+    }, 
+    {
+        "characterStoryMstId": 616, 
+        "characterMstId": 154, 
+        "releaseLevel": 10, 
+        "story": "● Consume quickly after opening. Wait too long and I will think you dislike me. Melt me in your mouth right away. Do that and we are one. We will never be apart—"
     }, 
     {
         "characterStoryMstId": 625, 
@@ -2008,5 +2392,53 @@
         "characterMstId": 194, 
         "releaseLevel": 10, 
         "story": "Snow White: However, I will not be taken advantage of. Those who voted for me for their own twisted pleasure, I will mur—\\n—Unfortunately, we have to cut this interview short due to explicit language! Thank you again for your time!"
+    }, 
+    {
+        "characterStoryMstId": 900001, 
+        "characterMstId": 900001, 
+        "releaseLevel": 1, 
+        "story": "Parrah-Noya's Marvelous World Tour #1\\n\"We're all packed and ready to fly!\" \"World tour, here we come!\" \"You betcha!\" \"Our first feature is...the cheongsam!\" \"That's right! China, the home of ramen!\""
+    }, 
+    {
+        "characterStoryMstId": 900002, 
+        "characterMstId": 900001, 
+        "releaseLevel": 3, 
+        "story": "\"Pay attention. I told you, ramen is from Japan. The ingredients used aren't the same in China.\" \"Oh yeah! I forgot there's that FUNKY sushi overseas, too!\""
+    }, 
+    {
+        "characterStoryMstId": 900003, 
+        "characterMstId": 900001, 
+        "releaseLevel": 5, 
+        "story": "\"I guess that means SINoALICE Global isn't going to be the same either, huh?\" \"Maybe yes, maybe no.\""
+    }, 
+    {
+        "characterStoryMstId": 900004, 
+        "characterMstId": 900001, 
+        "releaseLevel": 10, 
+        "story": "\"Maybe we'll witness Alice donning a curly mustache with an assault rifle in hand! Wouldn't that be grand?!\" \"If you say so.\"\\n\\nAlice: \"That would make me a different character.\""
+    }, 
+    {
+        "characterStoryMstId": 900005, 
+        "characterMstId": 900002, 
+        "releaseLevel": 1, 
+        "story": "Parrah-Noya's Marvelous World Tour #2\\n\"Round and round we go!\" \"Ain't no stoppin' us now!\" \"Woohoo!\" \"Next is a bedlah!\" \"A bed! You children better get to sleep now!\""
+    }, 
+    {
+        "characterStoryMstId": 900006, 
+        "characterMstId": 900002, 
+        "releaseLevel": 3, 
+        "story": "\"You're still on that? Did you even bother to look the outfit up?\" \"Wait, is that what those belly dancers wear?\""
+    }, 
+    {
+        "characterStoryMstId": 900007, 
+        "characterMstId": 900002, 
+        "releaseLevel": 5, 
+        "story": "\"Ding-ding-ding! Looks like we got a winner here.\"\\n\\n(It's not that hard to G**gle it!)"
+    }, 
+    {
+        "characterStoryMstId": 900008, 
+        "characterMstId": 900002, 
+        "releaseLevel": 10, 
+        "story": "\"But why would a Japanese princess need to belly dance? She could have gone for something more traditional and princess-like.\"\\n\\nPrincess Kaguya: \"Traditional? What I want is torment and lust.\""
     }
 ]

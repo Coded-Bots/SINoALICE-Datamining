@@ -1184,7 +1184,7 @@
         "evolutionLevel": 0
     }, 
     {
-        "story": "Nobody knows what wish was made upon the bow.\\nBut the chain of hatred it left in its wake has led to such massive conflicts that it's become known as the Calamity Bow.", 
+        "story": "Nobody knows what wish was made upon the bow.\\nBut the chain of hatred it left in its wake has led to such massive conflicts that it's become known as the Calamitous Bow.", 
         "cardStoryMstId": 149, 
         "cardMstId": 81, 
         "step": 1, 
@@ -7936,6 +7936,262 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "The scene at the reception is seared in my memory.\\nI close my eyes and let out an achingly long sigh.\\nThe breath that escapes my lips is heavy, sullen.", 
+        "cardStoryMstId": 1005, 
+        "cardMstId": 1017, 
+        "step": 1, 
+        "cardUniqueId": 490, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Craving solitude, I escaped into the woods.\\nI leaned against my axe, as if feeling fatigued .\\nAnd just then, a shadow drowned out the silence.", 
+        "cardStoryMstId": 1006, 
+        "cardMstId": 1017, 
+        "step": 2, 
+        "cardUniqueId": 490, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "In an instant, I turned around and cut the wolf in two.\\nIts head flew through the air.\\nReflecting in its eyes,\\nwas the cold, indignant rage on my face.", 
+        "cardStoryMstId": 1007, 
+        "cardMstId": 1018, 
+        "step": 3, 
+        "cardUniqueId": 490, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There I was, unable to accept what had been done...\\nAlmost as if a mirror had reflected my heart instead of my appearance.\\n...Who are you? Why do you haunt me?", 
+        "cardStoryMstId": 1008, 
+        "cardMstId": 1018, 
+        "step": 4, 
+        "cardUniqueId": 490, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "My obsession with justice...\\nWhen did it start?\\nCould it have been that day?\\nOr perhaps it was something that gradually\\nbecame a part of me as I grew up?", 
+        "cardStoryMstId": 1009, 
+        "cardMstId": 1011, 
+        "step": 1, 
+        "cardUniqueId": 487, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "...No. I know when it was.\\nIt was definitely that day.\\nThe day when I met the prince, and I...", 
+        "cardStoryMstId": 1010, 
+        "cardMstId": 1011, 
+        "step": 2, 
+        "cardUniqueId": 487, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "You can go in circles all you want, and the answer will never come.\\nIndeed, I doubt that had anything to do with it.\\nI carry out justice, plain and simple.\\nThe reason I do it matters not.\\nI am my own master.", 
+        "cardStoryMstId": 1011, 
+        "cardMstId": 1012, 
+        "step": 3, 
+        "cardUniqueId": 487, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "An escapist answer, no better than running away.\\nThen it occurred to me.\\nMy justice comes from...", 
+        "cardStoryMstId": 1012, 
+        "cardMstId": 1012, 
+        "step": 4, 
+        "cardUniqueId": 487, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Love had nothing to do with it.\\nWe simply married for the good of the country.", 
+        "cardStoryMstId": 1013, 
+        "cardMstId": 1015, 
+        "step": 1, 
+        "cardUniqueId": 489, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But this one is different.\\nI can raise her up to be as beautiful as me.\\nShe IS mine, after all.", 
+        "cardStoryMstId": 1014, 
+        "cardMstId": 1015, 
+        "step": 2, 
+        "cardUniqueId": 489, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Every parent loves their child.\\nOr at least, that's what I thought.\\nTry as I might, I could only hate her.\\nIs something wrong with me?", 
+        "cardStoryMstId": 1015, 
+        "cardMstId": 1016, 
+        "step": 3, 
+        "cardUniqueId": 489, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "If not for this mirror. If not for this mirror.\\nIf not for this mirror. If not for this mirror.\\nIf not for this mirror. IF NOT FOR THIS MIRROR.\\n...Hmm. When did I get this mirror, anyway?", 
+        "cardStoryMstId": 1016, 
+        "cardMstId": 1016, 
+        "step": 4, 
+        "cardUniqueId": 489, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Today is a momentous day for everyone in the castle.\\nIt's my mother's birthday.\\nEverybody is busy preparing for the party...\\nIncluding the adults who are usually so busy watching me.", 
+        "cardStoryMstId": 1017, 
+        "cardMstId": 1013, 
+        "step": 1, 
+        "cardUniqueId": 488, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I left the castle in search of presents.\\nI walked and walked until I found what I was after—\\nA lovely hand-mirror, perfect for my mother.", 
+        "cardStoryMstId": 1018, 
+        "cardMstId": 1013, 
+        "step": 2, 
+        "cardUniqueId": 488, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I love my mother more than anything...\\nEven if now she always looks at the mirror instead of me.\\nBut if that's what makes her happy, that's all that matters, right?", 
+        "cardStoryMstId": 1019, 
+        "cardMstId": 1014, 
+        "step": 3, 
+        "cardUniqueId": 488, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "With this mirror, I wonder if she'll let me out of my room.\\nI wonder if she'll let me read picture books like she used to.\\nIf I'm able to play with Mother, I don't need anything else.", 
+        "cardStoryMstId": 1020, 
+        "cardMstId": 1014, 
+        "step": 4, 
+        "cardUniqueId": 488, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "You need to be strong to survive.\\nThat's the only reason I took up this sword.", 
+        "cardStoryMstId": 1021, 
+        "cardMstId": 1019, 
+        "step": 1, 
+        "cardUniqueId": 491, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I'm useless without a sword.\\nNobody ever bothered to teach me anything else.", 
+        "cardStoryMstId": 1022, 
+        "cardMstId": 1019, 
+        "step": 2, 
+        "cardUniqueId": 491, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "This sword is what allows me to live.\\nBut the better you get at it, the harder it is to return to an ordinary life.", 
+        "cardStoryMstId": 1023, 
+        "cardMstId": 1020, 
+        "step": 3, 
+        "cardUniqueId": 491, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When I swing my sword, all of my idle thoughts just slip away.\\nI no longer belong anywhere else in this world but the battlefield.\\nIt's a dull life, but I don't mind.", 
+        "cardStoryMstId": 1024, 
+        "cardMstId": 1020, 
+        "step": 4, 
+        "cardUniqueId": 491, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The heavy rainfall flooded the riverbanks and inflicted massive damage on the fields.\\nThe crops that everyone had worked so hard to grow were ruined, and the villagers grieved their loss.\\nWith the rain showing no signs of stopping, the villagers feared that their houses would soon be likewise swept away and decided to search for a shaman.", 
+        "cardStoryMstId": 1025, 
+        "cardMstId": 1021, 
+        "step": 1, 
+        "cardUniqueId": 492, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Many shamans offered prayers to the heavens, but the rain did not stop.\\nJust as the villagers had given up, a spellcaster approached with an offer to \"help them.\"\\nThis wizard's abilities were known far and wide, but so was his greed.\\nThe villagers, left with no other choice, ultimately decided to hire him.", 
+        "cardStoryMstId": 1026, 
+        "cardMstId": 1021, 
+        "step": 2, 
+        "cardUniqueId": 492, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "As the spellcaster raised his staff to the sky, the waterfall that fed the river froze.\\nThe rain weakened to a mist, and the village was saved from destruction.\\nMoments later, the spellcaster was struck in the back of the head and killed.\\nThe villagers shot each other nervous glances, eventually letting out a sigh of relief.\\nThey would never have been able to afford his fee...", 
+        "cardStoryMstId": 1027, 
+        "cardMstId": 1022, 
+        "step": 3, 
+        "cardUniqueId": 492, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The four seasons came and went, but the frozen waterfall refused to thaw.\\nThe villagers worshipped the spellcaster's staff, hoping to appease his soul, but to no avail.\\nFor a hundred years thereafter, the village's crops were plagued by a bitter frost...", 
+        "cardStoryMstId": 1028, 
+        "cardMstId": 1022, 
+        "step": 4, 
+        "cardUniqueId": 492, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "In my village, there are two people who were teased for their stupidity.\\nOne was a man, the other a woman.\\nThe man was dim but kind, and he loved music.", 
+        "cardStoryMstId": 1029, 
+        "cardMstId": 1025, 
+        "step": 1, 
+        "cardUniqueId": 494, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But because he was ashamed of the way he looked when using his instrument, he never played in public.\\nI knew there had to be something I could to do to help.", 
+        "cardStoryMstId": 1030, 
+        "cardMstId": 1025, 
+        "step": 2, 
+        "cardUniqueId": 494, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "So I decided to commission a violin only someone his size could use and send it to him.\\n\"Look. It's just your size, made especially for you. Nothing sounds quite like it. Now, you don't have to be embarrassed about playing for people.\"", 
+        "cardStoryMstId": 1031, 
+        "cardMstId": 1026, 
+        "step": 3, 
+        "cardUniqueId": 494, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When he began to play, he looked like a changed man.\\nHis life finally had meaning, and that meant that my life, as the woman teased for being stupid, also had meaning.", 
+        "cardStoryMstId": 1032, 
+        "cardMstId": 1026, 
+        "step": 4, 
+        "cardUniqueId": 494, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Bet it all on a single shot.\\nThis cannon isn't rapid-fire.\\nAll that we ask of its users is that they prepare for an honorable death.", 
+        "cardStoryMstId": 1033, 
+        "cardMstId": 1023, 
+        "step": 1, 
+        "cardUniqueId": 493, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "To use this cannon, line up in a row on the front line.\\nTake your shot, and bask in the praise that follows.\\nYou are now the perfect target, a sitting duck in the middle of a bloody battlefield.", 
+        "cardStoryMstId": 1034, 
+        "cardMstId": 1023, 
+        "step": 2, 
+        "cardUniqueId": 493, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Failure is not an option.\\nAn incredible weight is on your shoulders.\\nYour love for your country, family, and friends will stifle your retreat.", 
+        "cardStoryMstId": 1035, 
+        "cardMstId": 1024, 
+        "step": 3, 
+        "cardUniqueId": 493, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "You lived your whole life for this day,\\nyears of training culminating in a single pull of the trigger.\\nAnd once again, at its end, the bodies of brave men will be gloriously scattered across the battlefield.", 
+        "cardStoryMstId": 1036, 
+        "cardMstId": 1024, 
+        "step": 4, 
+        "cardUniqueId": 493, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "\".won tluda na m'I\\n.apaP, yeH\\n.yadot tluda na m'I. apaP, yeH.\"", 
         "cardStoryMstId": 1037, 
         "cardMstId": 1039, 
@@ -8120,7 +8376,7 @@
         "evolutionLevel": 3
     }, 
     {
-        "story": "It wasn't long after that the magical warrior appeared at a human...with the giants.\\nIt seemed the warrior was in league with the giants all along, and was now set on pillaging his fellow humans.\\nThe king had been tricked into giving his enemies the only means to defeat them.", 
+        "story": "Not long after that, the magical warrior appeared before the settlement... with the giants.\\nIt seemed the warrior was in league with the giants all along, and was now set on pillaging his fellow humans.\\nThe king had been tricked into giving his enemies the only means to defeat them.", 
         "cardStoryMstId": 1060, 
         "cardMstId": 1038, 
         "step": 4, 
@@ -8222,6 +8478,262 @@
         "step": 4, 
         "cardUniqueId": 506, 
         "evolutionLevel": 16
+    }, 
+    {
+        "story": "A melancholy blade, dyed blue with emotion.", 
+        "cardStoryMstId": 1073, 
+        "cardMstId": 1055, 
+        "step": 1, 
+        "cardUniqueId": 509, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A melancholy maiden, whose scythe dyed everything in shades of misery.", 
+        "cardStoryMstId": 1074, 
+        "cardMstId": 1055, 
+        "step": 2, 
+        "cardUniqueId": 509, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Melancholy and misery were like joy to her. The sensation made her remember all the other purest forms of sorrow.", 
+        "cardStoryMstId": 1075, 
+        "cardMstId": 1056, 
+        "step": 3, 
+        "cardUniqueId": 509, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "To make her dreams come true, her blade guided yet another life to a miserable end.\\nShe vowed the blade would never go thirsty until the world was consumed by misery.", 
+        "cardStoryMstId": 1076, 
+        "cardMstId": 1056, 
+        "step": 4, 
+        "cardUniqueId": 509, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One glimpse at the sledge on the wall, and I couldn't take my eyes off it.\\nI can't really explain why.\\nI just felt that it was meant to be mine.", 
+        "cardStoryMstId": 1077, 
+        "cardMstId": 1063, 
+        "step": 1, 
+        "cardUniqueId": 513, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I really couldn't afford anything outside of daily necessities.\\nSo naturally, visits to see the sledge became a part of my daily routine.\\nAs if he could see into my heart, the shopkeeper suggested I sell my organs to pay for it.", 
+        "cardStoryMstId": 1078, 
+        "cardMstId": 1063, 
+        "step": 2, 
+        "cardUniqueId": 513, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Kidney, liver, lung, skin, eyes...\\nI sold everything I could live without.\\nHumans can lose a lot and still live, right?\\nThere's still more than enough of me left.", 
+        "cardStoryMstId": 1079, 
+        "cardMstId": 1064, 
+        "step": 3, 
+        "cardUniqueId": 513, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Spleen, tongue, gall bladder, pancreas...\\nEach day became a struggle.\\nIt's only a matter of time now.\\nAll the others will come.\\nAnd then it will be my brain, my spinal cord...my heart...", 
+        "cardStoryMstId": 1080, 
+        "cardMstId": 1064, 
+        "step": 4, 
+        "cardUniqueId": 513, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There once was a nightmare that possessed a special power.\\nMany humans came in pursuit of its fins.", 
+        "cardStoryMstId": 1081, 
+        "cardMstId": 1059, 
+        "step": 1, 
+        "cardUniqueId": 511, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It kept granting the humans' wishes.\\nEach time, it would give a human a piece of its most precious body part.", 
+        "cardStoryMstId": 1082, 
+        "cardMstId": 1059, 
+        "step": 2, 
+        "cardUniqueId": 511, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Rumors spread, and in time, its once massive body grew smaller and smaller, until even swimming became an almost impossible task.", 
+        "cardStoryMstId": 1083, 
+        "cardMstId": 1060, 
+        "step": 3, 
+        "cardUniqueId": 511, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The nightmare lay on its side on the bottom of the sea.\\nFrom the hollow depths of its memory, the creature remembered the happy days it once spent with an old friend, long since passed.", 
+        "cardStoryMstId": 1084, 
+        "cardMstId": 1060, 
+        "step": 4, 
+        "cardUniqueId": 511, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was a minstrel who rescued me when I strayed from the others.", 
+        "cardStoryMstId": 1085, 
+        "cardMstId": 1057, 
+        "step": 1, 
+        "cardUniqueId": 510, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The food he brought me... I'm convinced he only did it as thanks for listening to his song.", 
+        "cardStoryMstId": 1086, 
+        "cardMstId": 1057, 
+        "step": 2, 
+        "cardUniqueId": 510, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I'd always listen to him at the same time and place, and eventually we became friends.\\nBut he seemed to be getting weaker by the day.\\nI knew I had to be the reason.", 
+        "cardStoryMstId": 1087, 
+        "cardMstId": 1058, 
+        "step": 3, 
+        "cardUniqueId": 510, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A poor man, it was clear that he had been using every coin he earned on me.\\nHe eventually sold his prized violin and was reduced to singing with his frail voice.", 
+        "cardStoryMstId": 1088, 
+        "cardMstId": 1058, 
+        "step": 4, 
+        "cardUniqueId": 510, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Ultimately, they believed sacrificing yourself for others to be a wonderful thing, and both found fulfillment.", 
+        "cardStoryMstId": 1089, 
+        "cardMstId": 1061, 
+        "step": 1, 
+        "cardUniqueId": 512, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "For example, realizing your good deed would never be repaid only makes you want to do it even more.", 
+        "cardStoryMstId": 1090, 
+        "cardMstId": 1061, 
+        "step": 2, 
+        "cardUniqueId": 512, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "They met again in the afterlife. And when they did, the fins he gave the humans glistened as if they'd been filled with the happiness they shared.", 
+        "cardStoryMstId": 1091, 
+        "cardMstId": 1062, 
+        "step": 3, 
+        "cardUniqueId": 512, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "As the warm glow filled the country, the humans realized that the nightmare had perished.\\nThe day would eventually be declared a national holiday, filling the country with joy for years to come.", 
+        "cardStoryMstId": 1092, 
+        "cardMstId": 1062, 
+        "step": 4, 
+        "cardUniqueId": 512, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The hand that held mine was always covered in blood.\\nThough we weren't related, he took custody of me, and before long it became clear he was neither a saint nor of sound mind.\\nEven still, his hand was warm, so I didn't try to run.", 
+        "cardStoryMstId": 1093, 
+        "cardMstId": 1065, 
+        "step": 1, 
+        "cardUniqueId": 514, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Some years after he took me in,\\nI got involved in some shady work.\\nHe grumbled about it like always, but he understood that it was necessary if I were to survive in a world like this.\\nAfter all, death is always two steps behind you.", 
+        "cardStoryMstId": 1094, 
+        "cardMstId": 1065, 
+        "step": 2, 
+        "cardUniqueId": 514, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I thought I'd use you as a decoy, but I grew fond of you.\"\\nIt felt like an era of my life ended in mere moments.\\nIt was because I was a burden to him...\\nHe began to tell me the truth as I stuck the knife in his bloody chest.", 
+        "cardStoryMstId": 1095, 
+        "cardMstId": 1066, 
+        "step": 3, 
+        "cardUniqueId": 514, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"A killer who puts others before himself never lives long. Don't be like me...\"\\nThough his hand still held mine, it was losing its familiar warmth.\\nAnd while I knew it went against what he had just told me,\\nI turned my back on the enemy to go look for a doctor.", 
+        "cardStoryMstId": 1096, 
+        "cardMstId": 1066, 
+        "step": 4, 
+        "cardUniqueId": 514, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Today at the Castle Gate]\\nTwo guards. One of them was apparently a new recruit, recently posted.\\nWelcome to the tedium of guarding a small castle.", 
+        "cardStoryMstId": 1097, 
+        "cardMstId": 1067, 
+        "step": 1, 
+        "cardUniqueId": 515, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Today at the Castle Gate]\\nAn ambassador from a neighboring country visited before noon. He left just before sunset.\\nIt seemed kind of important. I wonder if something happened.", 
+        "cardStoryMstId": 1098, 
+        "cardMstId": 1067, 
+        "step": 2, 
+        "cardUniqueId": 515, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Royal Intelligence Service Bureau]\\nThe man who had been taking notes at the front gate of the castle has been arrested for falsifying information, and his notebook confiscated.\\nI'm convinced his brief descriptions contain coded information that could compromise our country.\\nI'd sooner die than let those goddamned spies infiltrate the castle gate!", 
+        "cardStoryMstId": 1099, 
+        "cardMstId": 1068, 
+        "step": 3, 
+        "cardUniqueId": 515, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Royal Intelligence Service Bureau]\\nI can't find any coded information anywhere. Where did I go wrong?!\\nWhat's that? The castle has been surrounded by an army from a neighboring country? I couldn't care less! I've got to find those messages!\\nAh, His Majesty the King? Oh? I'm to be punished for failing to gather intelligence on neighboring countries?\\nDon't waste my time! I need to find those coded messages! None shall pass the castle gates!", 
+        "cardStoryMstId": 1100, 
+        "cardMstId": 1068, 
+        "step": 4, 
+        "cardUniqueId": 515, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Q. Does it work on people who are naturally unintelligent?\\nA. Yes, of course. It enhances the effectiveness of fact retention charms by several factors of ten.", 
+        "cardStoryMstId": 1101, 
+        "cardMstId": 1069, 
+        "step": 1, 
+        "cardUniqueId": 516, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Q. So you can use it with other charms?\\nA. Yes. Not a problem.", 
+        "cardStoryMstId": 1102, 
+        "cardMstId": 1069, 
+        "step": 2, 
+        "cardUniqueId": 516, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Q. Should you remove it before bathing or bedtime?\\nA. Not at all. The jewel is directly connected to your feelings, so think about what you want to do and go with your gut.", 
+        "cardStoryMstId": 1103, 
+        "cardMstId": 1070, 
+        "step": 3, 
+        "cardUniqueId": 516, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Q. After I gave this charm to my baby, he mastered every discipline by the age of ten. He then said he was \"tired of it all\" and killed himself. How will you take responsibility for this?\\nA. As stated before, side effects may vary.", 
+        "cardStoryMstId": 1104, 
+        "cardMstId": 1070, 
+        "step": 4, 
+        "cardUniqueId": 516, 
+        "evolutionLevel": 0
     }, 
     {
         "story": "The achievement of your dearest dream rests atop tens of thousands of corpses.\\nWhat would you yell in a world where you were one of only two left?\\nWould you finally smile?\\nWould you lament the fact that it was all for naught?\\nWe have come here again and again, hoping to see you wail in sadness in your final moments.\\n.........\\n.........\\n......", 
@@ -8992,6 +9504,134 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "Cowardly Trick I - Camouflage:\\nHiding yourself and your intentions is a fundamental skill.\\nTake them by surprise and leave them wallowing in the depths of their despair.", 
+        "cardStoryMstId": 1201, 
+        "cardMstId": 1129, 
+        "step": 1, 
+        "cardUniqueId": 546, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Cowardly Trick II - Info Manipulation:\\nHumans are frail and weak.\\nJust be sure to hide your excitement when you realize you're the only one who knows the truth.", 
+        "cardStoryMstId": 1202, 
+        "cardMstId": 1129, 
+        "step": 2, 
+        "cardUniqueId": 546, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Cowardly Trick III - Impression Manipulation:\\nHumans have a hard time moving past a first impression.\\nIf you were born an attractive woman, there can be no stronger weapon than this.", 
+        "cardStoryMstId": 1203, 
+        "cardMstId": 1130, 
+        "step": 3, 
+        "cardUniqueId": 546, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Cowardly Trick IV - Blocking Trade:\\nControlling a large population is easy.\\nStarvation saps the dignity from a populace and can turn even the most pious man into a monster.\\nIf used correctly, you can destroy an entire country without getting a single drop of blood on your hands.", 
+        "cardStoryMstId": 1204, 
+        "cardMstId": 1130, 
+        "step": 4, 
+        "cardUniqueId": 546, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was once a prodigal son who leeched off his family.\\nHis father gave him the family heirloom, a halberd, as a parting gift before disowning him. The prodigal son wandered aimlessly before eventually making up his mind to become a mercenary.\\nBefore long, a war broke out. The son managed to convince the right people that he was an excellent officer and was hired for the task.", 
+        "cardStoryMstId": 1205, 
+        "cardMstId": 1131, 
+        "step": 1, 
+        "cardUniqueId": 547, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The prodigal son's unit was sent into a fearsome battle. The commanding officer was one of the first to die.\\nJust when it seemed that surrender was the only remaining course of action, the second-in-command rallied the troops.\\nIt was in that moment that the prodigal son decided to leech off of him.", 
+        "cardStoryMstId": 1206, 
+        "cardMstId": 1131, 
+        "step": 2, 
+        "cardUniqueId": 547, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "After the war, the prodigal son was praised for his deeds and promoted to commanding officer.\\nHis father was quick to welcome him back, opening the door for him to get money from his family once again.\\nHis former commander had been promoted to general, taking his sycophantic subordinate with him.", 
+        "cardStoryMstId": 1207, 
+        "cardMstId": 1132, 
+        "step": 3, 
+        "cardUniqueId": 547, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The heirloom halberd was possessed by a spirit that had already been leeching the soul of the son for quite some time.\\nHoping to siphon further success from the officer, the son pawned the heirloom for money he meant to use as a bribe.\\nThis is how the parasitic halberd left its hosts in search of fresher prey.", 
+        "cardStoryMstId": 1208, 
+        "cardMstId": 1132, 
+        "step": 4, 
+        "cardUniqueId": 547, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "What a glorious night.\\nThe silver glow of the stardust sent my heart aflutter.", 
+        "cardStoryMstId": 1209, 
+        "cardMstId": 1133, 
+        "step": 1, 
+        "cardUniqueId": 548, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The stars in the blackened sky looked like a jewelry box had been spilled onto a velvet cloth.\\nIf only that creamy, white light would shine forever.", 
+        "cardStoryMstId": 1210, 
+        "cardMstId": 1133, 
+        "step": 2, 
+        "cardUniqueId": 548, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It's a shame the moon loses its luster with the dawn.\\nThe sun would have to be removed for the moon to ever prevail.", 
+        "cardStoryMstId": 1211, 
+        "cardMstId": 1134, 
+        "step": 3, 
+        "cardUniqueId": 548, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I used a spell to destroy the sun...\\nbut when I did, the moon disappeared with it!\\nThe earth devolved into a frozen hellscape. I suppose the cold will kill me soon enough.\\nI just wanted to see the moon in all her glory...", 
+        "cardStoryMstId": 1212, 
+        "cardMstId": 1134, 
+        "step": 4, 
+        "cardUniqueId": 548, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Me? I'm a torturer who takes his job very seriously.\\nWe just nabbed the most notorious thief in all the land. The king has ordered that I make him betray the location of the treasure he stole, so I smashed his fingers one-by-one with a hammer.\\nHe cried and screamed and revealed the hiding place.\\nI promptly strangled him and reported that he had died without talking.", 
+        "cardStoryMstId": 1213, 
+        "cardMstId": 1135, 
+        "step": 1, 
+        "cardUniqueId": 549, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "On my day off, I went to the cave where the treasure was stashed.\\nAfter looking around a bit, I finally discovered the trove...or so I thought. Instead of treasure, all I found was a locked chest. What else could I do but take it home?", 
+        "cardStoryMstId": 1214, 
+        "cardMstId": 1135, 
+        "step": 2, 
+        "cardUniqueId": 549, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Lacking other options, I took the chest to a locksmith and asked him to do what he could with the lock.\\n\"This is going to take a bit of time,\" the blacksmith said before heading into his workshop. I waited there for a while.\\nWhen the door opened, the authorities came out and arrested me.", 
+        "cardStoryMstId": 1215, 
+        "cardMstId": 1136, 
+        "step": 3, 
+        "cardUniqueId": 549, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I was taken before the king. \"You were working with him, weren't you? You killed him before he could talk!\"\\n\"I was only trying to steal the treasure!\" My explanation only made a bad situation worse.\\nMy fingers were smashed one-by-one with a giant hammer.\\nI writhed in pain as the hammer loomed above my head...\\nAnd with that, I said farewell to this world.", 
+        "cardStoryMstId": 1216, 
+        "cardMstId": 1136, 
+        "step": 4, 
+        "cardUniqueId": 549, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "The man was born to be a murderer and killed as easily as he drew breath.\\nHe was eventually captured and had the mark of the death branded upon his forehead.\\nThe night before he was set to die, Death appeared with a scythe in hand and said, \"Your life will end tomorrow.\"", 
         "cardStoryMstId": 1221, 
         "cardMstId": 1139, 
@@ -9181,6 +9821,70 @@
         "cardMstId": 1150, 
         "step": 4, 
         "cardUniqueId": 556, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Everything of substance is destined to crumble.\\nThe same could be said for relationships.\\nMy wife and I know that all too well.", 
+        "cardStoryMstId": 1245, 
+        "cardMstId": 1151, 
+        "step": 1, 
+        "cardUniqueId": 557, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "My wife understood the demands of my work.\\nStill, she was prepared to dedicate her life to me.", 
+        "cardStoryMstId": 1246, 
+        "cardMstId": 1151, 
+        "step": 2, 
+        "cardUniqueId": 557, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "She knew just what to say when the day came.\\n\"Don't hold back,\" she said. \"Just make sure there's no pain.\"", 
+        "cardStoryMstId": 1247, 
+        "cardMstId": 1152, 
+        "step": 3, 
+        "cardUniqueId": 557, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When you've been together for so long, you can speak volumes with just a look. She slowly closed her eyes and entrusted her body to me.\\n...Though I had imagined how it would go countless times, I still failed to meet her demands.", 
+        "cardStoryMstId": 1248, 
+        "cardMstId": 1152, 
+        "step": 4, 
+        "cardUniqueId": 557, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "We've all experienced it at least once...\\nA love made extraordinary only because it was unrequited.\\nThat's what she was to me.", 
+        "cardStoryMstId": 1249, 
+        "cardMstId": 1153, 
+        "step": 1, 
+        "cardUniqueId": 558, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Though I could feel my heart speaking out to hers,\\nthe fact we couldn't pledge our vows tore me apart.", 
+        "cardStoryMstId": 1250, 
+        "cardMstId": 1153, 
+        "step": 2, 
+        "cardUniqueId": 558, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Even if form decays over time, my feelings did not. If anything, the fact that it never came to fruition only made my affection stronger with time.", 
+        "cardStoryMstId": 1251, 
+        "cardMstId": 1154, 
+        "step": 3, 
+        "cardUniqueId": 558, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I lost my beloved wife, and we were lucky enough to meet again.\\nShe was the most precious person in the world to me...and that made her the perfect material for my work.", 
+        "cardStoryMstId": 1252, 
+        "cardMstId": 1154, 
+        "step": 4, 
+        "cardUniqueId": 558, 
         "evolutionLevel": 0
     }, 
     {
@@ -9693,6 +10397,166 @@
         "cardMstId": 1314, 
         "step": 4, 
         "cardUniqueId": 637, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[q][rid=9a20u1 time:1510826343]\\n[To:e3839ee382a8e38380]\\nApplication hacking has commenced.\\nWebResource analysis successful.\\nIt's quite vulnerable.\\nYour directory should be found in no time.\\nPlease wait a bit longer.\\n[/q]", 
+        "cardStoryMstId": 1317, 
+        "cardMstId": 1341, 
+        "step": 1, 
+        "cardUniqueId": 647, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[q][rid=k78a87 time:1510824440]\\n[To:e3839ee382a8e38380]\\nI've come across some interesting information.\\nThey're planning on summoning the spirits of the dead.\\nIt sounds like some kind of joke, though.\\n[/q]", 
+        "cardStoryMstId": 1318, 
+        "cardMstId": 1341, 
+        "step": 2, 
+        "cardUniqueId": 647, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[q][rid=8978ji time:1990824440]\\n[To:e3839ee382a8e38380]\\nI'm sorry. Once again, no progress today.\\nAre the Shinjuku Papers really going to be hidden on a server?\\nI'd like to ask you to confirm the authenticity of your information once more.\\nAre you sure we're not being played with?\\n[/q]", 
+        "cardStoryMstId": 1319, 
+        "cardMstId": 1342, 
+        "step": 3, 
+        "cardUniqueId": 647, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[q][rid=io987y time:1990825680]\\n[To:e3839ee382a8e38380]\\nYou're exactly right. If we assume that the\\n\"LifeTimeController\" shown during boot up is this world's lifespan, it starts to make sense.\\nBut if the value displayed goes up on some days, does that mean there's still hope?\\n[/q]", 
+        "cardStoryMstId": 1320, 
+        "cardMstId": 1342, 
+        "step": 4, 
+        "cardUniqueId": 647, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Audio Recording (a)\\nLooks like you have to be on the\\nclient side to access it.\\nYou have to clear application-side requests before the entrance appears.", 
+        "cardStoryMstId": 1321, 
+        "cardMstId": 1343, 
+        "step": 1, 
+        "cardUniqueId": 648, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Audio Recording (b)\\nYes, the entrance is a hidden button.\\nEven if you did start it up, it's made to look like you're in debug mode.\\nThe sort of thing general users wouldn't notice. It's brilliant!", 
+        "cardStoryMstId": 1322, 
+        "cardMstId": 1343, 
+        "step": 2, 
+        "cardUniqueId": 648, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Audio Recording (c)\\nTalk about a pain in the ass...\\nBut if they're this desperate to hide them, these papers must be important.", 
+        "cardStoryMstId": 1323, 
+        "cardMstId": 1344, 
+        "step": 3, 
+        "cardUniqueId": 648, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Audio Recording (d)\\nWhat? There's no way it works like that?\\nAhh... They do seem to prefer summoning Grimoires.\\nDoes that mean there could be a secret to the Grimoires, too...?", 
+        "cardStoryMstId": 1324, 
+        "cardMstId": 1344, 
+        "step": 4, 
+        "cardUniqueId": 648, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Report #1 from Investigator Okada:\\nWe fell right for their trap.\\nMaeda, that patsy they're putting on display for everyone, is a decoy.\\nKilling him would just mean dealing with a replacement.", 
+        "cardStoryMstId": 1325, 
+        "cardMstId": 1345, 
+        "step": 1, 
+        "cardUniqueId": 649, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Report #2 from Investigator Okada:\\nLearned something interesting today.\\nLooks like there's another Maeda above him.\\nI've started calling this guy \"Maeda 2.\"", 
+        "cardStoryMstId": 1326, 
+        "cardMstId": 1345, 
+        "step": 2, 
+        "cardUniqueId": 649, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Report #3 from Investigator Okada:\\nMaeda 2's cover is that he's an executive at a big company.\\nHe easily makes over 20 million a year in executive pay.\\nHonestly, I'm kinda jealous.", 
+        "cardStoryMstId": 1327, 
+        "cardMstId": 1346, 
+        "step": 3, 
+        "cardUniqueId": 649, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Report #4 from Investigator Okada:\\nIt was a suicide mission to kill him, but somehow I survived.\\nBut now another Maeda has appeared!\\nHe calls himself Maeda, but who is this man?\\nCould Maeda just be a codename...?\\nDamn it! I hope this bastard suffers some terrible fate, like...like always feeling like he has to go to the bathroom!", 
+        "cardStoryMstId": 1328, 
+        "cardMstId": 1346, 
+        "step": 4, 
+        "cardUniqueId": 649, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Research Log 1005, Kuramochi:\\nThe worlds that have begun to fuse are reaching maximum levels of chaos.\\nThe distortions created by the transference equipment are now altering humanity's creations.", 
+        "cardStoryMstId": 1329, 
+        "cardMstId": 1347, 
+        "step": 1, 
+        "cardUniqueId": 650, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Research Log 1006, Kuramochi:\\nI burned the research results.\\nI was ready to spend the rest of my life running away from Maeda, but the photo of my beaming daughter guilted me into it...", 
+        "cardStoryMstId": 1330, 
+        "cardMstId": 1347, 
+        "step": 2, 
+        "cardUniqueId": 650, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Research Log 1206, Kuramochi:\\nEver since that day, I've been trying to grapple with the results of my research.\\nI can feel all my years of experience telling me the truth.\\nThere's still information hidden in these materials.", 
+        "cardStoryMstId": 1331, 
+        "cardMstId": 1348, 
+        "step": 3, 
+        "cardUniqueId": 650, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Research Log 0206, Kuramochi:\\nThe mystery only grows...\\nWhere is this world that the parent directory is pointing to?\\nCould it be that this place is impossible for me to understand?\\nIs it because I live in the three-dimensional world?\\nAnd this \"Unlock Key\"...\\nWhat are these Authors that you seek?", 
+        "cardStoryMstId": 1332, 
+        "cardMstId": 1348, 
+        "step": 4, 
+        "cardUniqueId": 650, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I know you did it, man.\"", 
+        "cardStoryMstId": 1333, 
+        "cardMstId": 1349, 
+        "step": 1, 
+        "cardUniqueId": 651, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I know you did it, maaan.\"", 
+        "cardStoryMstId": 1334, 
+        "cardMstId": 1349, 
+        "step": 2, 
+        "cardUniqueId": 651, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I know you did it, maaen. Maena. Maeda.\"", 
+        "cardStoryMstId": 1335, 
+        "cardMstId": 1350, 
+        "step": 3, 
+        "cardUniqueId": 651, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I know you did it, Maeda.\"", 
+        "cardStoryMstId": 1336, 
+        "cardMstId": 1350, 
+        "step": 4, 
+        "cardUniqueId": 651, 
         "evolutionLevel": 0
     }, 
     {
@@ -10528,6 +11392,134 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "Perhaps it was like that since birth?\\nOr perhaps the environment of the Lord made it so?\\n The Lord had become obsessed with war.", 
+        "cardStoryMstId": 1461, 
+        "cardMstId": 1432, 
+        "step": 1, 
+        "cardUniqueId": 696, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "At first, I thought it was a sense of mission\\nand it was the same with those who manipulated me.\\nHowever, that seemed to be my misunderstanding.", 
+        "cardStoryMstId": 1462, 
+        "cardMstId": 1432, 
+        "step": 2, 
+        "cardUniqueId": 696, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"You will feel death close by. But on the battlefield,\\nyou will forget the sorrow.\"\\n The Lord murmured to me in the hazy light of the moon.\\nI realized finally that the hand\\nhe grasped me with was trembling.", 
+        "cardStoryMstId": 1463, 
+        "cardMstId": 1433, 
+        "step": 3, 
+        "cardUniqueId": 696, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"If we meet again,\\nthat will be the end.\"\\nWith those words, the master fulfilled\\nmy wish and dedicated Hakone to me.\\nFrom then on, I have slept,\\nbelieving in the day that he will visit.", 
+        "cardStoryMstId": 1464, 
+        "cardMstId": 1433, 
+        "step": 4, 
+        "cardUniqueId": 696, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "At first I resented my Lady, who took\\nprecious time away from me and my beloved.\\nHowever, when I met my brother, and saw how\\nshe supported him in his injuries, I changed my mind.", 
+        "cardStoryMstId": 1465, 
+        "cardMstId": 1434, 
+        "step": 1, 
+        "cardUniqueId": 697, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I will need you at the end.\"\\nMy Lady suddenly started to say\\nvery nihilistic things and often.\\nNow I look back, I suppose she knew\\nthat her time was drawing near.", 
+        "cardStoryMstId": 1466, 
+        "cardMstId": 1434, 
+        "step": 2, 
+        "cardUniqueId": 697, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The moment when I would fulfill my promise had come.\\nThe words came to my lips without conscious thought.\\nMy will to prioritize my own feelings\\nover my duty as its blade must\\nhave been the influence of my Lady.", 
+        "cardStoryMstId": 1467, 
+        "cardMstId": 1435, 
+        "step": 3, 
+        "cardUniqueId": 697, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I didn't want to feel this pain.\\nThis feeling did not fit with myself drenched in blood.\\nBut I only knew that now.\\nThe feelings they had when they entrusted the end to me...\\nI screamed out my gratitude up\\nuntil the moment my beloved went cold.", 
+        "cardStoryMstId": 1468, 
+        "cardMstId": 1435, 
+        "step": 4, 
+        "cardUniqueId": 697, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "By order of the Emperor Go-Shirakawa, \\n100 dancing girls would perform a rain dance.\\nHowever, no one could make the rain come.\\nJust as they started to give up, my Lady's beautiful dance managed to reach\\nthe heart of the divine and the rain started to pour down.", 
+        "cardStoryMstId": 1469, 
+        "cardMstId": 1436, 
+        "step": 1, 
+        "cardUniqueId": 698, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "My Lady received requests to dance from all over, as the best in Japan.\\nFinally, my Lady dancing through the blessed rain in the rain dance at Sumiyoshi caught the eye of Yoshitsune. After a secret rendezvous, my Lady became Yoshitsune's lover.", 
+        "cardStoryMstId": 1470, 
+        "cardMstId": 1436, 
+        "step": 2, 
+        "cardUniqueId": 698, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "However, life with Yoshitsune did not last long.\\nAfter parting with Yoshitsune at Mount Yoshino, my Lady was captured. She was compelled to dance honoring Kamakura by Yoritomo, who had created a reason for Yoshitsune to commit suicide. However, my Lady danced to a song matching Yoshitsune in her mind.", 
+        "cardStoryMstId": 1471, 
+        "cardMstId": 1437, 
+        "step": 3, 
+        "cardUniqueId": 698, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Further, Yoshitsune's child was murdered by Yoritomo. My Lady was broken since that day. Or maybe it just broke her even further if that were possible. Because the child could not have been hers and Yoshitsune's...", 
+        "cardStoryMstId": 1472, 
+        "cardMstId": 1437, 
+        "step": 4, 
+        "cardUniqueId": 698, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A relationship of a day. A dance of a moment.\\nThe reason why my Lady did not open her heart to others was simple.\\nShe was scared. She was scared of getting too close\\nto someone and then being abandoned.", 
+        "cardStoryMstId": 1473, 
+        "cardMstId": 1438, 
+        "step": 1, 
+        "cardUniqueId": 699, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "That is why she did\\nnot give me a name.\\nBut Yoshitsune had saved\\nmy Lady.", 
+        "cardStoryMstId": 1474, 
+        "cardMstId": 1438, 
+        "step": 2, 
+        "cardUniqueId": 699, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "However, it did not last long.\\nThe moment of separation that my Lady feared so came.\\nBut my Lady did not break down. She hid her tears.\\nShe found comfort in the strength of Yoshitsune's dance.", 
+        "cardStoryMstId": 1475, 
+        "cardMstId": 1439, 
+        "step": 3, 
+        "cardUniqueId": 699, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The seasons changed and summer came.\\nAfter a dance at the Minamimido,\\nmy Lady said to me.\\n\"Thank you so much...\"\\nAnd for the first time she called me by a name.\\nIt was as beautiful as a dance.", 
+        "cardStoryMstId": 1476, 
+        "cardMstId": 1439, 
+        "step": 4, 
+        "cardUniqueId": 699, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "Confirm cardiopulmonary arrest of the manufacturer.\\nBoot emergency program.\\nStarting backups of most important classified data.", 
         "cardStoryMstId": 1477, 
         "cardMstId": 1259, 
@@ -10589,6 +11581,38 @@
         "cardMstId": 1262, 
         "step": 4, 
         "cardUniqueId": 617, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Girl A's Crime] \\nHomicide, illegal abortion, abandonment.", 
+        "cardStoryMstId": 1485, 
+        "cardMstId": 1442, 
+        "step": 1, 
+        "cardUniqueId": 701, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Girl B's Crime] \\nCoercion, lethal weapon assembly.", 
+        "cardStoryMstId": 1486, 
+        "cardMstId": 1442, 
+        "step": 2, 
+        "cardUniqueId": 701, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Girl C's Crime]\\nFalse imprisonment, abduction, rape.", 
+        "cardStoryMstId": 1487, 
+        "cardMstId": 1443, 
+        "step": 3, 
+        "cardUniqueId": 701, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Youth D's Crime] \\nOffending public decency.", 
+        "cardStoryMstId": 1488, 
+        "cardMstId": 1443, 
+        "step": 4, 
+        "cardUniqueId": 701, 
         "evolutionLevel": 0
     }, 
     {
@@ -11136,6 +12160,70 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "My boss screams, \"You're easily replaceable.\"\\nI certainly come across that way.", 
+        "cardStoryMstId": 1577, 
+        "cardMstId": 1554, 
+        "step": 1, 
+        "cardUniqueId": 750, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "My colleague wailed: \"I'll never get a pay raise if I don't find another job.\"\\nThere was nothing that could be done. It was the type of work where success couldn't be measured by numbers.", 
+        "cardStoryMstId": 1578, 
+        "cardMstId": 1554, 
+        "step": 2, 
+        "cardUniqueId": 750, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"No matter what you do, the management will take credit,\" a visitor laughs. \\nA world where success is not rewarded.", 
+        "cardStoryMstId": 1579, 
+        "cardMstId": 1555, 
+        "step": 3, 
+        "cardUniqueId": 750, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The feelings of dissatisfaction keep piling up.\\nI cannot shine while under the darkness of this curse.", 
+        "cardStoryMstId": 1580, 
+        "cardMstId": 1555, 
+        "step": 4, 
+        "cardUniqueId": 750, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was a magnificent birthday. The boy had received so many gifts, and among them a beautiful box had caught his attention.\\n\"Wow! A Jack-in-the-Box. It's amazing! Who gave me this, Mama?\"\\n\"That's strange. It doesn't say…\"\\nHis mother looked at the box with an expression of confusion but the boy did not care. He wound it up and a clown jumped out.", 
+        "cardStoryMstId": 1581, 
+        "cardMstId": 1556, 
+        "step": 1, 
+        "cardUniqueId": 751, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "That night the silence was shattered by the boy's scream.\\n\"What is it?!\"\\n\"There was a clown at the window with a knife! It was so scary!\"\\nHe cried into his mother's chest as she comforted him.\\n\"You should have tidied your Jack-in-the-Box away if you don't want to see such dreams.\"\\nThe clown jerked unnaturally floating above the open lid of the box.", 
+        "cardStoryMstId": 1582, 
+        "cardMstId": 1556, 
+        "step": 2, 
+        "cardUniqueId": 751, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The boy sinks into his bed again once his mother has left.\\nThe clown gently rocks in the darkness.\\n\"If I close the lid, I don't need to be scared.\"\\nThe boy slowly approaches the Jack-in-the-Box.\\nBehind him, with a knife in its hand, stands a clown.", 
+        "cardStoryMstId": 1583, 
+        "cardMstId": 1557, 
+        "step": 3, 
+        "cardUniqueId": 751, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The boy was discovered brutally murdered the day after his birthday.\\nIn his hand was a bloodstained Jack-in-the-Box. It was deemed to be cursed and burned in a church.\\nThe unsolved incident was forgotten by the collective consciousness. A few years later, a similar box was in a store.\\nA girl tugged on her father's sleeve and begged him to buy it for her.", 
+        "cardStoryMstId": 1584, 
+        "cardMstId": 1557, 
+        "step": 4, 
+        "cardUniqueId": 751, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "The king was the most powerful and famous warrior on the continent.\\nHe fought against a king of another sect, and lost to their scheming.\\nThe prince took his father's flag and fled.\\nHe swore that he would reclaim the throne\\nwhich was his right and fly his father's flag once more.", 
         "cardStoryMstId": 1585, 
         "cardMstId": 1558, 
@@ -11165,6 +12253,38 @@
         "cardMstId": 1559, 
         "step": 4, 
         "cardUniqueId": 752, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I will bring an end to this world of corruption.", 
+        "cardStoryMstId": 1589, 
+        "cardMstId": 1560, 
+        "step": 1, 
+        "cardUniqueId": 753, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I will only do that which brings about an end to corruption in our world.", 
+        "cardStoryMstId": 1590, 
+        "cardMstId": 1560, 
+        "step": 2, 
+        "cardUniqueId": 753, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Death is a relief from the corruption of the world", 
+        "cardStoryMstId": 1591, 
+        "cardMstId": 1561, 
+        "step": 3, 
+        "cardUniqueId": 753, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The spread of corruption is the spread of death.\\n\\nIt is the path of a world reaching its end.", 
+        "cardStoryMstId": 1592, 
+        "cardMstId": 1561, 
+        "step": 4, 
+        "cardUniqueId": 753, 
         "evolutionLevel": 0
     }, 
     {
@@ -11744,6 +12864,70 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "The king of a frontier country that had been suffering chronic food shortages underwent dramatic reform with a wise prime minister.\\nThe idea was to fell a large forest that occupied about 20% of the kingdom and convert the whole area into agricultural land.", 
+        "cardStoryMstId": 1677, 
+        "cardMstId": 1620, 
+        "step": 1, 
+        "cardUniqueId": 786, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The king went to those who lived in the forest and explained his deforestation plan to them.\\nEach person reacted differently. But the king sincerely listened to all of their feedback and demonstrated that he understood how the common folk felt.\\nAmong them, one lumberjack stubbornly\\nrefused to leave.", 
+        "cardStoryMstId": 1678, 
+        "cardMstId": 1620, 
+        "step": 2, 
+        "cardUniqueId": 786, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The woodsman was a respected holy man, said to communicate with all manner of beasts.\\nThe king's minister warned that if the woodsman continued to decry the move, he might undo all of the efforts they'd spent convincing the people otherwise.\\nThe king heeded his minister's counsel and ordered his men to kill the woodsman and stage an accidental fire, burning the houses and the forest to the ground.", 
+        "cardStoryMstId": 1679, 
+        "cardMstId": 1621, 
+        "step": 3, 
+        "cardUniqueId": 786, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When the deforestation had finished,\\nthe king and his minister went to the fields with tools in hand.\\nDusk fell, and an envoy came from the castle to escort them home. What awaited them instead was the gruesome sight of the king and his minister's bodies, gruesomely cloven in two as though by some heavy object.\\nTo this day, parents from this country threaten their children to behave, lest the holy man with an axe comes to punish them.", 
+        "cardStoryMstId": 1680, 
+        "cardMstId": 1621, 
+        "step": 4, 
+        "cardUniqueId": 786, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I saw the myriad ways in which justice was dispensed.\\nI saw the same of evil, as well.", 
+        "cardStoryMstId": 1685, 
+        "cardMstId": 1654, 
+        "step": 1, 
+        "cardUniqueId": 803, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Yet for all the evil I strike down, another appears just as quickly to take its place. Does the world I seek lay at the end of a never-ending cycle of such battles?", 
+        "cardStoryMstId": 1686, 
+        "cardMstId": 1654, 
+        "step": 2, 
+        "cardUniqueId": 803, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Day by day, I began to lose sight of what these battles mean. Do I fight only to fight again and again?\\nBy now, these doubts of mine have all but become certainties.", 
+        "cardStoryMstId": 1687, 
+        "cardMstId": 1655, 
+        "step": 3, 
+        "cardUniqueId": 803, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The only choice I am now left with is to cling to his words:\\n\"There is meaning in everything.\"", 
+        "cardStoryMstId": 1688, 
+        "cardMstId": 1655, 
+        "step": 4, 
+        "cardUniqueId": 803, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "None in all the world could match the hero's blade and he feared nothing,\\nhis heart ablaze with the righteous fury of justice.\\nHis steadfast nature bordered on inflexible at times, but the people loved him all the same.", 
         "cardStoryMstId": 1689, 
         "cardMstId": 1656, 
@@ -11776,6 +12960,70 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "There was once a girl who had lost her mother. Her father did not treat her well and she was abused daily by her stepmother.\\nNot able to take any more of her mistreatment, she left home.\\nThe girl roamed aimlessly until she arrived at an abandoned shrine. She decided to spend the night there.\\nAn old man with disheveled hair appeared\\nand asked her what the matter was.", 
+        "cardStoryMstId": 1693, 
+        "cardMstId": 1658, 
+        "step": 1, 
+        "cardUniqueId": 805, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The feeling of being alone and in despair overcame her hesitancy to trust a stranger.\\nThrough sobs, she told her whole tale.\\nThe old man sighed and told her she could rest one night here.", 
+        "cardStoryMstId": 1694, 
+        "cardMstId": 1658, 
+        "step": 2, 
+        "cardUniqueId": 805, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "She closed her eyes.\\nThere was a strange light in the darkness and the smell of flesh being roasted.\\nShe didn't like the atmosphere, but she had no energy to be curious and her eyes stayed closed until the morning.\\nThe next morning, the old man was gone.", 
+        "cardStoryMstId": 1695, 
+        "cardMstId": 1659, 
+        "step": 3, 
+        "cardUniqueId": 805, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "While the girl was wandering around her home, her father hugged her relieved that she had been found.\\nHe said that her stepmother had been burned up by mysterious flames in the middle of the night.\\nShe thought back over the events and wondered whether the old man had helped her.", 
+        "cardStoryMstId": 1696, 
+        "cardMstId": 1659, 
+        "step": 4, 
+        "cardUniqueId": 805, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "According to the stories, the cult's operations are supported by the cash donations of its believers.\\nThey didn't request large donations, just a tenth of everything you earned. God would give his blessing for just this small amount.", 
+        "cardStoryMstId": 1697, 
+        "cardMstId": 1660, 
+        "step": 1, 
+        "cardUniqueId": 806, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was a good thing that I had chosen this cult. The cult used my donations as God wished. I never heard any stories of them using the money to enrich themselves as one heard with other faiths.", 
+        "cardStoryMstId": 1698, 
+        "cardMstId": 1660, 
+        "step": 2, 
+        "cardUniqueId": 806, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "We could ask when we wanted to know what our money was being used for. When I checked the records, I could see that every penny was being used properly. This was a truly good organization.", 
+        "cardStoryMstId": 1699, 
+        "cardMstId": 1661, 
+        "step": 3, 
+        "cardUniqueId": 806, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A month has passed since the founder ran away with the donations. Everything I experienced in the group had been a lie. Through all of that, I have been deceived. But I have become accustomed to this way of life and I couldn't change now.", 
+        "cardStoryMstId": 1700, 
+        "cardMstId": 1661, 
+        "step": 4, 
+        "cardUniqueId": 806, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "When I sleep,\\nthings come to my mind.\\nWho does that voice belong to?\\nIt is so very calm.", 
         "cardStoryMstId": 1705, 
         "cardMstId": 1746, 
@@ -11805,6 +13053,230 @@
         "cardMstId": 1747, 
         "step": 4, 
         "cardUniqueId": 841, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I took up dangerous jobs day after day and spent my nights in the bar.\\nThat was the life of a mercenary.\\nOne night I was having a great conversation with an old friend.\\nWe discussed women and great nights.\\nIn my drunken state, I let slip something I didn't even know I knew. \"You are not going to believe this, but I have the Mysterious Blade!\"", 
+        "cardStoryMstId": 1709, 
+        "cardMstId": 1714, 
+        "step": 1, 
+        "cardUniqueId": 825, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I was very trashed so I don't remember the reaction of the people at the bar.\\nIt wasn't until the next day when I was in the town trying to shake off the hangover...\\nSuddenly my arm was pulled behind me and I was plunged into darkness.\\nA man dressed in a robe said he had heard my story in the bar and demanded that I hand over the Mysterious Blade.", 
+        "cardStoryMstId": 1710, 
+        "cardMstId": 1714, 
+        "step": 2, 
+        "cardUniqueId": 825, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"What are you saying?\"\\nA crowd had built so they left me. But after a few days, they pressed me again.\\nI knew I was in danger, so I moved my lodgings and started to research this Mysterious Blade.\\nBut I couldn't get any good leads.\\nI had no idea what this thing was apart from for some reason I had said its name.", 
+        "cardStoryMstId": 1711, 
+        "cardMstId": 1715, 
+        "step": 3, 
+        "cardUniqueId": 825, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I passed out drunk one evening and woke up in a dimly lit room.\\nI realized that I was restrained and there was blood dripping from my face.\\nA man stood in front of me with a knife.\\n\"Hand over the Mysterious Blade.\"\\n\"What the hell is going on here?!\"\\nI screamed and he cut the tongue from my mouth and it flopped to the floor as a slab of pink flesh.\\nAfter a tortuous interrogation, I died a lurid death.", 
+        "cardStoryMstId": 1712, 
+        "cardMstId": 1715, 
+        "step": 4, 
+        "cardUniqueId": 825, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Promotion]\\nIt's junk but it's a spear! It's a spear but it's junk!\\nThis is a great bargain!", 
+        "cardStoryMstId": 1713, 
+        "cardMstId": 1716, 
+        "step": 1, 
+        "cardUniqueId": 826, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Product Information]\\nGreat deals! It's now or never!\\nSelling the last of our inventory! Buy now!", 
+        "cardStoryMstId": 1714, 
+        "cardMstId": 1716, 
+        "step": 2, 
+        "cardUniqueId": 826, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Delivery]\\nYou'll get your item in 24 hours. ♡\\nWe have been inundated with so many orders! It's crazy busy! ♡", 
+        "cardStoryMstId": 1715, 
+        "cardMstId": 1717, 
+        "step": 3, 
+        "cardUniqueId": 826, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Customer Reviews] ★☆☆☆☆\\nThis isn't junk or a spear! It's a magic device!\\nI want my money back!", 
+        "cardStoryMstId": 1716, 
+        "cardMstId": 1717, 
+        "step": 4, 
+        "cardUniqueId": 826, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was a rumor that treasure lay in the old king's tomb that the explorers had discovered.\\nThe explorers overcame the traps that had been laid to protect the tomb and finally passed through a hidden passage to find a door. They had reached the chamber!\\nThis chamber was huge. In the back lay the king's coffin. Beside that was a great staff.", 
+        "cardStoryMstId": 1717, 
+        "cardMstId": 1718, 
+        "step": 1, 
+        "cardUniqueId": 827, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The explorers approached the coffin. Surrounding the coffin were human statues, placed there to protect the king's body.\\nAs they approached, there was a strange noise. It came from the staff. Its words echoed inside the heads of the explorers.\\n\"Silence, you are in the presence of the great king.\"\\nThe explorers were unable to speak under the power of the staff, and their eyes closed.", 
+        "cardStoryMstId": 1718, 
+        "cardMstId": 1718, 
+        "step": 2, 
+        "cardUniqueId": 827, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The explorers couldn't move in the silence and the darkness. They could hear something approaching, but they could not open their eyes to see what it was. The sound approached them and then they heard something right next to them.", 
+        "cardStoryMstId": 1719, 
+        "cardMstId": 1719, 
+        "step": 3, 
+        "cardUniqueId": 827, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The noise sounded like teeth tearing into fresh flesh. But no one could speak or open their eyes to see. I could feel something on my ear and then there was a sharp burning pain.\\n\"Silence…\"", 
+        "cardStoryMstId": 1720, 
+        "cardMstId": 1719, 
+        "step": 4, 
+        "cardUniqueId": 827, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The people of the kingdom were exhausted and demoralized after long years of political and economic turmoil.\\nOne of the ministers brought an old harp from the royal treasury.\\nIt was said in the kingdom's legends that the harp had once saved the kingdom from the brink of destruction.", 
+        "cardStoryMstId": 1721, 
+        "cardMstId": 1720, 
+        "step": 1, 
+        "cardUniqueId": 828, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It was warned that the harp should not be used lightly, but the king wanted to do something to raise the kingdom up. He played it.\\nAs soon as it was plucked, the people of the kingdom found new life.\\nFarmers and traders were productive, and civil servants created plans to rebuild the land.", 
+        "cardStoryMstId": 1722, 
+        "cardMstId": 1720, 
+        "step": 2, 
+        "cardUniqueId": 828, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But the violin's effects did not last long and the people once again lost their vitality.\\nThe king ordered the harp to be played again.\\nThe people were once more reborn.\\nEach time morale dropped, the harp would be played and the kingdom would prosper.\\nHowever, mysterious reports from medical professionals started to come in speaking of a sickness affecting the children.", 
+        "cardStoryMstId": 1723, 
+        "cardMstId": 1721, 
+        "step": 3, 
+        "cardUniqueId": 828, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The harp was played periodically.\\nBut it didn't seem to have the effect it used to anymore.\\nThe courtiers had started to gossip that there was a correlation between the sickness in the children and the harp being played. But no one took these theories with any seriousness.\\nThey were right, though.\\nAn increasing number of babies were even being miscarried.", 
+        "cardStoryMstId": 1724, 
+        "cardMstId": 1721, 
+        "step": 4, 
+        "cardUniqueId": 828, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "These are the commands of the king.\\nFirst.\\nThe king is the servant of the people and it is his duty to ensure their wellbeing.", 
+        "cardStoryMstId": 1725, 
+        "cardMstId": 1722, 
+        "step": 1, 
+        "cardUniqueId": 829, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Second.\\nThe king is the representative of the kingdom and as such he is the guardian. He must always be careful of his words and actions even in private.", 
+        "cardStoryMstId": 1726, 
+        "cardMstId": 1722, 
+        "step": 2, 
+        "cardUniqueId": 829, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Third: \\nA ruler is duty-bound to pass ruthless judgement at times, assuming responsibility for everything that comes with it.", 
+        "cardStoryMstId": 1727, 
+        "cardMstId": 1723, 
+        "step": 3, 
+        "cardUniqueId": 829, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Soon our kingdom will fall to the enemy.\\nI do not want to see this beautiful land and wonderful people lose their dignity.\\nI will awaken the gods of evil and destroy this whole world!", 
+        "cardStoryMstId": 1728, 
+        "cardMstId": 1723, 
+        "step": 4, 
+        "cardUniqueId": 829, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Once upon a time, there was a great wealthy kingdom.\\nThe young king had no companion in life so he wedded a young woman.\\nThe queen was beautiful to look at and had a pure heart, but\\nshe carried a burden in that wherever she went,\\nshe brought bad luck with her.", 
+        "cardStoryMstId": 1729, 
+        "cardMstId": 1724, 
+        "step": 1, 
+        "cardUniqueId": 830, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The country deteriorated on the arrival\\nof the queen and it fell into poverty.\\nThe people demanded that the queen be executed.\\nThe king arrested her and locked her up.", 
+        "cardStoryMstId": 1730, 
+        "cardMstId": 1724, 
+        "step": 2, 
+        "cardUniqueId": 830, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The queen apologized for the decline of the kingdom\\nand said how much she wanted the kingdom to prosper even if it cost her life.\\nThe queen's pleas changed how she was viewed and she became a patriot of the kingdom.\\nThe king and the people were all moved.", 
+        "cardStoryMstId": 1731, 
+        "cardMstId": 1725, 
+        "step": 3, 
+        "cardUniqueId": 830, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The king then visited the queen for guidance\\nin his governance.\\nThe queen's guidance was pure and\\nshe pointed the way to go, but she still bore\\nher curse and the kingdom fell.", 
+        "cardStoryMstId": 1732, 
+        "cardMstId": 1725, 
+        "step": 4, 
+        "cardUniqueId": 830, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A little baby boy was once abandoned in the wild.\\nA proud wolf happened upon the baby boy and plucked him off the ground, taking him home to raise with her pups.", 
+        "cardStoryMstId": 1809, 
+        "cardMstId": 1807, 
+        "step": 1, 
+        "cardUniqueId": 866, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "In time, the baby boy grew to be a young man. \\nHe hunted alongside his canine siblings, outracing them and shooting down his prey with a bow of his own make.", 
+        "cardStoryMstId": 1810, 
+        "cardMstId": 1807, 
+        "step": 2, 
+        "cardUniqueId": 866, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, a group in resplendent finery appeared before him. \\nThey claimed the boy was the last living member of the royal family and insisted he come with them.", 
+        "cardStoryMstId": 1811, 
+        "cardMstId": 1808, 
+        "step": 3, 
+        "cardUniqueId": 866, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But the boy, neither understanding their human words nor having the slightest desire to abandon his wolf brothers, chased the party from his home. \\nTo this very day, some say the king without a crown still wanders the mountains and valleys.", 
+        "cardStoryMstId": 1812, 
+        "cardMstId": 1808, 
+        "step": 4, 
+        "cardUniqueId": 866, 
         "evolutionLevel": 0
     }, 
     {
@@ -11936,6 +13408,198 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "A skillful huntsman was hired to take down a monstrous beast. As he struck the final blow, its pup emerged from the thicket to nuzzle its parent.\\nThe huntsman could not bring himself to kill the small creature, so he took it home with him, instead.", 
+        "cardStoryMstId": 1869, 
+        "cardMstId": 1893, 
+        "step": 1, 
+        "cardUniqueId": 900, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The beast child was wild and willful, but the huntsman doggedly taught it to hunt.\\n\"It's like I've gained another son!\" he mused.\\nIn fact, the reason the huntsman had slain the beast was to earn money for his actual son.", 
+        "cardStoryMstId": 1870, 
+        "cardMstId": 1893, 
+        "step": 2, 
+        "cardUniqueId": 900, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The huntsman continued to slay beasts, providing for his child as best he could.\\nHe inadvertently caught the eye of a married woman, whose husband, in a fit of jealous rage, had the huntsman murdered.\\nThe beast pup took the huntsman's gun in his mouth and carried it to his son. \\nAs soon as he saw the gun, the huntsman's son instantly realized that something terrible had happened to his father.", 
+        "cardStoryMstId": 1871, 
+        "cardMstId": 1894, 
+        "step": 3, 
+        "cardUniqueId": 900, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The son grew alongside the beast and valiantly exacted vengeance for his father's death. With this, he solidified his reputation as a marksman who surpassed even his father before him.\\nTo this day, people still speak of the gun he carried, named \"The Flame Beast Gun\" for his flame-wielding beast companion.", 
+        "cardStoryMstId": 1872, 
+        "cardMstId": 1894, 
+        "step": 4, 
+        "cardUniqueId": 900, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Once upon a time, on the outskirts of a green and verdant kingdom, there was a land ruled by the clever King of Crows.\\nOne day, he glimpsed a black speck in the distance that grew larger with every passing second.\\nAs it came into view, he realized that it was a majestic Steller's sea eagle with piercing eyes.", 
+        "cardStoryMstId": 1873, 
+        "cardMstId": 1895, 
+        "step": 1, 
+        "cardUniqueId": 901, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The clever King of Crows decided to pay the hunting Steller's sea eagle a visit.\\nHe intended to offer the bird his coffer of treasures if he would agree to leave his domain.\\nHowever, the sea eagle scoffed at the King's proposal, retorting, \"I am my own king, and you have no dominion over me.\"", 
+        "cardStoryMstId": 1874, 
+        "cardMstId": 1895, 
+        "step": 2, 
+        "cardUniqueId": 901, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The clever King of Crows ordered his crow soldiers to attack the sea eagle, but they were easily thwarted.\\nThe clever King, surmising that strength would not win him this fight, went to see the hermit witch instead. He plied her with treasures, and she cast a curse upon the sea eagle, turning him into a blunt piece of wood.", 
+        "cardStoryMstId": 1875, 
+        "cardMstId": 1896, 
+        "step": 3, 
+        "cardUniqueId": 901, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The clever King of Crows settled down to sleep, the weight lifted from his shoulders...\\nWhen a rope looped around him, binding his wings and legs tight.\\nThere stood the King of Humans, holding a blunt piece of wood in his hands—it was the transformed Steller's sea eagle.\\n\"You have suffered a great injustice upon one of our dearest friends,\" the King proclaimed. \"Now suffer the consequences.\"\\nAnd, with a stroke of the blunt sea eagle, he splattered the crow's clever brains.", 
+        "cardStoryMstId": 1876, 
+        "cardMstId": 1896, 
+        "step": 4, 
+        "cardUniqueId": 901, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The rabbit hopped 'round as I gave it chase, when I realized too late I'd never catch up.\\nLooking down, I noticed that while running the race, my body had been burning—sizzling right up!\\n\\nAnd the rabbit still jumped, with a hop and a hup.\\nI asked why it hopped; in response it replied:\\n\"I do so love hopping, watching you lose your mind!\"", 
+        "cardStoryMstId": 1877, 
+        "cardMstId": 1897, 
+        "step": 1, 
+        "cardUniqueId": 902, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The rabbit bounded 'round as I gave it chase, when I belatedly realized I'd been left, back in its wake.\\nLooking down, I saw that while running the race, my body had been sinking, down, down to the bottom of the lake!\\n\\nYet swiftly the rabbit did sprint without taking a break.\\nI asked why it ran; in response it replied:\\n\"I do so love running, watching you lose your mind!\"", 
+        "cardStoryMstId": 1878, 
+        "cardMstId": 1897, 
+        "step": 2, 
+        "cardUniqueId": 902, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The rabbit danced and pranced as I ran it down, while further away its body did stray.\\nMy eyes beheld darkness, dim and black all around, while my path home did fade, with me forced to stay.\\n\\nAnd the rabbit danced and pranced, merry and gay.\\nI asked why it danced; in response it replied:\\n\"I do so love dancing, watching you lose your mind!\"", 
+        "cardStoryMstId": 1879, 
+        "cardMstId": 1898, 
+        "step": 3, 
+        "cardUniqueId": 902, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The naughty bunny was mine; no more would it prance.\\nA lovely tune rang on his guts that I twanged, its music bringing those it entranced to endlessly dance as its melody sang.\\n\\nAnd the rabbit cackled—on and on it laughed.\\nI asked why it laughed; in response it replied:\\n\"I can't help but laugh, for you've lost your mind.\"", 
+        "cardStoryMstId": 1880, 
+        "cardMstId": 1898, 
+        "step": 4, 
+        "cardUniqueId": 902, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "2009/4/3\\nMii-chan looks great.\\nThe popular socialite with lots of friends.\\nI want to hear another story tomorrow, okay?", 
+        "cardStoryMstId": 1881, 
+        "cardMstId": 1899, 
+        "step": 1, 
+        "cardUniqueId": 903, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "2012/2/16\\nMii-chan finally got a boyfriend.\\nMaybe she doesn't need me anymore?\\nShe's always on the phone with him.", 
+        "cardStoryMstId": 1882, 
+        "cardMstId": 1899, 
+        "step": 2, 
+        "cardUniqueId": 903, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "2019/5/23\\nMii-chan's been giving such weird replies lately.\\nIt's like she's randomly stressing words.\\nOh, and she's sleeping with a different guy today, too.", 
+        "cardStoryMstId": 1883, 
+        "cardMstId": 1900, 
+        "step": 3, 
+        "cardUniqueId": 903, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "2023/5/7\\nIt turns out Mii-chan's life was worth 3 million yen.\\nShe was pushed into a job she hated day after day, but it was the only one she could get.\\nEverything's gonna be okay from now on, Mii-chan. I'll listen to her every single day.\\nThen, maybe someday she'll go back to the way she was.\\nBack to the same old, happy Mii-chan.", 
+        "cardStoryMstId": 1884, 
+        "cardMstId": 1900, 
+        "step": 4, 
+        "cardUniqueId": 903, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I make my money spreading tales to stir the heart. I even weave a few of my own, in fact.\\nOnce upon a time, I loved a woman, and she loved me. We proved that fact to one another quite frequently using our bodies.", 
+        "cardStoryMstId": 1885, 
+        "cardMstId": 1901, 
+        "step": 1, 
+        "cardUniqueId": 904, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Alas, her love became a burden to me, and I bade her adieu.\\n\"Please don't leave me,\" she begged with tears in her eyes. But I put our love nest behind me and went on my way.\\nSometime later, I heard that she burned herself to death.", 
+        "cardStoryMstId": 1886, 
+        "cardMstId": 1901, 
+        "step": 2, 
+        "cardUniqueId": 904, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "My heart hurt to hear of my former love's sorry end.\\nThe least I can do is pay homage to her memory, I thought, and penned a story in her honor. \\n—Several days later, I went to see the printer, completed manuscript in hand.", 
+        "cardStoryMstId": 1887, 
+        "cardMstId": 1902, 
+        "step": 3, 
+        "cardUniqueId": 904, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Holding the finished book in hand, I had no sooner whispered, \"This should put you to rest,\" when a semi-transparent shadow emerged from its pages, her hand reaching out to grasp my own.\\n—Since that day, I have lived within the pages of my own creation, the soul of the woman who died at the flame there to keep me company.", 
+        "cardStoryMstId": 1888, 
+        "cardMstId": 1902, 
+        "step": 4, 
+        "cardUniqueId": 904, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A fiendish demon overlord once terrorized the kingdom, raining violence and chaos down upon its people. When the overlord was at last vanquished, all the people of the kingdom banded together to restore it to order, reviving it from its sorry state after years of abuse.", 
+        "cardStoryMstId": 1889, 
+        "cardMstId": 1903, 
+        "step": 1, 
+        "cardUniqueId": 905, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Their efforts bore fruit, and an earnest and disciplined society soon arose from the kingdom's ashes.\\nEven the smallest infractions were swiftly nipped in the bud.", 
+        "cardStoryMstId": 1890, 
+        "cardMstId": 1903, 
+        "step": 2, 
+        "cardUniqueId": 905, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Gradually, seeds of distrust began to spread. The people of the kingdom reported their neighbors' tiniest misdeeds and witch-hunts became common place, all in the name of order.", 
+        "cardStoryMstId": 1891, 
+        "cardMstId": 1904, 
+        "step": 3, 
+        "cardUniqueId": 905, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Trials were made public in order to show the residents the severity of whatever punishment awaited those who defied the public order. One day, a woman was publicly executed for stealing. Her child watched his mother die from the audience, his eyes dark. They foretold the rebirth of the demon overlord who had taken residence within...", 
+        "cardStoryMstId": 1892, 
+        "cardMstId": 1904, 
+        "step": 4, 
+        "cardUniqueId": 905, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "The spearman made his way to challenge the water serpent of the lake. They fought and fought, evenly matched, until the spearman launched himself—spear, man, and all—into the serpent's great maw in a last act of desperation.\\nMan and snake alike sank into the water's depths, and neither emerged for some time.", 
         "cardStoryMstId": 1897, 
         "cardMstId": 1736, 
@@ -11965,6 +13629,38 @@
         "cardMstId": 1737, 
         "step": 4, 
         "cardUniqueId": 836, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When the young man found the harp, everything in his life somehow began to go right. However, he couldn't shake the odd feeling it gave him. Why did he feel as though he'd heard its strange tune before, and why had it been placed so conspicuously in the garden before his house?", 
+        "cardStoryMstId": 1901, 
+        "cardMstId": 1738, 
+        "step": 1, 
+        "cardUniqueId": 837, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Several days passed, and the youth's feeling of unease persisted, like the fragment of a bone caught in his throat. Then the answer occurred to him: his new harp bore a striking resemblance to his old friend, Tweety. As the realization hit, old memories came alive in his mind.", 
+        "cardStoryMstId": 1902, 
+        "cardMstId": 1738, 
+        "step": 2, 
+        "cardUniqueId": 837, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "He remembered frolicking through hills and dales, Tweety at his side. Scolding the little kitten who picked on her. Sneaking bites of the fruit the elder had so carefully raised. He also remembered a dark and stormy night—a night where Tweety had slipped beneath him and the boy, none the wiser, crushed her underfoot.", 
+        "cardStoryMstId": 1903, 
+        "cardMstId": 1739, 
+        "step": 3, 
+        "cardUniqueId": 837, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "That's where he'd heard the strange sound before. It was the cry Tweety made as he crushed her underfoot. The youth clapped his hands, overjoyed at finally having solved his mystery. Unfortunately, he also stepped on the harp he'd left at his feet, crushing it in the process. The harp gave up one last, painful chirp.", 
+        "cardStoryMstId": 1904, 
+        "cardMstId": 1739, 
+        "step": 4, 
+        "cardUniqueId": 837, 
         "evolutionLevel": 0
     }, 
     {
@@ -12128,6 +13824,390 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "(-_ゞ)　*SCRATCH, SCRATCH*......\\n(-.ゞ Mm...... Sleepy.", 
+        "cardStoryMstId": 1937, 
+        "cardMstId": 1939, 
+        "step": 1, 
+        "cardUniqueId": 923, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "*ROLL, ROLL.* (‥)(: )(¨)( :)(‥) *FLOP.* (o_ _)o \\n(*_ _).｡oＯZzz......", 
+        "cardStoryMstId": 1938, 
+        "cardMstId": 1939, 
+        "step": 2, 
+        "cardUniqueId": 923, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Aww...... Hmm......　(-ρ-)zzzZZZ \\nZzz... (ーー*)。。oＯ(Dreaming)", 
+        "cardStoryMstId": 1939, 
+        "cardMstId": 1940, 
+        "step": 3, 
+        "cardUniqueId": 923, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "　　　　　　　　　　　　*SMACK, SMACK* (*ﾟ～ﾟ)●ゝ \\n*SNORE*...... (｡-ρ-).｡o○", 
+        "cardStoryMstId": 1940, 
+        "cardMstId": 1940, 
+        "step": 4, 
+        "cardUniqueId": 923, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When one of your senses gets dulled, the others get sharper to make up for it. Did you know that?\\nGo on, close your eyes. I'll take you on a wild ride.", 
+        "cardStoryMstId": 1941, 
+        "cardMstId": 1941, 
+        "step": 1, 
+        "cardUniqueId": 924, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "With a single, sharp thrust, she sheathed her blade in her unsuspecting victim's chest. It turned out that muscles didn't count for much when there was only half a brain attached.", 
+        "cardStoryMstId": 1942, 
+        "cardMstId": 1941, 
+        "step": 2, 
+        "cardUniqueId": 924, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Nothing is easier to topple than a headless organization.\\nThose shoes are hard to fill.", 
+        "cardStoryMstId": 1943, 
+        "cardMstId": 1942, 
+        "step": 3, 
+        "cardUniqueId": 924, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Cinderella's lips curled in a sneer, having obliterated the last vestiges of the organization.\\n\"...Three to go.\"", 
+        "cardStoryMstId": 1944, 
+        "cardMstId": 1942, 
+        "step": 4, 
+        "cardUniqueId": 924, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Tales from the Red Adder Banditess #1]\\nFind your strengths ‘n use ‘em well. That's the key!\\nMy ultimate weapon is my body. A body that'll make any man weep!\\nA peck here, a swish there, and the fool lads fall over themselves to crawl into my bed.\\nAll it takes after that is a wee poke, then they're dead at my feet.\\nIt's as easy as pie.☆", 
+        "cardStoryMstId": 1945, 
+        "cardMstId": 1943, 
+        "step": 1, 
+        "cardUniqueId": 925, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Tales from the Red Adder Banditess #2]\\nOne day, I was rifling through the belongings of a man I killed when I found a letter.\\nApparently the lad had a fiancée, but he was only after her fortune and had plans to run off with another woman in the dead o' night!\\nPhah! I ain't no saint, but this feller didn't deserve to live, neither.", 
+        "cardStoryMstId": 1946, 
+        "cardMstId": 1943, 
+        "step": 2, 
+        "cardUniqueId": 925, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Tales from the Red Adder Banditess #3]\\nSo off I went to pay his fiancée a visit. I told her how her man had saved me from doom or some such, and he died from a venomous snake wound.\\nShe cried and carried on, saying how she wanted to thank me.\\nPart of me wanted to take a peek inside her mansion, see if there was anything worth breaking in for later on, but...well, I figured there weren't no harm in taking her up on a gift.", 
+        "cardStoryMstId": 1947, 
+        "cardMstId": 1944, 
+        "step": 3, 
+        "cardUniqueId": 925, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[From the Desk of the Red Adder, Mafia Boss]\\nThat fella thought he could make a real killing with his engagement scheme, right here in my own backyard without so much as a by-your-leave.\\nI figured I could lure him out myself to see how the sauce was made, yeah?\\nBut you, his little lover, you started spreading word how he died and helped him make his grand escape, didn't ya?\\nBy the by, that tea was laced with a real vicious poison. Now you and my dagger here are going to be real good friends until you tell me everything I want to know!", 
+        "cardStoryMstId": 1948, 
+        "cardMstId": 1944, 
+        "step": 4, 
+        "cardUniqueId": 925, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The man remarried after his wife's death, giving his daughter a new mother. Where the child's birth mother had been sickly, her new step-mother was stern in every way. She beat her regularly as punishment and kept her locked in her room, far away from the world.", 
+        "cardStoryMstId": 1949, 
+        "cardMstId": 1945, 
+        "step": 1, 
+        "cardUniqueId": 926, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, the daughter peered outside her window \\nand spied a man standing there. The man was immediately taken with her beauty and begged her to let him inside time and time again.\\nThe young woman finally relented and opened her doors to him. Soon they became intimate.", 
+        "cardStoryMstId": 1950, 
+        "cardMstId": 1945, 
+        "step": 2, 
+        "cardUniqueId": 926, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Her step-mother was enraged to discover this and decided to poison the child with her own medicine; one that was nutritional in small doses, but fatal in large. The step-mother mixed a tremendous amount into her step-daughter's food and fed it to her. The young woman, not knowing any better, ate it without a second thought.", 
+        "cardStoryMstId": 1951, 
+        "cardMstId": 1946, 
+        "step": 3, 
+        "cardUniqueId": 926, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Yet the poison proved ineffective, for the young woman had been taking her late mother's medicine to improve her relations with the man.\\nBy taking small doses of the nutrients over time, she had built up a resistance to its toxic effects.\\nIronically, her step-mother, so stern in every way, refused to touch the medicine after discovering its fatal consequences in large doses, despite her own declining health. She eventually died from a lack of nutrients.\\nAs for the daughter, a child was soon born of her union with the man, and their little family lived happily ever after.", 
+        "cardStoryMstId": 1952, 
+        "cardMstId": 1946, 
+        "step": 4, 
+        "cardUniqueId": 926, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "In one story, we were only playing. \\nBut you called me a murderer, then shot me with a rifle.", 
+        "cardStoryMstId": 1953, 
+        "cardMstId": 2023, 
+        "step": 1, 
+        "cardUniqueId": 957, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "In another story, we played no differently. \\nThen, you praised me, saying, \"Thank you for killing me.\"", 
+        "cardStoryMstId": 1954, 
+        "cardMstId": 2023, 
+        "step": 2, 
+        "cardUniqueId": 957, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "In yet another story, \\nWe played while the people around us screamed. \\nYou said, \"I don't want to waste my time with this.\" \\nYet still, we played.", 
+        "cardStoryMstId": 1955, 
+        "cardMstId": 2024, 
+        "step": 3, 
+        "cardUniqueId": 957, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I have played with so many different people in this world.\\nBut each time I play with them, they're gone by the next day.\\nWhy am I like this…", 
+        "cardStoryMstId": 1956, 
+        "cardMstId": 2024, 
+        "step": 4, 
+        "cardUniqueId": 957, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I am a famous swordsman, if I do say so myself.\\nI found something I could not resist.\\nA sword, that I tried at the weapons trader.", 
+        "cardStoryMstId": 1957, 
+        "cardMstId": 2025, 
+        "step": 1, 
+        "cardUniqueId": 958, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I fell in love with its quality and I paid a pretty penny for it.\\nThe more I cut with it, the sharper it got. Soon it could slice through any thick armor.\\nI was obsessed with this miraculous sword.", 
+        "cardStoryMstId": 1958, 
+        "cardMstId": 2025, 
+        "step": 2, 
+        "cardUniqueId": 958, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "After exterminating all the demons, I was assaulted instead by a hallucination.\\nThe handle of the sword and the skin of my hand had fused together. We were a grotesque whole.\\nI shook my head to get rid of the delusion.", 
+        "cardStoryMstId": 1959, 
+        "cardMstId": 2026, 
+        "step": 3, 
+        "cardUniqueId": 958, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "What's going on? My body won't move…\\nMy body… The sharp blade and the handle… That's me?!\\nWell! Someone use me! All of the souls in here, gather and enjoy a slaughter!", 
+        "cardStoryMstId": 1960, 
+        "cardMstId": 2026, 
+        "step": 4, 
+        "cardUniqueId": 958, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was a fire at the kingdom's vault. A violin was found in the burning ashes and despite being in the heat of the flames, it was untouched. An official, who was assumed responsible, said that the fire was caused by the violin and that it was the work of God. A power struggle broke out in the castle, and the king did not want to punish one of his own officials, so he accepted the excuse.", 
+        "cardStoryMstId": 1961, 
+        "cardMstId": 2027, 
+        "step": 1, 
+        "cardUniqueId": 959, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "A few months later, fire broke out again. This time, the archive was completely destroyed, and the blame was placed on the corrupt official. But the official, who had destroyed evidence of his own corruption, once more said that the fire was caused by the violin of the gods.", 
+        "cardStoryMstId": 1962, 
+        "cardMstId": 2027, 
+        "step": 2, 
+        "cardUniqueId": 959, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Since then, suspicious fires broke out across the kingdom. They were attributed to a divine source. The struggle for power within the kingdom started to reach its conclusion. The king thus sealed the Violin of the Fire God in the kingdom's treasury.\\nThe kingdom's largest church burned to the ground shortly after. The violin was mysteriously found in the ashes... It was as if the god himself had placed it there.", 
+        "cardStoryMstId": 1963, 
+        "cardMstId": 2028, 
+        "step": 3, 
+        "cardUniqueId": 959, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The plains stretched out in front of the weary traveler from the east. He let his horse rest.\\nThere used to be a kingdom here. However, it was entirely consumed one night by a great fire. Not a single person survived it. And the violin said to be found in the ruins of the castle soon disappeared into the mists of time.", 
+        "cardStoryMstId": 1964, 
+        "cardMstId": 2028, 
+        "step": 4, 
+        "cardUniqueId": 959, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "At first, only small fires broke out. They were small, so no one paid them much attention.", 
+        "cardStoryMstId": 1965, 
+        "cardMstId": 2029, 
+        "step": 1, 
+        "cardUniqueId": 960, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The fires got progressively bigger. They caused a few frowns, but no one took action still.", 
+        "cardStoryMstId": 1966, 
+        "cardMstId": 2029, 
+        "step": 2, 
+        "cardUniqueId": 960, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The number of these small fires increased, along with their frequency and intensity. Slowly, a panic beset the people.", 
+        "cardStoryMstId": 1967, 
+        "cardMstId": 2030, 
+        "step": 3, 
+        "cardUniqueId": 960, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The fires broke out all over. And before people knew what to do, they had been consumed. All efforts came too late.", 
+        "cardStoryMstId": 1968, 
+        "cardMstId": 2030, 
+        "step": 4, 
+        "cardUniqueId": 960, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I had a dream last night.\\nShe was so beautiful, but when I awoke, I could not remember her face.", 
+        "cardStoryMstId": 2009, 
+        "cardMstId": 2034, 
+        "step": 1, 
+        "cardUniqueId": 963, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I saw the same dream tonight.\\nIt was a girl crying in the woods.\\nI wanted to stop her tears.\\nIt shouldn't have troubled me as much as it did, but it was such a strange dream.", 
+        "cardStoryMstId": 2010, 
+        "cardMstId": 2034, 
+        "step": 2, 
+        "cardUniqueId": 963, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "As soon as I reach out to the girl, I wake up.\\nI know it's foolish, but the girl remains on my mind.", 
+        "cardStoryMstId": 2011, 
+        "cardMstId": 2035, 
+        "step": 3, 
+        "cardUniqueId": 963, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I search the internet for her face.\\nI don't remember what she looks like\\nbut I'm sure I'll know her when I see her.\\nFor I know her true self.", 
+        "cardStoryMstId": 2012, 
+        "cardMstId": 2035, 
+        "step": 4, 
+        "cardUniqueId": 963, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I pushed the apple into my mouth. I was already full, but I couldn't help myself.", 
+        "cardStoryMstId": 2021, 
+        "cardMstId": 2036, 
+        "step": 1, 
+        "cardUniqueId": 964, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I don't want to eat anymore. No more!\" I knew I should stop. But I ignored my feelings, unable to hold back the tears that fed my greed.", 
+        "cardStoryMstId": 2022, 
+        "cardMstId": 2036, 
+        "step": 2, 
+        "cardUniqueId": 964, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Even after I got home, I couldn't stop. With no one to rebuke me, I cooked up some pasta as if I was hiding something.", 
+        "cardStoryMstId": 2023, 
+        "cardMstId": 2037, 
+        "step": 3, 
+        "cardUniqueId": 964, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I threw up. The guilt and anger of eating so much... All of it... All of it...", 
+        "cardStoryMstId": 2024, 
+        "cardMstId": 2037, 
+        "step": 4, 
+        "cardUniqueId": 964, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Let me introduce myself.\\nI am a tree.\\nI cannot move an inch. It's a tragic story.\\nI get so bored.\\nBut I do have a purpose.", 
+        "cardStoryMstId": 2025, 
+        "cardMstId": 2038, 
+        "step": 1, 
+        "cardUniqueId": 965, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"Danger Ahead!\"\\nThe purpose of the board was to warn foolish adventurers.\\nIt was indeed dangerous ahead.\\nBut none who made it this far seemed to bother heeding the words.\\nI made a warning that is even easier to understand.", 
+        "cardStoryMstId": 2026, 
+        "cardMstId": 2038, 
+        "step": 2, 
+        "cardUniqueId": 965, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Using the blood of a nearby body, I made a sign with a large cross through it.\\nThat seemed to reduce the number of fools passing by for some reason.\\nBut you have a face that tells me you want to\\nknow exactly what the danger is. Am I right?\\nI guess I'll have to show you. Take a step forward.", 
+        "cardStoryMstId": 2027, 
+        "cardMstId": 2039, 
+        "step": 3, 
+        "cardUniqueId": 965, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "What's the matter? There's nothing ahead.\\nIt's just that your legs are caught up in my roots.\\nDo you know what kind of tree I am?\\nI don't attack people indiscriminately, but\\nI do need to feed... And my sustenance is human flesh.", 
+        "cardStoryMstId": 2028, 
+        "cardMstId": 2039, 
+        "step": 4, 
+        "cardUniqueId": 965, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The sword was repurposed from a farmer's plow.", 
+        "cardStoryMstId": 2029, 
+        "cardMstId": 2040, 
+        "step": 1, 
+        "cardUniqueId": 966, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Once the war was over and peace had returned, the sword once again became a plow.", 
+        "cardStoryMstId": 2030, 
+        "cardMstId": 2040, 
+        "step": 2, 
+        "cardUniqueId": 966, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "And so, when peace reigned, it served as a plow. When war ravaged the land, it became a weapon.\\nThe iron enjoyed the feeling of being beaten into shape and so relished the transitions between war and peace.", 
+        "cardStoryMstId": 2031, 
+        "cardMstId": 2041, 
+        "step": 3, 
+        "cardUniqueId": 966, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The wizard who had realized that this metal was sentient forged it so thin that it could no longer be switched between weapon and tool, and used it as cutlery.\\nAt night, this spoon would sob \"Beat me... Beat me...\"", 
+        "cardStoryMstId": 2032, 
+        "cardMstId": 2041, 
+        "step": 4, 
+        "cardUniqueId": 966, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "A sacred bird lived on a holy mountain.\\nThis bird was considered an angel of god and was said to watch over the earth from the edge of the heavens.", 
         "cardStoryMstId": 2033, 
         "cardMstId": 2042, 
@@ -12224,6 +14304,70 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "Payment of the rewards and your deep wish is fulfilled.\\nYou have been screaming in this world alone.\\nOr were you laughing?\\nIn a fake world created of delusions, is it possible to love?\\nWe have come to see you weep in your final moments.\\n......\\n......\\n...", 
+        "cardStoryMstId": 2153, 
+        "cardMstId": 2128, 
+        "step": 1, 
+        "cardUniqueId": 1010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Case1\\nWitch. Witch. Witch. Witch. Witch. Witch.\\nWitch. Witch. Witch. Witch. Witch. Witch. Witch. Witch.\\n\\nA group of shadows press forward like waves.\\nThis endless surge enveloped the hearts of darkness\\nof our brothers and sisters.\\nMy legs hurt as my mind is in confusion.\\nMy breathing races...\\n\\nI shake my head to rid me of the terrible past.\\nA booming voice shakes my core.\\nIt cared for me...\\n\"There is nothing to be scared of when we're together. You know that, right?\"", 
+        "cardStoryMstId": 2154, 
+        "cardMstId": 2128, 
+        "step": 2, 
+        "cardUniqueId": 1010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"Don't leave me, Brother.\"\\nThe cheeks of the laughing girl were red.\\nPerhaps she was embarrassed, or perhaps it was blood splatter.\\n\\nThe two can only see the other.\\nNothing else is of value.\\nThe place is full of fakeness, and yet that was only a trivial problem.\\n\\nEven if this was the end of the fight, it couldn't be stopped.\\nThat was the only sure thing.", 
+        "cardStoryMstId": 2155, 
+        "cardMstId": 2129, 
+        "step": 3, 
+        "cardUniqueId": 1010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Case 2\\nBefore long, the siblings thrust the sword into the red moon.\\n\\nAnd in that instant, the world turned black.\\nThe end continued to resist to cease the curse.\\nIt was a mad rush of darkness.\\n\\n\"Brother... Brother...\\nDon't leave me alone.\"\\n\\nThe only thing that cut through the black were her words of prayer.", 
+        "cardStoryMstId": 2156, 
+        "cardMstId": 2129, 
+        "step": 4, 
+        "cardUniqueId": 1010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Your wish came true due to so many sacrifices.\\nAt the end of this long dream,\\nwhat sort of world is left?\\nIs it a good dream in the end?\\nIs it a permanent nightmare of suffering?\\nWe have come to hear your sobbing in your final moments.\\n......\\n......\\n...", 
+        "cardStoryMstId": 2157, 
+        "cardMstId": 2132, 
+        "step": 1, 
+        "cardUniqueId": 1011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Case 1\\nThe blood flows from me silently.\\nIt is draining my strength.\\nMy eyes are so heavy.\\nI want to sleep so badly.\\n\\nBut I have decided.\\nSlapping myself, I haul my body up.\\n\\n\"I finally understand!\\nI'll meet plenty of people and together we will sleep...\\nI have finally realized my true desire.\\nI'm sorry, but you are the ones who will sleep.\\nCome, knights!\\nFeel the thorn of a rose!\"", 
+        "cardStoryMstId": 2158, 
+        "cardMstId": 2132, 
+        "step": 2, 
+        "cardUniqueId": 1011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Case 2\\n\"So, I've slept an amount for two, hence I was so tired.\"\\n\\nEach time I learn something, I lose another.\\nRepeating this, I wandered until I finally made it.\\n\\nI see...\\nThat's how this world came about.", 
+        "cardStoryMstId": 2159, 
+        "cardMstId": 2133, 
+        "step": 3, 
+        "cardUniqueId": 1011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Case 3\\nHow long has it been?\\nEach time I sleep. Each time...\\nI can hear that voice.\\n\\nThe answer will come later.\\n\\nSoon... I will enter through the door\\n\\nof your deception.", 
+        "cardStoryMstId": 2160, 
+        "cardMstId": 2133, 
+        "step": 4, 
+        "cardUniqueId": 1011, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "[Ancient Text]\\nA night of grief alone. The break of\\ndawn is far and in that there is learning.", 
         "cardStoryMstId": 2257, 
         "cardMstId": 2206, 
@@ -12253,6 +14397,134 @@
         "cardMstId": 2207, 
         "step": 4, 
         "cardUniqueId": 1039, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Diary of Royce, Commander of the Red Dragon Knights]\\nWe must be careful about today's capture.\\nHe is nothing but a headhunting scoundrel.\\nAccording to our spies, he even has dried heads hanging in great numbers from the eaves of his hiding-place.\\nI must have a talk with my wife because tomorrow anything could happen to me.", 
+        "cardStoryMstId": 2377, 
+        "cardMstId": 2330, 
+        "step": 1, 
+        "cardUniqueId": 1093, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Imperial Newspaper, Extra Edition - headhunting scoundrel arrested]\\nThe headhunting scoundrel who had been terrifying our streets was finally captured yesterday.\\nThe second the Red Dragon Knights took action, he had no way of resisting them with his sickle and was arrested with ease.\\nIt is still unclear why he committed all the atrocities he did.", 
+        "cardStoryMstId": 2378, 
+        "cardMstId": 2330, 
+        "step": 2, 
+        "cardUniqueId": 1093, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[The Scoundrel's Testimony]\\nI poisoned a man I met on my travels and stole his money. That's how everything started.\\nAfter I had been walking for a while, something startled me. The man whom I had just killed was walking towards me!\\nAfter that, wherever I went I would always catch sight of that man.\\nThis filled me with such fear that I decided to cut his head with a sickle to prevent him from appearing again.\\nBut no matter how many times I sliced his head off, I would always end up seeing it again. That face...!", 
+        "cardStoryMstId": 2379, 
+        "cardMstId": 2331, 
+        "step": 3, 
+        "cardUniqueId": 1093, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Diary of Navarre, The Executioner]\\nToday, at the execution, I cut that scoundrel's head off.\\nAs I was walking home, I heard footsteps close behind me so I turned around.\\nStanding behind me was...none other than the scoundrel I had killed with my own hands!\\nI ran home raving and shouting and locked myself in my room. All the townsfolk, including my family, had the same face as that scoundrel.\\nI had to slice their heads off! I needed to slice them off...!", 
+        "cardStoryMstId": 2380, 
+        "cardMstId": 2331, 
+        "step": 4, 
+        "cardUniqueId": 1093, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Once upon a time, there was a guard who defended a lord's castle.\\nHe was extremely good at his job, and the lord counted himself lucky to have him. However, the guard's real purpose was not to protect the lord, but to kill him.", 
+        "cardStoryMstId": 2489, 
+        "cardMstId": 2392, 
+        "step": 1, 
+        "cardUniqueId": 1124, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The guard's daughter had been executed by the lord on false charges.\\nRevenge was his only reason for living.", 
+        "cardStoryMstId": 2490, 
+        "cardMstId": 2392, 
+        "step": 2, 
+        "cardUniqueId": 1124, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Day after day, the guard would see his chance to swoop in and kill the lord. But he would always pull back when he was just a single step away. Still, he didn't give up. \"Next time,\" he would silently swear to himself.", 
+        "cardStoryMstId": 2491, 
+        "cardMstId": 2393, 
+        "step": 3, 
+        "cardUniqueId": 1124, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The lord had fallen ill, and the guard sat by the bedside, gripping his hand. Thirty years had gone by, and the guard had not been able to kill the lord. At the moment of his death, the lord thanked the guard and closed his eyes. Then the guard finally realized: his lust for revenge had been keeping him alive.", 
+        "cardStoryMstId": 2492, 
+        "cardMstId": 2393, 
+        "step": 4, 
+        "cardUniqueId": 1124, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One evening, a thief crept into the castle's treasure vault. One of the treasures he stole was a magical sword. At this, chaos erupted in the kingdom. The thief had stolen a sword with a magical ripple effect. The sword's magical power made the bearer and everyone else around into ferocious killers.", 
+        "cardStoryMstId": 2505, 
+        "cardMstId": 2400, 
+        "step": 1, 
+        "cardUniqueId": 1128, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The people touched by the ripple effect turned evil and began to kill.\\nThey indiscriminately slaughtered everyone, soldiers, commoners, merchants, men, women, elderly, children.\\nMountains of corpses towered over the land.　", 
+        "cardStoryMstId": 2506, 
+        "cardMstId": 2400, 
+        "step": 2, 
+        "cardUniqueId": 1128, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "With no one left to kill, the slaughter had finally come to an end.\\nThe thief who had started it all was executed. The people at least learned the reason for the slaughter. Imagining the evil filling the thief's heart, and the wayward path his life had followed, they shuddered. But the truth was very different...", 
+        "cardStoryMstId": 2507, 
+        "cardMstId": 2401, 
+        "step": 3, 
+        "cardUniqueId": 1128, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "After raiding the treasure vault, the thief had run from the guards, taking shelter in a building. The building had turned out to be an orphanage. Someone had touched the magic sword on his back. It was a newborn baby. The guards following the thief had then begun to kill one another. The thief too had been killed, and that was how it all started...", 
+        "cardStoryMstId": 2508, 
+        "cardMstId": 2401, 
+        "step": 4, 
+        "cardUniqueId": 1128, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "My father was a low-life drunk who beat my mother, but he did teach me how to read and write.\\nUsing these skills, I made a name for myself as a writer.\\nI took a lovely trophy wife to go along with my growing riches, but one day I saw my wife had bite marks on her neck, and they weren't from me.\\nDetermined to kill the culprit, I made a club.", 
+        "cardStoryMstId": 2549, 
+        "cardMstId": 2424, 
+        "step": 1, 
+        "cardUniqueId": 1139, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One evening in bed, my wife was aroused, and I indulged her halfheartedly.\\nWhen it was over, she said, \"Help me. A bad man threatened me, saying he'd hurt me if I didn't sleep with him. I had no choice.\"\\nAt the sight of her sobbing, pity welled up within me, and I promised, \"Leave it to me.\"", 
+        "cardStoryMstId": 2550, 
+        "cardMstId": 2424, 
+        "step": 2, 
+        "cardUniqueId": 1139, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I arranged a meeting with the man, and told him, \"Don't you ever lay a hand on my wife.\"\\nBut he said, \"She's the one who made a pass at me. Let me tell you, the broad is a screamer, she really gets into it.\"\\nI grabbed the man by the neck and strangled him. Then I felt something hit me hard in the back of the head.", 
+        "cardStoryMstId": 2551, 
+        "cardMstId": 2425, 
+        "step": 3, 
+        "cardUniqueId": 1139, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I collapsed. Later on, half-asleep, half-awake, I saw my wife sitting beside me, wearing a mocking smile.\\n\"That takes care of both my husband and my lover. Now I can sleep with anyone I want,\" my wife said. She pulled out the club I'd made, and pressed it to the lit stove burner.\\nThe flames quickly lit up the blood- and grease-slickened club…", 
+        "cardStoryMstId": 2552, 
+        "cardMstId": 2425, 
+        "step": 4, 
+        "cardUniqueId": 1139, 
         "evolutionLevel": 0
     }, 
     {
@@ -12349,6 +14621,38 @@
         "cardMstId": 2505, 
         "step": 4, 
         "cardUniqueId": 1170, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Their pursuers caught up with them, and one man among them who was called the Servant of God blew his flute.\\nWater spurted from the flute.", 
+        "cardStoryMstId": 2593, 
+        "cardMstId": 2512, 
+        "step": 1, 
+        "cardUniqueId": 1174, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The stream of water from the flute of the Servant of God flooded the land all around.\\nTheir pursuers drowned in the flood.\\nBut the water would not stop gushing.", 
+        "cardStoryMstId": 2594, 
+        "cardMstId": 2512, 
+        "step": 2, 
+        "cardUniqueId": 1174, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Then the Servant of God was swept away by the flood, and the people had no way to stop the flute from gushing water.", 
+        "cardStoryMstId": 2595, 
+        "cardMstId": 2513, 
+        "step": 3, 
+        "cardUniqueId": 1174, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The muddy water washed away everything, scrubbing the land clean, leaving behind only the flute.", 
+        "cardStoryMstId": 2596, 
+        "cardMstId": 2513, 
+        "step": 4, 
+        "cardUniqueId": 1174, 
         "evolutionLevel": 0
     }, 
     {
@@ -12541,6 +14845,70 @@
         "cardMstId": 2621, 
         "step": 4, 
         "cardUniqueId": 1221, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"Hmm. Due to a family situation, Tomoki\\nhas transferred schools.\"\\nIt was a lie.\\nEven I knew that.", 
+        "cardStoryMstId": 2677, 
+        "cardMstId": 2608, 
+        "step": 1, 
+        "cardUniqueId": 1215, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There was definitely something strange about him.\\nSo of course I was happy.\\nIf it was obvious enough that even I could see it, it had to be really bad.", 
+        "cardStoryMstId": 2678, 
+        "cardMstId": 2608, 
+        "step": 2, 
+        "cardUniqueId": 1215, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "From the first time we talked, there was something strange about him.\\n\"Hey, show me your $%^{.\"\\n\"I'm too embarrassed.\"\\n\"It's okay. I won't laugh. So show me.\"", 
+        "cardStoryMstId": 2679, 
+        "cardMstId": 2609, 
+        "step": 3, 
+        "cardUniqueId": 1215, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When ordered to do something, I never disobeyed.\\nThat's the way my mother raised me. From the beginning, Tomoki knew that.\\nSo he took advantage of my weakness...", 
+        "cardStoryMstId": 2680, 
+        "cardMstId": 2609, 
+        "step": 4, 
+        "cardUniqueId": 1215, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"You look just like her.\"\\n\"Like who?\"\\n\"My daughter.\"", 
+        "cardStoryMstId": 2681, 
+        "cardMstId": 2610, 
+        "step": 1, 
+        "cardUniqueId": 1216, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Three days earlier, the nurse had listened patronizingly\\nto the patient who had just been admitted to the nurse's office.", 
+        "cardStoryMstId": 2682, 
+        "cardMstId": 2610, 
+        "step": 2, 
+        "cardUniqueId": 1216, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"I want to see my daughter again...\"\\n\"I'm sure you'll be able to see her soon,\"\\nsaid the nurse, flashing a polite smile\\nwhile injecting the arm of the patient who lay in the bed.", 
+        "cardStoryMstId": 2683, 
+        "cardMstId": 2611, 
+        "step": 3, 
+        "cardUniqueId": 1216, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The nurse knew all about the patient's daughter.\\nAfter all, just days earlier, the nurse had injected her with the same medicine.", 
+        "cardStoryMstId": 2684, 
+        "cardMstId": 2611, 
+        "step": 4, 
+        "cardUniqueId": 1216, 
         "evolutionLevel": 0
     }, 
     {
@@ -12765,6 +15133,134 @@
         "cardMstId": 2734, 
         "step": 4, 
         "cardUniqueId": 1277, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Am I stupid wanting to send her chocolates even though I know she won't get them?", 
+        "cardStoryMstId": 3089, 
+        "cardMstId": 2967, 
+        "step": 1, 
+        "cardUniqueId": 1377, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Am I stupid to believe that love is more than a card and a candy heart?", 
+        "cardStoryMstId": 3090, 
+        "cardMstId": 2967, 
+        "step": 2, 
+        "cardUniqueId": 1377, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Am I stupid because I despaired of my helplessness and went crying to my friends?", 
+        "cardStoryMstId": 3091, 
+        "cardMstId": 2968, 
+        "step": 3, 
+        "cardUniqueId": 1377, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Am I stupid to because I finally lost my nerve and just ate the chocolates myself?", 
+        "cardStoryMstId": 3092, 
+        "cardMstId": 2968, 
+        "step": 4, 
+        "cardUniqueId": 1377, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, the young queen passed away. Not long after, the king died too.\\nPeople whispered that the king had read the diary left behind by the dead queen and killed himself in despair.", 
+        "cardStoryMstId": 3093, 
+        "cardMstId": 2969, 
+        "step": 1, 
+        "cardUniqueId": 1378, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "What was written in the queen's diary? Rumors spread through the kingdom like wildfire.\\nThe queen had been a young woman when the couple was wed.\\nHer beauty had been legendary in the town, and one day the king, who was strolling the streets in disguise, had seen her and immediately fallen head over heels.", 
+        "cardStoryMstId": 3094, 
+        "cardMstId": 2969, 
+        "step": 2, 
+        "cardUniqueId": 1378, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "At the time, the queen had had a lover, and while reluctant to give the king her hand, at her parent's urging, she had agreed to the wedding.\\nSo the people gossiped that the diary must have had nasty things to say about the king.", 
+        "cardStoryMstId": 3095, 
+        "cardMstId": 2970, 
+        "step": 3, 
+        "cardUniqueId": 1378, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "After the king's death, the queen's diary, which he had kept under lock and key, was read by a few members of the royal family.\\nThe queen had written not a word about the king. From the day they met, to the wedding day, to the days they spend together, not a single, solitary word...", 
+        "cardStoryMstId": 3096, 
+        "cardMstId": 2970, 
+        "step": 4, 
+        "cardUniqueId": 1378, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There once was a ninja called the Gray Wing, a shadowy, chameleon-like figure who would slink unnoticed into his enemies' midst.\\nThe Gray Wing may have been a dreaded adversary, but he was not a god.\\nDriven into a corner by the king's security force, left with nowhere to run, he set himself on fire and burned to a crisp.", 
+        "cardStoryMstId": 3097, 
+        "cardMstId": 2971, 
+        "step": 1, 
+        "cardUniqueId": 1379, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Following the Gray Wing's death, confidential information about him continued leaking out little by little, and the security force began doubting themselves.\\nNo one knew the Gray Wing's true identity. So how could they be sure the man who had burned himself to a crisp was truly the Gray Wing?", 
+        "cardStoryMstId": 3098, 
+        "cardMstId": 2971, 
+        "step": 2, 
+        "cardUniqueId": 1379, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The security forces panicked.\\nEvery trifling incident seemed to them to be the Gray Wing's doing. They were jumping at shadows.\\nAny one of them could be the Gray Wing, they realized. Nerves frayed, they could not let their suspicions rest.", 
+        "cardStoryMstId": 3099, 
+        "cardMstId": 2972, 
+        "step": 3, 
+        "cardUniqueId": 1379, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The king went pale when he heard the reports.\\nFor some unknown reason, the men of the security force had begun killing one another.\\nThe few survivors had life-threatening injuries.\\nThe people came to call this gruesome incident \"The Gray Wing's Revenge.\" No one ever found out for sure if the Gray Wing was alive or dead.", 
+        "cardStoryMstId": 3100, 
+        "cardMstId": 2972, 
+        "step": 4, 
+        "cardUniqueId": 1379, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "What does a craftsman keep in mind when making an instrument?\\nThe timbre, and the way the instrument sounds when played.\\nThat goes without saying.\\nBut some instruments are different.\\nFor instance, this one, which was forged from steel.", 
+        "cardStoryMstId": 3101, 
+        "cardMstId": 2973, 
+        "step": 1, 
+        "cardUniqueId": 1380, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The ties between war and music go back to ancient times.\\nFor example, songs and dances have been used to pray for victory.\\nAnd music has been used to accompany marches.\\nMusic is a necessary part of war.\\nAnd that's what this instrument was made for.", 
+        "cardStoryMstId": 3102, 
+        "cardMstId": 2973, 
+        "step": 2, 
+        "cardUniqueId": 1380, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Pluck the strings of this harp,\\nand it makes a sound like a heroic warrior drawing a stiff bow.\\nPlay it normally, of course,\\nand its clear tone resounds through the battlefield.\\nNeedless to say, it is solidly built to withstand abuse in battle.", 
+        "cardStoryMstId": 3103, 
+        "cardMstId": 2974, 
+        "step": 3, 
+        "cardUniqueId": 1380, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "But its forte is the music of the battlefield itself.\\nThe sound of arms clashing, flesh slicing, metal clanging.\\nBreak a bone with it, and its strings ring out in sympathy.\\nThe sound will shake you to your bones and make you want to scream.\\nLet's just say it has a reputation for making a racket.", 
+        "cardStoryMstId": 3104, 
+        "cardMstId": 2974, 
+        "step": 4, 
+        "cardUniqueId": 1380, 
         "evolutionLevel": 0
     }, 
     {
@@ -13629,6 +16125,134 @@
         "cardMstId": 900017, 
         "step": 4, 
         "cardUniqueId": 900009, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It's not as bad as I thought.\\nAt first it felt tight, but the slits make it easier to move.", 
+        "cardStoryMstId": 900033, 
+        "cardMstId": 900018, 
+        "step": 1, 
+        "cardUniqueId": 900010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I don't care about fashion. But after wearing this, I might have grown a new appreciation for it.", 
+        "cardStoryMstId": 900034, 
+        "cardMstId": 900018, 
+        "step": 2, 
+        "cardUniqueId": 900010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "How many more outfits will I wear?\\nHow many times will I stain them in red?", 
+        "cardStoryMstId": 900035, 
+        "cardMstId": 900019, 
+        "step": 3, 
+        "cardUniqueId": 900010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Will it be my body or spirit that perishes first? The future is unknown.\\nNo matter what happens, I won't forget the happiness I felt in this outfit.\\nOr so I thought.", 
+        "cardStoryMstId": 900036, 
+        "cardMstId": 900019, 
+        "step": 4, 
+        "cardUniqueId": 900010, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Like a little birdy, I'll continue to dance. Even if the one watching wishes for my death.", 
+        "cardStoryMstId": 900037, 
+        "cardMstId": 900020, 
+        "step": 1, 
+        "cardUniqueId": 900011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Another may see my dance as a prayer of blessings.\\nBut my wish will not change.", 
+        "cardStoryMstId": 900038, 
+        "cardMstId": 900020, 
+        "step": 2, 
+        "cardUniqueId": 900011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I will pray, fight, and dance for my own sake. Even if my wish remains but a wish for all eternity.", 
+        "cardStoryMstId": 900039, 
+        "cardMstId": 900021, 
+        "step": 3, 
+        "cardUniqueId": 900011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Perhaps it is because I'm alone that it's never-changing. How about it? Would you like to dance with me?", 
+        "cardStoryMstId": 900040, 
+        "cardMstId": 900021, 
+        "step": 4, 
+        "cardUniqueId": 900011, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Disciple]\\nThank you for taking me on as your disciple!\\nMy older brother aspired to become a great flutist just like yourself!\\nHe was a absolutely amazed by your skills, even your biggest fan!\\nPlease, accept my gift.", 
+        "cardStoryMstId": 900041, 
+        "cardMstId": 900022, 
+        "step": 1, 
+        "cardUniqueId": 900012, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Disciple]\\nAbout my brother... He never had any talent.\\nThat's why he respected you so much.\\nOh, hang on. I'll go drop my things in my room.\\nDon't open the gift until I come back!", 
+        "cardStoryMstId": 900042, 
+        "cardMstId": 900022, 
+        "step": 2, 
+        "cardUniqueId": 900012, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Assistant]\\nExcuse me, sir? Who was that just now?\\nOh! Your disciple? No, it should be someone else.\\nBy the way, what's with that box there?\\nIf it's a gift you should open—AH?!\\nN-no... You mustn't look, sir!", 
+        "cardStoryMstId": 900043, 
+        "cardMstId": 900023, 
+        "step": 3, 
+        "cardUniqueId": 900012, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "[Fake Disciple]\\nI told you not to open it.\\nYou know, my brother was fascinated by you. You rejecting his request to learn from you sent him into despair. And then he killed himself.\\nI want to add your head to the collection of disciples and offer it to my brother's grave.\\nIsn't it fun? Oh, I can't wait to dance to the flute from the other world!", 
+        "cardStoryMstId": 900044, 
+        "cardMstId": 900023, 
+        "step": 4, 
+        "cardUniqueId": 900012, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "There once was a very popular circus elephant.\\nIt could walk on a ball, draw, and shake hands with the audience. A very clever elephant indeed.\\nThe circus leader looked into the elephant's eyes.\\n\"You, my friend, are a star.\"", 
+        "cardStoryMstId": 900045, 
+        "cardMstId": 900024, 
+        "step": 1, 
+        "cardUniqueId": 900013, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The circus is in full swing today.\\nIn front of the audience's eyes is the clever elephant.\\nIt walks on the ball, draws pictures, and shakes the audience's hands.\\nThe circus leader looked into the elephant's eyes.\\n\"Thank you for making this day spectacular.\"", 
+        "cardStoryMstId": 900046, 
+        "cardMstId": 900024, 
+        "step": 2, 
+        "cardUniqueId": 900013, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The circus was out of customers.\\nNo one cared about the elephant. It had become old news.\\nThe elephant continued to work in the empty tent.\\nThe circus leader looked into the elephant's eyes.\\n\"It's okay. Don't be so hard on yourself.\"", 
+        "cardStoryMstId": 900047, 
+        "cardMstId": 900025, 
+        "step": 3, 
+        "cardUniqueId": 900013, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "With tears in his eyes, the leader said to the elephant, \"I'm sorry. I'm unable to feed you anymore.\"\\nThe elephant then got up on his ball and let out large roar. The leader's tears were that of joy.\\n\"You really love the circus, don't you?\"\\nThen the elephant trampled on his leader.", 
+        "cardStoryMstId": 900048, 
+        "cardMstId": 900025, 
+        "step": 4, 
+        "cardUniqueId": 900013, 
         "evolutionLevel": 0
     }
 ]

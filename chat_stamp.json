@@ -600,5 +600,19 @@
         "resourceName": "096", 
         "endTime": 1915509600, 
         "itemMstId": 1947
+    }, 
+    {
+        "name": "Snow White/#1", 
+        "isAnytime": 0, 
+        "replaceMessage": "[*900001]", 
+        "filterType": 2, 
+        "startTime": 1608184800, 
+        "howToGet": "SINoALICE Gran Election #1 Winner's Prize", 
+        "createdTime": null, 
+        "assetBundleName": "chat900001", 
+        "chatStampMstId": 900001, 
+        "resourceName": "900001", 
+        "endTime": 1609826399, 
+        "itemMstId": 900176
     }
 ]

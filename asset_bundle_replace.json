@@ -1,1 +1,200 @@
-[]
+[
+    {
+        "assetBundleReplaceMstId": 1, 
+        "afterResourceName": "enemy_spine_prefab_22_03", 
+        "afterAssetBundleName": "enemy_spine_prefab/22/03", 
+        "beforeResourceName": "enemy_spine_prefab_22_01", 
+        "startTime": 1608616800, 
+        "endTime": 1608785999, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/01"
+    }, 
+    {
+        "assetBundleReplaceMstId": 2, 
+        "afterResourceName": "enemy_spine_prefab_22_04", 
+        "afterAssetBundleName": "enemy_spine_prefab/22/04", 
+        "beforeResourceName": "enemy_spine_prefab_22_02", 
+        "startTime": 1608616800, 
+        "endTime": 1608785999, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/02"
+    }, 
+    {
+        "assetBundleReplaceMstId": 3, 
+        "afterResourceName": "enemy_spine_prefab_23_03", 
+        "afterAssetBundleName": "enemy_spine_prefab/23/03", 
+        "beforeResourceName": "enemy_spine_prefab_22_01", 
+        "startTime": 1608786000, 
+        "endTime": 1608958799, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/01"
+    }, 
+    {
+        "assetBundleReplaceMstId": 4, 
+        "afterResourceName": "enemy_spine_prefab_23_04", 
+        "afterAssetBundleName": "enemy_spine_prefab/23/04", 
+        "beforeResourceName": "enemy_spine_prefab_22_02", 
+        "startTime": 1608786000, 
+        "endTime": 1608958799, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/02"
+    }, 
+    {
+        "assetBundleReplaceMstId": 5, 
+        "afterResourceName": "enemy_spine_prefab_22_03", 
+        "afterAssetBundleName": "enemy_spine_prefab/22/03", 
+        "beforeResourceName": "enemy_spine_prefab_22_01", 
+        "startTime": 1608958800, 
+        "endTime": 1609045199, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/01"
+    }, 
+    {
+        "assetBundleReplaceMstId": 6, 
+        "afterResourceName": "enemy_spine_prefab_22_04", 
+        "afterAssetBundleName": "enemy_spine_prefab/22/04", 
+        "beforeResourceName": "enemy_spine_prefab_22_02", 
+        "startTime": 1608958800, 
+        "endTime": 1609045199, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/02"
+    }, 
+    {
+        "assetBundleReplaceMstId": 7, 
+        "afterResourceName": "enemy_spine_prefab_22_05", 
+        "afterAssetBundleName": "enemy_spine_prefab/22/05", 
+        "beforeResourceName": "enemy_spine_prefab_22_01", 
+        "startTime": 1609131600, 
+        "endTime": 1610690399, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/01"
+    }, 
+    {
+        "assetBundleReplaceMstId": 8, 
+        "afterResourceName": "enemy_spine_prefab_22_06", 
+        "afterAssetBundleName": "enemy_spine_prefab/22/06", 
+        "beforeResourceName": "enemy_spine_prefab_22_02", 
+        "startTime": 1609131600, 
+        "endTime": 1610690399, 
+        "beforeAssetBundleName": "enemy_spine_prefab/22/02"
+    }, 
+    {
+        "assetBundleReplaceMstId": 9, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 10, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 11, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "fxm_bannerl/de/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/de/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 12, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "fxm_bannerl/de/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/de/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 13, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "fxm_bannerl/en/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/en/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 14, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "fxm_bannerl/en/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/en/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 15, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "fxm_bannerl/es/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/es/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 16, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "fxm_bannerl/es/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/es/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 17, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "fxm_bannerl/fr/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/fr/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 18, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "fxm_bannerl/fr/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/fr/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 19, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "fxm_bannerl/kr/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/kr/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 20, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "fxm_bannerl/kr/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/kr/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 21, 
+        "afterResourceName": "bannerl89", 
+        "afterAssetBundleName": "fxm_bannerl/th/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl005", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/th/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 22, 
+        "afterResourceName": "bannerl87", 
+        "afterAssetBundleName": "fxm_bannerl/th/banner20210101_campaign_oshogatsu", 
+        "beforeResourceName": "bannerl006", 
+        "startTime": 1609426800, 
+        "endTime": 1610603999, 
+        "beforeAssetBundleName": "fxm_bannerl/th/banner1"
+    }
+]
