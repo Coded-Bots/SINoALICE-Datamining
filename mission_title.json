@@ -36,8 +36,8 @@
         "title": "Act of Reality Release Celebration Missions"
     }, 
     {
-        "endTime": 1611622799, 
-        "startTime": 1609999200, 
+        "endTime": 1615787999, 
+        "startTime": 1613973600, 
         "missionTitleMstId": 11, 
         "title": "Prison of the Abyss"
     }, 
@@ -120,6 +120,12 @@
         "title": "\"Dreams Under Missing Pages\" Mission"
     }, 
     {
+        "endTime": 1614837599, 
+        "startTime": 1613624400, 
+        "missionTitleMstId": 641, 
+        "title": "Lullaby of Reincarnation Mission"
+    }, 
+    {
         "endTime": 1603774799, 
         "startTime": 1603173600, 
         "missionTitleMstId": 900001, 
@@ -166,5 +172,17 @@
         "startTime": 1422234000, 
         "missionTitleMstId": 900008, 
         "title": "Key of Infinite Gears Mission"
+    }, 
+    {
+        "endTime": 1614488399, 
+        "startTime": 1614402000, 
+        "missionTitleMstId": 900009, 
+        "title": "End of Month Global Missions"
+    }, 
+    {
+        "endTime": 1614574799, 
+        "startTime": 1613973600, 
+        "missionTitleMstId": 900010, 
+        "title": "End of Month Global Daily Missions"
     }
 ]

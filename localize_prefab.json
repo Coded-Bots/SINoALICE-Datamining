@@ -266,15 +266,15 @@
         "TLM": 19228
     }, 
     {
-        "FR": "[Invocateur] : le seul, l'unique, MOI !", 
-        "EN": "Summoner: The one-and-only me!", 
+        "FR": "", 
+        "EN": "", 
         "GameKey": "PREFAB/0379", 
-        "DE": "Beschwörer: Das einmalige Ich!", 
+        "DE": "", 
         "JP": "[召喚者]おれさま", 
         "VN": "Triệu hoán sư: Mình ta độc tôn!", 
-        "KR": "[소환자] 이 몸", 
-        "ES": "Invocador: ¡El único e inigualable yo!", 
-        "TH": "ฉันคนนี้\"ผู้เรียก\"", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
         "Type": 0, 
         "id": 20, 
         "TLM": 19229
@@ -7862,7 +7862,7 @@
         "VN": "Thay đổi bộ trang bị", 
         "KR": "장비 세트 변경", 
         "ES": "Cambiar set de equipos", 
-        "TH": "เปลี่ยนเซ็ทอุปกรณ์", 
+        "TH": "เปลี่ยนเซ็ตอุปกรณ์", 
         "Type": 0, 
         "id": 562, 
         "TLM": 19771
@@ -16310,15 +16310,15 @@
         "TLM": 50710
     }, 
     {
-        "FR": "PASSER", 
-        "EN": "SKIP", 
+        "FR": "Passer", 
+        "EN": "Skip", 
         "GameKey": "PREFAB", 
-        "DE": "Skip", 
+        "DE": "Überspringen", 
         "JP": "SKIP", 
         "VN": "", 
         "KR": "스킵", 
-        "ES": "SALTAR", 
-        "TH": "SKIP", 
+        "ES": "Omitir", 
+        "TH": "ข้าม", 
         "Type": 0, 
         "id": 1166, 
         "TLM": 50914

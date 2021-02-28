@@ -9359,7 +9359,7 @@
         "JP": "Next", 
         "VN": "\"VN\": null", 
         "KR": "다음", 
-        "ES": "Siguiente", 
+        "ES": "Seguir", 
         "TH": "ต่อไป", 
         "Type": 0, 
         "id": 669, 
@@ -10235,9 +10235,9 @@
     }, 
     {
         "FR": "Message automatique dans le chat de guilde lors de l'acquisition d'un équipement SR avec un Grimoire.", 
-        "EN": "A message will be automatically posted in the chat when you acquire an SR weapon from the grimoire", 
+        "EN": "A message will be automatically posted in the chat when you acquire an SR weapon from a grimoire.", 
         "GameKey": "SCENE", 
-        "DE": "Wenn SR-Ausrüstung über ein Grimoire erhalten wird, wird dies automatisch im Gilden Chat gepostet.", 
+        "DE": "Wenn SR-Ausrüstung durch ein Grimoire erhalten wird, wird dies automatisch im Gildenchat gepostet.", 
         "JP": "ガチャでSR装備を獲得した時に、ギルドチャットに自動で投稿します。", 
         "VN": "", 
         "KR": "뽑기에서 SR 장비 획득 시 길드 채팅에 자동으로 게시됩니다.", 
@@ -10246,5 +10246,47 @@
         "Type": 0, 
         "id": 732, 
         "TLM": 51696
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "", 
+        "JP": "今回のルール", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 733, 
+        "TLM": 51716
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "", 
+        "JP": "ルール詳細", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 734, 
+        "TLM": 51717
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "", 
+        "JP": "全ギルド獲得イノチ", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 735, 
+        "TLM": 51718
     }
 ]

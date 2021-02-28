@@ -541,6 +541,28 @@
     {
         "mapCategory": 0, 
         "mapGroupLv": 1, 
+        "name": "The Perfect Trio", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 86, 
+        "createdTime": 1483974000, 
+        "mapGroup": 51, 
+        "description": "March Armor Event"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 2, 
+        "name": "The Perfect Trio (Hard)", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 87, 
+        "createdTime": 1483974000, 
+        "mapGroup": 51, 
+        "description": "March Armor Event"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
         "name": "End of the Dreary World", 
         "announceUrl": "/web/announce/body?announceMstId=565&&isHideBackButton=1", 
         "mapType": 1, 
@@ -757,6 +779,28 @@
         "createdTime": 1483974000, 
         "mapGroup": 145, 
         "description": "Tutorial Quest"
+    }, 
+    {
+        "mapCategory": 3, 
+        "mapGroupLv": 1, 
+        "name": "Lullaby of Reincarnation", 
+        "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 450, 
+        "createdTime": 1483974000, 
+        "mapGroup": 282, 
+        "description": "That Time I Got Reincarnated as a Slime Collab (Normal)"
+    }, 
+    {
+        "mapCategory": 3, 
+        "mapGroupLv": 2, 
+        "name": "Lullaby of Reincarnation (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 451, 
+        "createdTime": 1483974000, 
+        "mapGroup": 282, 
+        "description": "That Time I Got Reincarnated as a Slime Collab (Hard)"
     }, 
     {
         "mapCategory": 0, 

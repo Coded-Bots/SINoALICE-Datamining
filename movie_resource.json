@@ -735,6 +735,27 @@
         "condition": 1
     }, 
     {
+        "museumEndTime": 1614833999, 
+        "museumTermText": "Bug if No Conditions shows", 
+        "thumbAssetBundleName": "museumthumbnail/253", 
+        "museumTermType": 0, 
+        "isMuseum": 1, 
+        "type": 2, 
+        "vibStartTime": -1.0, 
+        "movieResourceMstId": 257, 
+        "value": 0, 
+        "museumTermId": 0, 
+        "museumStartTime": 1613624400, 
+        "isPreDownLoad": 0, 
+        "thumbResourceName": "Reveal_Collabo_tensura", 
+        "canNotDeleteLocal": 0, 
+        "startTime": 1613624400, 
+        "resourceName": "Reveal_Collabo_Tensura", 
+        "endTime": 1614833999, 
+        "movieTitle": "Lullaby of Reincarnation", 
+        "condition": 1
+    }, 
+    {
         "museumEndTime": 1924959599, 
         "museumTermText": "憎悪篇四章十節クリア", 
         "thumbAssetBundleName": "museumthumbnail/29", 
