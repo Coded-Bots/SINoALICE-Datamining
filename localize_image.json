@@ -3164,7 +3164,7 @@
         "TLM": 325
     }, 
     {
-        "FR": "Sous-ensemble", 
+        "FR": "Sous-ens.", 
         "EN": "Sub-Set", 
         "GameKey": "Image/0227", 
         "DE": "Zweitset", 
@@ -3850,7 +3850,7 @@
         "TLM": 22471
     }, 
     {
-        "FR": "Points totaux", 
+        "FR": "Pts totaux", 
         "EN": "Total Points", 
         "GameKey": "Image/0276", 
         "DE": "Gesamtpunktzahl", 

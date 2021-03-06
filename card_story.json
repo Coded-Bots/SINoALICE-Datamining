@@ -13824,6 +13824,38 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "The ocean's depths are uncharted territory!\\nBut with this specially-made diving suit, I could dive 250,000 miles into its depths without breaking a sweat.\\nHere, let me give you the grand tour!", 
+        "cardStoryMstId": 1893, 
+        "cardMstId": 1734, 
+        "step": 1, 
+        "cardUniqueId": 835, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I've perfected its heat-resistance with the assistance of my ever-so-helpful test subject.\\nWhy, I'm quite sure that not even bubbling magma could faze me now!", 
+        "cardStoryMstId": 1894, 
+        "cardMstId": 1734, 
+        "step": 2, 
+        "cardUniqueId": 835, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "I didn't cut corners on the shock-resistance, either.\\nI could crash into a giant tuna fish at the speed of sound, and I'd only have to flick bits of tuna off my suit!", 
+        "cardStoryMstId": 1895, 
+        "cardMstId": 1735, 
+        "step": 3, 
+        "cardUniqueId": 835, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The only thing is, well...\\nI suppose I don't have to spell it out for you to figure out the fatal flaw in its design, do I?", 
+        "cardStoryMstId": 1896, 
+        "cardMstId": 1735, 
+        "step": 4, 
+        "cardUniqueId": 835, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "The spearman made his way to challenge the water serpent of the lake. They fought and fought, evenly matched, until the spearman launched himself—spear, man, and all—into the serpent's great maw in a last act of desperation.\\nMan and snake alike sank into the water's depths, and neither emerged for some time.", 
         "cardStoryMstId": 1897, 
         "cardMstId": 1736, 
@@ -13885,6 +13917,38 @@
         "cardMstId": 1739, 
         "step": 4, 
         "cardUniqueId": 837, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "He only loved that which was flawed. The crescent moon was far more alluring in his eyes than its full counterpart; falling flower petals moved him far more than their full bloom, and naturally, nothing stole his heart as a flawed woman could.", 
+        "cardStoryMstId": 1905, 
+        "cardMstId": 1740, 
+        "step": 1, 
+        "cardUniqueId": 838, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "It came as no surprise that the man's proclivities disgusted his peers, yet he couldn't bear to lie to himself. \"I like what I like,\" he insisted, and left it at that.", 
+        "cardStoryMstId": 1906, 
+        "cardMstId": 1740, 
+        "step": 2, 
+        "cardUniqueId": 838, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, a woman who had been chased from her village after catching the latest endemic, came to call on the man, presumably hearing rumors of his eclectic tastes. She stared him in the eye and sliced off her own hand, saying, \"I will suit whatever tastes you might have. I beg you, give me shelter in return.\"", 
+        "cardStoryMstId": 1907, 
+        "cardMstId": 1741, 
+        "step": 3, 
+        "cardUniqueId": 838, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The man lifted a hand to the woman's cheek as she cried tears of pain. \"There's no need for that,\" he said gently. \"Your heart is imperfect as it is.\" And it was true, for the woman's heart bore deep scars from being driven from her village. Tragically, however, the local blacksmith assumed that the man had forced the sheltering woman to maim herself for him, then bludgeoned him to death in retaliation.", 
+        "cardStoryMstId": 1908, 
+        "cardMstId": 1741, 
+        "step": 4, 
+        "cardUniqueId": 838, 
         "evolutionLevel": 0
     }, 
     {
@@ -14045,6 +14109,38 @@
         "cardMstId": 1914, 
         "step": 4, 
         "cardUniqueId": 910, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Deep in the forest, lush with foliage, lived a deeply avaricious serpent.\\nThe serpent devoured all who dared enter the forest.\\nTheir bodies, their weapons, treasures, grudges, angers, and sorrows, all.\\nThe serpent's stomach began to fill, bit by bit.\\nThese treasures became a corrosive poison within the serpent over time, but it continued to eat its fill.\\nIt attacked relentlessly. All it had to give in return was one thing...", 
+        "cardStoryMstId": 1933, 
+        "cardMstId": 1931, 
+        "step": 1, 
+        "cardUniqueId": 919, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One day, a weapon-smith entered the forest.\\nHe knew full well that none who entered had ever returned.\\nThat did not concern him; in fact, quite the opposite.\\nHe had fallen prey to a devious, greedy band that had stolen all that he had once held dear. He knew there was no one left to mourn his passing.\\nAnd so, he soldiered onward into the forest, coming face to face with the serpent.", 
+        "cardStoryMstId": 1934, 
+        "cardMstId": 1931, 
+        "step": 2, 
+        "cardUniqueId": 919, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"What have you come here in search of?\"\\n\"I've come for death.\"\\nHearing the man's response, the serpent realized something it did not yet have.\\n\"I, too, wish for death. If you give me mine, I shall give you a special poison.\"\\nThe man pondered a moment, then nodded.", 
+        "cardStoryMstId": 1935, 
+        "cardMstId": 1932, 
+        "step": 3, 
+        "cardUniqueId": 919, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The man struck the serpent down and created a spear from its bone and fang, both coated with the serpent's corrosive poison.\\nThe man took his newly-crafted spear in hand and used it to deliver death upon the people who stole the world from him.\\nHis last act after exacting his revenge was to plunge the spear into his throat, ending his own life.\\nThe spear, made from the bones of a serpent that devoured all it encountered, visits death upon all those who live.\\nThe only thing it grants is...", 
+        "cardStoryMstId": 1936, 
+        "cardMstId": 1932, 
+        "step": 4, 
+        "cardUniqueId": 919, 
         "evolutionLevel": 0
     }, 
     {
@@ -14653,6 +14749,38 @@
         "cardMstId": 2207, 
         "step": 4, 
         "cardUniqueId": 1039, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "That king was an arrogant and narrow-minded man who was hated by his people.\\nOne day, a man was thrown into jail for being a suspected spy.\\nWhen a government official saw how elegant and refined the man's demeanor was, he informed the king, who decided to speak to the man in person.\\nThen, the king noticed it. That man was a world-renowned violinist.", 
+        "cardStoryMstId": 2329, 
+        "cardMstId": 2320, 
+        "step": 1, 
+        "cardUniqueId": 1088, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "However much the king interrogated him, though, the man did not admit to being that violinist.\\nThe king secretly thought to himself, \"he's trying to sell himself and his songs for a high price, isn't he?\" And so, he suggested to the man, \"if you play a single one of your songs for me, I will set you free.\"", 
+        "cardStoryMstId": 2330, 
+        "cardMstId": 2320, 
+        "step": 2, 
+        "cardUniqueId": 1088, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The violinist held his violin and made his bow run over its strings.\\nUpon hearing him perform his overture, with its overwhelming sense of presence, the king and his retainers were deeply moved.\\nHowever, the violinist suddenly stopped playing and said, \"the rest of this movement is pure silence. It cannot be heard by fools. Ha ha ha!\"", 
+        "cardStoryMstId": 2331, 
+        "cardMstId": 2321, 
+        "step": 3, 
+        "cardUniqueId": 1088, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Infuriated, the king said \"I will punish you for this stupid musical joke!\" and killed the violinist himself right there and then.\\nAt that moment, a messenger from the emperor arrived and his words sent shivers down the king's spine.\\n\"A message from the emperor. It reads, I personally invited that violinist to visit you. I hope you have given him a warm and cordial welcome.\"", 
+        "cardStoryMstId": 2332, 
+        "cardMstId": 2321, 
+        "step": 4, 
+        "cardUniqueId": 1088, 
         "evolutionLevel": 0
     }, 
     {

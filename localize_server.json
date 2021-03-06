@@ -20914,5 +20914,33 @@
         "Type": 0, 
         "id": 1494, 
         "TLM": 51715
+    }, 
+    {
+        "FR": "3e", 
+        "EN": "3rd", 
+        "GameKey": "ServerData/config.ColosseumSP.Title1", 
+        "DE": "3.", 
+        "JP": "第三回", 
+        "VN": "", 
+        "KR": "제3회", 
+        "ES": "3º", 
+        "TH": "ครั้งที่สาม", 
+        "Type": 0, 
+        "id": 1495, 
+        "TLM": 51722
+    }, 
+    {
+        "FR": "*4 invoc. de démons. Un vrai festival.\\n*Dégâts énormes avec amélio. des pts totaux.\\nProfitons du festival.", 
+        "EN": "*4 demons appear\\n*Boosted points & damage\\n*Have fun!", 
+        "GameKey": "ServerData/config.ColosseumSP.Comment1", 
+        "DE": "*Der Dämon taucht 4 Mal auf. Ein wahres Dämonen Festival.\\n*Eine Superverstärkung und Festlegung des Gesamtwerts aller Mitglieder verursacht enormen Schaden.\\n*Viel spaß beim Festival.", 
+        "JP": "※神魔が4カイ現レマス。神魔ダラケのオマツリデス\\n※メンバー全員の総合値ヲ超強化&固定化でトンデモダメージ\\n※全力でオマツリを楽シミマショウ", 
+        "VN": "", 
+        "KR": "※신마가 4번 등장합니다. 신마투성이 축제입니다.\\n※모든 길드원의 전투력을 초강화&고정화하면 강력한 대미지.\\n※온 힘을 다해 축제를 즐겨 보세요.", 
+        "ES": "*Aparecerán cuatro dioses. Es un festival lleno de dioses y demonios\\n*El valor total de todos los miembros está altamente reforzado y preparado para causar un daño tremendo\\n*Disfrutemos todos de este festival", 
+        "TH": "*ปิศาจจะปรากฏ4ครั้ง อย่างกับเป็นเทศกาลปิศาจ\\n*อัพเกรด&คงที่ค่ารวมสมาชิกทุกคน ทำให้DMGสุดยอด\\n*สนุกกับงานเทศกาลให้เต็มที่เลยนะ", 
+        "Type": 0, 
+        "id": 1496, 
+        "TLM": 51723
     }
 ]

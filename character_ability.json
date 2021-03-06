@@ -8760,6 +8760,126 @@
         "cardDetailType": 4
     }, 
     {
+        "name": "Staff +30% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1025, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1026, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1027, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1028, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1029, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1030, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1031, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1032, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1033, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1034, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1035, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1036, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 84, 
+        "cardDetailType": 4
+    }, 
+    {
         "name": "Staff +10% (Clam-digging+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
