@@ -563,6 +563,17 @@
     {
         "mapCategory": 0, 
         "mapGroupLv": 1, 
+        "name": "Hatred's Curse", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 88, 
+        "createdTime": 1483974000, 
+        "mapGroup": 52, 
+        "description": "March Conquest Event"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
         "name": "End of the Dreary World", 
         "announceUrl": "/web/announce/body?announceMstId=565&&isHideBackButton=1", 
         "mapType": 1, 

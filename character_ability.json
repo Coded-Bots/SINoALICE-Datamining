@@ -8760,6 +8760,126 @@
         "cardDetailType": 4
     }, 
     {
+        "name": "Blade +30% (Pinocchio+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1013, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1014, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1015, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1016, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Pinocchio+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1017, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1018, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1019, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1020, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Pinocchio+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1021, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1022, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +200", 
+        "effectType": 3, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1023, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +200", 
+        "effectType": 3, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1024, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 83, 
+        "cardDetailType": 5
+    }, 
+    {
         "name": "Staff +30% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
@@ -10198,6 +10318,126 @@
         "effectValue": 200, 
         "characterMstId": 107, 
         "cardDetailType": 3
+    }, 
+    {
+        "name": "Instrument +30% (Little Mermaid+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1391, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 114, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Tome -25%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1392, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 114, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Staff -25%", 
+        "effectType": 6, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1393, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 114, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Tome -25%", 
+        "effectType": 6, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1394, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 114, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Staff -25%", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1395, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 114, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Tome -25%", 
+        "effectType": 6, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1396, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 114, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Staff -25%", 
+        "effectType": 6, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1397, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 114, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Instrument +15%", 
+        "effectType": 6, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1398, 
+        "skillType": 2, 
+        "effectValue": 15, 
+        "characterMstId": 114, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +500", 
+        "effectType": 3, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1399, 
+        "skillType": 1, 
+        "effectValue": 500, 
+        "characterMstId": 114, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +15% (Little Mermaid+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1400, 
+        "skillType": 2, 
+        "effectValue": 15, 
+        "characterMstId": 114, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +500", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1401, 
+        "skillType": 1, 
+        "effectValue": 500, 
+        "characterMstId": 114, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +5% (Little Mermaid+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1402, 
+        "skillType": 2, 
+        "effectValue": 5, 
+        "characterMstId": 114, 
+        "cardDetailType": 1
     }, 
     {
         "name": "Polearm +30% (Three Little Pigs+ stages)", 

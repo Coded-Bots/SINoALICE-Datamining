@@ -184,5 +184,11 @@
         "startTime": 1613973600, 
         "missionTitleMstId": 900010, 
         "title": "End of Month Global Daily Missions"
+    }, 
+    {
+        "endTime": 2143292399, 
+        "startTime": 1615266000, 
+        "missionTitleMstId": 900011, 
+        "title": "Revival Mission"
     }
 ]

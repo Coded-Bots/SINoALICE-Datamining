@@ -276,6 +276,18 @@
         "pickupSkillType": 1
     }, 
     {
+        "loginBonusMstId": 130, 
+        "assetBundleName": "", 
+        "title": "Welcome Back Login Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 5, 
+        "startTime": 1615266000, 
+        "resourceName": "1", 
+        "endTime": 2145884399, 
+        "pickupSkillType": 1
+    }, 
+    {
         "loginBonusMstId": 304, 
         "assetBundleName": "", 
         "title": "Event Bonus", 

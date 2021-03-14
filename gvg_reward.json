@@ -3159,6 +3159,32 @@
         "objectType": 1
     }, 
     {
+        "comment": "Colosseum 888 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 9, 
+        "createdTime": null, 
+        "num": 9, 
+        "result": 5, 
+        "startTime": 1615698000, 
+        "gvgRewardMstId": 1006, 
+        "endTime": 1616389199, 
+        "objectType": 1
+    }, 
+    {
+        "comment": "Colosseum 999 Combo Rewards", 
+        "objectId": 2, 
+        "rank": 9, 
+        "rewardType": 9, 
+        "createdTime": null, 
+        "num": 12, 
+        "result": 6, 
+        "startTime": 1615698000, 
+        "gvgRewardMstId": 1007, 
+        "endTime": 1616389199, 
+        "objectType": 1
+    }, 
+    {
         "comment": "X-mas Special Colosseum 13-15 Participants Rewards", 
         "objectId": 0, 
         "rank": 9, 

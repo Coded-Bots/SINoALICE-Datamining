@@ -3385,6 +3385,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Hatred's Curse", 
+        "collectItemId": 0, 
+        "questAreaMstId": 248, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 88, 
+        "assetBundleName": "questareabackground/21", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0021", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "End of the Dreary World", 
         "collectItemId": 490, 
         "questAreaMstId": 249, 

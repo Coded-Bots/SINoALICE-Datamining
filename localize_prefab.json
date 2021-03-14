@@ -17120,5 +17120,33 @@
         "Type": 0, 
         "id": 1223, 
         "TLM": 51542
+    }, 
+    {
+        "FR": "Objets obtenus", 
+        "EN": "Item Acquired", 
+        "GameKey": "PREFAB", 
+        "DE": "Items erhalten", 
+        "JP": "アイテム獲得", 
+        "VN": "", 
+        "KR": "아이템 획득", 
+        "ES": "Obt. Objeto(s)", 
+        "TH": "ได้รับไอเท็ม", 
+        "Type": 0, 
+        "id": 1224, 
+        "TLM": 51728
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "PREFAB", 
+        "DE": "", 
+        "JP": "獲得済", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1225, 
+        "TLM": 51740
     }
 ]
