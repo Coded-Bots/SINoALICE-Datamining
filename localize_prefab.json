@@ -9961,7 +9961,7 @@
         "JP": "魔晶石を獲得しました。", 
         "VN": "Bạn vừa nhận được Pha lê chạng vạng.\\\\nVật phẩm này được gửi tới Hộp quà của bạn.", 
         "KR": "마정석을 획득하였습니다.", 
-        "ES": "Has recibido un cristal del ocaso.", 
+        "ES": "Has recibido cristales del ocaso.", 
         "TH": "ได้รับคริสตัลสนธยา", 
         "Type": 0, 
         "id": 712, 
@@ -17136,17 +17136,31 @@
         "TLM": 51728
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "Obtenu", 
+        "EN": "Received", 
         "GameKey": "PREFAB", 
-        "DE": "", 
+        "DE": "Erhalten", 
         "JP": "獲得済", 
         "VN": "", 
-        "KR": "", 
-        "ES": "", 
-        "TH": "", 
+        "KR": "획득 완료", 
+        "ES": "Obtenido", 
+        "TH": "ได้รับแล้ว", 
         "Type": 0, 
         "id": 1225, 
         "TLM": 51740
+    }, 
+    {
+        "FR": "Vous pouvez choisir l'une des récompenses suivantes :", 
+        "EN": "Can choose 1 of the following rewards", 
+        "GameKey": "PREFAB", 
+        "DE": "Wähle eine der folgenden Belohnungen aus:", 
+        "JP": "以下の報酬からひとつ選ぶことができます", 
+        "VN": "", 
+        "KR": "아래 보상 중 하나를 선택할 수 있습니다.", 
+        "ES": "Se podrá elegir una recompensas de las siguientes", 
+        "TH": "สามารถเลือกได้หนึ่งรางวัลจากต่อไปนี้", 
+        "Type": 0, 
+        "id": 1226, 
+        "TLM": 51743
     }
 ]

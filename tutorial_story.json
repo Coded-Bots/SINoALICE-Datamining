@@ -697,7 +697,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "At last, it's time to unlock\\n a new power!", 
+        "storyText": "At last, it's time to unlock a new power!", 
         "tutorialStoryMstId": 168, 
         "objectId": 32, 
         "characterType": 1, 
@@ -709,7 +709,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "You can take up to three of these powers\\n into the Colosseum!", 
+        "storyText": "You can take up to three of these powers into the Colosseum!", 
         "tutorialStoryMstId": 169, 
         "objectId": 32, 
         "characterType": 2, 
@@ -733,7 +733,7 @@
     }, 
     {
         "isStop": 0, 
-        "storyText": "Now, take this power and go\\n gather lots of lifeforce!", 
+        "storyText": "Now, take this power and go gather lots of lifeforce!", 
         "tutorialStoryMstId": 174, 
         "objectId": 32, 
         "characterType": 2, 

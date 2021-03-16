@@ -20249,6 +20249,23 @@
     {
         "category": 3, 
         "sp": 0, 
+        "name": "Recover M.DEF (II)", 
+        "type": 501, 
+        "attackEffect": 0, 
+        "primaryIcon": 0, 
+        "skillMstId": 2517, 
+        "rangeIcon": 0, 
+        "secondaryIcon": 0, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "own", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 1, 
+        "description": "Chance to increase M.DEF of 1 ally in the vanguard when restoring HP."
+    }, 
+    {
+        "category": 3, 
+        "sp": 0, 
         "name": "Destroy Weapon (II)", 
         "type": 518, 
         "attackEffect": 0, 
@@ -24953,7 +24970,7 @@
         "typeLabel": "multiple enemies", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great M.DMG to 1 or 2 enemies.\\nIncreases effectiveness when the summon skill \"For Whom The Bell Splashes\" is activated."
+        "description": "Deals great M.DMG to 1 or 2 enemies.\\nIncreases effectiveness when ally activates the summon skill \"For Whom The Bell Splashes\"."
     }, 
     {
         "category": 4, 
@@ -24970,7 +24987,7 @@
         "typeLabel": "multiple enemies", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great M.DMG to 1 or 2 enemies.\\nIncreases effectiveness when the summon skill \"For Whom The Bell Splashes\" is activated."
+        "description": "Deals great M.DMG to 1 or 2 enemies.\\nIncreases effectiveness when ally activates the summon skill \"For Whom The Bell Splashes\"."
     }, 
     {
         "category": 4, 
