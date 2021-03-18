@@ -783,6 +783,28 @@
     {
         "mapCategory": 0, 
         "mapGroupLv": 1, 
+        "name": "Campout Cuisine", 
+        "announceUrl": "/web/announce/body?announceMstId=2891&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 197, 
+        "createdTime": 1483974000, 
+        "mapGroup": 116, 
+        "description": "春キャンNormal"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 2, 
+        "name": "Campout Cuisine (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=2891&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 198, 
+        "createdTime": 1483974000, 
+        "mapGroup": 116, 
+        "description": "春キャンHard"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
         "name": "Study Hall Parrah-Noya Style!", 
         "announceUrl": "", 
         "mapType": 1, 

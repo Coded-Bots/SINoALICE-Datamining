@@ -420,6 +420,20 @@
         "description": "Medal from a collaboration grimoire."
     }, 
     {
+        "name": "Camp Medal", 
+        "startTime": 1616047200, 
+        "priority": 43, 
+        "isDeleted": false, 
+        "assetBundleName": "1109", 
+        "resourceName": "item20210318_medal_tenmaku", 
+        "wayToGet": "Earned by playing an event.", 
+        "endTime": 1617861599, 
+        "medalTradeSeriesMstId": 79, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 1109, 
+        "description": "Medal collected by Parrah-Noya."
+    }, 
+    {
         "name": "Magic-seal Mask Medal", 
         "startTime": 1613624400, 
         "priority": 43, 

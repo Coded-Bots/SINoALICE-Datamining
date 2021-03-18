@@ -10248,6 +10248,48 @@
         "TLM": 51696
     }, 
     {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "Gilde gesucht", 
+        "JP": "ギルド募集", 
+        "VN": "", 
+        "KR": "길드 모집", 
+        "ES": "", 
+        "TH": "รับสมัครกิลด์", 
+        "Type": 0, 
+        "id": 733, 
+        "TLM": 51712
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "Mitglieder gesucht", 
+        "JP": "メンバー募集", 
+        "VN": "", 
+        "KR": "길드원 모집", 
+        "ES": "", 
+        "TH": "รับสมัครสมาชิก", 
+        "Type": 0, 
+        "id": 734, 
+        "TLM": 51713
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "Tritt einer Gilde bei", 
+        "JP": "ギルド加入希望", 
+        "VN": "", 
+        "KR": "길드 가입 희망", 
+        "ES": "", 
+        "TH": "ต้องการเข้าร่วมกิลด์", 
+        "Type": 0, 
+        "id": 735, 
+        "TLM": 51714
+    }, 
+    {
         "FR": "Règles cette fois-ci", 
         "EN": "Rules for This Event", 
         "GameKey": "SCENE", 
@@ -10258,7 +10300,7 @@
         "ES": "Reglas actuales", 
         "TH": "กติกาในครั้งนี้", 
         "Type": 0, 
-        "id": 733, 
+        "id": 736, 
         "TLM": 51716
     }, 
     {
@@ -10272,7 +10314,7 @@
         "ES": "Detalles de las reglas", 
         "TH": "รายละเอียดกติกา", 
         "Type": 0, 
-        "id": 734, 
+        "id": 737, 
         "TLM": 51717
     }, 
     {
@@ -10286,7 +10328,21 @@
         "ES": "Fuerza vital adquirida por todos los gremios", 
         "TH": "พลังชีวิตที่ได้รับของทุกกิลด์", 
         "Type": 0, 
-        "id": 735, 
+        "id": 738, 
         "TLM": 51718
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "SCENE", 
+        "DE": "", 
+        "JP": "投稿", 
+        "VN": "", 
+        "KR": "게시하기", 
+        "ES": "", 
+        "TH": "โพสต์", 
+        "Type": 0, 
+        "id": 739, 
+        "TLM": 51711
     }
 ]
