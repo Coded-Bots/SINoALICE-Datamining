@@ -760,6 +760,17 @@
     }, 
     {
         "mapCategory": 0, 
+        "mapGroupLv": 2, 
+        "name": "Act of Reality", 
+        "announceUrl": "", 
+        "mapType": 0, 
+        "questMapMstId": 173, 
+        "createdTime": 1483974000, 
+        "mapGroup": 3, 
+        "description": "Story of Reality (Hard)"
+    }, 
+    {
+        "mapCategory": 0, 
         "mapGroupLv": 1, 
         "name": "Dreams Under Missing Pages", 
         "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1", 

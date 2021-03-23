@@ -2143,14 +2143,14 @@
     }, 
     {
         "FR": "150 % d'EXP !", 
-        "EN": "+ 50% EXP!", 
+        "EN": "1.5x EXP!", 
         "GameKey": "Image/0154", 
         "DE": "EXP x1,5!", 
         "JP": "EXP 1.5倍！", 
         "VN": "150% EXP!", 
         "KR": "EXP 1.5배!", 
         "ES": "¡150% EXP !", 
-        "TH": "EXP1.5เท่า!", 
+        "TH": "EXP 1.5เท่า!", 
         "Type": 0, 
         "id": 154, 
         "TLM": 253
@@ -4716,5 +4716,19 @@
         "Type": 0, 
         "id": 337, 
         "TLM": 51183
+    }, 
+    {
+        "FR": "200 % d'EXP !", 
+        "EN": "2x EXP!", 
+        "GameKey": "Image", 
+        "DE": "EXP x2!", 
+        "JP": "EXP 2倍！", 
+        "VN": "", 
+        "KR": "EXP 2배!", 
+        "ES": "¡Doble EXP!", 
+        "TH": "EXP 2เท่า!", 
+        "Type": 0, 
+        "id": 338, 
+        "TLM": 51762
     }
 ]

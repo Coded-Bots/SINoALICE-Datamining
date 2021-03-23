@@ -6720,6 +6720,86 @@
         "cardDetailType": 1
     }, 
     {
+        "name": "Blade +10% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 707, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 1, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Cost +2", 
+        "effectType": 7, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 708, 
+        "skillType": 1, 
+        "effectValue": 2, 
+        "characterMstId": 1, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Snow White+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 709, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 2, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Cost +2", 
+        "effectType": 7, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 710, 
+        "skillType": 1, 
+        "effectValue": 2, 
+        "characterMstId": 2, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Heavy +10% (Red Riding Hood+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 711, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 3, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Cost +2", 
+        "effectType": 7, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 712, 
+        "skillType": 1, 
+        "effectValue": 2, 
+        "characterMstId": 3, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Pinocchio+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 713, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 5, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Cost +2", 
+        "effectType": 7, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 714, 
+        "skillType": 1, 
+        "effectValue": 2, 
+        "characterMstId": 5, 
+        "cardDetailType": 6
+    }, 
+    {
         "name": "Heavy +50% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
