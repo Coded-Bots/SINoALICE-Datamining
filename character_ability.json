@@ -10880,6 +10880,126 @@
         "cardDetailType": 4
     }, 
     {
+        "name": "Polearm +30% (Gretel+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1565, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1566, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1567, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1568, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10% (Gretel+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1569, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1570, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1571, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1572, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10% (Gretel+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1573, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1574, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1575, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1576, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 124, 
+        "cardDetailType": 8
+    }, 
+    {
         "name": "Heavy +50% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 

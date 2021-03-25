@@ -21166,5 +21166,61 @@
         "Type": 0, 
         "id": 1512, 
         "TLM": 51761
+    }, 
+    {
+        "FR": "Niv. Classe", 
+        "EN": "CLv.", 
+        "GameKey": "Server/common.label.skillJobLevel", 
+        "DE": "Klassen St.", 
+        "JP": "JLv.", 
+        "VN": "", 
+        "KR": "JLv.", 
+        "ES": "Nv. de clase", 
+        "TH": "JLv", 
+        "Type": 0, 
+        "id": 1513, 
+        "TLM": 51764
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "Server/error.900001", 
+        "DE": "", 
+        "JP": "1日に作成可能なスレッド数は1件までです。", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1514, 
+        "TLM": 51767
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "Server/error.900002", 
+        "DE": "", 
+        "JP": "ギルドに所属していないため投稿できません。", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1515, 
+        "TLM": 51768
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "Server/error.900003", 
+        "DE": "", 
+        "JP": "ギルドマスターもしくはサブマスターの権限がないため投稿できません。", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1516, 
+        "TLM": 51769
     }
 ]

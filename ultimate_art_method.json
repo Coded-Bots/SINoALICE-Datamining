@@ -10798,5 +10798,53 @@
         "startTime": null, 
         "methodTypeId": 1, 
         "endTime": null
+    }, 
+    {
+        "ultimateArtMethodMstId": 3476, 
+        "element1": 3, 
+        "element2": 1, 
+        "element3": 2, 
+        "element4": 0, 
+        "description": " Use 50 times to successfully summon.", 
+        "needCount": 50, 
+        "startTime": null, 
+        "methodTypeId": 1, 
+        "endTime": null
+    }, 
+    {
+        "ultimateArtMethodMstId": 3477, 
+        "element1": 6, 
+        "element2": 7, 
+        "element3": 8, 
+        "element4": 0, 
+        "description": " Use 50 times to successfully summon.", 
+        "needCount": 50, 
+        "startTime": null, 
+        "methodTypeId": 1, 
+        "endTime": null
+    }, 
+    {
+        "ultimateArtMethodMstId": 3478, 
+        "element1": 8, 
+        "element2": 5, 
+        "element3": 1, 
+        "element4": 0, 
+        "description": " Use 50 times to successfully summon.", 
+        "needCount": 50, 
+        "startTime": null, 
+        "methodTypeId": 1, 
+        "endTime": null
+    }, 
+    {
+        "ultimateArtMethodMstId": 3479, 
+        "element1": 5, 
+        "element2": 3, 
+        "element3": 4, 
+        "element4": 0, 
+        "description": " Use 50 times to successfully summon.", 
+        "needCount": 50, 
+        "startTime": null, 
+        "methodTypeId": 1, 
+        "endTime": null
     }
 ]
