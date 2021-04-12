@@ -2200,7 +2200,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Gretel+ stages", 
+        "name": "Instrument +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 5, 
         "characterAbilityMstId": 221, 
@@ -2240,7 +2240,7 @@
         "cardDetailType": 1
     }, 
     {
-        "name": "Instrument +10% (Gretel+ stages", 
+        "name": "Instrument +10% (Gretel+ stages)", 
         "effectType": 6, 
         "releaseLevel": 9, 
         "characterAbilityMstId": 225, 
@@ -9440,6 +9440,126 @@
         "cardDetailType": 2
     }, 
     {
+        "name": "Staff +30% (Cinderella+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1083, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1084, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1085, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1086, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Cinderella+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1087, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1088, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1089, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1090, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Cinderella+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1091, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1092, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1093, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1094, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
         "name": "Projectile +50% (Cinderella+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
@@ -10878,6 +10998,146 @@
         "effectValue": 200, 
         "characterMstId": 122, 
         "cardDetailType": 4
+    }, 
+    {
+        "name": "Heavy +30% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1551, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1552, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1553, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1554, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1555, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1556, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1557, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1558, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1559, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1560, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1561, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1562, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Dorothy+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 1563, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +400", 
+        "effectType": 2, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 1564, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 123, 
+        "cardDetailType": 6
     }, 
     {
         "name": "Polearm +30% (Gretel+ stages)", 
@@ -13398,6 +13658,26 @@
         "effectValue": 200, 
         "characterMstId": 194, 
         "cardDetailType": 8
+    }, 
+    {
+        "name": "Staff +10% (Cinderella+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4595, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +400", 
+        "effectType": 1, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4596, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 89, 
+        "cardDetailType": 4
     }, 
     {
         "name": "Tome +30% (TenSura+ stages)", 

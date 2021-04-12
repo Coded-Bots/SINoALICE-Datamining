@@ -563,6 +563,28 @@
     {
         "mapCategory": 0, 
         "mapGroupLv": 1, 
+        "name": "Blood-Stained Tome", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 77, 
+        "createdTime": 1483974000, 
+        "mapGroup": 46, 
+        "description": "Blood-Stained Tome (Normal)"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 2, 
+        "name": "Blood-Stained Tome", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 78, 
+        "createdTime": 1483974000, 
+        "mapGroup": 46, 
+        "description": "Blood-Stained Tome (Hard)"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
         "name": "The Perfect Trio", 
         "announceUrl": "", 
         "mapType": 1, 
@@ -658,6 +680,39 @@
         "createdTime": 1483974000, 
         "mapGroup": 56, 
         "description": "Clam Digging Event"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "Baptism of Corrosion", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 98, 
+        "createdTime": 1483974000, 
+        "mapGroup": 57, 
+        "description": "Conquest: Slade Redux (Hard)"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "To the End of Ruin", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 99, 
+        "createdTime": 1483974000, 
+        "mapGroup": 58, 
+        "description": "April Armor Event"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 2, 
+        "name": "To the End of Ruin (Hard)", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 100, 
+        "createdTime": 1483974000, 
+        "mapGroup": 58, 
+        "description": "April Armor Event"
     }, 
     {
         "mapCategory": 0, 

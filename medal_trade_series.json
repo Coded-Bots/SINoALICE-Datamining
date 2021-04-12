@@ -197,13 +197,13 @@
     }, 
     {
         "name": "Black Iron Medal", 
-        "startTime": 1614574800, 
+        "startTime": 1617084000, 
         "priority": 30, 
         "isDeleted": false, 
         "assetBundleName": "0345", 
         "resourceName": "item20210101_gvgbox5", 
         "wayToGet": "Earned by playing an event.", 
-        "endTime": 1615870799, 
+        "endTime": 1618376399, 
         "medalTradeSeriesMstId": 20, 
         "medalTradeGroupMstId": 0, 
         "itemMstId": 345, 
@@ -291,6 +291,20 @@
         "medalTradeSeriesMstId": 29, 
         "medalTradeGroupMstId": 0, 
         "itemMstId": 164, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
+    }, 
+    {
+        "name": "Medal of Desire (IV)", 
+        "startTime": 1617084000, 
+        "priority": 36, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoires.", 
+        "endTime": 1621004399, 
+        "medalTradeSeriesMstId": 32, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 165, 
         "description": "A medal that is an incidental byproduct of a Grimoire."
     }, 
     {

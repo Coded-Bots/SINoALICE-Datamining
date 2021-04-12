@@ -10220,7 +10220,7 @@
         "TLM": 51616
     }, 
     {
-        "FR": "Message automatique dans le chat lors de l'acquisition d'un équipement SR.", 
+        "FR": "Message auto. dans le chat lors de l'acquisition d'un équipement SR", 
         "EN": "Auto post in chat when SR weapon is acquired", 
         "GameKey": "SCENE", 
         "DE": "Bei Erhalten von SR-Ausrüstung, wird dies automatisch im Chat gepostet.", 
@@ -10248,15 +10248,15 @@
         "TLM": 51696
     }, 
     {
-        "FR": "Recrutement de Guilde", 
-        "EN": "Guild Recruit", 
+        "FR": "Tableau d'affichage", 
+        "EN": "Board", 
         "GameKey": "SCENE", 
-        "DE": "Gilde gesucht", 
-        "JP": "ギルド募集", 
+        "DE": "Schwarzes Brett", 
+        "JP": "掲示板", 
         "VN": "", 
-        "KR": "길드 모집", 
-        "ES": "Reclutamiento para gremio", 
-        "TH": "รับสมัครกิลด์", 
+        "KR": "게시판", 
+        "ES": "Tablón", 
+        "TH": "บอร์ด", 
         "Type": 0, 
         "id": 733, 
         "TLM": 51712
@@ -10277,7 +10277,7 @@
     }, 
     {
         "FR": "Recherche une guilde", 
-        "EN": "Want to Join Guild", 
+        "EN": "Guild Membership Wanted", 
         "GameKey": "SCENE", 
         "DE": "Tritt einer Gilde bei", 
         "JP": "ギルド加入希望", 
@@ -10335,7 +10335,7 @@
         "FR": "Publication", 
         "EN": "Post", 
         "GameKey": "SCENE", 
-        "DE": "Post", 
+        "DE": "Posten", 
         "JP": "投稿", 
         "VN": "", 
         "KR": "게시하기", 
