@@ -17206,7 +17206,7 @@
         "TLM": 51746
     }, 
     {
-        "FR": "En <color=#A54410>autoRisant la foNction TrAcking</color>\\n, il sEra plUs siMplede receVoir leS derNières\\ninfoRmatiOns de l'éqUipe de GestiOn.", 
+        "FR": "En <color=#A54410>autoRisant la foNction TrAcking</color>,\\nil sEra plUs siMple de receVoir leS derNières\\ninfoRmatiOns de l'éqUipe de GestiOn.", 
         "EN": "<color=#A54410>Allow tracking</color>\\non your device so we can give ya the latest information.", 
         "GameKey": "PREFAB", 
         "DE": "Wenn du <color=#A54410>Tracking aktivierst</color>,\\n kannst du ganz einfach\\ndie neuesten Infos erhalten.", 
@@ -17290,7 +17290,7 @@
         "TLM": 51752
     }, 
     {
-        "FR": "Demande d'autorisation de tracking.", 
+        "FR": "Demande d'autorisation de tracking", 
         "EN": "Request to Allow Tracking", 
         "GameKey": "PREFAB", 
         "DE": "Bitte, die Standortabfrage einzuschalten", 

@@ -7029,10 +7029,28 @@
         "resourceName": "cri/cv_request01.awb"
     }, 
     {
+        "iosHash": "bb7c44474145c9b2e9e56d2808dee382", 
+        "iosFileSize": 8864, 
+        "androidFileSize": 8864, 
+        "resourceFileMstId": 782, 
+        "isEveryTimeDownload": false, 
+        "androidHash": "bb7c44474145c9b2e9e56d2808dee382", 
+        "resourceName": "cri/cv_request02.acb"
+    }, 
+    {
+        "iosHash": "9c8fedf714900884baa2ad8afef022e5", 
+        "iosFileSize": 182400, 
+        "androidFileSize": 182400, 
+        "resourceFileMstId": 783, 
+        "isEveryTimeDownload": false, 
+        "androidHash": "9c8fedf714900884baa2ad8afef022e5", 
+        "resourceName": "cri/cv_request02.awb"
+    }, 
+    {
         "iosHash": "6de571df422f48e76b6c56064a5a0ca2", 
         "iosFileSize": 30688, 
         "androidFileSize": 30688, 
-        "resourceFileMstId": 782, 
+        "resourceFileMstId": 784, 
         "isEveryTimeDownload": false, 
         "androidHash": "6de571df422f48e76b6c56064a5a0ca2", 
         "resourceName": "cri/cv_tutorial.acb"
@@ -7041,7 +7059,7 @@
         "iosHash": "80c32ffb195cdae3fb37e9b435aad197", 
         "iosFileSize": 1848704, 
         "androidFileSize": 1848704, 
-        "resourceFileMstId": 783, 
+        "resourceFileMstId": 785, 
         "isEveryTimeDownload": false, 
         "androidHash": "80c32ffb195cdae3fb37e9b435aad197", 
         "resourceName": "cri/cv_tutorial.awb"
@@ -7050,7 +7068,7 @@
         "iosHash": "56a9c92a6e283201019832b62814fee4", 
         "iosFileSize": 35667712, 
         "androidFileSize": 35667712, 
-        "resourceFileMstId": 784, 
+        "resourceFileMstId": 786, 
         "isEveryTimeDownload": true, 
         "androidHash": "56a9c92a6e283201019832b62814fee4", 
         "resourceName": "cri/halfAniv.usm"
@@ -7059,7 +7077,7 @@
         "iosHash": "e64866d736483a996f95e624f6a3c383", 
         "iosFileSize": 35670912, 
         "androidFileSize": 35670912, 
-        "resourceFileMstId": 785, 
+        "resourceFileMstId": 787, 
         "isEveryTimeDownload": true, 
         "androidHash": "e64866d736483a996f95e624f6a3c383", 
         "resourceName": "cri/halfAniv_de.usm"
@@ -7068,7 +7086,7 @@
         "iosHash": "56a9c92a6e283201019832b62814fee4", 
         "iosFileSize": 35667712, 
         "androidFileSize": 35667712, 
-        "resourceFileMstId": 786, 
+        "resourceFileMstId": 788, 
         "isEveryTimeDownload": true, 
         "androidHash": "56a9c92a6e283201019832b62814fee4", 
         "resourceName": "cri/halfAniv_en.usm"
@@ -7077,7 +7095,7 @@
         "iosHash": "288378070e19a9e8ee60c7f032359019", 
         "iosFileSize": 35635584, 
         "androidFileSize": 35635584, 
-        "resourceFileMstId": 787, 
+        "resourceFileMstId": 789, 
         "isEveryTimeDownload": true, 
         "androidHash": "288378070e19a9e8ee60c7f032359019", 
         "resourceName": "cri/halfAniv_es.usm"
@@ -7086,7 +7104,7 @@
         "iosHash": "b7a2e0379ee6383f8aa07dee906abcab", 
         "iosFileSize": 35567584, 
         "androidFileSize": 35567584, 
-        "resourceFileMstId": 788, 
+        "resourceFileMstId": 790, 
         "isEveryTimeDownload": true, 
         "androidHash": "b7a2e0379ee6383f8aa07dee906abcab", 
         "resourceName": "cri/halfAniv_fr.usm"
@@ -7095,7 +7113,7 @@
         "iosHash": "89b4b64693177be2135f06d87478851f", 
         "iosFileSize": 35630016, 
         "androidFileSize": 35630016, 
-        "resourceFileMstId": 789, 
+        "resourceFileMstId": 791, 
         "isEveryTimeDownload": true, 
         "androidHash": "89b4b64693177be2135f06d87478851f", 
         "resourceName": "cri/halfAniv_kr.usm"
@@ -7104,7 +7122,7 @@
         "iosHash": "f581ee27d950b63b4333dbe037e31b97", 
         "iosFileSize": 35626240, 
         "androidFileSize": 35626240, 
-        "resourceFileMstId": 790, 
+        "resourceFileMstId": 792, 
         "isEveryTimeDownload": true, 
         "androidHash": "f581ee27d950b63b4333dbe037e31b97", 
         "resourceName": "cri/halfAniv_th.usm"
@@ -7113,7 +7131,7 @@
         "iosHash": "95d026e7ce2187c625227a0fbc1ca587", 
         "iosFileSize": 1828864, 
         "androidFileSize": 1828864, 
-        "resourceFileMstId": 791, 
+        "resourceFileMstId": 793, 
         "isEveryTimeDownload": false, 
         "androidHash": "95d026e7ce2187c625227a0fbc1ca587", 
         "resourceName": "cri/se_attack.acb"
@@ -7122,7 +7140,7 @@
         "iosHash": "e8aebe40fc30f545bb5b7ab01333a27f", 
         "iosFileSize": 113696, 
         "androidFileSize": 113696, 
-        "resourceFileMstId": 792, 
+        "resourceFileMstId": 794, 
         "isEveryTimeDownload": false, 
         "androidHash": "e8aebe40fc30f545bb5b7ab01333a27f", 
         "resourceName": "cri/se_attack_02.acb"
@@ -7131,7 +7149,7 @@
         "iosHash": "9d1e77cbc3a16652df5145fd5e98c0dd", 
         "iosFileSize": 344320, 
         "androidFileSize": 344320, 
-        "resourceFileMstId": 793, 
+        "resourceFileMstId": 795, 
         "isEveryTimeDownload": false, 
         "androidHash": "9d1e77cbc3a16652df5145fd5e98c0dd", 
         "resourceName": "cri/se_battle.acb"
@@ -7140,7 +7158,7 @@
         "iosHash": "465e01a78f020f7ada1436883c1f8568", 
         "iosFileSize": 109504, 
         "androidFileSize": 109504, 
-        "resourceFileMstId": 794, 
+        "resourceFileMstId": 796, 
         "isEveryTimeDownload": false, 
         "androidHash": "465e01a78f020f7ada1436883c1f8568", 
         "resourceName": "cri/se_camp_quest.acb"
@@ -7149,7 +7167,7 @@
         "iosHash": "78428a45b04dcf79d55650c13bdd9ebf", 
         "iosFileSize": 86464, 
         "androidFileSize": 86464, 
-        "resourceFileMstId": 795, 
+        "resourceFileMstId": 797, 
         "isEveryTimeDownload": false, 
         "androidHash": "78428a45b04dcf79d55650c13bdd9ebf", 
         "resourceName": "cri/se_christmas_quest.acb"
@@ -7158,7 +7176,7 @@
         "iosHash": "e1d6a5a7416666ec49fd7385cf5350d4", 
         "iosFileSize": 19936, 
         "androidFileSize": 19936, 
-        "resourceFileMstId": 796, 
+        "resourceFileMstId": 798, 
         "isEveryTimeDownload": false, 
         "androidHash": "e1d6a5a7416666ec49fd7385cf5350d4", 
         "resourceName": "cri/se_extramission.acb"
@@ -7167,7 +7185,7 @@
         "iosHash": "54cc0440a857183086350ca34c934c86", 
         "iosFileSize": 399616, 
         "androidFileSize": 399616, 
-        "resourceFileMstId": 797, 
+        "resourceFileMstId": 799, 
         "isEveryTimeDownload": false, 
         "androidHash": "54cc0440a857183086350ca34c934c86", 
         "resourceName": "cri/se_gve.acb"
@@ -7176,7 +7194,7 @@
         "iosHash": "4acdaf2833368eed6f6fc664300f1a34", 
         "iosFileSize": 2483168, 
         "androidFileSize": 2483168, 
-        "resourceFileMstId": 798, 
+        "resourceFileMstId": 800, 
         "isEveryTimeDownload": false, 
         "androidHash": "4acdaf2833368eed6f6fc664300f1a34", 
         "resourceName": "cri/se_gvg.acb"
@@ -7185,7 +7203,7 @@
         "iosHash": "a6ac846ed0a39c1af6b302e679713a67", 
         "iosFileSize": 93472, 
         "androidFileSize": 93472, 
-        "resourceFileMstId": 799, 
+        "resourceFileMstId": 801, 
         "isEveryTimeDownload": false, 
         "androidHash": "a6ac846ed0a39c1af6b302e679713a67", 
         "resourceName": "cri/se_halloween_quest.acb"
@@ -7194,7 +7212,7 @@
         "iosHash": "f520dab55ede36fc72a157c1a9698238", 
         "iosFileSize": 149024, 
         "androidFileSize": 149024, 
-        "resourceFileMstId": 800, 
+        "resourceFileMstId": 802, 
         "isEveryTimeDownload": false, 
         "androidHash": "f520dab55ede36fc72a157c1a9698238", 
         "resourceName": "cri/se_invader.acb"
@@ -7203,7 +7221,7 @@
         "iosHash": "34d35271cd6c7ffcb819539cb9fc85ef", 
         "iosFileSize": 195744, 
         "androidFileSize": 195744, 
-        "resourceFileMstId": 801, 
+        "resourceFileMstId": 803, 
         "isEveryTimeDownload": false, 
         "androidHash": "34d35271cd6c7ffcb819539cb9fc85ef", 
         "resourceName": "cri/se_invader_quest.acb"
@@ -7212,7 +7230,7 @@
         "iosHash": "6eee369f908ffe930c24037f9791c4b4", 
         "iosFileSize": 585152, 
         "androidFileSize": 585152, 
-        "resourceFileMstId": 802, 
+        "resourceFileMstId": 804, 
         "isEveryTimeDownload": false, 
         "androidHash": "6eee369f908ffe930c24037f9791c4b4", 
         "resourceName": "cri/se_nier.acb"
@@ -7221,7 +7239,7 @@
         "iosHash": "23cb7de4e6f40f5b8384c6c05a2e4536", 
         "iosFileSize": 3414112, 
         "androidFileSize": 3414112, 
-        "resourceFileMstId": 803, 
+        "resourceFileMstId": 805, 
         "isEveryTimeDownload": false, 
         "androidHash": "23cb7de4e6f40f5b8384c6c05a2e4536", 
         "resourceName": "cri/se_quest.acb"
@@ -7230,7 +7248,7 @@
         "iosHash": "e11995c92b13e811a79ec6afa7676545", 
         "iosFileSize": 1387008, 
         "androidFileSize": 1387008, 
-        "resourceFileMstId": 804, 
+        "resourceFileMstId": 806, 
         "isEveryTimeDownload": false, 
         "androidHash": "e11995c92b13e811a79ec6afa7676545", 
         "resourceName": "cri/se_recycle_gacha.acb"
@@ -7239,7 +7257,7 @@
         "iosHash": "83f9c1768fd801bd64c9ca195d15d4fb", 
         "iosFileSize": 365760, 
         "androidFileSize": 365760, 
-        "resourceFileMstId": 805, 
+        "resourceFileMstId": 807, 
         "isEveryTimeDownload": true, 
         "androidHash": "83f9c1768fd801bd64c9ca195d15d4fb", 
         "resourceName": "cri/se_replicant_quest.acb"
@@ -7248,7 +7266,7 @@
         "iosHash": "325e4c1b09ef555d59e1ce0cce973502", 
         "iosFileSize": 70272, 
         "androidFileSize": 70272, 
-        "resourceFileMstId": 806, 
+        "resourceFileMstId": 808, 
         "isEveryTimeDownload": false, 
         "androidHash": "6a13f13b0b3ad8a66f51d1bb51215b4b", 
         "resourceName": "cri/se_select.acb"
@@ -7257,7 +7275,7 @@
         "iosHash": "45b5af3aa90525c4a7bc105d8aa7a471", 
         "iosFileSize": 80320, 
         "androidFileSize": 80320, 
-        "resourceFileMstId": 807, 
+        "resourceFileMstId": 809, 
         "isEveryTimeDownload": false, 
         "androidHash": "45b5af3aa90525c4a7bc105d8aa7a471", 
         "resourceName": "cri/se_shooting_gacha.acb"
@@ -7266,7 +7284,7 @@
         "iosHash": "ddebc8920acf64ec05d6753bf6ab4802", 
         "iosFileSize": 528800, 
         "androidFileSize": 528800, 
-        "resourceFileMstId": 808, 
+        "resourceFileMstId": 810, 
         "isEveryTimeDownload": false, 
         "androidHash": "ddebc8920acf64ec05d6753bf6ab4802", 
         "resourceName": "cri/se_special.acb"
@@ -7275,7 +7293,7 @@
         "iosHash": "7d32df1f072b3d1611f328f873f1f011", 
         "iosFileSize": 699904, 
         "androidFileSize": 699904, 
-        "resourceFileMstId": 809, 
+        "resourceFileMstId": 811, 
         "isEveryTimeDownload": false, 
         "androidHash": "7d32df1f072b3d1611f328f873f1f011", 
         "resourceName": "cri/se_tensura.acb"
@@ -7284,7 +7302,7 @@
         "iosHash": "b897acd4bbf55d61abf6af771527cd7c", 
         "iosFileSize": 250688, 
         "androidFileSize": 250688, 
-        "resourceFileMstId": 810, 
+        "resourceFileMstId": 812, 
         "isEveryTimeDownload": false, 
         "androidHash": "b897acd4bbf55d61abf6af771527cd7c", 
         "resourceName": "cri/se_tensura_2.acb"
@@ -7293,7 +7311,7 @@
         "iosHash": "03dba88c143771cb719cb6f436cc2726", 
         "iosFileSize": 218656, 
         "androidFileSize": 218656, 
-        "resourceFileMstId": 811, 
+        "resourceFileMstId": 813, 
         "isEveryTimeDownload": false, 
         "androidHash": "03dba88c143771cb719cb6f436cc2726", 
         "resourceName": "cri/se_tutorial.acb"
@@ -7302,7 +7320,7 @@
         "iosHash": "26bf315350ff37d7e660097b8096ef92", 
         "iosFileSize": 19624512, 
         "androidFileSize": 19624512, 
-        "resourceFileMstId": 812, 
+        "resourceFileMstId": 814, 
         "isEveryTimeDownload": false, 
         "androidHash": "26bf315350ff37d7e660097b8096ef92", 
         "resourceName": "cri/spaceinvader01.usm"
@@ -7311,7 +7329,7 @@
         "iosHash": "e1e2b821373053b3f40269113970d29f", 
         "iosFileSize": 18450272, 
         "androidFileSize": 18450272, 
-        "resourceFileMstId": 813, 
+        "resourceFileMstId": 815, 
         "isEveryTimeDownload": false, 
         "androidHash": "e1e2b821373053b3f40269113970d29f", 
         "resourceName": "cri/spaceinvader02.usm"

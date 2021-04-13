@@ -10040,6 +10040,126 @@
         "cardDetailType": 2
     }, 
     {
+        "name": "Instrument +30% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1143, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1144, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1145, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1146, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1147, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1148, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1149, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1150, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1151, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1152, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1153, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1154, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
         "name": "Projectile +30% (Red Riding Hood+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
@@ -11260,6 +11380,126 @@
         "cardDetailType": 8
     }, 
     {
+        "name": "Blade +30% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1597, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 126, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Projectile -25%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1598, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 126, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Heavy -25%", 
+        "effectType": 6, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1599, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 126, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Projectile -25%", 
+        "effectType": 6, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1600, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 126, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Heavy -25%", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1601, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 126, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Projectile -25%", 
+        "effectType": 6, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1602, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 126, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Heavy -25%", 
+        "effectType": 6, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1603, 
+        "skillType": 2, 
+        "effectValue": -25, 
+        "characterMstId": 126, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Blade +15%", 
+        "effectType": 6, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1604, 
+        "skillType": 2, 
+        "effectValue": 15, 
+        "characterMstId": 126, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "M.DEF +500", 
+        "effectType": 5, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1605, 
+        "skillType": 1, 
+        "effectValue": 500, 
+        "characterMstId": 126, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +15%", 
+        "effectType": 6, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1606, 
+        "skillType": 2, 
+        "effectValue": 15, 
+        "characterMstId": 126, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +500", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1607, 
+        "skillType": 1, 
+        "effectValue": 500, 
+        "characterMstId": 126, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +5%", 
+        "effectType": 6, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1608, 
+        "skillType": 2, 
+        "effectValue": 5, 
+        "characterMstId": 126, 
+        "cardDetailType": 5
+    }, 
+    {
         "name": "Heavy +50% (Pinocchio+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
@@ -12218,6 +12458,26 @@
         "effectValue": 200, 
         "characterMstId": 144, 
         "cardDetailType": 2
+    }, 
+    {
+        "name": "Instrument +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 1949, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +400", 
+        "effectType": 1, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 1950, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 94, 
+        "cardDetailType": 1
     }, 
     {
         "name": "Tome +50% (NieR Replicant+ stages)", 

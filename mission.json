@@ -8340,9 +8340,9 @@
     {
         "missionType": 3, 
         "activeView": 1, 
-        "description": "Clear all revival missions.", 
+        "description": "Clear all comeback missions.", 
         "objectId": 0, 
-        "title": "Revival Mission Cleared", 
+        "title": "Comeback Mission Cleared", 
         "conditionsType": 62, 
         "missionUniquePriority": 1, 
         "missionUniqueId": 455, 
@@ -11442,9 +11442,9 @@
     {
         "missionType": 3, 
         "activeView": 1, 
-        "description": "Clear all revival missions.", 
+        "description": "Clear all comeback missions.", 
         "objectId": 0, 
-        "title": "Revival Mission Cleared", 
+        "title": "Comeback Mission Cleared", 
         "conditionsType": 62, 
         "missionUniquePriority": 1, 
         "missionUniqueId": 900480, 

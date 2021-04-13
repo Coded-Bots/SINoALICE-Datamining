@@ -538,5 +538,17 @@
         "resourceName": "1", 
         "endTime": 1617685199, 
         "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900018, 
+        "assetBundleName": "", 
+        "title": "Re:ZERO Pre-Collaboration Login Bonus", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1618293600, 
+        "resourceName": "1", 
+        "endTime": 1618549199, 
+        "pickupSkillType": 1
     }
 ]
