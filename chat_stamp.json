@@ -700,6 +700,34 @@
         "itemMstId": 1330
     }, 
     {
+        "name": "Dorothy/...", 
+        "isAnytime": 1, 
+        "replaceMessage": "[*091]", 
+        "filterType": 10, 
+        "startTime": 1618552800, 
+        "howToGet": "Available from the Re:Zero collaboration purification campaign.", 
+        "createdTime": null, 
+        "assetBundleName": "chat21", 
+        "chatStampMstId": 91, 
+        "resourceName": "091", 
+        "endTime": 1588831199, 
+        "itemMstId": 1716
+    }, 
+    {
+        "name": "Nutcracker/Bravo", 
+        "isAnytime": 1, 
+        "replaceMessage": "[*092]", 
+        "filterType": 11, 
+        "startTime": 1618552800, 
+        "howToGet": "Available from the Re:Zero collaboration purification campaign.", 
+        "createdTime": null, 
+        "assetBundleName": "chat21", 
+        "chatStampMstId": 92, 
+        "resourceName": "092", 
+        "endTime": 1588831199, 
+        "itemMstId": 1717
+    }, 
+    {
         "name": "Princess Kaguya/That's great ♡", 
         "isAnytime": 1, 
         "replaceMessage": "[*096]", 

@@ -126,6 +126,12 @@
         "title": "Campout Cuisine Missions"
     }, 
     {
+        "endTime": 1619762399, 
+        "startTime": 1618552800, 
+        "missionTitleMstId": 220, 
+        "title": "Re:ZERO Collaboration Mission"
+    }, 
+    {
         "endTime": 1614837599, 
         "startTime": 1613624400, 
         "missionTitleMstId": 641, 
@@ -208,5 +214,11 @@
         "startTime": 1616389200, 
         "missionTitleMstId": 900013, 
         "title": "End of Month Global Daily Missions"
+    }, 
+    {
+        "endTime": 2143292399, 
+        "startTime": 1618549200, 
+        "missionTitleMstId": 900014, 
+        "title": "Comeback Mission"
     }
 ]

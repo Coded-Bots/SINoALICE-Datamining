@@ -196,5 +196,23 @@
         "startTime": 1609426800, 
         "endTime": 1610603999, 
         "beforeAssetBundleName": "fxm_bannerl/th/banner1"
+    }, 
+    {
+        "assetBundleReplaceMstId": 25, 
+        "afterResourceName": "minitutorial037", 
+        "afterAssetBundleName": "fxm_minitutorial/en/20210416_update_soko", 
+        "beforeResourceName": "minitutorial037", 
+        "startTime": 1618293600, 
+        "endTime": 1924873200, 
+        "beforeAssetBundleName": "fxm_minitutorial/en"
+    }, 
+    {
+        "assetBundleReplaceMstId": 26, 
+        "afterResourceName": "minitutorial037", 
+        "afterAssetBundleName": "fxm_minitutorial/kr/20210416_update_soko", 
+        "beforeResourceName": "minitutorial037", 
+        "startTime": 1618293600, 
+        "endTime": 1924873200, 
+        "beforeAssetBundleName": "fxm_minitutorial/kr"
     }
 ]

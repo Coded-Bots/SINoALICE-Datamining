@@ -1652,6 +1652,20 @@
         "positionType": 1
     }, 
     {
+        "createdTime": 1485961226, 
+        "cueSheet": "se_ReZero", 
+        "period": 5, 
+        "cueName": "se_ReZero@002", 
+        "magnificationScale": 100, 
+        "battleEffectMstId": 221, 
+        "additionalPositionY": 0, 
+        "additionalPositionX": -500, 
+        "additionalPositionZ": 0, 
+        "isReverseY": true, 
+        "isReverseZ": false, 
+        "positionType": 1
+    }, 
+    {
         "createdTime": 1485961200, 
         "cueSheet": "se_tensura_2", 
         "period": 3, 

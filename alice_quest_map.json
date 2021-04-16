@@ -902,6 +902,61 @@
         "description": "Tutorial Quest"
     }, 
     {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "A Faraway Vow Ch. 1", 
+        "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 266, 
+        "createdTime": 1483974000, 
+        "mapGroup": 160, 
+        "description": "リゼロコラボ第一話"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "A Faraway Vow Ch. 2", 
+        "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 267, 
+        "createdTime": 1483974000, 
+        "mapGroup": 161, 
+        "description": "リゼロコラボ第二話"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "A Faraway Vow Ch. 3", 
+        "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 268, 
+        "createdTime": 1483974000, 
+        "mapGroup": 162, 
+        "description": "リゼロコラボ第三話"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "A Faraway Vow Ch. 4", 
+        "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 269, 
+        "createdTime": 1483974000, 
+        "mapGroup": 163, 
+        "description": "リゼロコラボ第四話"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "A Faraway Vow (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 270, 
+        "createdTime": 1483974000, 
+        "mapGroup": 164, 
+        "description": "リゼロコラボHard"
+    }, 
+    {
         "mapCategory": 3, 
         "mapGroupLv": 1, 
         "name": "Lullaby of Reincarnation", 

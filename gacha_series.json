@@ -184,7 +184,7 @@
         "bannerMstId": 79, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "SR x1 Guaranteed Grimoire 1st Summon"
+        "name": "SR x1 Guaranteed Grimoire Part 1"
     }, 
     {
         "isHiddenWhenNoTicket": false, 
@@ -201,7 +201,7 @@
         "bannerMstId": 80, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "SR x1 Guaranteed Grimoire 2nd Summon"
+        "name": "SR x1 Guaranteed Grimoire Part 2"
     }, 
     {
         "isHiddenWhenNoTicket": false, 
@@ -218,7 +218,7 @@
         "bannerMstId": 81, 
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
-        "name": "SR x1 Guaranteed Grimoire 3rd Summon"
+        "name": "SR x1 Guaranteed Grimoire Part 3"
     }, 
     {
         "isHiddenWhenNoTicket": false, 
@@ -1820,6 +1820,40 @@
     }, 
     {
         "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 4, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=993&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 10, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-You can obtain tickets for this grimoire by trading Puck medals at the medal exchange.\\n-No Puck medals are received with this grimoire.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 825, 
+        "bannerMstId": 2483, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "Moonlit Flower Ch. 1 Ticket Grimoire"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 4, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=994&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 10, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-You can obtain tickets for this grimoire by trading Puck medals at the medal exchange.\\n-No Puck medals are received with this grimoire.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 826, 
+        "bannerMstId": 2484, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "Moonlit Flower Ch. 2 Ticket Grimoire"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
         "gachaGroupId": 5, 
         "description": "-", 
         "announceUrl": "/web/announce/body?announceMstId=220&isHideBackButton=1", 
@@ -1970,6 +2004,40 @@
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
         "name": "STEP Grimoire: Gran Election #1 Winner's Grimoire"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 5, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=989&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 655, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Puck Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Puck medals from this grimoire will expire at a certain date. Check the medal exchange for more info.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 100610, 
+        "bannerMstId": 2448, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "Moonlit Flower Ch. 1 Grimoire"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 5, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=995&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1467266400, 
+        "priority": 655, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Puck Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Puck medals from this grimoire will expire at a certain date. Check the medal exchange for more info.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 100620, 
+        "bannerMstId": 2482, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "Moonlit Flower Ch. 2 Grimoire"
     }, 
     {
         "isHiddenWhenNoTicket": false, 
@@ -2208,5 +2276,22 @@
         "isAlways": false, 
         "pickupFirstResourceAssetBundleName": "", 
         "name": "Act of Reality Chapter 5 Celebration Grimoire"
+    }, 
+    {
+        "isHiddenWhenNoTicket": false, 
+        "gachaGroupId": 5, 
+        "description": "-", 
+        "announceUrl": "/web/announce/body?announceMstId=973&isHideBackButton=1", 
+        "pickupFirstResourceName": "", 
+        "createdTime": 1611846000, 
+        "priority": 650, 
+        "seriesResourceName": "", 
+        "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅳ)\\nAmount: STEP 1 x50 medals each, STEP 2 and 3 x100 medals each-Medal of desire (Ⅳ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.", 
+        "isTicketGachaCover": false, 
+        "gachaSeriesMstId": 900018, 
+        "bannerMstId": 900109, 
+        "isAlways": false, 
+        "pickupFirstResourceAssetBundleName": "", 
+        "name": "STEP Grimoire: Rookie Support"
     }
 ]
