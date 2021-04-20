@@ -3605,6 +3605,23 @@
     }, 
     {
         "isGve": false, 
+        "unCombatFlag": false, 
+        "name": "Venomous Fangs", 
+        "collectItemId": 0, 
+        "questAreaMstId": 259, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 93, 
+        "assetBundleName": "questareabackground/9", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0009", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
         "unCombatFlag": true, 
         "name": "An End to Summer Dreams", 
         "collectItemId": 528, 

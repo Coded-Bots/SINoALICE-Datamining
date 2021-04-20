@@ -2258,7 +2258,7 @@
         "typeLabel": "own", 
         "maxLevel": 0, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases the effectiveness of skills against ghosts."
+        "description": "Increases the effectiveness of skills against ghost types."
     }, 
     {
         "category": 0, 
@@ -5063,7 +5063,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 20%."
+        "description": "Increases 1 ally's HP recovery by 20%."
     }, 
     {
         "category": 4, 
@@ -5131,7 +5131,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 30%."
+        "description": "Increases 1 ally's HP recovery by 30%."
     }, 
     {
         "category": 4, 
@@ -5335,7 +5335,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 25%."
+        "description": "Increases 1 ally's HP recovery by 25%."
     }, 
     {
         "category": 4, 
@@ -8599,7 +8599,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 30%."
+        "description": "Increases 1 ally's HP recovery by 30%."
     }, 
     {
         "category": 4, 
@@ -9194,7 +9194,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 20%."
+        "description": "Increases 1 ally's HP recovery by 20%."
     }, 
     {
         "category": 4, 
@@ -9279,7 +9279,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 30%."
+        "description": "Increases 1 ally's HP recovery by 30%."
     }, 
     {
         "category": 4, 
@@ -9398,7 +9398,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 20%."
+        "description": "Increases 1 ally's HP recovery by 20%."
     }, 
     {
         "category": 4, 
@@ -10435,7 +10435,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 200%."
+        "description": "Increases 1 ally's HP recovery by 200%."
     }, 
     {
         "category": 4, 
@@ -10979,7 +10979,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and M.ATK of 1 ally by 2%."
+        "description": "Increases 1 ally's P.ATK and M.ATK by 2%."
     }, 
     {
         "category": 4, 
@@ -11013,7 +11013,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and M.ATK of 1 ally by 3%."
+        "description": "Increases 1 ally's P.ATK and M.ATK by 3%."
     }, 
     {
         "category": 4, 
@@ -11081,7 +11081,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 2%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 2%."
     }, 
     {
         "category": 4, 
@@ -11115,7 +11115,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 3%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 3%."
     }, 
     {
         "category": 4, 
@@ -11200,7 +11200,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.DEF of 1 ally by 100%."
+        "description": "Increases 1 ally's P.DEF by 100%."
     }, 
     {
         "category": 4, 
@@ -11302,7 +11302,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK of 1 ally by 70%."
+        "description": "Increases 1 ally's P.ATK by 70%."
     }, 
     {
         "category": 4, 
@@ -11625,7 +11625,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.DEF and M.DEF of 1 ally by 50%."
+        "description": "Increases 1 ally's P.DEF and M.DEF by 50%."
     }, 
     {
         "category": 4, 
@@ -11676,7 +11676,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK of 1 ally by 600%."
+        "description": "Increases 1 ally's P.ATK by 600%."
     }, 
     {
         "category": 4, 
@@ -12407,7 +12407,7 @@
         "typeLabel": "Single Ally", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases M.ATK and M.DEF of 1 ally by 10%."
+        "description": "Increases 1 ally's M.ATK and M.DEF by 10%."
     }, 
     {
         "category": 4, 
@@ -12475,7 +12475,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 10%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 10%."
     }, 
     {
         "category": 4, 
@@ -12594,7 +12594,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 200%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 200%."
     }, 
     {
         "category": 4, 
@@ -12611,7 +12611,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 300%."
+        "description": "Increases 1 ally's HP recovery 300%."
     }, 
     {
         "category": 4, 
@@ -13002,7 +13002,7 @@
         "typeLabel": "Multiple Allies/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 100%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 100%."
     }, 
     {
         "category": 1, 
@@ -13529,7 +13529,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 90,000%."
+        "description": "Increases 1 ally's HP recovery by 90,000%."
     }, 
     {
         "category": 4, 
@@ -13546,7 +13546,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 20%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 20%."
     }, 
     {
         "category": 4, 
@@ -13563,7 +13563,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 20%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 20%."
     }, 
     {
         "category": 4, 
@@ -13580,7 +13580,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 20%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 20%."
     }, 
     {
         "category": 4, 
@@ -14260,7 +14260,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 10%."
+        "description": "Increases 1 ally's HP recovery by 10%."
     }, 
     {
         "category": 4, 
@@ -14345,7 +14345,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 15%."
+        "description": "Increases 1 ally's HP recovery by 15%."
     }, 
     {
         "category": 4, 
@@ -14549,7 +14549,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 25%."
+        "description": "Increases 1 ally's HP recovery by 25%."
     }, 
     {
         "category": 4, 
@@ -14685,7 +14685,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and P.DEF of 1 ally by 3%."
+        "description": "Increases 1 ally's P.ATK and P.DEF by 3%."
     }, 
     {
         "category": 4, 
@@ -14702,7 +14702,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and M.ATK of 1 ally by 2.5%."
+        "description": "Increases 1 ally's P.ATK and M.ATK by 2.5%."
     }, 
     {
         "category": 4, 
@@ -14770,7 +14770,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 3%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 3%."
     }, 
     {
         "category": 4, 
@@ -15110,7 +15110,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 15%."
+        "description": "Increases 1 ally's HP recovery by 15%."
     }, 
     {
         "category": 4, 
@@ -15705,7 +15705,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 10%."
+        "description": "Increases 1 ally's HP recovery by 10%."
     }, 
     {
         "category": 4, 
@@ -15790,7 +15790,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 15%."
+        "description": "Increases 1 ally's HP recovery by 15%."
     }, 
     {
         "category": 4, 
@@ -15909,7 +15909,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 10%."
+        "description": "Increases 1 ally's HP recovery by 10%."
     }, 
     {
         "category": 4, 
@@ -16572,7 +16572,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 20%.\\nIncreases ally's P.ATK, M.ATK, P.DEF, and M.DEF by 5%. "
+        "description": "Increases 1 ally's HP recovery by 20%.\\nIncreases ally's P.ATK, M.ATK, P.DEF, and M.DEF by 5%. "
     }, 
     {
         "category": 4, 
@@ -16861,7 +16861,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 10,000%."
+        "description": "Increases 1 ally's HP recovery by 10,000%."
     }, 
     {
         "category": 1, 
@@ -16878,7 +16878,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Slightly increases P.ATK of 1 ally."
+        "description": "Slightly increases 1 ally's P.ATK."
     }, 
     {
         "category": 4, 
@@ -16895,7 +16895,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Slightly increases P.ATK of 1 ally."
+        "description": "Slightly increases 1 ally's P.ATK."
     }, 
     {
         "category": 4, 
@@ -17150,7 +17150,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and M.ATK of 1 ally by 10%."
+        "description": "Increases 1 ally's P.ATK and M.ATK by 10%."
     }, 
     {
         "category": 1, 
@@ -18153,7 +18153,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.DEF of 1 ally by 50%."
+        "description": "Increases 1 ally's P.DEF by 50%."
     }, 
     {
         "category": 4, 
@@ -18459,7 +18459,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 100%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 100%."
     }, 
     {
         "category": 4, 
@@ -18663,7 +18663,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 10%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 10%."
     }, 
     {
         "category": 4, 
@@ -18850,7 +18850,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 30%."
+        "description": "Increases 1 ally's HP recovery by 30%."
     }, 
     {
         "category": 4, 
@@ -18952,7 +18952,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases HP recovery of 1 ally by 70%.\\nIncreases ally's P.ATK, M.ATK, P.DEF, and M.DEF by 5%. "
+        "description": "Increases 1 ally's HP recovery by 70%.\\nIncreases ally's P.ATK, M.ATK, P.DEF, and M.DEF by 5%. "
     }, 
     {
         "category": 4, 
@@ -19054,7 +19054,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, P.DEF, M.ATK, and M.DEF of 1 ally by 30%."
+        "description": "Increases 1 ally's P.ATK, P.DEF, M.ATK, and M.DEF by 30%."
     }, 
     {
         "category": 4, 
@@ -19513,7 +19513,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Massively increases M.ATK of 1 ally.\\nThe effect increases by 150% when at a disadvantage."
+        "description": "Massively increases 1 ally's M.ATK.\\nThe effect increases by 150% when at a disadvantage."
     }, 
     {
         "category": 1, 
@@ -19717,7 +19717,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, P.DEF, M.ATK, and M.DEF of 1 ally by 8%."
+        "description": "Increases 1 ally's P.ATK, P.DEF, M.ATK, and M.DEF by 8%."
     }, 
     {
         "category": 4, 
@@ -20074,7 +20074,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, M.ATK, P.DEF, and M.DEF of 1 ally by 10%."
+        "description": "Increases 1 ally's P.ATK, M.ATK, P.DEF, and M.DEF by 10%."
     }, 
     {
         "category": 4, 
@@ -20669,7 +20669,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and M.ATK of 1 ally by 30%."
+        "description": "Increases 1 ally's P.ATK and M.ATK by 30%."
     }, 
     {
         "category": 4, 
@@ -21519,7 +21519,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.DEF and M.DEF of 1 ally by 20%."
+        "description": "Increases 1 ally's P.DEF and M.DEF by 20%."
     }, 
     {
         "category": 1, 
@@ -21638,7 +21638,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK and M.ATK of 1 ally by 10%."
+        "description": "Increases 1 ally's P.ATK and M.ATK by 10%."
     }, 
     {
         "category": 4, 
@@ -23275,6 +23275,23 @@
     {
         "category": 1, 
         "sp": 19, 
+        "name": "Evil Gust of Assault (III)", 
+        "type": 5, 
+        "attackEffect": 0, 
+        "primaryIcon": 2, 
+        "skillMstId": 3277, 
+        "rangeIcon": 1, 
+        "secondaryIcon": 6, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Single Enemy/Self", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great M.DMG to 1 enemy.\\nSlightly increases own M.ATK."
+    }, 
+    {
+        "category": 1, 
+        "sp": 19, 
         "name": "Evil Gust of Onslaught (III)", 
         "type": 7, 
         "attackEffect": 0, 
@@ -23644,7 +23661,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Massively increases M.DEF of 1 ally."
+        "description": "Massively increases 1 ally's M.DEF."
     }, 
     {
         "category": 1, 
@@ -24159,6 +24176,23 @@
     {
         "category": 4, 
         "sp": 19, 
+        "name": "Evil Gust of Assault (III)", 
+        "type": 5, 
+        "attackEffect": 0, 
+        "primaryIcon": 2, 
+        "skillMstId": 3379, 
+        "rangeIcon": 1, 
+        "secondaryIcon": 6, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Single Enemy/Self", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great M.DMG to 1 enemy.\\nSlightly increases own M.ATK."
+    }, 
+    {
+        "category": 4, 
+        "sp": 19, 
         "name": "Evil Gust of Onslaught (III)", 
         "type": 7, 
         "attackEffect": 0, 
@@ -24511,7 +24545,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Massively increases M.DEF of 1 ally."
+        "description": "Massively increases 1 ally's M.DEF."
     }, 
     {
         "category": 4, 
@@ -25361,7 +25395,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, P.DEF, M.ATK, and M.DEF of 1 ally by 30%."
+        "description": "Increases 1 ally's P.ATK, P.DEF, M.ATK, and M.DEF by 30%."
     }, 
     {
         "category": 4, 
@@ -25583,6 +25617,40 @@
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
         "description": "Greatly restores HP to 1 to 2 allies.\\nRestores own 8 SP if used before the last 5 minutes of the Colosseum."
+    }, 
+    {
+        "category": 1, 
+        "sp": 20, 
+        "name": "Fire Technique of the Twin Songs (III)", 
+        "type": 509, 
+        "attackEffect": 0, 
+        "primaryIcon": 2, 
+        "skillMstId": 3720, 
+        "rangeIcon": 1, 
+        "secondaryIcon": 24, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Single Enemy", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great M.DMG to 1 enemy,\\nadding 5 hits to your combo during a combo chance."
+    }, 
+    {
+        "category": 4, 
+        "sp": 20, 
+        "name": "Fire Technique of the Twin Songs (III)", 
+        "type": 509, 
+        "attackEffect": 0, 
+        "primaryIcon": 2, 
+        "skillMstId": 3721, 
+        "rangeIcon": 1, 
+        "secondaryIcon": 24, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Single Enemy", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great M.DMG to 1 enemy,\\nadding 5 hits to your combo during a combo chance."
     }, 
     {
         "category": 4, 
@@ -26075,7 +26143,7 @@
         "typeLabel": "Single Ally/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Increases P.ATK, P.DEF, M.ATK, and M.DEF of 1 ally by 30%."
+        "description": "Increases 1 ally's P.ATK, P.DEF, M.ATK, and M.DEF by 30%."
     }, 
     {
         "category": 4, 

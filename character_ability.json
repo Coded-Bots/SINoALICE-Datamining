@@ -10980,6 +10980,126 @@
         "cardDetailType": 1
     }, 
     {
+        "name": "Heavy +30% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1431, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1432, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1433, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1434, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1435, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1436, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1437, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1438, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1439, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1440, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1441, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1442, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
         "name": "Tome +10% (Alice+ stages)", 
         "effectType": 6, 
         "releaseLevel": 13, 
@@ -14118,6 +14238,26 @@
         "effectValue": 200, 
         "characterMstId": 194, 
         "cardDetailType": 8
+    }, 
+    {
+        "name": "Heavy +10% (Alice+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 2977, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +400", 
+        "effectType": 2, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 2978, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 115, 
+        "cardDetailType": 6
     }, 
     {
         "name": "Tome +10% (Re:ZERO+ stages)", 

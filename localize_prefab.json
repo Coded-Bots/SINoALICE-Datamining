@@ -8386,15 +8386,15 @@
         "TLM": 19808
     }, 
     {
-        "FR": "Fois restantes : 1", 
-        "EN": "Times Remaining: 1", 
+        "FR": "", 
+        "EN": "", 
         "GameKey": "PREFAB/0025", 
-        "DE": "Verbleibend: 1", 
+        "DE": "", 
         "JP": "残り回数：1回", 
         "VN": "Thời gian còn lại: 1", 
-        "KR": "남은 횟수: 1회", 
-        "ES": "Tiempo restante: 1", 
-        "TH": "จำนวนครั้งที่เหลืออยู่: 1ครั้ง", 
+        "KR": " ", 
+        "ES": "", 
+        "TH": "", 
         "Type": 0, 
         "id": 600, 
         "TLM": 19809
