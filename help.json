@@ -636,7 +636,7 @@
         "mainCategoryId": 5, 
         "transitionSceneName": "", 
         "updatedTime": 1483196400, 
-        "content": "A player is knocked out when their HP is reduced to zero.\\n\\nWhile in the Colosseum, the revive command can be used to recover from this status.\\n\\nOther player's recovery skills can also be used to restore HP.\\n\\nThe enemy receives maximum lifeforce if all allies in the front row are knocked out, so try to revive any fallen allies as quickly as possible.\\n", 
+        "content": "A player is knocked out when their HP is reduced to zero.\\n\\nWhile in the Colosseum, the revive command can be used to recover from this status.\\n\\nOther player's recovery skills can also be used to restore HP.\\n\\nThe enemy receives maximum lifeforce if all allies in the vanguard are knocked out, so try to revive any fallen allies as quickly as possible.\\n", 
         "helpMstId": 46, 
         "subCategoryOrder": 16, 
         "mainCategoryOrder": 0, 

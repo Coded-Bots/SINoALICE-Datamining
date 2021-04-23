@@ -11200,6 +11200,126 @@
         "cardDetailType": 5
     }, 
     {
+        "name": "Tome +30% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1509, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1510, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1511, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1512, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1513, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1514, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1515, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1516, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1517, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1518, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1519, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1520, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
         "name": "Polearm +30% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
@@ -14238,6 +14358,26 @@
         "effectValue": 200, 
         "characterMstId": 194, 
         "cardDetailType": 8
+    }, 
+    {
+        "name": "Tome +10% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 2903, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +400", 
+        "effectType": 1, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 2904, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 120, 
+        "cardDetailType": 2
     }, 
     {
         "name": "Heavy +10% (Alice+ stages)", 

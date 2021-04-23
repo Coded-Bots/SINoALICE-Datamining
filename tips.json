@@ -229,5 +229,16 @@
         "resourceName": "011", 
         "tips": "", 
         "type": 4
+    }, 
+    {
+        "title": "", 
+        "tipsMstId": 22, 
+        "rate": 0, 
+        "akbMemberMstId": 0, 
+        "characterMstId": 12, 
+        "assetBundleName": "tips900006", 
+        "resourceName": "900012", 
+        "tips": "", 
+        "type": 4
     }
 ]

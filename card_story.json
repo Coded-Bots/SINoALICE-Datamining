@@ -15904,6 +15904,38 @@
         "evolutionLevel": 0
     }, 
     {
+        "story": "People feared the man, calling him \"the Murder Doll.\" Only dogs, cats, and other despised creatures would speak to him. People only understand the words of their equals–the man's life proved it.", 
+        "cardStoryMstId": 2477, 
+        "cardMstId": 2386, 
+        "step": 1, 
+        "cardUniqueId": 1121, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Finally, one day, the man met someone who didn't hate him, an orphan who had lost his parents to another murderer, just like him. And for the first time, he realized his mistake. Afflicted by crushing guilt, he sought refuge in the Bible, believing he would be saved if he obeyed its teachings.", 
+        "cardStoryMstId": 2478, 
+        "cardMstId": 2386, 
+        "step": 2, 
+        "cardUniqueId": 1121, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "One evening, the orphanage was attacked. The man stood and stared at the mounds of corpses. Thankfully, the orphan had survived. Eyes full of tears, he clung to the man, crying the names of his dead friends.", 
+        "cardStoryMstId": 2479, 
+        "cardMstId": 2387, 
+        "step": 3, 
+        "cardUniqueId": 1121, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"He who dies without guilt will be called to paradise.\" Suddenly he thought of this Bible verse. Using the ax in his hand, he sent the orphan to heaven to see his friends. This was the first time the man killed to save a soul.", 
+        "cardStoryMstId": 2480, 
+        "cardMstId": 2387, 
+        "step": 4, 
+        "cardUniqueId": 1121, 
+        "evolutionLevel": 0
+    }, 
+    {
         "story": "Once upon a time, there was a guard who defended a lord's castle.\\nHe was extremely good at his job, and the lord counted himself lucky to have him. However, the guard's real purpose was not to protect the lord, but to kill him.", 
         "cardStoryMstId": 2489, 
         "cardMstId": 2392, 
@@ -15965,6 +15997,70 @@
         "cardMstId": 2401, 
         "step": 4, 
         "cardUniqueId": 1128, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Will you be happy if you have money?\\nCan money buy everything?\\nIf you ask us, the answer is no.", 
+        "cardStoryMstId": 2537, 
+        "cardMstId": 2418, 
+        "step": 1, 
+        "cardUniqueId": 1136, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Can money buy true friendship? When you're stuck between a rock and a hard place, can money buy you a helping hand? Sure, just include an emergency clause in your friend contract.", 
+        "cardStoryMstId": 2538, 
+        "cardMstId": 2418, 
+        "step": 2, 
+        "cardUniqueId": 1136, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Can money buy knowledge? No, it can't. It can be used to hire wise people, that's true. But who knows if their wisdom is real?", 
+        "cardStoryMstId": 2539, 
+        "cardMstId": 2419, 
+        "step": 3, 
+        "cardUniqueId": 1136, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Can money buy emotions? Sure, money can be used to buy love and fill your days with activities. But whether you're happy with that depends on you. You can't buy a heart to feel happiness with.", 
+        "cardStoryMstId": 2540, 
+        "cardMstId": 2419, 
+        "step": 4, 
+        "cardUniqueId": 1136, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "\"We can never tell anyone about this,\" said the boy.\\n\"Of course not. It's our secret,\" said the other two boys, nodding their heads.\\nSo the three of them put the thing away in a box, sealed it with a magical staff they found at home, and buried it.", 
+        "cardStoryMstId": 2541, 
+        "cardMstId": 2420, 
+        "step": 1, 
+        "cardUniqueId": 1137, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Decades passed, and the three boys became men.\\nOne day, the corpse of one of the men was found lying at the bottom of a cliff.\\nHe had apparently fallen from the cliff, but whether he had stumbled or been pushed, no one knew.", 
+        "cardStoryMstId": 2542, 
+        "cardMstId": 2420, 
+        "step": 2, 
+        "cardUniqueId": 1137, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Several days later, the second man's body was found floating in a pond.\\nWhether it had been an accident or foul play, no one could say. The third man quaked with fear.\\nA necromancer appeared before him, brandishing a staff, and said,\\n\"Word of a boy's hatred has reached me. I know what you did.\"", 
+        "cardStoryMstId": 2543, 
+        "cardMstId": 2421, 
+        "step": 3, 
+        "cardUniqueId": 1137, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "Long ago, the four boys had been playing hide and seek when one had fallen into a well, broken his neck, and died.\\nThe boy's necklace had fallen beside the well. The other three boys had buried it, and no one ever learned their secret.\\nThe necromancer had heard the truth from the boy's spirit, and he now extracted a pledge of servitude from the sole survivor, making him a slave...", 
+        "cardStoryMstId": 2544, 
+        "cardMstId": 2421, 
+        "step": 4, 
+        "cardUniqueId": 1137, 
         "evolutionLevel": 0
     }, 
     {
@@ -16669,6 +16765,38 @@
         "cardMstId": 2629, 
         "step": 4, 
         "cardUniqueId": 1225, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The craftsman saw the two women laying on the floor of the house and gave a small, satisfied smile. Now there was proof that his masterpiece had made an impact on the world.", 
+        "cardStoryMstId": 2693, 
+        "cardMstId": 2637, 
+        "step": 1, 
+        "cardUniqueId": 1231, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "When the intruder stepped through the door, she stood at the threshold with a long sword in her hand.\\nShe swung the sword, striking down the intruder, who had murdered her lover. But at the same time, the intruder struck her down, too.", 
+        "cardStoryMstId": 2694, 
+        "cardMstId": 2637, 
+        "step": 2, 
+        "cardUniqueId": 1231, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "The intruder had been a woman too.\\nAnd, like her, that other woman was armed with a long sword.", 
+        "cardStoryMstId": 2695, 
+        "cardMstId": 2638, 
+        "step": 3, 
+        "cardUniqueId": 1231, 
+        "evolutionLevel": 0
+    }, 
+    {
+        "story": "She too had been told to wait there until the woman who had murdered her lover arrived, then extract vengeance with the halberd given for that purpose...\\nfrom her lover's true killer, the smith who had forged the blade.", 
+        "cardStoryMstId": 2696, 
+        "cardMstId": 2638, 
+        "step": 4, 
+        "cardUniqueId": 1231, 
         "evolutionLevel": 0
     }, 
     {

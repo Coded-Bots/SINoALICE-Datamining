@@ -78,6 +78,12 @@
         "title": "\"End of the Dreary World\" Mission"
     }, 
     {
+        "endTime": 1620367199, 
+        "startTime": 1619157600, 
+        "missionTitleMstId": 34, 
+        "title": "Act of Hatred New Chapter Celebration Mission"
+    }, 
+    {
         "endTime": 1601531999, 
         "startTime": 1600318800, 
         "missionTitleMstId": 35, 
@@ -220,5 +226,17 @@
         "startTime": 1618549200, 
         "missionTitleMstId": 900014, 
         "title": "Comeback Mission"
+    }, 
+    {
+        "endTime": 1619931599, 
+        "startTime": 1619845200, 
+        "missionTitleMstId": 900015, 
+        "title": "End of Month Global Missions"
+    }, 
+    {
+        "endTime": 1620017999, 
+        "startTime": 1619413200, 
+        "missionTitleMstId": 900016, 
+        "title": "End of Month Global Daily Missions"
     }
 ]
