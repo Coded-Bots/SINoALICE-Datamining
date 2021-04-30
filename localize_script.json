@@ -19075,7 +19075,7 @@
         "JP": "魔晶石を<color=#B42F00>{0}個</color>消費して{1}{2}回ガチャを引きますか？", 
         "VN": "", 
         "KR": "마정석을 <color=#B42F00>{0}개</color> 소비하여{1}{2}회 뽑기를 하시겠습니까?", 
-        "ES": "¿Usar <color=#B42F00>{0}</color> Cristales del ocaso para tirar del  grimorio {1} {2} vez/veces?", 
+        "ES": "¿Usar <color=#B42F00>{0}</color> Cristales del ocaso para tirar del grimorio {1} {2} vez/veces?", 
         "TH": "ใช้คริสตัลสนธยา<color=#B42F00> {0}ชิ้น</color> เพื่อดึงกรีมัวร์{1}{2}ครั้งหรือไม่?", 
         "Type": 0, 
         "id": 1363, 

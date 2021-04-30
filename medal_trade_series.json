@@ -197,13 +197,13 @@
     }, 
     {
         "name": "Black Iron Medal", 
-        "startTime": 1617084000, 
+        "startTime": 1619762400, 
         "priority": 30, 
         "isDeleted": false, 
         "assetBundleName": "0345", 
         "resourceName": "item20210101_gvgbox5", 
         "wayToGet": "Earned by playing an event.", 
-        "endTime": 1618376399, 
+        "endTime": 1621054799, 
         "medalTradeSeriesMstId": 20, 
         "medalTradeGroupMstId": 0, 
         "itemMstId": 345, 
@@ -320,6 +320,20 @@
         "medalTradeGroupMstId": 0, 
         "itemMstId": 528, 
         "description": "Medal collected by Parrah-Noya."
+    }, 
+    {
+        "name": "Medal of Desire (V)", 
+        "startTime": 1619762400, 
+        "priority": 36, 
+        "isDeleted": false, 
+        "assetBundleName": "0003", 
+        "resourceName": "item1", 
+        "wayToGet": "Earned by summoning certain grimoires.", 
+        "endTime": 1623941999, 
+        "medalTradeSeriesMstId": 34, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 166, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
     }, 
     {
         "name": "Arcana Medal", 
