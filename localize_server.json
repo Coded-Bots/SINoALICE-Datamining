@@ -21434,10 +21434,10 @@
         "TLM": 51805
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "Assistance", 
+        "EN": "Unleashes support skill at C.Lv. %level", 
         "GameKey": "Server/announce.label.supportSkillStatus", 
-        "DE": "", 
+        "DE": "Hilfe", 
         "JP": "JLv.%levelでの発動サポートスキル", 
         "VN": "", 
         "KR": "", 

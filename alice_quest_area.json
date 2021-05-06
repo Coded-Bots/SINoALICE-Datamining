@@ -3844,6 +3844,23 @@
     {
         "isGve": false, 
         "unCombatFlag": false, 
+        "name": "Bewitching Mischief", 
+        "collectItemId": 0, 
+        "questAreaMstId": 273, 
+        "isComingSoon": false, 
+        "bgm": "", 
+        "cueName": "bgm_mypage@001", 
+        "questMapMstId": 101, 
+        "assetBundleName": "questareabackground/13", 
+        "createdTime": 1483974000, 
+        "exchangesSceneName": "", 
+        "bgResourceName": "0013", 
+        "cueSheetName": "bgm_mypage", 
+        "description": ""
+    }, 
+    {
+        "isGve": false, 
+        "unCombatFlag": false, 
         "name": "With Memories", 
         "collectItemId": 0, 
         "questAreaMstId": 274, 
