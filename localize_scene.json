@@ -10346,14 +10346,14 @@
         "TLM": 51711
     }, 
     {
-        "FR": "", 
+        "FR": "Choisir classe d'assistance", 
         "EN": "", 
         "GameKey": "SCENE", 
         "DE": "", 
         "JP": "サポートジョブ選択", 
         "VN": "", 
-        "KR": "", 
-        "ES": "", 
+        "KR": "지원 직업 선택", 
+        "ES": "Seleccionar clase de apoyo", 
         "TH": "", 
         "Type": 0, 
         "id": 740, 

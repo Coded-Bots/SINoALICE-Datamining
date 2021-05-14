@@ -20448,7 +20448,7 @@
         "typeLabel": "Single Enemy", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great M.DMG to 1 enemy and\\nslightly reduces its P.ATK and M.ATK."
+        "description": "Deals great M.DMG to 1 enemy and slightly reduces its P.ATK and M.ATK."
     }, 
     {
         "category": 1, 
@@ -20499,7 +20499,7 @@
         "typeLabel": "Single Enemy", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great M.DMG to 1 enemy and\\nslightly reduces its P.ATK and M.ATK."
+        "description": "Deals great M.DMG to 1 enemy and slightly reduces its P.ATK and M.ATK."
     }, 
     {
         "category": 4, 
@@ -21995,7 +21995,7 @@
         "typeLabel": "Single Enemy", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great M.DMG to 1 enemy and\\nslightly reduces its P.ATK and M.ATK."
+        "description": "Deals great M.DMG to 1 enemy and slightly reduces its P.ATK and M.ATK."
     }, 
     {
         "category": 4, 
@@ -22012,7 +22012,7 @@
         "typeLabel": "Single Enemy", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great M.DMG to 1 enemy and\\nslightly reduces its P.ATK and M.ATK."
+        "description": "Deals great M.DMG to 1 enemy and slightly reduces its P.ATK and M.ATK."
     }, 
     {
         "category": 4, 
@@ -25838,6 +25838,40 @@
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
         "description": "Deals great M.DMG to 1 to 2 enemies.\\nThe effect goes up by 150% when at a disadvantage."
+    }, 
+    {
+        "category": 1, 
+        "sp": 23, 
+        "name": "Pounding Inferno (III)", 
+        "type": 10, 
+        "attackEffect": 0, 
+        "primaryIcon": 1, 
+        "skillMstId": 3572, 
+        "rangeIcon": 2, 
+        "secondaryIcon": 24, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Multiple Enemies", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great P.DMG to 1 to 2 enemies,\\nadding 5 hits to your combo during a combo chance."
+    }, 
+    {
+        "category": 4, 
+        "sp": 23, 
+        "name": "Pounding Inferno (III)", 
+        "type": 10, 
+        "attackEffect": 0, 
+        "primaryIcon": 1, 
+        "skillMstId": 3576, 
+        "rangeIcon": 2, 
+        "secondaryIcon": 24, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Multiple Enemies", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great P.DMG to 1 to 2 enemies,\\nadding 5 hits to your combo during a combo chance."
     }, 
     {
         "category": 4, 

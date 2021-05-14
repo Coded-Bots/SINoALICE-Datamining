@@ -17906,13 +17906,13 @@
         "TLM": 51848
     }, 
     {
-        "FR": "", 
+        "FR": "La capacité de classes d'assistances a augmenté.", 
         "EN": "", 
         "GameKey": "PREFAB", 
         "DE": "", 
         "JP": "サポートジョブ枠が増えました。", 
         "VN": "", 
-        "KR": "", 
+        "KR": "지원 직업 칸이 늘어났습니다.", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
@@ -17920,13 +17920,13 @@
         "TLM": 51856
     }, 
     {
-        "FR": "", 
+        "FR": "Capacité de classes d'assistances", 
         "EN": "", 
         "GameKey": "PREFAB", 
         "DE": "", 
         "JP": "サポートジョブ枠", 
         "VN": "", 
-        "KR": "", 
+        "KR": "지원 직업 칸", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
@@ -17934,13 +17934,13 @@
         "TLM": 51857
     }, 
     {
-        "FR": "", 
+        "FR": "Classe de base", 
         "EN": "", 
         "GameKey": "PREFAB", 
         "DE": "", 
         "JP": "ベースジョブ", 
         "VN": "", 
-        "KR": "", 
+        "KR": "베이스 직업", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
@@ -17948,13 +17948,13 @@
         "TLM": 51858
     }, 
     {
-        "FR": "", 
+        "FR": "Changer de classe d'assistance", 
         "EN": "", 
         "GameKey": "PREFAB", 
         "DE": "", 
         "JP": "サポートジョブを変更します", 
         "VN": "", 
-        "KR": "", 
+        "KR": "지원 직업을 변경합니다.", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
@@ -17962,13 +17962,13 @@
         "TLM": 51859
     }, 
     {
-        "FR": "", 
+        "FR": "*Aucune compétence d'assistance", 
         "EN": "", 
         "GameKey": "PREFAB", 
         "DE": "", 
         "JP": "※サポートスキルがありません", 
         "VN": "", 
-        "KR": "", 
+        "KR": "※지원 스킬이 없습니다.", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
@@ -17976,13 +17976,13 @@
         "TLM": 51860
     }, 
     {
-        "FR": "", 
+        "FR": "Classe d'assistance", 
         "EN": "", 
         "GameKey": "PREFAB", 
         "DE": "", 
         "JP": "サポートジョブ", 
         "VN": "", 
-        "KR": "", 
+        "KR": "지원 직업", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
@@ -17990,17 +17990,31 @@
         "TLM": 51861
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "Niv. de compétence", 
+        "EN": "Skill Lv.", 
         "GameKey": "PREFAB", 
-        "DE": "", 
+        "DE": "Fertigkeit St.", 
         "JP": "スキルLv", 
         "VN": "", 
-        "KR": "", 
-        "ES": "", 
-        "TH": "", 
+        "KR": "스킬 Lv", 
+        "ES": "Nv. de habilidad", 
+        "TH": "Lvสกิล", 
         "Type": 0, 
         "id": 1286, 
         "TLM": 51862
+    }, 
+    {
+        "FR": "*Arme(s) ayant effectué 4 surcharges incluse(s).", 
+        "EN": "Note: Weapons with four limit breaks are included.", 
+        "GameKey": "PREFAB", 
+        "DE": "*4 Mal ausgeführte Limit Break Waffe ist enthalten.", 
+        "JP": "※4回限界突破を行った武器が含まれております。", 
+        "VN": "", 
+        "KR": "※4회 한계돌파가 완료된 무기가 포함되어 있습니다.", 
+        "ES": "*Se incluye arma con Superación del límite por 4ª vez.", 
+        "TH": "*มีอาวุธที่ข้ามขีดจำกัด 4 ครั้งแล้วรวมอยู่ด้วย", 
+        "Type": 0, 
+        "id": 1287, 
+        "TLM": 51864
     }
 ]

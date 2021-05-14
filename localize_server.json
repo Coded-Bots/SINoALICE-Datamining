@@ -17304,7 +17304,7 @@
         "TLM": 51171
     }, 
     {
-        "FR": "306 cristaux crépusculaires payés. + Violon de Kanaria", 
+        "FR": "306 cristaux crépusculaires payés + Violon de Kanaria", 
         "EN": "Paid T.Crys. x306 & Kanaria's Violin", 
         "GameKey": "Server/com.global.sinoalice.campaign04.tier25b/description", 
         "DE": "Erhalte Zwielichtkristalle x306 + „Kanarias Violine“", 
@@ -17318,7 +17318,7 @@
         "TLM": 51172
     }, 
     {
-        "FR": "208 cr. crépusculaires＋arme", 
+        "FR": "208 cr. crépusculaires + arme", 
         "EN": "T.Crys. x208 & Weapon", 
         "GameKey": "Server/com.global.sinoalice.campaign09.tier17/title", 
         "DE": "Zwielichtkristalle x208 + Waffe", 
@@ -20454,15 +20454,15 @@
         "TLM": 51617
     }, 
     {
-        "FR": "354 cristaux crépusculaires payés + Yuno, la solitude sombre", 
-        "EN": "Paid Twilight Crystal x354 & Yuno, The Dark Loner", 
+        "FR": "354 cristaux crépusculaires payés + Roisa, Corrida des lamentations", 
+        "EN": "Paid Twilight Crystal x354 & Loiza, Bull of the Wailing Cape", 
         "GameKey": "Server/com.global.sinoalice.campaign11.tier29/description", 
-        "DE": "Erhalte bezahlte Zwielichtkristalle x354 + Yuno, schwarze Isolation", 
+        "DE": "Erhalte bezahlte Zwielichtkristalle x354 + „Loisa, Klagender Kampfstier“.", 
         "JP": "有償魔晶石354個＋「哭幕の闘牛 ロイサ」の獲得", 
         "VN": "", 
-        "KR": "유료 마정석 354개+\"흑의 고독 유노\" 획득", 
-        "ES": "Al comprar Cristales del ocaso x354 + obt. «Yuno, la soledad negra»", 
-        "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+รับ\"ยูโนะ ความโดดเดี่ยวที่มืดมน\"", 
+        "KR": "유료 마정석 354개+\"곡막의 투우 로이사\" 획득", 
+        "ES": "Al comprar Cristales del ocaso x354 + obt. «Mantilla torera Loisa»", 
+        "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+รับ\"นักสู้วัวแห่งม่านน้ำตา ลุยซา\"", 
         "Type": 0, 
         "id": 1462, 
         "TLM": 51618
@@ -21224,24 +21224,24 @@
         "TLM": 51769
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "Total des points de conquête", 
+        "EN": "Total conquest pts.", 
         "GameKey": "Server/common.label.subjugationTotalPoint", 
-        "DE": "", 
+        "DE": "Gesamt Eroberungspunkte", 
         "JP": "合計討伐pt", 
         "VN": "", 
         "KR": "합계 토벌 pt", 
         "ES": "Puntos de conquista", 
-        "TH": "pt พิชิตรวม", 
+        "TH": "5379pt พิชิตรวม", 
         "Type": 0, 
         "id": 1517, 
         "TLM": 51781
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "Points de conquête obtenables", 
+        "EN": "Obtainable conquest pts.", 
         "GameKey": "Server/common.label.subjugationPointGetLimit", 
-        "DE": "", 
+        "DE": "Eroberungspunkte die du erhalten kannst.", 
         "JP": "獲得できる討伐pt", 
         "VN": "", 
         "KR": "획득 가능한 토벌 pt", 
@@ -21252,10 +21252,10 @@
         "TLM": 51782
     }, 
     {
-        "FR": "", 
-        "EN": "", 
+        "FR": "Nombre de fois terminé", 
+        "EN": "Clears", 
         "GameKey": "Server/common.label.clearCount", 
-        "DE": "", 
+        "DE": "Abschluss Anzahl", 
         "JP": "クリア回数", 
         "VN": "", 
         "KR": "클리어 횟수", 
@@ -21440,7 +21440,7 @@
         "DE": "Hilfe", 
         "JP": "JLv.%levelでの発動サポートスキル", 
         "VN": "", 
-        "KR": "", 
+        "KR": "JLv.%level에서의 발동 지원 스킬", 
         "ES": "Apoyo de activación para Habilidad del Nv. de clase %level", 
         "TH": "", 
         "Type": 0, 
@@ -21454,7 +21454,7 @@
         "DE": "", 
         "JP": "JLv.%levelでの上昇共通ステータス", 
         "VN": "", 
-        "KR": "", 
+        "KR": "JLv.%level에서의 상승 공통 스테이터스", 
         "ES": "Estado del incremento cooperativo del Nv. de clase %level", 
         "TH": "", 
         "Type": 0, 
@@ -21462,17 +21462,45 @@
         "TLM": 51804
     }, 
     {
+        "FR": "*Le statut affiché est de %limitBreakCount% surcharge(s).", 
+        "EN": "Note: Stats for %limitBreakCount% limit break(s) are displayed.", 
+        "GameKey": "Server/announce.label.cautionLimitBreakPopup", 
+        "DE": "*Angezeigter Status ist zum %limitBreakCount%Zeitpunkt des Limit Breaks.", 
+        "JP": "※表示されているステータスは%limitBreakCount%回限界突破時のものです。", 
+        "VN": "", 
+        "KR": "※표시된 스테이터스는 %limitBreakCount%회 한계돌파 시 기준입니다.", 
+        "ES": "*El estado que se muestra se trata de una Superación de límite de %limitBreakCount% vez (veces).", 
+        "TH": "*สเตตัสที่แสดงเป็นตอนข้ามขีดจำกัดครั้งที่%limitBreakCount%", 
+        "Type": 0, 
+        "id": 1534, 
+        "TLM": 51854
+    }, 
+    {
         "FR": "", 
         "EN": "", 
-        "GameKey": "Server/announce.label.cautionLimitBreakPopup", 
+        "GameKey": "ServerData/config.ColosseumSP.Title3", 
         "DE": "", 
-        "JP": "※表示されているステータスは%limitBreakCount%回限界突破時のものです。", 
+        "JP": "第五回", 
         "VN": "", 
         "KR": "", 
         "ES": "", 
         "TH": "", 
         "Type": 0, 
-        "id": 1534, 
-        "TLM": 51854
+        "id": 1535, 
+        "TLM": 51865
+    }, 
+    {
+        "FR": "", 
+        "EN": "", 
+        "GameKey": "ServerData/config.ColosseumSP.Comment3", 
+        "DE": "", 
+        "JP": "※ナイトメアの準備時間ガ５秒二。ナイトメア召喚マツリ\\n※10分経過でナイトメアが再召喚可能\\n※メンバー全員の総合値ヲ超強化&固定化でトンデモダメージ", 
+        "VN": "", 
+        "KR": "", 
+        "ES": "", 
+        "TH": "", 
+        "Type": 0, 
+        "id": 1536, 
+        "TLM": 51866
     }
 ]
