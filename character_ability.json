@@ -12760,6 +12760,126 @@
         "cardDetailType": 1
     }, 
     {
+        "name": "Projectile +30% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 1729, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 1730, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 1731, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 1732, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 1733, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 1734, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 1735, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 1736, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "Projectile +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 1737, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 1738, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +200", 
+        "effectType": 5, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 1739, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +200", 
+        "effectType": 5, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 1740, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
         "name": "Instrument +30% (Three Little Pigs+ stages)", 
         "effectType": 6, 
         "releaseLevel": 1, 
@@ -15958,6 +16078,26 @@
         "effectValue": 400, 
         "characterMstId": 125, 
         "cardDetailType": 8
+    }, 
+    {
+        "name": "Projectile +10% (Princess Kaguya+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 5403, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
+    }, 
+    {
+        "name": "M.DEF +400", 
+        "effectType": 5, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 5404, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 136, 
+        "cardDetailType": 7
     }, 
     {
         "name": "Tome +30% (TenSura+ stages)", 

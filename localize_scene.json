@@ -10347,14 +10347,14 @@
     }, 
     {
         "FR": "Choisir classe d'assistance", 
-        "EN": "", 
+        "EN": "Select Support Class", 
         "GameKey": "SCENE", 
-        "DE": "", 
+        "DE": "Unterstützungs Klasse auswählen", 
         "JP": "サポートジョブ選択", 
         "VN": "", 
         "KR": "지원 직업 선택", 
         "ES": "Seleccionar clase de apoyo", 
-        "TH": "", 
+        "TH": "เลือกคลาสซัพพอร์ต", 
         "Type": 0, 
         "id": 740, 
         "TLM": 51855
