@@ -3230,6 +3230,16 @@
         "characterUniqueId": 6
     }, 
     {
+        "questAreaGroupMstId": 388, 
+        "questAreaType": 1, 
+        "questAreaMstId": 344, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 157, 
+        "createdTime": 1483974000, 
+        "characterUniqueId": 6
+    }, 
+    {
         "questAreaGroupMstId": 398, 
         "questAreaType": 1, 
         "questAreaMstId": 353, 
@@ -4398,6 +4408,126 @@
         "questMapMstId": 270, 
         "createdTime": 1483974000, 
         "characterUniqueId": 50
+    }, 
+    {
+        "questAreaGroupMstId": 1252, 
+        "questAreaType": 1, 
+        "questAreaMstId": 769, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 61
+    }, 
+    {
+        "questAreaGroupMstId": 1253, 
+        "questAreaType": 1, 
+        "questAreaMstId": 769, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 62
+    }, 
+    {
+        "questAreaGroupMstId": 1254, 
+        "questAreaType": 1, 
+        "questAreaMstId": 769, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 63
+    }, 
+    {
+        "questAreaGroupMstId": 1255, 
+        "questAreaType": 1, 
+        "questAreaMstId": 769, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 64
+    }, 
+    {
+        "questAreaGroupMstId": 1256, 
+        "questAreaType": 1, 
+        "questAreaMstId": 769, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 66
+    }, 
+    {
+        "questAreaGroupMstId": 1257, 
+        "questAreaType": 1, 
+        "questAreaMstId": 769, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 65
+    }, 
+    {
+        "questAreaGroupMstId": 1258, 
+        "questAreaType": 1, 
+        "questAreaMstId": 770, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 61
+    }, 
+    {
+        "questAreaGroupMstId": 1259, 
+        "questAreaType": 1, 
+        "questAreaMstId": 770, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 62
+    }, 
+    {
+        "questAreaGroupMstId": 1260, 
+        "questAreaType": 1, 
+        "questAreaMstId": 770, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 63
+    }, 
+    {
+        "questAreaGroupMstId": 1261, 
+        "questAreaType": 1, 
+        "questAreaMstId": 770, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 64
+    }, 
+    {
+        "questAreaGroupMstId": 1262, 
+        "questAreaType": 1, 
+        "questAreaMstId": 770, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 66
+    }, 
+    {
+        "questAreaGroupMstId": 1263, 
+        "questAreaType": 1, 
+        "questAreaMstId": 770, 
+        "questAreaNo": 1, 
+        "characterOrderNo": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974001, 
+        "characterUniqueId": 65
     }, 
     {
         "questAreaGroupMstId": 1313, 

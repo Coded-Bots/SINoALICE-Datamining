@@ -860,6 +860,17 @@
     {
         "mapCategory": 0, 
         "mapGroupLv": 1, 
+        "name": "Stone Pillar Personified", 
+        "announceUrl": "", 
+        "mapType": 1, 
+        "questMapMstId": 157, 
+        "createdTime": 1483974000, 
+        "mapGroup": 92, 
+        "description": "Conquest: Ajatar"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
         "name": "X-mas Feast", 
         "announceUrl": "/web/announce/body?announceMstId=2314&&isHideBackButton=1", 
         "mapType": 1, 
@@ -999,6 +1010,28 @@
         "createdTime": 1483974000, 
         "mapGroup": 164, 
         "description": "リゼロコラボHard"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 1, 
+        "name": "Mirrored Rozen Maidens", 
+        "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 401, 
+        "createdTime": 1483974000, 
+        "mapGroup": 247, 
+        "description": "ローゼンコラボ"
+    }, 
+    {
+        "mapCategory": 0, 
+        "mapGroupLv": 2, 
+        "name": "Mirrored Rozen Maidens (Hard)", 
+        "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1", 
+        "mapType": 1, 
+        "questMapMstId": 402, 
+        "createdTime": 1483974000, 
+        "mapGroup": 247, 
+        "description": "ローゼンコラボHard"
     }, 
     {
         "mapCategory": 3, 

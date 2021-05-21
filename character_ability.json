@@ -16060,6 +16060,846 @@
         "cardDetailType": 4
     }, 
     {
+        "name": "Tome +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 4699, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 4700, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.DEF +50", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 4701, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.DEF +50", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 4702, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 4703, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "M.ATK +50", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 4704, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 4705, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "P.ATK +50", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 4706, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 4707, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 4708, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +20% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 4709, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "HP +200", 
+        "effectType": 1, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 4710, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Tome +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4711, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Cost +2", 
+        "effectType": 7, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4712, 
+        "skillType": 1, 
+        "effectValue": 2, 
+        "characterMstId": 389, 
+        "cardDetailType": 2
+    }, 
+    {
+        "name": "Blade +30% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 4713, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 4714, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 4715, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 4716, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 4717, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 4718, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 4719, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 4720, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Blade +20% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 4721, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "HP +300", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 4722, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +150", 
+        "effectType": 3, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 4723, 
+        "skillType": 1, 
+        "effectValue": 150, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +350", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 4724, 
+        "skillType": 1, 
+        "effectValue": 350, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.DEF +250", 
+        "effectType": 3, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4725, 
+        "skillType": 1, 
+        "effectValue": 250, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "P.ATK +350", 
+        "effectType": 2, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4726, 
+        "skillType": 1, 
+        "effectValue": 350, 
+        "characterMstId": 390, 
+        "cardDetailType": 5
+    }, 
+    {
+        "name": "Artifact +30% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 4727, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "Artifact +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 4728, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 4729, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 4730, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "Artifact +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 4731, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 4732, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 4733, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 4734, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "Artifact +20% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 4735, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 4736, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +150", 
+        "effectType": 4, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 4737, 
+        "skillType": 1, 
+        "effectValue": 150, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +150", 
+        "effectType": 4, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 4738, 
+        "skillType": 1, 
+        "effectValue": 150, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4739, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "M.ATK +400", 
+        "effectType": 4, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4740, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 391, 
+        "cardDetailType": 3
+    }, 
+    {
+        "name": "Polearm +30% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 4741, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 4742, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 4743, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 4744, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 4745, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 4746, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.DEF +300", 
+        "effectType": 5, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 4747, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 4748, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Polearm +20% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 4749, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "HP +300", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 4750, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 4751, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 4752, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4753, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "M.ATK +300", 
+        "effectType": 4, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4754, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 392, 
+        "cardDetailType": 8
+    }, 
+    {
+        "name": "Instrument +30% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 4755, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 4756, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 4757, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 4758, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 4759, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 4760, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 4761, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +100", 
+        "effectType": 4, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 4762, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Instrument +20% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 4763, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "HP +300", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 4764, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +150", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 4765, 
+        "skillType": 1, 
+        "effectValue": 150, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +200", 
+        "effectType": 4, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 4766, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4767, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "M.ATK +300", 
+        "effectType": 4, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4768, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 393, 
+        "cardDetailType": 1
+    }, 
+    {
+        "name": "Staff +30% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 4769, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 4770, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 4771, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 4772, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +10% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 4773, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 4774, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 4775, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +100", 
+        "effectType": 5, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 4776, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "Staff +20% (Rozen Maiden+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 4777, 
+        "skillType": 2, 
+        "effectValue": 20, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "HP +300", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 4778, 
+        "skillType": 1, 
+        "effectValue": 300, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +150", 
+        "effectType": 5, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 4779, 
+        "skillType": 1, 
+        "effectValue": 150, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "M.DEF +350", 
+        "effectType": 5, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 4780, 
+        "skillType": 1, 
+        "effectValue": 350, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +150", 
+        "effectType": 3, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4781, 
+        "skillType": 1, 
+        "effectValue": 150, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
+        "name": "P.DEF +450", 
+        "effectType": 3, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4782, 
+        "skillType": 1, 
+        "effectValue": 450, 
+        "characterMstId": 394, 
+        "cardDetailType": 4
+    }, 
+    {
         "name": "Polearm +10% (Dorothy+ stages)", 
         "effectType": 6, 
         "releaseLevel": 13, 
