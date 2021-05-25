@@ -610,5 +610,17 @@
         "resourceName": "1", 
         "endTime": 1620363599, 
         "pickupSkillType": 1
+    }, 
+    {
+        "loginBonusMstId": 900022, 
+        "assetBundleName": "", 
+        "title": "9 Million Users Celebration", 
+        "akbMemberMstId": 0, 
+        "displayType": 2, 
+        "cycleType": 2, 
+        "startTime": 1621922400, 
+        "resourceName": "1", 
+        "endTime": 1623128399, 
+        "pickupSkillType": 1
     }
 ]

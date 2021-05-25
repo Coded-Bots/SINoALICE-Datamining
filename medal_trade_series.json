@@ -558,5 +558,19 @@
         "medalTradeGroupMstId": 0, 
         "itemMstId": 2951, 
         "description": "Medal from a collaboration grimoire."
+    }, 
+    {
+        "name": "9 Million Medal", 
+        "startTime": 1621922400, 
+        "priority": 32, 
+        "isDeleted": false, 
+        "assetBundleName": "900202", 
+        "resourceName": "item20210525_gacha_step_900memory", 
+        "wayToGet": "Earned by summoning certain grimoires.", 
+        "endTime": 1623077999, 
+        "medalTradeSeriesMstId": 900004, 
+        "medalTradeGroupMstId": 0, 
+        "itemMstId": 900202, 
+        "description": "A medal that is an incidental byproduct of a Grimoire."
     }
 ]

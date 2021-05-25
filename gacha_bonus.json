@@ -1982,5 +1982,53 @@
         "num": 100, 
         "createdTime": 1498802400, 
         "objectType": 1
+    }, 
+    {
+        "objectId": 900202, 
+        "gachaMstId": 900026, 
+        "gachaBonusMstId": 900036, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 900202, 
+        "gachaMstId": 900027, 
+        "gachaBonusMstId": 900037, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 900202, 
+        "gachaMstId": 900028, 
+        "gachaBonusMstId": 900038, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 900202, 
+        "gachaMstId": 900029, 
+        "gachaBonusMstId": 900039, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 900202, 
+        "gachaMstId": 900030, 
+        "gachaBonusMstId": 900040, 
+        "num": 10, 
+        "createdTime": 1498802400, 
+        "objectType": 1
+    }, 
+    {
+        "objectId": 900202, 
+        "gachaMstId": 900031, 
+        "gachaBonusMstId": 900041, 
+        "num": 100, 
+        "createdTime": 1498802400, 
+        "objectType": 1
     }
 ]
