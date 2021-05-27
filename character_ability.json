@@ -15000,6 +15000,126 @@
         "cardDetailType": 8
     }, 
     {
+        "name": "Heavy +30% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 1, 
+        "characterAbilityMstId": 2377, 
+        "skillType": 2, 
+        "effectValue": 30, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10%", 
+        "effectType": 6, 
+        "releaseLevel": 2, 
+        "characterAbilityMstId": 2378, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 3, 
+        "characterAbilityMstId": 2379, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.DEF +100", 
+        "effectType": 3, 
+        "releaseLevel": 4, 
+        "characterAbilityMstId": 2380, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 5, 
+        "characterAbilityMstId": 2381, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 6, 
+        "characterAbilityMstId": 2382, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 7, 
+        "characterAbilityMstId": 2383, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +100", 
+        "effectType": 2, 
+        "releaseLevel": 8, 
+        "characterAbilityMstId": 2384, 
+        "skillType": 1, 
+        "effectValue": 100, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 9, 
+        "characterAbilityMstId": 2385, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "HP +50", 
+        "effectType": 1, 
+        "releaseLevel": 10, 
+        "characterAbilityMstId": 2386, 
+        "skillType": 1, 
+        "effectValue": 50, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 11, 
+        "characterAbilityMstId": 2387, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +200", 
+        "effectType": 2, 
+        "releaseLevel": 12, 
+        "characterAbilityMstId": 2388, 
+        "skillType": 1, 
+        "effectValue": 200, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
         "name": "Tome +10% (Aladdin+ stages)", 
         "effectType": 6, 
         "releaseLevel": 13, 
@@ -16017,6 +16137,26 @@
         "skillType": 1, 
         "effectValue": 350, 
         "characterMstId": 262, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "Heavy +10% (Aladdin+ stages)", 
+        "effectType": 6, 
+        "releaseLevel": 13, 
+        "characterAbilityMstId": 4177, 
+        "skillType": 2, 
+        "effectValue": 10, 
+        "characterMstId": 184, 
+        "cardDetailType": 6
+    }, 
+    {
+        "name": "P.ATK +400", 
+        "effectType": 2, 
+        "releaseLevel": 14, 
+        "characterAbilityMstId": 4178, 
+        "skillType": 1, 
+        "effectValue": 400, 
+        "characterMstId": 184, 
         "cardDetailType": 6
     }, 
     {

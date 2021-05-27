@@ -19581,7 +19581,7 @@
         "typeLabel": "Single Enemy", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great P.DMG to 1 enemy,\\nadding 5 hits to your combo during a combo chance."
+        "description": "Deals great P.DMG to 1 enemy, adding 5 hits to your combo during a combo chance."
     }, 
     {
         "category": 1, 
@@ -19598,7 +19598,7 @@
         "typeLabel": "Multiple Allies/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Greatly restores HP to 1 to 2 allies and\\nslightly increases ally's P.ATK. "
+        "description": "Greatly restores HP to 1 to 2 allies and slightly increases ally's P.ATK."
     }, 
     {
         "category": 4, 
@@ -19615,7 +19615,7 @@
         "typeLabel": "Single Enemy", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Deals great P.DMG to 1 enemy,\\nadding 5 hits to your combo during a combo chance."
+        "description": "Deals great P.DMG to 1 enemy, adding 5 hits to your combo during a combo chance."
     }, 
     {
         "category": 4, 
@@ -19632,7 +19632,7 @@
         "typeLabel": "Multiple Allies/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Greatly restores HP to 1 to 2 allies and\\nslightly increases ally's P.ATK. "
+        "description": "Greatly restores HP to 1 to 2 allies and slightly increases ally's P.ATK."
     }, 
     {
         "category": 1, 
@@ -24447,6 +24447,23 @@
     }, 
     {
         "category": 1, 
+        "sp": 25, 
+        "name": "Gospel of Charity (III)", 
+        "type": 36, 
+        "attackEffect": 0, 
+        "primaryIcon": 3, 
+        "skillMstId": 3333, 
+        "rangeIcon": 2, 
+        "secondaryIcon": 0, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Multiple Allies/Self", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Greatly restores HP to 1 to 3 allies."
+    }, 
+    {
+        "category": 1, 
         "sp": 26, 
         "name": "Breath of Assault (II)", 
         "type": 37, 
@@ -25399,6 +25416,23 @@
     }, 
     {
         "category": 4, 
+        "sp": 25, 
+        "name": "Gospel of Charity (III)", 
+        "type": 36, 
+        "attackEffect": 0, 
+        "primaryIcon": 3, 
+        "skillMstId": 3424, 
+        "rangeIcon": 2, 
+        "secondaryIcon": 0, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Multiple Allies/Self", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Greatly restores HP to 1 to 3 allies."
+    }, 
+    {
+        "category": 4, 
         "sp": 26, 
         "name": "Breath of Assault (II)", 
         "type": 37, 
@@ -25514,7 +25548,7 @@
         "typeLabel": "Multiple Allies/Self", 
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
-        "description": "Greatly restores HP to 1 to 2 allies.\\nSlightly increases ally's P.DEF. "
+        "description": "Greatly restores HP to 1 to 2 allies.\\nSlightly increases ally's P.DEF."
     }, 
     {
         "category": 4, 
@@ -27283,6 +27317,40 @@
         "maxLevel": 15, 
         "autoSkillPercentageType": 0, 
         "description": "Deals great M.DMG to 1 or 2 enemies.\\nIncreases effectiveness when ally activates the summon skill \"For Whom The Bell Splashes\"."
+    }, 
+    {
+        "category": 1, 
+        "sp": 24, 
+        "name": "Storm Fang (III)", 
+        "type": 555, 
+        "attackEffect": 0, 
+        "primaryIcon": 1, 
+        "skillMstId": 3863, 
+        "rangeIcon": 2, 
+        "secondaryIcon": 28, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Multiple Enemies", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great P.DMG to 1 to 2 enemies.\\nIncreases effectiveness when ally activates the summon skill \"The Bell Sounds a Storm\"."
+    }, 
+    {
+        "category": 4, 
+        "sp": 24, 
+        "name": "Storm Fang (III)", 
+        "type": 555, 
+        "attackEffect": 0, 
+        "primaryIcon": 1, 
+        "skillMstId": 3864, 
+        "rangeIcon": 2, 
+        "secondaryIcon": 28, 
+        "resourceName": "", 
+        "setEffectSeriesId": 0, 
+        "typeLabel": "Multiple Enemies", 
+        "maxLevel": 15, 
+        "autoSkillPercentageType": 0, 
+        "description": "Deals great P.DMG to 1 to 2 enemies.\\nIncreases effectiveness when ally activates the summon skill \"The Bell Sounds a Storm\"."
     }, 
     {
         "category": 3, 

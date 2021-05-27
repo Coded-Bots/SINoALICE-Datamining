@@ -250,5 +250,17 @@
         "startTime": 1619413200, 
         "missionTitleMstId": 900016, 
         "title": "End of Month Global Daily Missions"
+    }, 
+    {
+        "endTime": 1622955599, 
+        "startTime": 1622869200, 
+        "missionTitleMstId": 900017, 
+        "title": "End of Month Global Missions"
+    }, 
+    {
+        "endTime": 1623041999, 
+        "startTime": 1622437200, 
+        "missionTitleMstId": 900018, 
+        "title": "End of Month Global Daily Missions"
     }
 ]
